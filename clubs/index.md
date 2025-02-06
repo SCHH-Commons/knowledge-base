@@ -2,7 +2,7 @@
 
 source: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
 
-- Cards & Games Clubs
+- [Cards & Games Clubs](#cards--games-clubs)
   - Bid Whist Club
   - Canasta Club
   - Contract Bridge Club
@@ -14,7 +14,7 @@ source: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
   - Mah Jongg
   - Pinochle Club
   - Rummikub-Qwirkle
-- Hobbies Clubs
+- [Hobbies Clubs](#hobbies-clubs)
   - All About Art
   - Amateur Radio Club
   - Avant Gardeners
@@ -35,7 +35,7 @@ source: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
   - Stamp Collectors Club
   - Sun City Bird Club
   - Woodworkers & Modelmakers Guild
-- General Interest Clubs
+- [General Interest Clubs](#general-interest-clubs)
   - Bible Study Club
   - Boat & RV Club
   - Car Club
@@ -53,7 +53,7 @@ source: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
   - Sun City Veterans Association
   - Town Square Upbeats
   - Travel Club of Sun City
-- Performing Arts Clubs
+- [Performing Arts Clubs](#performing-arts-clubs)
   - Ballroom Dance Club
   - Line Dance Club
   - Music Guild
@@ -62,7 +62,7 @@ source: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
   - Sun City Squares
   - Sundancers
   - Synchronettes Club
-- Sports Clubs
+- [Sports Clubs](#sports-clubs)
   - Bicycle Club
   - Billiard Club
   - Bocce Club
@@ -216,6 +216,8 @@ Unless indicated otherwise, all meetings are at Hidden Cypress in the Santee Riv
 ### Computer Club
 
 We are much more than computers. We are about communications and technology, using smartphones, tablets and social media. We teach how to USE this technology with applications to stay connected, entertain and learn. Explore your heritage, view the universe or something closer to home, like your new computer, iPad, tablet, digital TV or smartphone.
+
+[more...](computer-club)
 
 ### Glasscrafters Club
 

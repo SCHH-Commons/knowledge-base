@@ -6,6 +6,13 @@ The Computer Club Hour (CCH) is open to ALL Computer Club members.  The Computer
 
 We hope you will take advantage of these interesting topics and join us.
 
+## Registration Fee & Cancellation Policy
+
+- All classes are held in the Computer Club Classroom unless otherwise stated.
+- Registration for the classes will close when the maximum of attendees is met or three days prior to the date of the class.
+- The Education program charges a registration fee of $5.00 per class session.  This registration fee will be charged to your Community Association Account (CAM) as we do not accept checks or cash.  If a class is canceled by the instructor, your Community Association Account will not be charged.
+- We are not able to Cancel a registration fee for a class under any other circumstance.  However, if you are unable to attend a class, you may have another member attend in your place. When checking into the class, let the person taking your place know to give your name along with their own to the Class Assistant (CA).  She/he should then provide his/her name and email address to the CA.
+
 ## iPhone: A Review of Essential Settings & Favorite Apps
 Date & Time: Thursday, January 30th, 1-3 PM  
 Instructor:  Mark Davis  
@@ -122,10 +129,3 @@ Description: Class: Setting up your Watch Face, understanding Complications, usi
 Requirements: An Apple Watch 6 or later (including the SE) and an iPhone running the latest operating systems, iOS 18.0 or Newer (XR or Newer including SE Gen 2 or SE Gen 3).
 How to find your iPhone's Operating System (iOS): On your iPhone go to Settings -> General -> Software Update "Click" to "Open". Wait a moment and your iOS Version will appear. If not iOS 18.0 or newer "Click" on "Update" and follow the instructions. It can take 25 minutes or more to finish the update.  If your iOS is 16 or lower this class isn't compatible with your iPhone & Apple Watch.  Click on the following link to register: https://docs.google.com/forms/d/e/1FAIpQLScutEg3tbKovDQzO9yIwigEw1OMPwo1jbYU-zl5WRkcwg9rSg/viewform?usp=sharing
 
-
-# Registration Fee & Cancellation Policy
-
-- All classes are held in the Computer Club Classroom unless otherwise stated.
-- Registration for the classes will close when the maximum of attendees is met or three days prior to the date of the class.
-- The Education program charges a registration fee of $5.00 per class session.  This registration fee will be charged to your Community Association Account (CAM) as we do not accept checks or cash.  If a class is canceled by the instructor, your Community Association Account will not be charged.
-- We are not able to Cancel a registration fee for a class under any other circumstance.  However, if you are unable to attend a class, you may have another member attend in your place. When checking into the class, let the person taking your place know to give your name along with their own to the Class Assistant (CA).  She/he should then provide his/her name and email address to the CA.

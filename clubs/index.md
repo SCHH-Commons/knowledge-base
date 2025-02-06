@@ -26,7 +26,7 @@ source: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
   - Book Club, Chapter V
   - Ceramics Club
   - Coin Club of Sun City
-  - Computer Club
+  - [Computer Club](#computer-club)
   - Glasscrafters Club
   - Karaoke Club
   - Okatie Farmers Club
@@ -159,7 +159,7 @@ Two different fun, competitive and social games open to all Sun City residents.
 - Book Club, Chapter V
 - Ceramics Club
 - Coin Club of Sun City
-- Computer Club
+- [Computer Club](#computer-club)
 - Glasscrafters Club
 - Karaoke Club
 - Okatie Farmers Club
@@ -217,7 +217,7 @@ Unless indicated otherwise, all meetings are at Hidden Cypress in the Santee Riv
 
 We are much more than computers. We are about communications and technology, using smartphones, tablets and social media. We teach how to USE this technology with applications to stay connected, entertain and learn. Explore your heritage, view the universe or something closer to home, like your new computer, iPad, tablet, digital TV or smartphone.
 
-[more...](computer-club)
+[more](computer-club)
 
 ### Glasscrafters Club
 

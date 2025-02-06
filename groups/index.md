@@ -1,6 +1,5 @@
 # Registered Community Groups
   
-
 [100+ SC Women Who Care](https://suncityhiltonhead.org/GroupPage/46134~2515)
 
 [AARP Tax Aide Program](https://suncityhiltonhead.org/GroupPage/46134~2592)

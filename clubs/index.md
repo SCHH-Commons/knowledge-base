@@ -415,6 +415,8 @@ The Sun City Billiard Club meets in the Billiard Room of the Yemassee Craft Cent
 
 Our club is currently one of the larger in Sun City with over 1800 members and 49 Neighborhood and Group leagues.  Residents may reserve court time through the Chelsea system.  To register, please call the Logo Building at 843-705-4034.  A daily schedule is posted at the Bocce courts and is available online through the Chelsea system. Community bocce equipment for residents and guests is kept in an unlocked storage tote located near the picnic table at the courts.  
 
+[more](bocce-club)
+
 ### Couples Golf
 
 Sun City Couples Golf is a group dedicated to fun and social interaction mixed in with golf competition.

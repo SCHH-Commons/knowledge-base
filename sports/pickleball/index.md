@@ -1,0 +1,3 @@
+# Pickleball
+
+- [Lottery](lottery.md)

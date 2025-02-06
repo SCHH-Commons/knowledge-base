@@ -1,5 +1,4 @@
-Friends of Lifelong Learning
-----------------------------
+# Friends of Lifelong Learning
 
 Our mission is to establish and cultivate a community of lifelong learners by engaging with local learning resources. We believe that lifelong learning is essential for our well-being and personal growth, and we encourage everyone in Sun City to take advantage of the local learning opportunities available to them. Our group aims to provide access to these resources for our members in Sun City. 
 

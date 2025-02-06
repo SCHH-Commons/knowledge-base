@@ -1,13 +1,4 @@
-Registered Community Groups
-
-  
-
-[Back to Clubs & Groups Page](https://suncityhiltonhead.org/page/46134~967997/Clubs-Groups)
-
-  
-
-#### Browse through a selection of Registered Community Groups. Please login to view each group's full web page.
-
+# Registered Community Groups
   
 
 [100+ SC Women Who Care](https://suncityhiltonhead.org/GroupPage/46134~2515)

@@ -1,6 +1,5 @@
 
-- [Chartered Clubs](clubs)
-- [Community Groups](groups)
+- [Chartered Clubs and Registered Community Groups](clubs-and-groups)
 - [Design Guidelines](design-guidelines)
 - [Events](events)
 - [General](general)

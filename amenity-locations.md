@@ -91,6 +91,7 @@ Woodworkers' Shop: 841 Red Dam Road
 Yemassee Crafts Center: 132 Del Webb Blvd.
 
 Click here for the Amenity Hours of Operations.   
-[Click here](https://suncityhiltonhead.org/Page/46134~991562/Fitness-Centers-Pools) to access the Fitness Centers & Pools page.   
+[Click here](https://suncityhiltonhead.org/Page/46134~991562/Fitness-Centers-Pools) to access the Fitness Centers & Pools page. 
+  
 Click here for a Map of the Amenities.  
 [Click here](https://suncityhiltonhead.org/page/46134~971051/Membership-Announcements) to access Membership Announcements for the latest building closures.

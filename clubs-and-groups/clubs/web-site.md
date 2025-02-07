@@ -1,4 +1,4 @@
-# Sun City Hilton Chartered Clubs
+# Sun City Hilton Head Chartered Clubs
 
 source: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
 

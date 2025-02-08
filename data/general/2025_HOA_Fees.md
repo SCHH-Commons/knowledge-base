@@ -1,3 +1,5 @@
+source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopy?doc_id=2994591&view=1
+
 # 2025 HOA Fees
 
 ## Community Association Assessment and Fees 2025

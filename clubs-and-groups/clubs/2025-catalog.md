@@ -1,6 +1,8 @@
-# CARDS AND GAMES
+# CHARTERED CLUBS
 
-## BID WHIST CLUB
+## CARDS AND GAMES CLUBS
+
+### BID WHIST CLUB
 **Al Phillip, president**  
 (862) 216-4330  
 [alphillip@usa.net](mailto:alphillip@usa.net)  
@@ -20,7 +22,7 @@ Meetings are Tuesdays from 1–4 p.m. and Thursdays from 9 a.m.–noon at the Ye
 
 ---
 
-## CANASTA CLUB
+### CANASTA CLUB
 **Karen Vito, president**  
 (631) 786-6703  
 [sunlovr22@aol.com](mailto:sunlovr22@aol.com)  
@@ -40,7 +42,7 @@ The Canasta Club meets Thursdays and Sundays from 12:30–4 p.m. in the Yemassee
 
 ---
 
-## CONTRACT BRIDGE CLUB
+### CONTRACT BRIDGE CLUB
 **Lucia Crosby, president**  
 [crosbylucia@gmail.com](mailto:crosbylucia@gmail.com)  
 
@@ -58,7 +60,7 @@ All games are played on Tuesdays at 12:45 p.m., Wednesdays at 8:30 a.m., Thursda
 
 ---
 
-## CRIBBAGE CLUB
+### CRIBBAGE CLUB
 **Phil Hughes, president**  
 384-7107  
 [philhughes101@comcast.net](mailto:philhughes101@comcast.net)  
@@ -75,12 +77,12 @@ The Cribbage Club encourages players to test their skills in a friendly atmosphe
 
 ---
 
-## DOMINOES CLUB
+### DOMINOES CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2524)
 
 ---
 
-## DUPLICATE BRIDGE CLUB OKATIE CREEK
+### DUPLICATE BRIDGE CLUB OKATIE CREEK
 **Muriel Murphy, president**  
 (206) 355-7442  
 [murielsjoberg@gmail.com](mailto:murielsjoberg@gmail.com)  
@@ -103,12 +105,12 @@ Hands are pre-dealt. Results and analysis are posted on the website following ga
 
 ---
 
-## EUCHRE CLUB
+### EUCHRE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2525)
 
 ---
 
-## GIN RUMMY CLUB
+### GIN RUMMY CLUB
 **David Carey, president**  
 (570) 574-0535  
 [dicarey@epix.net](mailto:dicarey@epix.net)  
@@ -121,7 +123,7 @@ Hands are pre-dealt. Results and analysis are posted on the website following ga
 
 ---
 
-## HEARTS CLUB
+### HEARTS CLUB
 **Marvin Jones, president**  
 707-1690  
 [sadiefrancie@yahoo.com](mailto:sadiefrancie@yahoo.com)  
@@ -134,7 +136,7 @@ Hands are pre-dealt. Results and analysis are posted on the website following ga
 
 ---
 
-## MAH JONGG
+### MAH JONGG
 **Janice Czvornyek, president**  
 (856) 287-2677  
 [jczvornyek@gmail.com](mailto:jczvornyek@gmail.com)  
@@ -158,7 +160,7 @@ Our Meet and Greet SIG meets on Fridays only from 12:30–3:30 p.m. Contact Bonn
 
 ---
 
-## PINOCHLE CLUB
+### PINOCHLE CLUB
 **Norma Kelly, president**  
 (908) 256-6041  
 [normajean@sc.rr.com](mailto:normajean@sc.rr.com)  
@@ -175,7 +177,7 @@ Pinochle Club meets on Wednesdays and Sundays at 6 p.m., but many come as early 
 
 ---
 
-## RUMMIKUB-QWIRKLE CLUB
+### RUMMIKUB-QWIRKLE CLUB
 **Carol Anson, president**  
 (330) 727-9838  
 [carolatcoldwell@aol.com](mailto:carolatcoldwell@aol.com)  
@@ -198,9 +200,9 @@ We meet:
 Rummikub is a rummy-like game with tiles numbered one to 13 that are played in sets or runs. These can be rearranged as the game continues. Qwirkle is a game using squares of six colors and six shapes. You can’t use duplicate tiles in the same row. Come join us in playing either or both games. We provide the games.
 
 
-# HOBBIES
+## HOBBIES CLUBS
 
-## ALL ABOUT ART
+### ALL ABOUT ART
 [suncityallaboutart@gmail.com](mailto:suncityallaboutart@gmail.com)  
 
 **Patti Rozonkiewiecz, president**  
@@ -224,7 +226,7 @@ As a member, you can display your art in the studio, and if you would like, you 
 
 ---
 
-## AMATEUR RADIO CLUB
+### AMATEUR RADIO CLUB
 **Daryl Borgman, WB1DXN, president**  
 (603) 491-8920  
 [wb1dxn2001@yahoo.com](mailto:wb1dxn2001@yahoo.com)  
@@ -244,7 +246,7 @@ The Amateur Radio Club invites all members of the community who are licensed ama
 
 ---
 
-## AVANT GARDENERS
+### AVANT GARDENERS
 **Barbara Radvillas, president**  
 (630) 234-3719  
 [schhagclub@gmail.com](mailto:schhagclub@gmail.com)  
@@ -264,7 +266,7 @@ The club meets September through May and promotes horticultural interests in the
 
 ---
 
-## BON APPÉTIT COOKING CLUB
+### BON APPÉTIT COOKING CLUB
 **Sherry Boyer, president**  
 (610) 223-3916  
 [dvcsherry4@aol.com](mailto:dvcsherry4@aol.com)  
@@ -284,19 +286,19 @@ Do you like food? Make food? Eat food? We are the club for you! Learn about diff
 
 ---
 
-## BOOK CLUBS
+### BOOK CLUBS
 
-### BOOK CLUB, CHAPTER I
+#### BOOK CLUB, CHAPTER I
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2537)  
 
 ---
 
-### BOOK CLUB, CHAPTER II
+#### BOOK CLUB, CHAPTER II
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2728)  
 
 ---
 
-### BOOK CLUB, CHAPTER III
+#### BOOK CLUB, CHAPTER III
 **Lori Anthony, president**  
 707-1648  
 [atterol2@aol.com](mailto:atterol2@aol.com)  
@@ -316,7 +318,7 @@ We meet the third Wednesday of each month at 1 p.m. in the Hidden Cypress, New R
 
 ---
 
-### BOOK CLUB, CHAPTER IV
+#### BOOK CLUB, CHAPTER IV
 **Phyllis Bloch, president**  
 [phyllisbloch12@gmail.com](mailto:phyllisbloch12@gmail.com)  
 
@@ -334,12 +336,12 @@ We meet the first Thursday of the month at 2 p.m. in the Hidden Cypress, New Riv
 
 ---
 
-### BOOK CLUB, CHAPTER V
+#### BOOK CLUB, CHAPTER V
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2731)
 
 ---
 
-## CERAMICS CLUB
+### CERAMICS CLUB
 **Carie Bovill, president**  
 812-5580  
 [cariebovill@gmail.com](mailto:cariebovill@gmail.com)  
@@ -357,7 +359,7 @@ Checks made payable to Sun City Coin Club should be given to the club treasurer.
 
 ---
 
-## COIN CLUB OF SUN CITY
+### COIN CLUB OF SUN CITY
 **Sharon McFetridge, president**  
 (910) 988-8140  
 [sharon.mcfetridge@gmail.com](mailto:sharon.mcfetridge@gmail.com)  
@@ -377,7 +379,7 @@ The club celebrates its 20th anniversary this year. We have 91 members. Meetings
 
 ---
 
-## COMPUTER CLUB
+### COMPUTER CLUB
 **Sherry Conrad, president**  
 [suncityhhecpresident@gmail.com](mailto:suncityhhecpresident@gmail.com)  
 
@@ -395,7 +397,7 @@ Our website is where you will find information about our club. An important item
 
 ---
 
-## GLASSCRAFTERS CLUB
+### GLASSCRAFTERS CLUB
 **Nancy Rast, president**  
 [nmrast@gmail.com](mailto:nmrast@gmail.com)  
 
@@ -413,12 +415,12 @@ We teach the art of stained glass for beginners as well as seasoned artists. We 
 
 ---
 
-## KARAOKE CLUB
+### KARAOKE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2542)
 
 ---
 
-## OKATIE FARMERS CLUB
+### OKATIE FARMERS CLUB
 **Glen Carnrick, president**  
 705-6456  
 [okatiefarmersclub@hotmail.com](mailto:okatiefarmersclub@hotmail.com)  
@@ -434,7 +436,7 @@ Okatie Farmers Club is dedicated to the cultivation of vegetables, herbs, and ma
 
 ---
 
-## PHOTOGRAPHY CLUB
+### PHOTOGRAPHY CLUB
 **Stanley Holz, president**  
 (603) 991-7799  
 [saholz@icloud.com](mailto:saholz@icloud.com)  
@@ -453,7 +455,7 @@ The Photography Club is a club of over 400 photography enthusiasts who seek to i
 
 ---
 
-## SEW WHAT STITCHES & CRAFTS CLUB
+### SEW WHAT STITCHES & CRAFTS CLUB
 **Brenda Struk, president**  
 [sewwhatclubpresident@gmail.com](mailto:sewwhatclubpresident@gmail.com)  
 
@@ -468,17 +470,17 @@ Our club has several SIGs. Our newest is the Cricut SIG! Others include Beading,
 
 ---
 
-## STAMP COLLECTORS CLUB
+### STAMP COLLECTORS CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2793)
 
 ---
 
-## SUN CITY BIRD CLUB
+### SUN CITY BIRD CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2535)
 
 ---
 
-## WOODWORKERS & MODELMAKERS GUILD
+### WOODWORKERS & MODELMAKERS GUILD
 **Bob Bass, president**  
 [bbass.schhwwg@gmail.com](mailto:bbass.schhwwg@gmail.com)  
 
@@ -495,9 +497,9 @@ Obtain information on becoming a new member from the Guild office or on our webs
 The Guild has over 950 members with 26 percent women. The Guild provides safe operating instructions to all new members. Our 9,000-square-foot facility contains state-of-the-art equipment and tools. We provide many services for residents and clubs, including mailbox repair and replacement, furniture repair, many wood products for sale, and the creation of special projects. Residents and guests are welcome to tour the facility. The Guild also has five SIGs: railroad, carving, woodturning, WoodChicks, and new technology (Laser, CNC, 3D Printing). Shop hours are Monday, Wednesday, and Friday from 9 a.m.–5 p.m., and Saturday from 10 a.m.–4 p.m.
 
 
-# GENERAL INTEREST
+## GENERAL INTEREST CLUBS
 
-## BIBLE STUDY CLUB
+### BIBLE STUDY CLUB
 **Helen Phillips, secretary (Wed.)**  
 (864) 219-0412  
 [jandhphillips1@twe.com](mailto:jandhphillips1@twe.com)  
@@ -524,7 +526,7 @@ We welcome visitors and invite you to join us for fellowship and the study of Go
 
 ---
 
-## BOAT & RV CLUB
+### BOAT & RV CLUB
 **Fred Horan, president**  
 (508) 322-8156  
 [fhoran@ymail.com](mailto:fhoran@ymail.com)  
@@ -544,7 +546,7 @@ Our club brings together boaters and RVers of all experience levels, meeting mon
 
 ---
 
-## CAR CLUB
+### CAR CLUB
 **Dale Lucht, president**  
 (484) 225-1564  
 [dalelucht@gmail.com](mailto:dalelucht@gmail.com)  
@@ -564,7 +566,7 @@ All residents are invited to join one of the most active clubs in Sun City. Our 
 
 ---
 
-## DOG AND PET LOVERS CLUB
+### DOG AND PET LOVERS CLUB
 **Robin Bloom, president**  
 (703) 343-5871  
 [robinneedleman@yahoo.com](mailto:robinneedleman@yahoo.com)  
@@ -584,7 +586,7 @@ Our charter is to promote responsible pet ownership, good pet behavior, and dog 
 
 ---
 
-## EAT SMART, LIVE LONGER
+### EAT SMART, LIVE LONGER
 **Maria Stevens, president**  
 (920) 857-6649  
 [mariastevens08@yahoo.com](mailto:mariastevens08@yahoo.com)  
@@ -604,12 +606,12 @@ The Eat Smart, Live Longer (ESLL) club is the largest whole food plant-based clu
 
 ---
 
-## LUNCHEON CLUB I
+### LUNCHEON CLUB I
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2555)
 
 ---
 
-## LUNCHEON CLUB III
+### LUNCHEON CLUB III
 **Kathi Blakey, president**  
 [kathi.blakey@gmail.com](mailto:kathi.blakey@gmail.com)  
 
@@ -627,7 +629,7 @@ Luncheon Club III meets the second Wednesday of the months September through Jun
 
 ---
 
-## MONEY TALKS CLUB
+### MONEY TALKS CLUB
 **Greg Blackburn, president**  
 (410) 507-6098  
 [blackburng45@gmail.com](mailto:blackburng45@gmail.com)  
@@ -647,7 +649,7 @@ The purpose of Money Talks Club (MTC) shall be to provide a non-partisan, fact-b
 
 ---
 
-## THE QI CLUB
+### THE QI CLUB
 **Cathy Smith, president**  
 [cms2518.cs7@gmail.com](mailto:cms2518.cs7@gmail.com)  
 
@@ -670,7 +672,7 @@ Sessions at Lake Somerset move to 10 a.m. on November 1.
 
 ---
 
-## ROADRUNNERS MOTORCYCLE CLUB
+### ROADRUNNERS MOTORCYCLE CLUB
 **Joe Albert, president**  
 (508) 889-9872  
 [joehd942@gmail.com](mailto:joehd942@gmail.com)  
@@ -690,7 +692,7 @@ The Roadrunners meet on the second Monday of each month at 5:30 p.m. at Riverben
 
 ---
 
-## SHALOM CLUB OF SUN CITY
+### SHALOM CLUB OF SUN CITY
 **Mitch Sacks, president**  
 [ump25@earthlink.net](mailto:ump25@earthlink.net)  
 (513) 313-0014  
@@ -713,7 +715,7 @@ We invite you to come to one of our programs to see what we are all about.
 
 ---
 
-## SOLOS OF SUN CITY
+### SOLOS OF SUN CITY
 **Michele Murphy, president**  
 (612) 860-6456  
 [michele.murphy4@icloud.com](mailto:michele.murphy4@icloud.com)  
@@ -734,7 +736,7 @@ Solos is a Sun City social club for Singles. Our goal is to bring singles togeth
 
 ---
 
-## SUN CITY BOOK EXCHANGE
+### SUN CITY BOOK EXCHANGE
 **Sandy Holz, president**  
 707-9631  
 [sandyholz117@gmail.com](mailto:sandyholz117@gmail.com)  
@@ -758,7 +760,7 @@ It has hundreds of books, audiobooks, videos, and puzzles available to and donat
 
 ---
 
-## SUN CITY ENVIRONMENTAL CLUB
+### SUN CITY ENVIRONMENTAL CLUB
 **Bob Donelson, president**  
 (303) 502-4243  
 
@@ -773,7 +775,7 @@ The club’s mission is to research, educate, and promote actions that individua
 
 ---
 
-## SUN CITY VETERANS ASSOCIATION
+### SUN CITY VETERANS ASSOCIATION
 **Dale Dietz, commander**  
 (414) 944-4134  
 [cdr.scva@gmail.com](mailto:cdr.scva@gmail.com)  
@@ -793,7 +795,7 @@ We are an organization of veterans and patriots offering social, philanthropic a
 
 ---
 
-## TOWN SQUARE UPBEATS
+### TOWN SQUARE UPBEATS
 **Debi Boccanfuso, president**  
 (203) 984-7879  
 [debibo330@gmail.com](mailto:debibo330@gmail.com)  
@@ -816,7 +818,7 @@ Weekly goodwill offerings and proceeds from fundraising activities held througho
 
 ---
 
-## TRAVEL CLUB OF SUN CITY HILTON HEAD
+### TRAVEL CLUB OF SUN CITY HILTON HEAD
 **Dianne Brooks, president**  
 [dgbrooks922@gmail.com](mailto:dgbrooks922@gmail.com)  
 
@@ -833,19 +835,19 @@ Applications must be made online using the 2025 Membership Application form foun
 Join the Travel Club and unlock a world of exploration! Monthly general meetings feature engaging speakers sharing their U.S. and international travel experiences, alongside valuable tips on flying, packing, and more. The *Frequent Flier*, our informative publication, is packed with details on tips, events, and SIG details. Attend a Solo Travelers SIG meeting, a group fostering friendships for individuals who prefer not to travel alone. Experience our WEGO SIG, monthly meetings, and online lists focused on local places to explore, things to do, and special events. Visit the Travel Club’s website to learn about meeting dates and times.
 
 
-# PERFORMING ARTS
+## PERFORMING ARTS CLUBS
 
-## BALLROOM DANCE CLUB
+### BALLROOM DANCE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2565)
 
 ---
 
-## LINE DANCE CLUB
+### LINE DANCE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2566)
 
 ---
 
-## MUSIC GUILD
+### MUSIC GUILD
 **Ruben Ariola, president**  
 (908) 447-4435  
 [rubariola@gmail.com](mailto:rubariola@gmail.com)  
@@ -873,7 +875,7 @@ MIGs perform at Sun City and local events, as well as in local senior and nursin
 
 ---
 
-## SUN CITY SQUARES
+### SUN CITY SQUARES
 **Ken Kiurski, president**  
 [kkkiurski@gmail.com](mailto:kkkiurski@gmail.com)  
 
@@ -899,7 +901,7 @@ For details:
 
 ---
 
-## SUN CITY THEATRE
+### SUN CITY THEATRE
 **Jim Clelland, president**  
 [president.scct@gmail.com](mailto:president.scct@gmail.com)  
 
@@ -917,7 +919,7 @@ Sun City Theatre (SCT) has been entertaining residents of the community and surr
 
 ---
 
-## SUNDANCERS
+### SUNDANCERS
 **Laurie Rotondo, president**  
 (860) 803-4424  
 [lrotondo1929@gmail.com](mailto:lrotondo1929@gmail.com)  
@@ -937,7 +939,7 @@ The Sundancer club offers performing and non-performing classes in jazz, musical
 
 ---
 
-## SYNCHRONETTES CLUB
+### SYNCHRONETTES CLUB
 **Alane Peragallo, president**  
 (703) 969-8809  
 [alanegary@comcast.net](mailto:alanegary@comcast.net)  
@@ -960,19 +962,19 @@ If you have been looking for an excuse to "get wet," we are a unique group of pe
 Location: Purrysburg Fitness Center indoor pool. The Synchronettes perform a show for the residents every February. Each year we have a new theme with new songs. Our club members create the choreography.
 
 
-# SPORTS
+## SPORTS CLUBS
 
-## BICYCLE CLUB
+### BICYCLE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2572)
 
 ---
 
-## BILLIARD CLUB
+### BILLIARD CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2573)
 
 ---
 
-## BOCCE CLUB
+### BOCCE CLUB
 **Roy Powers, president**  
 707-9186  
 [roypowers42@gmail.com](mailto:roypowers42@gmail.com)  
@@ -994,7 +996,7 @@ Community bocce equipment for residents is kept in an unlocked storage tote loca
 
 ---
 
-## COUPLES GOLF
+### COUPLES GOLF
 **Trish Brown, president**  
 (734) 716-2770  
 [tbrown9541@gmail.com](mailto:tbrown9541@gmail.com)  
@@ -1014,7 +1016,7 @@ Couples Golf is a great way to meet couples who enjoy the game. We get together 
 
 ---
 
-## CROQUET CLUB
+### CROQUET CLUB
 **Judy Murray, president**  
 [judy.murray0707@gmail.com](mailto:judy.murray0707@gmail.com)  
 
@@ -1032,7 +1034,7 @@ The croquet lawns are located at Town Square and are open every day except Monda
 
 ---
 
-## FISHING & HUNTING CLUB
+### FISHING & HUNTING CLUB
 **Joe Albert, president**  
 (508) 889-9872  
 [joehd942@gmail.com](mailto:joehd942@gmail.com)  
@@ -1052,7 +1054,7 @@ Looking for fun in fishing? Monthly meetings are usually the first Monday of the
 
 ---
 
-## HORSESHOE CLUB
+### HORSESHOE CLUB
 **Bill Wilkey, president**  
 (847) 971-8533  
 [bill_wilkey@yahoo.com](mailto:bill_wilkey@yahoo.com)  
@@ -1066,12 +1068,12 @@ Looking for fun in fishing? Monthly meetings are usually the first Monday of the
 
 ---
 
-## KAYAK CLUB OF SUN CITY
+### KAYAK CLUB OF SUN CITY
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2579)
 
 ---
 
-## MEN'S NINE HOLE GOLF CLUB
+### MEN'S NINE HOLE GOLF CLUB
 **Jim Chapman, president**  
 707-7363  
 
@@ -1087,7 +1089,7 @@ Our club offers an opportunity for men who enjoy playing nine holes of golf to p
 
 ---
 
-## MEN'S 18 HOLE GOLF ASSOCIATION
+### MEN'S 18 HOLE GOLF ASSOCIATION
 **Andrew Rotunno, membership director**  
 [schh.mga18.membership@gmail.com](mailto:schh.mga18.membership@gmail.com)  
 
@@ -1105,7 +1107,7 @@ The MGA is a men’s 18-hole golf group that provides golf opportunities for Sun
 
 ---
 
-## PICKLEBALL CLUB
+### PICKLEBALL CLUB
 **Rick Wright, president**  
 (770) 654-7587  
 [rwright8444@gmail.com](mailto:rwright8444@gmail.com)  
@@ -1124,7 +1126,7 @@ All courts are available to Sun City residents from 7 a.m.–10 p.m. Residents m
 
 ---
 
-## SCHH GOLF CLUB
+### SCHH GOLF CLUB
 **Steve Courcy, president**  
 (508) 878-9579  
 
@@ -1137,7 +1139,7 @@ SCHH Golf Club’s mission is to promote the enjoyment of golf in Sun City and t
 
 ---
 
-## SILVER STRIDERS
+### SILVER STRIDERS
 **Phil Perine, vice president (walkers)**  
 702-491-5260  
 [phil@perine.net](mailto:phil@perine.net)  
@@ -1157,22 +1159,22 @@ The purpose of Silver Striders club is to improve health, meet new people, and b
 
 ---
 
-## SOFTBALL CLUB
+### SOFTBALL CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2585)
 
 ---
 
-## SUN CITY SWIM CLUB
+### SUN CITY SWIM CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2586)
 
 ---
 
-## SUN CITY TENNIS ASSOCIATION
+### SUN CITY TENNIS ASSOCIATION
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2588)
 
 ---
 
-## TABLE TENNIS CLUB
+### TABLE TENNIS CLUB
 **Dan Constanza, president**  
 (585) 703-2170  
 [dwconstanza@outlook.com](mailto:dwconstanza@outlook.com)  
@@ -1192,7 +1194,7 @@ The Table Tennis Club offers a friendly atmosphere for fun and/or competitive ga
 
 ---
 
-## VOLLEYBALL CLUB
+### VOLLEYBALL CLUB
 **Brian Delaurentis, president**  
 (631) 379-2957  
 [dinovb@aol.com](mailto:dinovb@aol.com)  
@@ -1217,7 +1219,7 @@ New players and guests are always welcome!
 
 ---
 
-## WOMEN’S 9 HOLE GOLF CLUB
+### WOMEN’S 9 HOLE GOLF CLUB
 **Bebe Blount, president**  
 (828) 553-6086  
 [bebeblount@live.com](mailto:bebeblount@live.com)  
@@ -1239,7 +1241,7 @@ While we welcome all levels of skill, members are required to have an active GHI
 
 ---
 
-## WOMEN’S GOLF ASSOCIATION
+### WOMEN’S GOLF ASSOCIATION
 **Stephanie Abbott, president**  
 (858) 231-5745  
 [wagmore921@gmail.com](mailto:wagmore921@gmail.com)  

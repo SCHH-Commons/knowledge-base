@@ -10,6 +10,7 @@ logger.setLevel(logging.WARNING)
 import argparse, json, os, re, sys
 import hashlib
 from typing import List
+from slugify import slugify
 
 from langchain_text_splitters import MarkdownHeaderTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
@@ -41,10 +42,16 @@ def upsert_data_to_pinecone(data_with_metadata: list[dict[str, any]], index_name
   index.upsert(vectors=data_with_metadata)
 
 def chunk_markdown(markdown, source):
-  docs = MarkdownHeaderTextSplitter(
-    headers_to_split_on = [ ('#', 'Header 1'), ('##', 'Header 2'), ('###', 'Header 3') ], 
-    strip_headers=False
-  ).split_text(markdown)
+  headerLists = [
+    [ ('#', 'Header 1'), ('##', 'Header 2'), ('###', 'Header 3') ],
+    [ ('#', 'Header 1'), ('##', 'Header 2') ]
+  ]
+  docs = []
+  for headers_to_split_on in headerLists:
+    docs += MarkdownHeaderTextSplitter(
+      headers_to_split_on = headers_to_split_on, 
+      strip_headers=False
+    ).split_text(markdown)
   
   # Char-level splits
   docs = RecursiveCharacterTextSplitter(
@@ -96,25 +103,26 @@ def load(path, dryrun=False, verbose=False, **kwargs):
     return
   
   docs = chunk_markdown(markdown, path)
-  if verbose:
-    print(f'\nDocs: {len(docs)}' + '\n\n---\n')
-    for doc in docs:
-      print(doc.page_content + '\n')
-      print(json.dumps(doc.metadata) + '\n\n---\n')
-  else:
-    print(f'{path}: docs={len(docs)} load={not dryrun}')
-  
   doc_embeddings = EMBEDDINGS.embed_documents([doc.page_content for doc in docs])
   
   data_with_metadata = []
   for doc, embedding in zip(docs, doc_embeddings):
+    anchor = doc.metadata.get('Header 3', doc.metadata.get('Header 2', doc.metadata.get('Header 1')))
+    url = f'https://www.schh-commons.org/knowledge-base/{path.replace("/index.md", "").replace(".md","")}' + (f'#{slugify(anchor)}' if anchor else '')
     data_item = {
         'id': doc.id,
         'values': embedding,
-        'metadata': doc.metadata | {'text': doc.page_content, 'source': path},  # add text as metadata
+        'metadata': doc.metadata | {'text': doc.page_content, 'source': url},  # add text as metadata
     }
     data_with_metadata.append(data_item)  # Append the data item to the list
-  
+    
+  if verbose:
+    print(f'\nDocs: {len(data_with_metadata)}' + '\n\n---\n')
+    for doc in data_with_metadata:
+      print(doc['metadata']['text'] + '\n')
+      print(json.dumps(dict([k,v] for k, v in doc['metadata'].items() if k not in ('text',))) + '\n\n---\n')
+  else:
+    print(f'{path}: docs={len(data_with_metadata)} load={not dryrun}')  
   if not dryrun:
     upsert_data_to_pinecone(data_with_metadata=data_with_metadata, **kwargs)
 

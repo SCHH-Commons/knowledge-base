@@ -4,3 +4,5 @@ langchain-pinecone==0.2.2
 langchain-text-splitters==0.3.5
 pinecone==5.4.2
 pypdf==5.1.0
+pymupdf4llm==0.0.17
+python-slugify==8.0.4

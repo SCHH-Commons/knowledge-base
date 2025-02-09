@@ -1,4 +1,4 @@
-## Exterion Paint - Frequently Asked Questions
+## Exterior Paint - Frequently Asked Questions
 
 Q. How long does it take to get paint colors approved if they are not on the developer list?  
 A. The Modifications Committee meets every Tuesday. If you have requested a color that is not an approved developer color, the committee will evaluate your request at its next meeting and respond soon thereafter.

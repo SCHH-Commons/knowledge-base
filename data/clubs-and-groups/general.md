@@ -1,3 +1,5 @@
+source: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
+
 # Chartered Clubs and Registered Community Groups
 
 Living in Sun City Hilton Head is all about embracing the lifestyle this community offers, which includes a lively, robust and exciting social scene constantly buzzing with activity. Sun City’s Chartered Clubs and Registered Community Groups provide residents with endless ways to meet friends, play sports, get creative, give back to the greater community and so much more.
@@ -11,9 +13,6 @@ This edition includes the most up-to-date directory of Sun City’s clubs and gr
 Turn to the back of this issue to find additional resources and information pertaining to clubs and groups in Sun City, including how to receive the twice-monthly Clubs and Groups eNewsletter and how to establish a new club or group.
 
 Be sure to download this issue to your computer or print it at home and keep it handy to reference year-round. We hope everyone finds something in these pages to help you fulfill your active adult lifestyle. As Sun City celebrates its 30th anniversary this year, there is sure to be even more fun ahead! For more information about clubs and groups, please contact Lifestyle Services at (843) 705-4027.
-
-- [Chartered Clubs](clubs)
-- [Registered Community Groups](groups)
 
 ## Additional Resources and Information
 

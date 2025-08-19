@@ -224,6 +224,7 @@ def attach_relations_and_ids(docs: List[Document], path: str) -> List[Document]:
         d.metadata["updated_at"] = mtime
         d.metadata["size"] = len(d.page_content or "")
         d.metadata.setdefault("title", os.path.basename(path))
+        print(json.dumps(d.metadata, indent=2))  # Debug print
 
     return docs + parents
 
@@ -464,7 +465,7 @@ def load_one(path: str,
     for d in docs:
         d.metadata.setdefault("title", default_title)
         d.metadata.setdefault("source", default_url or gh_url)
-
+        
     # 3) (Optional but recommended) append to corpus JSONL (for BM25 fitting)
     append_to_corpus_jsonl(docs)
 
@@ -491,6 +492,7 @@ def load_one(path: str,
             except Exception as ex:
                 log.warning(f"[hybrid] encode_documents failed for {d.id}: {ex}")
         items.append(item)
+        # print(json.dumps(item['metadata'], indent=2)[:600] + "\n---\n")  # Debug print
 
     if verbose:
         print(f"\nDocs to upsert: {len(items)} | embed_model={embed_model} | namespace={namespace or ''}")

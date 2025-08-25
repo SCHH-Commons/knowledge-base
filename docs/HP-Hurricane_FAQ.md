@@ -1,8 +1,8 @@
----
+<!--
 title: Hurricane Frequently Asked Questions
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1
 date_retrieved: 2025-08-15
----
+-->
 
 # Hurricane Frequently Asked Questions
 
@@ -229,3 +229,4 @@ The following repairs require residents to sign and submit a Declaration Form fo
   - Replacing broken windows with a similar style
   - Replacing more than 50 percent of all exterior wall materials
   - Repainting exterior walls or doors and garage doors with a different but pre-approved color. The required form can be found on the community website as “SCHH Emergency Guidelines for Residential Permits and Inspections.” If you have additional questions, please email [modifications@schhca.com.](mailto:modifications@schhca.com)
+

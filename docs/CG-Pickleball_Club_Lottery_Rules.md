@@ -12,7 +12,7 @@ Please read the following information carefully, as some rules have changed for 
 It’s important for the players AND the Group Leaders to understand these rules.  
 **The most significant changes have been bolded throughout this document.**
 
----
+
 
 ### PLAYER INFORMATION
 
@@ -29,7 +29,7 @@ It’s important for the players AND the Group Leaders to understand these rules
    - 2 hours on 1 court – **4 players**
    - 2 hours on 2 courts – **8 players**
 
----
+
 
 ### SPECIAL INSTRUCTIONS FOR GROUP LEADERS
 
@@ -51,7 +51,7 @@ It’s important for the players AND the Group Leaders to understand these rules
 6. If a player drops out during the lottery term:
    - The **Group Leader (GL)** is responsible for replacing the player and updating the reservation with the new player’s name.
 
----
+
 
 ### REGISTRATION PROCESS
 
@@ -62,7 +62,7 @@ It’s important for the players AND the Group Leaders to understand these rules
   2. GL must edit the registration by the deadline.
   3. The group registration will move to the bottom of **Round 1 in Lottery Draw A** or the bottom of **Round 4 in Lottery Draw B**.
 
----
+
 
 ### LOTTERY DRAW PROCEDURE
 
@@ -82,7 +82,7 @@ It’s important for the players AND the Group Leaders to understand these rules
    - All rosters in Lottery Draw A must be unique.
    - All rosters in Lottery Draw B must also be unique.
 
----
+
 
 ### MISCELLANEOUS NOTES
 
@@ -94,3 +94,5 @@ It’s important for the players AND the Group Leaders to understand these rules
    - Opens: **August 7, 2024**
    - Closes: **September 7, 2024, at 4:00 PM**  
    - **No registrations will be accepted after the deadline.**
+
+   

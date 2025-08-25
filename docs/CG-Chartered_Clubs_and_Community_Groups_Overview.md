@@ -1,10 +1,10 @@
----
+# Chartered Clubs and Registered Community Groups
+
+<!--
 title: Chartered Clubs and Registered Community Groups
 source: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
 date_retrieved: 2025-08-15
----
-
-# Chartered Clubs and Registered Community Groups
+-->
 
 Living in Sun City Hilton Head is all about embracing the lifestyle this community offers, which includes a lively, robust and exciting social scene constantly buzzing with activity. Sun City’s Chartered Clubs and Registered Community Groups provide residents with endless ways to meet friends, play sports, get creative, give back to the greater community and so much more.
 
@@ -37,8 +37,6 @@ If you currently receive eNews Weekly but do not receive the Clubs and Groups eN
 - You will receive an email with a link to update your subscriptions. Click "Update Your Preferences" in the email.
 - Select the Clubs and Groups eNewsletter. Then click "Update Profile."
 
----
-
 ### How to Submit Information for the Clubs and Groups eNewsletter
 
 The Clubs and Groups eNewsletter is published on the second and fourth Wednesday of each month. The deadline for inclusion is noon on the Monday prior to publication. Email [communications@schhca.com](mailto:communications@schhca.com) with event details in the body of the email or as a Microsoft Word attachment.
@@ -63,8 +61,6 @@ Every Chartered Club and Registered Community Group has its own webpage at
 - Clubs are organized by category as they are listed in this catalog, including cards & games, hobbies, general interest, performing arts, and sports.
 - Click "Registered Community Groups" for an alphabetical list of groups.
 
----
-
 ### Editing Your Club or Group’s Webpage
 
 Club and group webpage administrators can update and edit club and group webpages on  
@@ -76,8 +72,6 @@ Club and group webpage administrators can update and edit club and group webpage
 - In the Table of Contents, look for the Tutorials section and click "Website Editing Tutorials for Clubs, Groups, Neighborhoods and BACs."
 
 For questions about your club or group's webpage editing permissions, please call Lifestyle Services at (843) 705-4027.
-
----
 
 ### Establishing a New Chartered Club or Registered Community Group
 
@@ -96,3 +90,4 @@ Are you interested in starting a new Chartered Club or Registered Community Grou
 
 #### Clubs or Groups in Formation
 Clubs or groups that are not yet established and looking to secure membership may contact Lifestyle Services first. At the direction of Lifestyle Services, the organization may be listed as a club or group in formation in the Club or Group News section of *SunSations*. The word limit for groups in formation is 25 words, and they may be listed in the magazine for up to three consecutive months.
+

@@ -1,12 +1,12 @@
----
+# Sun City Hilton Head Villa Owner’s Manual
+
+<!--
 title: Villa Owner’s Manual
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1
 date_retrieved: 2025-08-15
----
+-->
 
-# Sun City Hilton Head Villa Owner’s Manual
-
-**Developed jointly by  Management and Villa Neighborhood Representatives**
+**Developed jointly by Management and Villa Neighborhood Representatives**
 
 **September 2015 Welcome Letter From The Board of Directors**
 
@@ -26,7 +26,7 @@ Sun City Hilton Head Board of Directors
 
 Last revised April 2019
 
------
+
 
 **Welcome Letter From Your Neighborhood Representative**
 
@@ -84,7 +84,7 @@ _Find my contact information in the latest issue of SunSations Magazine, under N
 
 Last revised April 2019
 
------
+
 
 ## Acknowledgments
 
@@ -506,7 +506,7 @@ To make a change to your shrubbery, complete the Landscape Quote Request Form, w
 The plan will become part of the documentation included with your Application for Approval of Property Modification that you will submit to the Community Standards Department. The application can be found in Palmetto Commons and on the Documents section of the community website by clicking the “Other” link. The application includes submission instructions and contains a checklist of required information.
 
 
------
+
 
 The processes of receiving approval of your application, appealing any denials and completing the project are published by the Community Standards Department. Contact a staff member with any questions.
 
@@ -965,3 +965,4 @@ h) Alterations in grades or drainage
 Changes to the interior of a house or installation of temporary holiday decorations do not require Modifications Committee approval. Refer to the Community Rules for holiday decoration time restraints and restrictions.  Landscape accessories listed in Appendix B page 48.
 
 ## Appendix E: Board Policies
+

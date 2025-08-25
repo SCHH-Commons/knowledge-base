@@ -1,10 +1,10 @@
----
+# Chartered Club Rules and Procedures
+
+<!--
 title: Chartered Club Rules and Procedures
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025charteredclubrulesandprocedures?doc_id=2479799&print=1&view=1
 date_retrieved: 2025-08-15
----
-
-# Chartered Club Rules and Procedures
+-->
 
 ## Introduction
 
@@ -589,5 +589,4 @@ Parliamentary procedures are a set of guidelines for conducting general membersh
 2. All members attending in person or by telephonic or electronic means can hear any and all comments made at the meeting
 3. All comments, motions, and votes of the member(s) attending by electronic means are recorded in the minutes of the meeting
 4. Voting shall be by majority agreement Electronic participation shall be limited to situations that prevent physical attendance at the meeting.
-
 

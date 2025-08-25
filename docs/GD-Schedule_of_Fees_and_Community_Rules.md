@@ -1,10 +1,10 @@
----
+# Schedule of Fees & Community Rules 
+
+<!--
 title: Schedule of Fees & Community Rules
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopywithaddendum?doc_id=2994591&print=1&view=1
 date_retrieved: 2025-08-15
----
-
-# Schedule of Fees & Community Rules 
+-->
 
 ## Budget Summary 2025
 
@@ -496,6 +496,7 @@ Any resident, Chartered Club, Registered Community Group, neighborhood, or non-r
 ## All Fitness Services
 
 ### Group Exercise Classes
+
 | Item | Price |
 |------|-------|
 | Single Fitness Class | $ 9 |
@@ -504,6 +505,7 @@ Any resident, Chartered Club, Registered Community Group, neighborhood, or non-r
 Does not guarantee space in class, no refunds, no extensions. Failure to notify front desk of class cancellation with at least 24 hours of notice may result in a fee of $5.
 
 ### Discounted Bulk Class Passes
+
 | Item | Price |
 |------|-------|
 | 15 Class Pass ($7.50 each) | $ 112.50 |
@@ -513,6 +515,7 @@ Does not guarantee space in class, no refunds, no extensions. Failure to notify 
 Does not guarantee space in class, no refunds, no extensions. Failure to notify front desk of class cancellation with at least 24 hours of notice will result in a pass deduction.
 
 ### Training Services
+
 | Item | Price |
 |------|-------|
 | Jump Start (4 sessions, 30 minutes each) | $ 125 |
@@ -521,9 +524,10 @@ Does not guarantee space in class, no refunds, no extensions. Failure to notify 
 | TRX Introductory Session (1 hour class) | $ 10 |
 | TRX Small Group Training Bulk Pass (8 sessions, 1 hour each) | $ 135 |
 
-## Instruction/Services
+### Instruction/Services
 
-### Guest Services
+#### Guest Services
+
 | Item | Price |
 |------|-------|
 | Fitness Center Guest Pass (1 visit) | $ 10 |
@@ -533,19 +537,12 @@ Does not guarantee space in class, no refunds, no extensions. Failure to notify 
 
 (Guest fees are year-round, including holidays)
 
-### Massage Services
+#### Massage Services
+
 | Service | Price |
 |---------|-------|
 | Swedish - 60 min | $ 90 |
 | Swedish - 90 min | $ 125 |
-
-
-# Health and Wellness Fees 2025
-
-## (Massage Services continued)
-
-| Service | Duration | Price |
-|---------|----------|-------|
 | Deep Tissue | 60 min | $ 100 |
 | Deep Tissue | 90 min | $ 135 |
 | Hot Stone | 60 min | $ 120 |
@@ -556,7 +553,7 @@ Does not guarantee space in class, no refunds, no extensions. Failure to notify 
 | Reflexology | 60 min | $ 80 |
 | Chair Massage | 20 min | $ 10 |
 
-## Esthetician Services
+#### Esthetician Services
 
 | Service | Price |
 |---------|-------|
@@ -567,7 +564,7 @@ Does not guarantee space in class, no refunds, no extensions. Failure to notify 
 | Dermaplaning with Facial | $ 165 |
 | All Services - 50 min |  |
 
-### Additional Facial Services:
+##### Additional Facial Services:
 
 | Service | Price |
 |---------|-------|
@@ -685,27 +682,27 @@ Activity cards are non-transferable. They are not to be lent or given to a resid
 
 The Owner (lessor) shall have registered with Resident Services in order to rent their home. An Owner who leases such Owner's Lot shall be deemed to have assigned such rights to the lessee of such Lot, unless (i) the Board adopts rules and regulations permitting Owner's such rights and (ii) such Owner provides the Board with written notice of such reservation which is consistent with the rules and regulations of the Board. Written notice of the transfer of occupancy shall be given to the Association within 15 days, and the owner shall surrender to the Association his/her previously issued activity card(s). The right of the lessee(s) to receive the activity card(s) allocable to the homeowner (lessor) must be in compliance with the age restrictions set forth in Section 2.3 of the CC&R's. The lessee(s) is subject to the same qualifications, limitations and conditions, including the payment of any fee that may be established by the Board, as specified in issuance of residents' activity cards. This fee shall be paid annually per renter through the rental registration process (see Community Related Offenses in the Schedule of Fees and Renter Obligations in the Community Rules). No refunds will be issued upon termination of the lease, or if renters move from the community. Renter activity cards will not be issued unless the Owner (lessor) surrenders his/her activity cards to the Association.
 
-## 3.2.1. Account Status
+### 3.2.1. Account Status
 
 The Owner (lessor) must be current and in good standing with the Association. If an Owner's privileges are suspended while a lessee is in the home, the lessee's activity card(s), vehicle decal and RFID tag will be suspended until the homeowner brings his/her account into good standing with the Association. An Owner is responsible for the payment of all charges, fees and fines incurred by the Owner's lessee should such amounts not be paid by the lessee. These charges will be added to the Owner's account and are collectable in the same manner as any assessment authorized under the CC&Rs.
 
-## 3.2.2. Leasing until Close of Escrow (COE)
+### 3.2.2. Leasing until Close of Escrow (COE)
 
 Customers who have signed binding contracts to purchase a home in Sun City Hilton Head, who are leasing, and who meet the qualifications of a Qualifying Occupant upon close of escrow, may purchase activity cards allowing use of Association facilities until close of escrow. A fee shall be assessed for the transfer of the right to use the facilities from the homeowner to the lessee. No refunds will be issued. Upon close of escrow, activity cards shall be surrendered and activity cards will be issued in accordance with the CC&Rs. If a cancellation or termination of a homebuyer's contract occurs, all renters' activity cards will be immediately revoked.
 
-## 3.2.3. Privileges Associated with Membership
+### 3.2.3. Privileges Associated with Membership
 
 Renter activity cardholders enjoy certain privileges associated with membership, but are not members of the Association, do not have the right to vote in Association affairs or be counted in determining a quorum at any meeting of the Association, cannot run for or hold any elected position within the Community, and are not entitled to be listed on the membership register. Renters with leasing contracts of one year or more may be listed in the Resident Directory. Ballots, assessment notices, and any other items required by the Governing Documents to be given to Owners or Members will be given to the Owner of record, and are not required to be given to the lessee.
 
-## 3.2.4. Revocation of Activity Card
+### 3.2.4. Revocation of Activity Card
 
 A renter's activity card will be revoked in the event that the renter is no longer a resident, upon termination of the lease agreement, or failure to pay applicable fees. The holder of a renter activity card is subject to sanctions for a violation of these Community Rules.
 
-# 4. ADDRESS CHANGE
+## 4. ADDRESS CHANGE
 
 The Owner of the Lot is obligated to immediately notify the Association, in writing, within 15 days of any change of mailing address, whether such change is temporary or permanent. Failure to do so may delay delivery of account statements, Association notices, and other time-sensitive material sent out by the Association.
 
-# 5. AMENITIES
+## 5. AMENITIES
 
 Building hours are posted at each facility, on the website and on the Community Directory page of each issue of SunSations magazine.
 
@@ -713,11 +710,11 @@ Guest Policies apply to the use of all Amenities. The Board and/or General Manag
 
 Fire Safety: The lighting of candles or any other instrument/device that produces a flame is strictly prohibited in or on Association facilities and Common Areas. Open flames are only allowed in the use of Association-provided grills and fire pits.
 
-## 5.1. Billiards
+### 5.1. Billiards
 
 The Billiards room is located in the Yemassee Crafts Center in Town Square. Table usage is on a first come, first served basis during open times when the club is not using this facility. SunSations magazine lists club times under the Billiard Club listing in the Chartered Club News section of each issue.
 
-## 5.2. Boat/RV Facility
+### 5.2. Boat/RV Facility
 
 The Community Association maintains the Boat/RV Facility. All applicable rules, regulations, fees and fines are approved by the Board of Directors. A copy of the complete Boat/RV Facility Rules and Regulations is available online at www.SunCityHiltonHead.org.
 
@@ -727,19 +724,19 @@ Short-term parking is available at the lower parking lot at The Clubhouse at Oka
 
 RV Campsites are provided for the convenience of residents' or owners' families and guests, as well as potential sales customers. There are six campsites with water, electric (50 amp) and sewer, but no public restrooms, showers or trash facilities. This is NOT a public campground. Residents and owners must make reservations for their guests. To make reservations, please call (843) 705-3433 and follow the prompts to leave a message. Messages will be answered Monday through Friday, and within 24 hours on weekends. Reservations should be made two weeks in advance when possible, and are accepted based on availability. Requests for reservations longer than seven days within any 30-day period must be approved by Association Reservation Management. Up to two campsites at any one time can be used for a 30-day stay for maximum of three months. Campers must enter and make payment at the Main Gate south of Hwy. 278 upon arrival. If arrival is after 6 p.m., arrangements will be made for payment. Guests will be shown to their campsite as needed. Checkout time is 11 a.m. Pets are welcome but must be kept on a leash and owners must pick up after them.
 
-## 5.3. Bocce Courts
+### 5.3. Bocce Courts
 
 The bocce courts are located in Town Square. Court usage is on a first come, first served basis during open times when the club is not using the facility. See SunSations magazine for club information regarding group play and special events. Residents may borrow loaner equipment located in the storage box near the bocce courts. Reservations can be made through Chelsea Reservation System on the community website at www.SunCityHiltonHead.org.
 
-## 5.4. Children's Playground
+### 5.4. Children's Playground
 
 The Children's Playground is available during daylight hours only. Children shall be monitored at all times by a responsible adult and shall not be left unattended in the playground area.
 
-## 5.5. Croquet Lawns
+### 5.5. Croquet Lawns
 
 The croquet lawns are located in Town Square. Usage is on a first come, first served basis during open times when the club is not using this facility. SunSations magazine lists club times under the Croquet Club listing in the Chartered Club News section of each issue.
 
-## 5.6. Crafts Center (Yemassee)
+### 5.6. Crafts Center (Yemassee)
 
 The arts and crafts rooms are multi-purpose rooms that provide space for a variety of Chartered Club activities. They are open to club members and invited guests.
 
@@ -752,7 +749,7 @@ The arts and crafts rooms are multi-purpose rooms that provide space for a varie
 - Photography
 - Sewing
 
-## 5.7. Dog Parks
+### 5.7. Dog Parks
 
 The Association has fenced-in dog parks reserved for Residents and their pets, to include Red Dam Dog Park, Argent Lakes Dog Park and Sun City West Dog Park. Please see the Community Map available on the community website at www.SunCityHiltonHead.org to see the location of the dog parks. Guests are welcome to bring their dogs to the dog parks accompanied by their resident host. Dog owners shall obey the rules of the dog parks.
 
@@ -771,7 +768,7 @@ The Association has fenced-in dog parks reserved for Residents and their pets, t
 - No glass beverage containers of any kind are allowed in the dog parks.
 - Owners who bring toys, balls, bowls or other objects to the dog parks shall take them home and not leave them at the parks. The Community Association reserves the right to discard any items left in the dog parks.
 
-## 5.8. Fitness Facilities
+### 5.8. Fitness Facilities
 
 Locations
 - Hidden Cypress
@@ -801,11 +798,11 @@ Fitness instruction on all Association property shall be taught by Sun City Hilt
 
 Persons with known medical problems or who are unsure of their physical condition are strongly advised to consult with their physician(s) before engaging in exercise activity.
 
-## 5.9. Gazebos/Shade Structures
+### 5.9. Gazebos/Shade Structures
 
 The gazebos are available for use on a first come, first served basis, located near the tennis courts at the Barataria outdoor pool deck and at Lake Somerset. All shade structures are available on a first come, first served basis.
 
-## 5.10. Golf Courses
+### 5.10. Golf Courses
 
 Locations
 - Hidden Cypress
@@ -814,11 +811,11 @@ Locations
 
 Only residents and their invited guests may play the courses. There is no public access. Reservations can be made through Chelsea Reservation System on the community website at www.SunCityHiltonHead.org. Same day reservations based on availability may be obtained by calling any of the three golf shops.
 
-### 5.10.1. Fees
+#### 5.10.1. Fees
 
 The Board of Directors of the Community Association sets all golf related rates and fees. Rates and fees are subject to change at the discretion of the Board of Directors.
 
-### 5.10.2. General Rules
+#### 5.10.2. General Rules
 
 - Golf carts rented from the golf course may not be driven on Sun City roads. The carts are restricted for use on golf course paths.
 - Practicing on Sun City golf courses or from private property is forbidden. Practice is limited to the designated practice areas.
@@ -830,7 +827,7 @@ The Board of Directors of the Community Association sets all golf related rates 
 - There shall be no more than 2 persons and 2 golf bags per golf cart/approved low speed vehicle (LSV).
 
 
-### 5.10.3. Proper Golf Etiquette
+#### 5.10.3. Proper Golf Etiquette
 
 Proper golf etiquette is required of all players. Failure to comply may result in fines and loss of golf privileges.
 This includes:
@@ -876,31 +873,31 @@ Lake Somerset is a 19-acre lake open to residents and their guests for fishing, 
 
 The Lakehouse is a multi-use facility which includes a ballroom, meeting rooms, fitness center, food and beverage preparation area, both indoor and outdoor pools and spas and a fire pit. The main foyer area is open to all residents on a first come, first served basis. Tables used for games must be covered to avoid damage. Contact Lifestyle Services for fire pit availability.
 
-## 5.17. Magnolia Hall
+### 5.17. Magnolia Hall
 Magnolia Hall is a 548-seat multi-purpose facility providing meeting space and a state of the art entertainment venue. Magnolia Hall is located at Town Square. No food or drink are permitted within Magnolia Hall at any time.
 
-## 5.18. Mulching Center
+### 5.18. Mulching Center
 The Mulching Center is intended for resident landscape material only. Commercial use of the Mulching Center is prohibited and subject to fines. It is located near the Golf Course Maintenance Facility on Red Dam Road. Open daily from 7 a.m. until 7 p.m. Residents must use their activity cards to access the facility.
 
-## 5.19. Pavilion
+### 5.19. Pavilion
 The Pavilion is a covered picnic area located in Town Square behind Pinckney Hall. Please contact Lifestyle Services for availability.
 
-## 5.20. Pickleball Courts
+### 5.20. Pickleball Courts
 Pickleball courts are located in the New River Sports Park and lighted pickleball courts are available at the Argent Lakes Amenity Center. Usage is on a first come, first served basis during open times when the club is not using these courts. SunSations magazine lists club times under the Chartered Club News section of each issue. Reservations can be made through the Association's reservation system, Chelsea, on the community website (www.SunCityHiltonHead.org) or by contacting the Logo Building. Reservations are posted at each location. League play and contact information for the Pickleball Club can be found in SunSations magazine under the Chartered Club News section of each issue. Pickleball instruction on all Association property shall be taught by Sun City Hilton Head Community Association staff and/or community approved contractors only.
 
-## 5.21. Pinckney Hall Social Building
+### 5.21. Pinckney Hall Social Building
 Pinckney Hall is primarily intended to serve the social, cultural, and entertainment needs of the members. This facility includes a ballroom with stage, meeting rooms, broadcast studio and Wi-Fi capability.
 
-## 5.22. Pools
+### 5.22. Pools
 
-### Locations
+#### Locations
 - Barataria Outdoor Pool
 - Hidden Cypress Outdoor Pool and Spa
 - Purrysburg Indoor Pool and Spa
 - Riverbend Outdoor Pool and Spa
 - Lakehouse Indoor and Outdoor Pools and Spas
 
-### Pool Rules
+#### Pool Rules
 - Those who are incontinent or not fully toilet trained are not permitted in any pool or spa. Diapers are not allowed in any pool or spa.
 - Lap lane and open area usage is on a first come, first served basis during operating hours. The Purrysburg indoor pool is closed for exclusive use by Health and Wellness group exercise classes at the following hours:
   - Monday, Wednesday and Friday from 8-10 a.m.
@@ -917,44 +914,44 @@ Pinckney Hall is primarily intended to serve the social, cultural, and entertain
 - Children under 16 years of age must use the designated pool for posted children's hours for that day and be accompanied by the resident host at all times.
 - No one under the age of 16 is allowed to use the resistance pool area at the Barataria outdoor pool.
 
-### 5.22.1. Guest Use of Pool: See Guest Section.
+#### 5.22.1. Guest Use of Pool: See Guest Section.
 
-## 5.23. Putting Green
+### 5.23. Putting Green
 
 The Putting Green is located in Town Square. Usage is on a first come, first served basis.
 
-## 5.24. Riverbend Landing Lodge and Dock
+### 5.24. Riverbend Landing Lodge and Dock
 
 The Riverbend Lodge and Dock are located off Highway 170 north of Highway 278 in the Riverbend Neighborhood.
 - The Riverbend Lodge and Dock are open to all residents based on availability. The Lodge has a kitchen, bar, meeting rooms and Wi-Fi capability.
 - A kayak launch is available on the Riverbend dock.
 - Bicycles/electric bicycles/skateboards/hover boards are not allowed on the Riverbend dock.
 
-## 5.25. Softball Field (Veterans Memorial Field)
+### 5.25. Softball Field (Veterans Memorial Field)
 
 Veterans Memorial Field is located in New River Sports Park. The field usage is on a first come, first served basis during open times when the club is not using this facility. SunSations magazine lists club times under the Softball Club listing in the Chartered Club News section of each issue.
 
-## 5.26. Table Tennis
+### 5.26. Table Tennis
 
 Table tennis is located at the Yemassee Crafts Center in Town Square. Usage is on a first come, first served basis during open times when the club is not using this facility. SunSations magazine lists club times under the Table Tennis Club listing in the Chartered Club News section of each issue.
 
-## 5.27. Tennis Courts
+### 5.27. Tennis Courts
 
 The Tennis courts are located at Town Square and at the Argent Lakes Amenity Center. Both locations are lighted for evening play. Open courts are available on a first come, first served basis. Reservations can be made through the Association's reservation system, Chelsea, found on the community website (www.SunCityHiltonHead.org) or by contacting the Logo Building. Reservations are posted on location. League play and contact information for the Sun City Tennis Association can be found in SunSations magazine under the Chartered Club News section of each issue. Private lessons and clinics are offered by world class tennis professionals. Contact the Logo Building for more information. Tennis instruction on all Association property shall be taught by Sun City Hilton Head Community Association staff and/or approved contractors only.
 
-## 5.28. Trails
+### 5.28. Trails
 
 Trails located throughout the community are to be used for walking, bicycling and jogging. Skating/rollerblading and walking and exercising pets (in conjunction with Section 6.2 Pets) are also permitted. It is recommended to wear reflective clothing when using trails. Sidewalks leading to Association facilities and recreation areas are not defined as trails. Golf carts are not allowed on trails unless traveling from one golf hole to an adjacent golf hole.
 
-### 5.28.1. Golf Cart Paths
+#### 5.28.1. Golf Cart Paths
 
 Walking, jogging, bicycling, walking pets or any other non-golf activity on the golf course or its golf paths is not permitted.
 
-### 5.28.2. Town Square Trail
+#### 5.28.2. Town Square Trail
 
 The trail around Town Square is designed to be a walking/jogging trail. Bicycling, skating/rollerblading, skate boarding or use of a hoverboard or electric bicycles are not permitted on the trail. Bicycles shall be walked, and not ridden, on sidewalks leading to facilities within Town Square.
 
-### 5.28.3. Nature Trail
+#### 5.28.3. Nature Trail
 
 Sun City Hilton Head has a designated Nature Trail located between Colonel Thomas Heyward Road and Sun City Boulevard for the use and enjoyment of all residents and guests for walking only. Therefore, the following are prohibited:
 
@@ -970,11 +967,11 @@ Sun City Hilton Head has a designated Nature Trail located between Colonel Thoma
 
 The Sun City Boulevard entrance will accommodate parking for bicycles only in designated areas. The Colonel Thomas Heyward Road entrance will accommodate parking for bicycles, golf carts, and motor vehicles in designated areas.
 
-## 5.29. Volleyball Courts
+### 5.29. Volleyball Courts
 
 The volleyball courts are located at New River Sports Park and are available on a first come, first served basis during open times when the Volleyball Club is not using this facility. SunSations magazine lists club times under the Volleyball Club listing in the Chartered Club News section of each issue.
 
-## 5.30. Woodworkers Shop and Model Railroad Club Display
+### 5.30. Woodworkers Shop and Model Railroad Club Display
 
 The Woodworkers Shop is located on Red Dam Road and is administered by the Woodworkers & Modelmakers Guild. Use of the facility is available to Guild members following safety training required by the Guild.
 
@@ -1107,21 +1104,21 @@ A qualified nonprofit may conduct certain raffles under South Carolina law. The 
 ### 16.3. Bingo
 Under current South Carolina laws, bingo and other games of chance are prohibited on Association property.
 
-### 17. GOLF CARTS: SEE VEHICLES
+## 17. GOLF CARTS: SEE VEHICLES
 
-### 18. GUEST ACCESS AND USE OF FACILITIES
+## 18. GUEST ACCESS AND USE OF FACILITIES
 
 A Guest is defined as a person who visits or stays overnight in a Sun City home and does NOT stay for more than 30 days in a consecutive 6-month period. Members are responsible for the conduct of their guests. Each activity card holder may extend guest privileges as follows:
 
-#### 18.1. Chartered Club Guest
+### 18.1. Chartered Club Guest
 Any Chartered Club desiring to host an approved tournament or league play that will include invited guests from outside the community shall first notify the Director of Lifestyle Services. A list of invited guests or teams, if applicable, shall be submitted to the appropriate gate and the Director of Lifestyle Services, the golf professionals, or the Health and Wellness Manager, whichever is applicable. Approved tournament guests will be allowed free access at the appropriate gate, and would not be required to obtain guest ID cards prior to utilizing the tournament facility. These guests are limited to the facilities directly related to the tournament or league play only. Chartered Clubs are responsible for their invited guests. Detailed definitions of guests and their attendance to Chartered Club meetings and functions are defined in the Chartered Club Rules and Procedures available in the Community Library of www.SunCityHiltonHead.org.
 
-#### 18.2. Homeowner Guests
+### 18.2. Homeowner Guests
 Guests of residents may use some of the community facilities during their visit.
 - Guests who are 16 years of age or older may use the community facilities without the supervision of an adult or the host resident, providing they have a guest ID card.
 - Guests 15 years of age or younger shall have a resident host with them at all times and do not need guest ID cards.
 
-##### 18.2.1. Guest ID Card
+#### 18.2.1. Guest ID Card
 There is no fee for a guest ID card. However, guests may be required to pay a fee for use of certain community facilities. All guests shall present a guest ID card when using any amenities without the host resident.
 - Guest ID cards are free and may be obtained from all fitness centers.
 - Residents must present a valid activity card to obtain or renew a guest ID card; good for 14 days.
@@ -1134,23 +1131,23 @@ There is no fee for a guest ID card. However, guests may be required to pay a fe
 - In all cases, compliance with guest rules and procedures is the responsibility of the host resident. Failure to assure compliance may result in suspension of guest privileges for the resident.
 - Association staff and Security may make random checks of guest ID cards to ensure compliance. Refer to the sections on specific facilities for additional rules and requirements.
 
-##### 18.2.2. Guest Fees
+#### 18.2.2. Guest Fees
 Guest fees are in effect for the use of golf courses, fitness centers, tennis and facilities which include land/water/personal instructional classes. Refer to Health and Wellness Fees for Guest Fees.
 
-## 18.2.3. Guest Use of Pools
+#### 18.2.3. Guest Use of Pools
 
 - There is no charge for guests to use the pools.
 - Guests who are 16 years of age or older may use any pool during operational hours without a resident host, providing they have a guest ID card. No guest ID card is needed if they are visiting the pools accompanied by the resident host.
 - Guests 15 years of age or younger are welcome to use the pools during children's hours only and must be accompanied at all times by their resident host. No guest ID card is required. The times for children's hours are provided on the website, www.SunCityHiltonHead.org or posted at the fitness centers.
 
-## 18.3. Vehicle Gate Passes for Guests
+### 18.3. Vehicle Gate Passes for Guests
 
 - Access into the community for guests of residents may be provided by calling the Main Gate, the North Gate or the Riverbend Gate and requesting a vehicle gate pass for guests. Gate passes may also be obtained by visiting the community website, www.SunCityHiltonHead.org, or through the AAM All Access app. Vehicle gate passes for guests may be issued for a maximum of 30 days and are valid only for the individual to whom they were issued. Vehicle gate passes for guests are not transferable.
 - Any Chartered Club, Neighborhood, Registered Community Group or Service Organization requiring five or less guest passes for their event must call in their passes to the appropriate gate or use the community website.
 - More than five vehicles will require a Special Event pass to be printed and delivered to the appropriate gate by the event sponsor. To request a Guest Pass template, email Lifestyle Services Room Specialist.
 - Guest parking in the Okatie Lower Lot - Owner/member must obtain Okatie Lower Lot pass from Security at the Main Gate.
 
-## 18.4. Vehicle Gate Passes for Vendors
+### 18.4. Vehicle Gate Passes for Vendors
 
 - The vehicle gate pass process may not be used to gain access by commercial vendors who are performing work.
 - Calling in a "Guest Gate Pass" or an "Estimate Pass" for a vendor intending to do work is a violation and the resident who calls in the pass will be subject to the specified fine.
@@ -1180,14 +1177,14 @@ For all landscape accessories refer to Appendix B Landscape Accessory Guide in t
 
 Residents seeking further information may contact the Modifications Department for assistance.
 
-## 20.1. Home Holiday Lighting/Decorations
+### 20.1. Home Holiday Lighting/Decorations
 
 - Holiday decorations do not require Modifications Committee approval. However, the design and quantity of the decorations shall be in good taste and the Board of Directors, in its sole discretion, has the right to determine if such decorations are not in good taste.
 - Exterior decorations i.e. New Year's Day, Valentine's Day, St. Patrick's Day, Easter, Memorial Day, Flag Day, Fourth of July, Labor Day, Veterans Day, Halloween, Thanksgiving, Hanukkah and Christmas may be displayed no more than 10 days prior to the holiday and shall be removed within 5 days after the holiday. Hanukkah and Christmas decorations, including lights in the trees/bushes, may be present between Thanksgiving Day and January 10.
 - Holiday decorations should not cause light glare or other safety hazards related to vehicular or pedestrian traffic.
 - Other seasonal decorations, including those on mailboxes and garage doors, are prohibited.
 
-## 20.2. Hurricane Shutters
+### 20.2. Hurricane Shutters
 
 Residents may install or close hurricane shutters if a storm is probable and be returned to normal condition within ten (10) days after the threat has passed.
 
@@ -1226,11 +1223,11 @@ Active use of lakes, ponds, rivers, streams, wetlands, or other bodies of water 
 
 The Association shall not be responsible for any loss, damage, or injury to any person or property arising out of the authorized or unauthorized use of lakes, ponds, rivers, streams, wetlands or other bodies of water within or adjacent to the properties.
 
-## 23.2. Destructive Activities
+### 23.2. Destructive Activities
 
 Activities which materially disturb or destroy the vegetation, wildlife, or air quality within the properties or which result in unreasonable levels of sound or light pollution are prohibited.
 
-## 23.3. Businesses
+### 23.3. Businesses
 
 Conducting any business, trade or similar activity, except that an owner or occupant residing in a dwelling unit may conduct business activities which are commonly conducted within residential areas within the dwelling unit so long as:
 
@@ -1239,23 +1236,23 @@ Conducting any business, trade or similar activity, except that an owner or occu
 - The business activity does not involve visitation of the Lot or Dwelling Unit by clients, customers, suppliers, or other business invitees or door-to-door solicitation of residents of the properties.
 - The business activity is consistent with the residential character of the properties and does not constitute a nuisance, or a hazardous or offensive use, or threaten the security or safety of other residents of the properties, as may be determined in the sole discretion of the Board.
 
-## 23.4. Miscellaneous Activities
+### 23.4. Miscellaneous Activities
 
 Holding garage sales, moving sales, rummage sales, real estate open houses or similar activities at a residence is prohibited.
 
-## 23.5. Firearms, Explosives and Other Weapons
+##3 23.5. Firearms, Explosives and Other Weapons
 
 Discharge of firearms or explosives within the Sun City Hilton Head Community is prohibited. The term "firearms" includes BB guns, pellet guns, and other firearms of all types, regardless of size. Other weapons, including bow and arrow, are also prohibited.
 
-## 23.6. Number of Occupants
+### 23.6. Number of Occupants
 
 Occupancy of a dwelling unit by more than two persons per bedroom in the dwelling unit is prohibited. For the purposes of this provision, "occupancy" shall be defined as staying overnight in the dwelling unit more than 30 days in any six-month period.
 
-## 23.7. Subdivision
+### 23.7. Subdivision
 
 Subdivision of a lot into two or more lots after a subdivision plat including such lot has been approved and filed with the appropriate governmental authority is prohibited. Or changing the boundary lines of any lot, except that the Declarant shall be permitted to subdivide or change the boundary lines of lots which it owns is prohibited.
 
-## 23.8. Internal Ownership
+### 23.8. Internal Ownership
 
 Operation of a timesharing, fraction sharing, Airbnb, VRBO, or similar program whereby the right to use of the dwelling unit rotates among participants in the program on a fixed or floating time schedule over a period of years is prohibited.
 
@@ -1263,7 +1260,7 @@ This subsection shall not apply to any activity conducted by the Declarant with 
 
 Rental of a home/villa/duet or cottage must be for a minimum of three (3) months. Owners shall not rent out part of the home while they are still residing in the dwelling as this action is prohibited (See section on Leasing 24.6).
 
-## 23.9. Unmanned Aircraft/Drones
+### 23.9. Unmanned Aircraft/Drones
 
 For safety and privacy concerns, recreational use of unmanned aircraft is strictly prohibited.
 
@@ -1298,19 +1295,19 @@ Storage of furniture, fixtures, appliances, machinery, equipment or other goods 
 
 "Leasing," for purposes of this declaration, is defined as regular, exclusive occupancy of a dwelling unit by any person other than the owner, for which the owner receives any consideration or benefit, including, but not limited to, a fee, service, gratuity, or emolument. Dwelling units may be leased only in their entirety. No fraction or portion may be leased. No structure on a lot other than the primary residential dwelling unit shall be leased or otherwise occupied for residential purposes, except that any lot comprised of more than one acre of land may make residential use of such a structure other than the primary residential dwelling unit for an ancillary use such as in-law suite or nanny suite, but not for independent leasing. There shall be no subleasing of dwelling units or assignment of leases unless prior written approval is obtained from the Board. All leases shall be in writing. No transient tenants may be accommodated in a dwelling unit, and all leases shall be for an initial term of no less than 90 days. The leasing of any lot is further subject to the restrictions on occupancy set forth in Section 2.3 of the Declaration. The homeowner is ultimately responsible for informing the Community Association of lease expiration date for the residence.
 
-## 24.6.2. Notice of Lease
+#### 24.6.2. Notice of Lease
 
 Notice of any lease, together with such additional information as may be required by the Board, shall be given to the Community Association offices by the lot owner within 10 days of execution of the lease. The Owner shall make available to the lessee copies of the Declaration, Bylaws, and the rules and regulations. The Board may adopt reasonable rules regulating leasing and subleasing.
 
-## 24.6.3. Leasing by Declarant
+#### 24.6.3. Leasing by Declarant
 
 Notwithstanding the above, Declarant retains the right to lease any lot it owns for a period of not less than 30 days, provided the tenant is awaiting the completion of construction of a new home on a lot he or she owns or is under a binding contract to purchase within Sun City Hilton Head.
 
-## 24.7. Trash Containers and Collection
+### 24.7. Trash Containers and Collection
 
 No garbage or trash shall be placed or kept on any lot, except in covered containers of a type, size and style which are approved in accordance with Article XI of the CC&Rs or as required by the applicable governing jurisdiction. Such containers shall be kept inside garages or other structures on lots except when they are being made available for collection and then only for the shortest time reasonably necessary to effect such collection. All rubbish, trash, or garbage shall be removed from the lots and shall not be allowed to accumulate thereon. Trash containers should not be put outside a residence before 5 p.m. the day before pick-up. No outdoor incinerators shall be kept or maintained on any lot.
 
-## 24.8. Walls, Dog Runs, Animal Pens, or Fences of Any Kind
+### 24.8. Walls, Dog Runs, Animal Pens, or Fences of Any Kind
 
 Walls, dog runs, animal pens, or fences of any kind on any Lot except as approved in accordance with Article XI of the CC&Rs. The Declarant and the Association shall have the right, without obligation, to construct and maintain fences on any portion of the properties which they own.
 
@@ -1369,7 +1366,7 @@ The Association reserves the right, at all times, to deny, adjust, cancel, resch
 
 If additional set-up or cleanup is required, if damage to Association property, or unauthorized movement of furniture/equipment is noted subsequent to the function, additional charges will be assessed.
 
-## 27.1. Alcohol
+### 27.1. Alcohol
 
 The Community Association holds the liquor license for Sun City Hilton Head property with exception of the on-site restaurants. Only those licensed by the state of South Carolina are permitted to sell alcohol at certain locations within Sun City. Clubs, groups, etc. may not sell alcohol at any function.
 
@@ -1377,7 +1374,7 @@ Under current South Carolina Laws gambling of any type is prohibited in any esta
 
 Any event where alcohol is to be served or consumed on Community Association property shall have the prior written approval of the Director of Lifestyle Services and/or General Manager and is subject to the laws of the State of South Carolina, any Community Association room rental guidelines in effect, or any other policies established by the Association and South Carolina laws. Only those properly trained and certified (i.e. TIPS) may serve alcohol on Community Association property.
 
-## 27.2. Scheduling of Meetings and Functions
+### 27.2. Scheduling of Meetings and Functions
 
 Requests for space for the subsequent year are as follows:
 - Chartered Clubs shall submit reservation requests beginning June 2 to June 6.
@@ -1388,17 +1385,17 @@ A room setup plan will be submitted with the original request. Any changes to th
 
 Use of meeting rooms without prior notice and approval is prohibited.
 
-## 27.3. Resident Functions
+### 27.3. Resident Functions
 
 Requests for space for private event by an activity card holder utilizing the fee schedule in place at the time shall be submitted beginning June 23 for the subsequent year and will be confirmed on a space available basis in accordance with the Order of Priority listing.
 
 The use of Association facilities by a resident on behalf of an outside organization, business, group, etc. that is not recognized as a Chartered Club or Registered Community Group, shall submit a non-resident request form and will be billed the non-resident rate.
 
-## 27.4. Non-Resident Functions
+### 27.4. Non-Resident Functions
 
 Requests for space for meetings, seminars, parties and other events hosted by a non-resident utilizing the fee schedule in place at the time shall be submitted beginning July 7 for the subsequent year and will be confirmed on a space available basis in accordance with the Order of Priority listing.
 
-## 27.5. Unscheduled Activities
+### 27.5. Unscheduled Activities
 
 Use of a meeting space without a reservation may be accommodated at the discretion of the Lifestyle Room Specialist on a first come, first served basis, provided such events are in accordance with all Association policies and procedures. Anyone desiring to use meeting space without a reservation (for discussions or impromptu gatherings when a meeting room is not in use, for example), shall contact the Lifestyle Room Specialist for permission. These requests can be made no earlier than 24 hours prior to room usage. Additionally, the meeting space shall be left in the same condition and with the same set-up configuration in which it was found at the time the Lifestyle Room Specialist gave permission for use of the meeting space, or penalties will be assessed to the contact person. Continued use of Association space (defined as more than three times per calendar year) for the same purpose (card games, for example), constitutes a meeting and is subject to all other meeting guidelines. Rooms may be used for a maximum of two hours. The Association reserves the right to interrupt or terminate or reschedule these activities as necessary to maintain room scheduling priorities as described herein. Failure to obtain proper approval prior to using meeting space constitutes a violation of community rules and may subject the owner to further sanctions.
 
@@ -1424,6 +1421,7 @@ In accordance with Article XII, Section 12.4 of the Covenants, Conditions & Rest
 ## 29. SOLICITATION POLICY AND LOWER MAILBOX POLICY
 
 ### Solicitation Policy
+
 No solicitation of any kind is permitted including but not limited to door-to-door or lower mailboxes without the prior approval of the General Manager. Please refer to the Solicitation Policy below for additional details. For the purpose of this policy, Solicitation is an act or action that asks for contributions or pledges of monetary or non-monetary support, political votes and commercial business. This policy shall apply to all individuals, Chartered Clubs and Registered Community Groups.
 
 1. There shall be no "door-to-door" solicitation allowed within the community.
@@ -1438,7 +1436,8 @@ No solicitation of any kind is permitted including but not limited to door-to-do
 
 8. Distribution of material generated by individual homeowners and residents for the purpose of extending personal invitations, greeting cards and deliveries of a personal nature do not require prior approval of the General Manager or Neighborhood Representative. These materials shall not be scandalous, malicious, defamatory or libelous.
 
-## Lower Mailbox Policy
+### Lower Mailbox Policy
+
 Some SCHH homes were provided with lower mailboxes by the developer. The purpose of these lower mailboxes is to allow residents to receive intracommunity correspondence. To avoid intrusion on resident privacy and unwanted solicitation, the following rules apply for the use of lower mailboxes.
 
 1. Lower mailboxes shall not be used by non-residents or for commercial purposes not associated with the Community Association.
@@ -1476,7 +1475,7 @@ Owners/co-occupants/renters are entitled to one RFID tag and one decal for each 
 
 All barrier entrances into and out of the community utilize automated gate arms designed for authorized motor vehicles only. Unauthorized vehicles, alternative methods of transportation or individuals entering or exiting through the automated gate arms assume full and sole responsibility for any property damage and/or personal injury arising out of, or resulting from, the use of automated gate arms.
 
-## 31.2. Golf Carts
+### 31.2. Golf Carts
 
 The standards noted herein apply to a resident's privately owned golf cart, when used in Association Common Areas. All references to "golf cart" shall include "low speed vehicle" as well.
 Golf cart operation is allowed only on the streets, parking lots, and golf courses (when driver is golfing).
@@ -1495,24 +1494,24 @@ Golf cart operation is allowed only on the streets, parking lots, and golf cours
 - The number of passengers in a golf cart cannot exceed the golf cart's seating capacity.
 - Before driving a golf cart on, or across any State or County primary or secondary road outside Sun City Hilton Head including private roads, golf cart owners should contact the South Carolina Division of Motor Vehicles and their insurance company for guidance and clarification. To obtain a State permit, golf cart owners shall show a valid state issued driver's license and proof of financial responsibility (Liability insurance) and application will be made at the State Department of Motor Vehicles.
 
-## 31.2.1. Golf Cart Registration
+#### 31.2.1. Golf Cart Registration
 
 Any privately owned golf cart or motorized vehicles being operated on the Common Area or on the golf courses within the community shall be registered with the Association. The owner of the golf cart or motorized vehicle shall register it within 30 days. At the time of the registration appointment, the owner of the golf cart will need to have the state registration sticker in their name and affixed to the front window of the golf cart. They shall show proof of ownership, proof of insurance and a valid state issued driver's license. The RFID sticker and resident decal will be issued for the vehicle after this process is completed. Golf cart and motorized vehicle registrations shall be renewed with the Association at the state registration expiration date. State registration stickers are non-transferable. Association citations in connection with operation of a golf cart or motorized vehicle stand against the registrant of that vehicle.
 
 Golf cart or motorized vehicle drivers must be at least 16 years of age and have a valid state issued driver's license or driver learners permit and be accompanied by a license driver and be able to provide proof of insurance. If you are unsure of the adequacy for insurance, you should contact your insurance agent for particulars and guidance. Association Security may ask to see a driver's license and proof of insurance when stopping a golf cart or motorized vehicle for a traffic violation. Failure to produce these documents when being stopped may result in the golf cart or motorized vehicle registrant being cited for a violation of the Community Rules. Fines may be reduced if documents are produced in five (5) business days.
 
-## 31.2.2. Damage Caused by Golf Carts or Motorized Vehicles
+#### 31.2.2. Damage Caused by Golf Carts or Motorized Vehicles
 
 In the case of damage sustained to Association property, the Association reserves the right to cure the damage and bill the responsible Owner for all associated costs.
 
-## 31.2.3. Safety Equipment for Golf Carts
+#### 31.2.3. Safety Equipment for Golf Carts
 
 - At a minimum, all golf carts will be equipped with a rear view mirror, a reliable steering apparatus, efficient brakes, safe tires and either red reflector warning devices or lamps as described below in the front and rear.
 - Automatic turn signals are highly encouraged. Without them, the use of standard hand signals is mandatory.
 
 Headlights and taillights are also highly encouraged to facilitate safe driving during periods of fog, and inclement weather. Golf carts may be operated on Association Common Areas at night with the following equipment: a headlight that emits a white light visible from a distance of 500 feet to the front, a tail lamp that emits a red light visible from at least 100 feet from the rear, brake lights, and automatic turn signals. "At Night" is defined as a period of time from ½ hour after sunset until ½ hour before sunrise. Additional equipment that should be considered includes emergency warning flashers, a horn, and lap-restraint seat belts (driver and passenger).
 
-## 31.3. Parking
+### 31.3. Parking
 
 These rules apply to all vehicle operators within Sun City Hilton Head.
 
@@ -1540,7 +1539,7 @@ These rules apply to all vehicle operators within Sun City Hilton Head.
 - As identified in the CC&Rs, no vehicle may be left upon any portion of the Properties except in a garage, driveway, parking pad, or other area designated by the Board. Commercial vehicles, recreational vehicles, mobile homes, trailers, campers, boats or other watercraft, or other oversized vehicles, stored vehicles, and unlicensed vehicles or inoperable vehicles shall not be parked within the Properties other than in enclosed garages; provided however, that one recreational vehicle, one camper, or one boat or other watercraft may be temporarily kept or stored completely in a driveway or completely on a parking pad on a Lot for not more than 24 hours within each seven day period. Any covered vehicle constitutes a stored vehicle.
 - No parking in front of residential mailboxes during daylight hours.
 
-## 31.4. Traffic Rules and Regulations
+### 31.4. Traffic Rules and Regulations
 
 - Sun City Hilton Head is a private, gated community. Pursuant to Article II §2.1(c) of the CC&Rs, the Rules and Regulations set forth herein are applicable to the Common Areas within the Properties. All Sun City Hilton Head Owners, tenants, guests, Declarant employees, Management employees and commercial invitees hereby consent to the application of and are bound by these Rules and Regulations by accepting the right to use the roads, streets and parking facilities within Sun City Hilton Head.
 - All general "rules of the road" including use of seat belts and child safety devices shall be observed.
@@ -1555,7 +1554,7 @@ These rules apply to all vehicle operators within Sun City Hilton Head.
 - Motorists shall leave a safe distance between bicycles and/or golf carts when passing.
 - Vehicles, bicycles and golf carts must cross the Millennium Bridge in single file; no passing is permitted.
 
-## 31.5. Vendor Access
+### 31.5. Vendor Access
 
 - Resident must call in estimate passes. Estimate passes shall be valid only for direct access to and from the destination indicated on the front of the pass. The estimate pass is only valid for the limited time it takes to provide a work estimate to the resident.
 - Any violation to the limited scope of the estimate pass shall result in a fine to the vendor as well as the resident. Refer to the Schedule of Fees.
@@ -1579,3 +1578,4 @@ Pursuant to Article IV §4.2 of the CC&Rs, Association agents may impose sanctio
 Pursuant to Article X of the CC&Rs, Association agents may impose fines and sanctions for violations of the Collections Policy.
 
 Certain S.C. Code traffic offenses, including, but not limited to DUI, reckless driving, leaving the scene of a collision and handicapped parking provisions, are strictly enforceable on private property by law enforcement. Hearings on these S.C. Code traffic offenses will be in the appropriate Magistrate's Court or other cited jurisdiction Exhibit A – Monetary Fine Schedule.
+

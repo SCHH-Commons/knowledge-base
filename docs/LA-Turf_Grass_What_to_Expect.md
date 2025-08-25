@@ -1,10 +1,10 @@
----
+# Turf Grass: What to Expect
+
+<!--
 title: Turf Grass: What to Expect
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/turfgrasswhattoexpectargentii?doc_id=3080779&print=1&view=1
 date_retrieved: 2025-08-15
----
-
-# Turf Grass: What to Expect
+-->
 
 Sun City Hilton Head homes are built on pre-graded and stabilized pads, as environmentally mandated. These pads and the surrounding property must be stabilized to avoid eroding into natural areas. Stabilization is achieved by hydroseeding, which includes a mixture of aggressively growing turf types and weed seeds. Weeds from hydroseed continuously emerge over the first 12-18 months on newly installed lawns.
 
@@ -39,3 +39,4 @@ Managing an irrigation system is very important! Each Sun City home is equipped 
 Applied slow-phased release fertilizer begins feeding turf when soil surface temperatures consistently reach 55 degrees and continues to provide nutrients through August. Advanced polymer-coated products allow all necessary nutrients to be deposited in one efficient application. Depending on weather conditions during the growing season, supplements such as iron, magnesium and other micronutrients are applied to help the new sod. Both pre and post- emergent herbicides are applied to treat weeds. Newer sod experiences more weeds than established yards, however, no treatments are applied before the seams have grown in to prevent herbicides from direct contact with root systems. Once the seams have grown in it is considered a good benchmark that indicates the sod has rooted in and it is safe to apply herbicide.
 
 Granular and spray pre-emergent applications typically occur in October- November and February-March. Depending on conditions, a mid-summer treatment may be applicable. Pre-emergent is not good for root systems, which leaves a short window of opportunity to treat relatively new sod. For instance, lawns typically installed between April and August receive routine pre-emergent applications, whereas lawns installed in early fall and winter may miss both pre-emergent treatments.
+

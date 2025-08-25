@@ -1,10 +1,10 @@
----
+# COMMUNITY GROUPS
+
+<!--
 title: Community Groups
 source: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
 date_retrieved: 2025-08-15
----
-
-# COMMUNITY GROUPS
+-->
 
 Registered Community Groups are organizations that provide additional opportunities for residents to come together with mutual interests that further enhance their lives and the lifestyle of the community.
 
@@ -72,12 +72,12 @@ Each quarter, members select a local nonprofit charity to receive their collecti
 
 **Meetings:** 5 p.m. in Pinckney Hall. Registration and socializing at 4:30 p.m. See *SunSations* for details.
 
----
+
 
 ## AARP TAX AIDE PROGRAM
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2592)
 
----
+
 
 ## ALZHEIMER'S/DEMENTIA SUPPORT GROUP
 **Carol Mullen, certified dementia practitioner**  
@@ -95,12 +95,12 @@ Our mission is to support other caregivers on the journey helping a loved one wi
 
 Education and knowledge are the key to dealing with dementia, and support groups provide the necessary foundation and structure to let you know you're not alone on this journey. They also provide a safe place for caregivers to talk openly, share, and learn more about being better equipped with tools to help themselves.
 
----
+
 
 ## AMERICAN REVOLUTION ROUND TABLE
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2595)
 
----
+
 
 ## BREAST CANCER ROUNDTABLE
 **Penny Downing**  
@@ -119,7 +119,7 @@ Our mission is to educate, share information, and support women who have had bre
 
 **Meetings:** First Thursday of each month at 10 a.m. in the conference room of the Bluffton Medical Campus.
 
----
+
 
 ## BUCKEYE GROUP
 **Ron Gramlich, president**  
@@ -148,12 +148,12 @@ The Buckeye Group is one of the largest groups in Sun City and is comprised of m
 
 We cheer on the Buckeyes and other teams from Ohio. *O-H-I-O!*
 
----
+
 
 ## CAT COLONY GUARDIANS
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2599)
 
----
+
 
 ## COUPON CLIPPERS OF SUN CITY
 **Joan M. Berberich**  
@@ -170,7 +170,7 @@ We cheer on the Buckeyes and other teams from Ohio. *O-H-I-O!*
 
 Our group collects current and expired (within six months of the expiration date) manufacturer's coupons for our military families and delivers them to Hunter Army Airfield in Savannah. As fewer coupons are being printed, we need the entire community's participation. You may wonder if these coupons are really appreciated. All of our deliveries are greeted with smiles, hugs, and thank yous. With that, please drop off your unwanted coupons/coupon booklets at either 207 Deublu Court or 30 Heron’s Bill Drive. If you have any questions, please contact the coordinator.
 
----
+
 
 ## DÉCOR & MORE – FINDING YOUR STYLE
 **Pat Dwyer, president**  
@@ -187,7 +187,7 @@ Our group collects current and expired (within six months of the expiration date
 
 Décor & More provides opportunities to enhance your personal style of decorating and entertaining through group trips, informational seminars, and hands-on workshops.
 
----
+
 
 ## DEMOCRATS OF SUN CITY
 **Lynn Gerson, president**  
@@ -208,12 +208,12 @@ Join your many fellow Democrats and make new friends. Share your thoughts about 
 - Held on a Tuesday each month at 7 p.m.  
 - Look for announcements in *SunSations* for updates.
 
----
+
 
 ## FAMILY PROMISE OF BEAUFORT COUNTY
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2605)
 
----
+
 
 ## FRIENDS OF BACKPACK BUDDIES II: THE BOX PROGRAM
 **Molly Kirchgraber, membership**  
@@ -233,12 +233,12 @@ Please contact the membership chair to become a member.
 
 We are the Sun City partner of the Backpack Buddies program serving Beaufort and Jasper counties. We help support over 700 hungry schoolchildren by supplementing families’ food budgets with grocery vouchers and monthly 25-pound food boxes. Shelf-stable items such as cereal, pasta, soup, canned fruit, and vegetables are included in these boxes, which are packed by our volunteers.  
 
----
+
 
 ## THE FRIENDS OF GIRL SCOUTING IN BLUFFTON
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2607)
 
----
+
 
 ## FRIENDS OF LIFELONG LEARNING
 **John Pickens**  
@@ -255,7 +255,7 @@ We are the Sun City partner of the Backpack Buddies program serving Beaufort and
 
 We believe that lifelong learning is essential for our well-being and personal growth. At Friends of Lifelong Learning, our mission is to foster a community of individuals passionate about continuous education and personal growth. Stay in the know about upcoming learning opportunities!
 
----
+
 
 ## GFWC WOMAN'S LEAGUE OF THE LOWCOUNTRY
 **Lynn Macan, president**  
@@ -275,12 +275,12 @@ To join, please contact Ginny Easson.
 
 GFWC is an international women’s organization dedicated to enhancing the lives of others through "Living the Volunteer Spirit." We engage in a variety of community service projects within Sun City and throughout our local area. We have a committee structure that enables members to be involved in projects closest to their heart. Focus areas include education, arts and culture, health and wellness, and civic engagement, among others. We are fun-loving women who meet on the third Thursday of the month from September through May. We love to welcome new members and encourage you to join us in serving your community!
 
----
+
 
 ## HILTON HEAD REGIONAL HABITAT FOR HUMANITY
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2612)
 
----
+
 
 ## HUDSON VALLEY FRIENDS
 **Cynthia Zambri, president**  
@@ -300,7 +300,7 @@ Contact Phyllis Galimi, Treasurer, at [galimi26@aol.com](mailto:galimi26@aol.com
 
 Hudson Valley Friends’ mission is to promote, develop, and encourage relationships among people whose hometowns were adjacent to New York’s Hudson River. The landscape of the Hudson Valley consists of farms, orchards, vineyards, scenic mountains, magnificent estates, and the largest metropolitan city. It is a place rich in American history, the arts, music, and culture. We are planning awesome events for 2025, including seasonal celebrations, boat rides, theater events, and a day trip. 2025 will be another exciting year!
 
----
+
 
 ## ILLINOIS GROUP
 **Mike Lopeman, president**  
@@ -320,7 +320,7 @@ Become a member by filling out an application. Contact the president or membersh
 
 The Illinois Group is a social group formed mainly for former residents of Illinois, but we are open to all residents of Sun City. We try to have a social event each month along with our monthly breakfasts, dine-around groups, sports get-togethers, and new member receptions. We are simply a friendly group that likes to get together to have fun!
 
----
+
 
 ## IRISH HERITAGE SOCIETY
 **Vincent Welsh, president**  
@@ -340,7 +340,7 @@ Email [vpwelsh@gmail.com](mailto:vpwelsh@gmail.com) or [ann.rotunno@gmail.com](m
 
 The Irish Heritage Society is keeping alive our historic Celtic traditions. Monthly meetings explore Irish history, current events, culture, and literature through various speakers. We organize parties, including celebrating Saint Patrick's Day, a Celtic Harvest gathering, and a welcome back picnic. Special Interest Groups focus on Irish literature, history, movies, Irish dance, and traditional Irish singing.
 
----
+
 
 ## LA DOLCE VITA ITALIAN AMERICAN GROUP
 **John Lombino, president**  
@@ -358,7 +358,7 @@ Make checks payable to La Dolce Vita Italian American Group and remit to Connie 
 
 The La Dolce Vita Italian American Group is a fun club that meets monthly. We have dinner events with music for dancing.  We Sometimes have theme events depending on the time of year. Our purpose is to provide social gatherings to meet new people and have fun! You do not have to be Italian to join. We have over 400 members, many of whom are not Italian. We usually meet on weekends.
 
----
+
 
 ## LGBTQ GROUP OF THE LOWCOUNTRY
 **Robin Heath, co-chair**  
@@ -378,12 +378,12 @@ Please contact one of the chairs if interested in joining.
 
 This group is dedicated to the interests of the LGBTQ community, as well as our supporters and friends. Our purpose is to provide a safe and welcoming space to meet new people, create community, socialize, and have fun. We have monthly luncheons and additional activities throughout the year.
 
----
+
 
 ## LIONS GROUP
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2637)
 
----
+
 
 ## LONG ISLAND GROUP
 **Denise J. Brown, president**  
@@ -403,7 +403,7 @@ This group is dedicated to the interests of the LGBTQ community, as well as our 
 
 Welcome to the Long Island Group! We bring people together who have lived on Long Island (all boroughs). Join us if you wish to interact and reminisce with fellow Long Islanders. Social events include luncheons, dinners, theater, game nights, bowling, bocce, mini golf, and more.
 
----
+
 
 ## LOWCOUNTRY CIVIL WAR ROUND TABLE
 **Edward Flanagan, president**  
@@ -423,7 +423,7 @@ Contact the president or membership chair at [lowcountrycivilwar@yahoo.com](mail
 
 The Lowcountry Civil War Round Table is a historical organization based in Sun City Hilton Head. Founded in 2006, the group is dedicated to promoting the study and understanding of the American Civil War, with a particular focus on the events and people of the Lowcountry region of South Carolina. The Roundtable meets regularly to discuss various aspects of the Civil War, including battles, leaders, and the social and political climate of the time. Members include historians, educators, and other enthusiasts with a passion for the period.
 
----
+
 
 ## LOWCOUNTRY HAPPENINGS
 **Joe Passiment, president**  
@@ -441,7 +441,7 @@ This group is open to any Sun City resident interested in what is happening in B
 
 **Meetings:** Held on the third Friday of each month from 3–4 p.m.
 
----
+
 
 ## MEN'S CHRISTIAN FELLOWSHIP
 **George Lipsky**  
@@ -461,7 +461,7 @@ We meet on Wednesdays from 8:45–10:15 a.m. Note that we are not a Bible study.
 
 Please contact George or David for information. Bring your Bible and your coffee. Let us be salt and light to our community!
 
----
+
 
 ## MICHIGANDERS GROUP
 **Geoff Mather**  
@@ -470,12 +470,12 @@ Please contact George or David for information. Bring your Bible and your coffee
 
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~4927)  
 
----
+
 
 ## NEW ENGLAND GROUP
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2621)  
 
----
+
 
 ## NEW JERSEY GROUP
 **Steve Hoeckele, president**  
@@ -495,22 +495,22 @@ Contact Bill Palmer at [per1583@verizon.net](mailto:per1583@verizon.net) to join
 
 The New Jersey Group provides opportunities for full- and part-time Sun City residents who have lived, worked, or spent time in New Jersey to meet for fun activities and socializing. Members can share experiences and reminisce about the Garden State at monthly breakfasts, luncheons, and visits to local places of interest.
 
----
+
 
 ## NORTH CURRENTS
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2601)  
 
----
+
 
 ## PA/KEYSTONE GROUP
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2624)  
 
----
+
 
 ## R.C. BOAT ENTHUSIASTS
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2629)  
 
----
+
 
 ## RED SOX NATION
 **Chuck MacNeil, president**  
@@ -526,7 +526,7 @@ To join or renew, put a check for $5 per person payable to Red Sox Nation in Roy
 
 Red Sox Nation is a friendly group of people with diverse backgrounds and interests but share one thing in common: our fandom for a baseball team that either “ruins our summa” or brings us boundless joy. During the season, we get together for a game watch or two, exchange baseball stories, play trivia, have a meal or picnic, plan occasional road trips to a baseball game, and generally have fun. If you are a Red Sox fan, please consider joining us. Contact Chuck or Roy for more information.
 
----
+
 
 ## REPUBLICANS OF SUN CITY HILTON HEAD
 **Tim Wyld, president**  
@@ -550,7 +550,7 @@ Contact Margie for a membership application. Make checks payable to RSCHH and de
 
 If you are a proud American dedicated to preserving the “land of the free,” come join our group! We are guided by the US Constitution and Republican philosophy and principles. We meet monthly except for July and August with important local, state, and federal speakers. Check *SunSations* for meeting information.
 
----
+
 
 ## RHODE ISLANDERS
 **Roy Powers**  
@@ -561,7 +561,7 @@ If you are a proud American dedicated to preserving the “land of the free,” 
 
 If you lived, worked, vacationed, or went to school in Rhode Island or nearby Massachusetts or Connecticut, please join us to share your stories about "Little Rhody." You will meet someone who lived near you, went to school with you, or knows one of your relatives. To get on our mailing list or learn more about 2025 activities, please email Roy.
 
----
+
 
 ## ROMEO (Retired Old Men Eating Out)
 **Phil Wizwer**  
@@ -571,12 +571,12 @@ If you lived, worked, vacationed, or went to school in Rhode Island or nearby Ma
 
 The Sun City ROMEO (Retired Old Men Eating Out) group is a social breakfast organization that meets twice a month, on the first and third Wednesdays from September until the end of May. No membership dues are required. ROMEO is open to all residents of Sun City. We meet at the Bluffton Frankie Bones. Breakfast starts at 8 a.m. For $16, which includes tax and gratuities, one receives a hot buffet breakfast. If you would like to receive email notices of upcoming speakers or change your email for programs, email Phil Wizwer ([philwiz@aol.com](mailto:philwiz@aol.com)).
 
----
+
 
 ## SECOND HELPINGS
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2633)  
 
----
+
 
 ## SISTERS WITH A PURPOSE
 **Annelle Lewis, president**  
@@ -589,7 +589,7 @@ The Sun City ROMEO (Retired Old Men Eating Out) group is a social breakfast orga
 
 We welcome women of African American or African descent who are residents of Sun City Hilton Head. The organization provides social, physical, and emotional community support to our members.
 
----
+
 
 ## SOUTH CAROLINA LOWCOUNTRY MODEL YACHT ASSOCIATION
 **Greg Lanza, commodore**  
@@ -611,7 +611,7 @@ We are dedicated to model sailing and friendly competition. The sailing schedule
 - Thursdays at noon: DragonFlite 95 (39" long)  
 - Thursdays at 2 p.m.: East Coast 12 Meter (60" long)  
 
----
+
 
 ## THE SOUTHERNERS
 **Charlie Davis, chair**  
@@ -628,7 +628,7 @@ We are dedicated to model sailing and friendly competition. The sailing schedule
 
 The Southerners is a group made up of fun-loving folks from the South. We enjoy getting together two to three times a month for activities such as breakfast and dinner outings, bi-monthly Mexican Train, and occasionally taking short day trips to nearby cultural and historical sites. If you are from the South and would like to join our group, contact Charlie or Judy for membership details. And remember ... it is always a good day in the Lowcountry!
 
----
+
 
 ## VA/MD/DC GROUP
 **Cathy Bateman, president**  
@@ -643,7 +643,7 @@ The Southerners is a group made up of fun-loving folks from the South. We enjoy 
 
 Our group includes members from Virginia, Maryland, and Washington, D.C. Our mission is to form friendships and reminisce about Virginia, Maryland, and D.C. The group organizes a variety of events such as luncheons, golf cart scavenger hunts, field trips, and parties. If you are interested in joining this great group, send an email to Judy Savage Jones at [219rivergrass@gmail.com](mailto:219rivergrass@gmail.com). Anyone can join our group.
 
----
+
 
 ## WISCONSIN GROUP
 **Leslie Balliet, president**  
@@ -660,7 +660,7 @@ Our group includes members from Virginia, Maryland, and Washington, D.C. Our mis
 
 If you have lived, worked, or gone to school in Wisconsin, please join us. We are a social group that enjoys connecting with fellow Wisconsinites. We meet for whole group activities four or five times a year. Members interested in viewing Packer games as a group meet at a local bar/restaurant. Women meet monthly for lunch/happy hour or another planned activity.
 
----
+
 
 # WREATHS ACROSS AMERICA SUN CITY
 **Andy Hoerner**  
@@ -676,7 +676,7 @@ Wreaths Across America is a national project to place fresh evergreen remembranc
 
 Starting in October, Sun City neighborhoods raise funds to purchase wreaths which are $17 each. In 2023, more than $97,000 was raised by 54 neighborhoods. To join us next year, please contact Andy or Chris.
 
----
+
 
 # STAYING CONNECTED
 **Tom Hahn, president**  
@@ -692,3 +692,4 @@ Staying Connected is a 501(c)(3) not-for-profit organization operating exclusive
 We have volunteer opportunities in medical/grocery transportation, home visits, basic home maintenance, and our Resource Hub. Call our Hub at (843) 705-2259 for more information.  
 
 If you need help as a result of an unexpected accident or illness, call our Resource Hub to apply for membership.
+

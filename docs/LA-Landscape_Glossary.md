@@ -1,10 +1,10 @@
----
+# SCHH Landscape Glossary & Explanations
+
+<!--
 title: Landscape Glossary & Explanations
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/weedchart2024?doc_id=2877878&print=1&view=1
 date_retrieved: 2025-08-15
----
-
-# SCHH Landscape Glossary & Explanations
+-->
 
 ## Landscape Services
 
@@ -87,3 +87,4 @@ Circumstances to ‘not mow’ can include: areas that are too wet, recently ins
      - Apply monthly preventative fungicide treatments to help safeguard your turf.
      - Summit will apply a 1x application per year, if needed, to all turf areas affected by fungus But does not include spot treatments or individual service. Summit will apply by treating all lawns.
      - Apply fungicides immediately upon detection. If you treat immediately, this will help stop the fungus from spreading to more areas in your lawn.
+

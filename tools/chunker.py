@@ -103,8 +103,8 @@ FRONTMATTER_RE = re.compile(r"^\s*---\s*\n(.*?)\n---\s*\n", flags=re.S)
 SENT_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z0-9])', flags=re.M)
 
 SECTION_SPLITTER = RecursiveCharacterTextSplitter(
-    chunk_size=400,       # ~400 chars proxy
-    chunk_overlap=64,
+    chunk_size=1000,       # ~400 chars proxy
+    chunk_overlap=100,
     separators=["\n\n", "\n", " ", ""],
     length_function=len,
 )
@@ -224,7 +224,7 @@ def attach_relations_and_ids(docs: List[Document], path: str) -> List[Document]:
         d.metadata["updated_at"] = mtime
         d.metadata["size"] = len(d.page_content or "")
         d.metadata.setdefault("title", os.path.basename(path))
-        print(json.dumps(d.metadata, indent=2))  # Debug print
+        # print(json.dumps(d.metadata, indent=2))  # Debug print
 
     return docs + parents
 
@@ -479,6 +479,12 @@ def load_one(path: str,
     # 5) Hybrid sparse (if encoder present)
     bm25 = get_bm25_encoder()
 
+    '''
+    for doc in docs:
+        print(json.dumps(doc.metadata, indent=2))
+        print(doc.page_content + '\n\n---\n')  # Debug print
+    '''
+        
     # 6) Build Pinecone items
     items = []
     for d, e in zip(docs, embs):

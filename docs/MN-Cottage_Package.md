@@ -1,10 +1,10 @@
----
+# Managed Neighborhood Cottage Package
+
+<!--
 title: Managed Neighborhood Cottage Package
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/cottagepackagejune2024?doc_id=2637222&print=1&view=1
 date_retrieved: 2025-08-15
----
-
-# Managed Neighborhood Cottage Package
+-->
 
 Cottage ownership includes benefits which are provided to you by the Sun City Hilton Head Community Association as a result of the assessment fees that you pay. The Managed Neighborhoods Office manages and works in partnership with several vendors to assure delivery of these services as outlined in this package.
 
@@ -184,3 +184,4 @@ For questions or concerns regarding items pertaining to changes a resident would
 **Resident.Services@schhca.com • (843) 705-4000**
 
 For questions or concerns regarding items pertaining to Sun City Hilton Head Community Association, CC&RS, violations and more, please email or call Resident Services using the above listed contact information.
+

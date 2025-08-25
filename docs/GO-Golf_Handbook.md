@@ -1,10 +1,10 @@
----
+# Golf Handbook
+
+<!--
 title: Golf Handbook
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/golfhandbook2025final?doc_id=2471475&print=1&view=1
 date_retrieved: 2025-08-15
----
-
-# GOLF HANDBOOK
+-->
 
 Sun City Hilton Head offers a wide range of golf and fellowship opportunities for residents who play occasionally as well as those who wish to play every day. In addition to individual tee times, which can be booked online, there are a number of golf associations for men, women, couples, and 9- and 18-hole players. Review the Chartered Club listings in SunSations and on the community website for more information.
 
@@ -295,3 +295,4 @@ http://hilthead.chelseareservations.com
 
 **HANDICAP REPORTING**  
 http://www.ghin.com/
+

@@ -17,9 +17,9 @@ Use **dry-run again** if you want to (re)fit the BM25 encoder **before** upserti
 
    ```bash
    export INDEX_NAME=schh
-   export NAMESPACE=schh_v2
+   export NAMESPACE=schh
    export BM25_CORPUS_PATH=./bm25_corpus_schh.jsonl
-   python chunker.py --index_name "$INDEX_NAME" --namespace "$NAMESPACE" --dryrun data/
+   python ../tools/chunker.py --index_name "$INDEX_NAME" --namespace "$NAMESPACE" --dryrun .
    ```
 3. **Fit the BM25 encoder** from that JSONL:
 
@@ -30,12 +30,12 @@ Use **dry-run again** if you want to (re)fit the BM25 encoder **before** upserti
 4. **Real ingest** (dense + sparse in one pass):
 
    ```bash
-   python chunker.py --index_name "$INDEX_NAME" --namespace "$NAMESPACE" data/
+   python ../tools/chunker.py --index_name "$INDEX_NAME" --namespace "$NAMESPACE" .
    ```
 5. **Point the server** at the new namespace:
 
    ```bash
-   export DEFAULT_NAMESPACE=schh_v2
+   export DEFAULT_NAMESPACE=schh
    uvicorn serve:app --port 8080
    ```
 

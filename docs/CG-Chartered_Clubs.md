@@ -1,10 +1,10 @@
----
+# CHARTERED CLUBS
+
+<!--
 title: Chartered Clubs
 source: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
 date_retrieved: 2025-08-15
----
-
-# CHARTERED CLUBS
+-->
 
 Chartered Clubs are organizations that are sponsored by the Sun City Hilton Head Community Association Inc. to foster and promote opportunities for all Community Association members (residents) to pursue common interests in hobby, recreational, and cultural endeavors.
 
@@ -115,8 +115,6 @@ Visit the Bid Whist Club webpage and click on the membership registration form t
 
 Meetings are Tuesdays from 1–4 p.m. and Thursdays from 9 a.m.–noon at the Yemassee Crafts Center. Join us for a fun and easy card game. There are four players to a table, whereby the person across from you is your partner. The object of the game is for the partners to get a score of seven books before their opponents. The fun is the strategy in reaching this goal. Find out what a Boston means! Come watch, learn, and play!
 
----
-
 ### CANASTA CLUB
 **Karen Vito, president**  
 (631) 786-6703  
@@ -135,7 +133,7 @@ Any day the club meets.
 
 The Canasta Club meets Thursdays and Sundays from 12:30–4 p.m. in the Yemassee Crafts Center, Card Room across from the Purrysburg Fitness Center. We welcome residents who play any form of canasta. If you have a home game, bring your team and join the fun. There are many variations of canasta played by our members. We offer lessons to members for Super Samba on the second Thursday of every month. Contact any officer to reserve a seat. You may come and watch up to three times. We look forward to playing with you!
 
----
+
 
 ### CONTRACT BRIDGE CLUB
 **Lucia Crosby, president**  
@@ -153,7 +151,7 @@ Contact Diane Scipione, treasurer, at [retiredteacherdiane@email.com](mailto:ret
 
 All games are played on Tuesdays at 12:45 p.m., Wednesdays at 8:30 a.m., Thursdays at 8:30 a.m., and Friday partners at 6 p.m. at the Yemassee Crafts Center, Card Room. All games use Chicago scoring. Everyone is welcome.
 
----
+
 
 ### CRIBBAGE CLUB
 **Phil Hughes, president**  
@@ -170,12 +168,12 @@ All games are played on Tuesdays at 12:45 p.m., Wednesdays at 8:30 a.m., Thursda
 
 The Cribbage Club encourages players to test their skills in a friendly atmosphere of competition every week. All levels are welcome! We meet Fridays from 9:15–11:30 a.m. in the Yemassee Crafts Center, Card Room. Cribbage is a favorite of many, and our format gives you an opportunity to play five different opponents per session. Come join us in the spirit of friendly competition. New players are welcome to join anytime. We'll help you learn! Membership dues are $5 per year, but you can try it for free for up to three sessions. See you in the Card Room!
 
----
+
 
 ### DOMINOES CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2524)
 
----
+
 
 ### DUPLICATE BRIDGE CLUB OKATIE CREEK
 **Muriel Murphy, president**  
@@ -198,12 +196,12 @@ We welcome all bridge players interested in a friendly, competitive game. We are
 
 Hands are pre-dealt. Results and analysis are posted on the website following games. If you need a partner, check our webpage. Bridge lessons are available to learn about playing bridge or refreshing your bridge skills.
 
----
+
 
 ### EUCHRE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2525)
 
----
+
 
 ### GIN RUMMY CLUB
 **David Carey, president**  
@@ -216,7 +214,7 @@ Hands are pre-dealt. Results and analysis are posted on the website following ga
 
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2526)
 
----
+
 
 ### HEARTS CLUB
 **Marvin Jones, president**  
@@ -229,7 +227,7 @@ Hands are pre-dealt. Results and analysis are posted on the website following ga
 
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2527)
 
----
+
 
 ### MAH JONGG
 **Janice Czvornyek, president**  
@@ -253,7 +251,7 @@ We play in the Yemassee Crafts Center, Card Room on:
 
 Our Meet and Greet SIG meets on Fridays only from 12:30–3:30 p.m. Contact Bonnie Meltzer for information on lessons and SIG. Mah Jongg is an engaging social club that builds a competitive and community spirit. We look forward to seeing you!
 
----
+
 
 ### PINOCHLE CLUB
 **Norma Kelly, president**  
@@ -270,7 +268,7 @@ Our Meet and Greet SIG meets on Fridays only from 12:30–3:30 p.m. Contact Bonn
 
 Pinochle Club meets on Wednesdays and Sundays at 6 p.m., but many come as early as 5 p.m. for extra practice and camaraderie. We play double-deck pinochle and usually play for about three hours. Training is provided by Joe Esposito if you contact him before play. You will be expected to join after three lessons. Come and join the fun!
 
----
+
 
 ### RUMMIKUB-QWIRKLE CLUB
 **Carol Anson, president**  
@@ -319,7 +317,7 @@ All About Art is the club for fine arts to fun arts! It is a safe and fun place 
 
 As a member, you can display your art in the studio, and if you would like, you can sell it along with cards and prints.
 
----
+
 
 ### AMATEUR RADIO CLUB
 **Daryl Borgman, WB1DXN, president**  
@@ -339,7 +337,7 @@ Contact Chip Miller, KQ4JKI, at [kq4radio@gmail.com](mailto:kq4radio@gmail.com) 
 
 The Amateur Radio Club invites all members of the community who are licensed amateur radio operators and residents who have an interest in amateur (ham) radio to join the club. The club meets on the first Thursday of every month from September to June. The Amateur Radio Club is working on an emergency preparedness plan to assist our community during hurricanes and other events that interrupt normal power and communications. Visit our webpage, join us at a meeting, or come see us in action on Field Days on Jan. 25 and June 28 from 2–5 p.m. at Lake Somerset.
 
----
+
 
 ### AVANT GARDENERS
 **Barbara Radvillas, president**  
@@ -359,7 +357,7 @@ To join, visit the Avant Gardeners’ webpage listed below. The online membershi
 
 The club meets September through May and promotes horticultural interests in the art and practice of gardening and the preservation of our natural environment. Monthly meetings feature guest speakers and programs addressing issues of interest to Lowcountry gardeners. Master Gardeners are available to answer your questions. Special Interest Groups (SIGs) focus on specific topics and meet monthly. SIG participation is included in membership dues. Topics include Bonsai, Container Gardening, Designing with Flowers, Herbs, Orchids, and Gardening in the Lowcountry. The club also designs and maintains the Community Hummingbird and Butterfly Garden at Lake Somerset. Avant Gardeners is for all levels of gardening.
 
----
+
 
 ### BON APPÉTIT COOKING CLUB
 **Sherry Boyer, president**  
@@ -379,19 +377,19 @@ A link for the application is on the club webpage listed below.
 
 Do you like food? Make food? Eat food? We are the club for you! Learn about different cuisines and cooking techniques from guest speakers. Locally connected people share their expertise as business owners, chefs, and food professionals. They discuss their viewpoints, sometimes sharing demonstrations and small bites. We have special themed dinners, teas, and food events. To really get involved, join one of our many SIGs, including Global Cuisine, Brunch, Soups, Baking, and more to meet with a small group in homes or restaurants. Monthly general meetings are held September to May, generally on the second Thursday at 1 p.m.
 
----
+
 
 ### BOOK CLUBS
 
 #### BOOK CLUB, CHAPTER I
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2537)  
 
----
+
 
 #### BOOK CLUB, CHAPTER II
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2728)  
 
----
+
 
 #### BOOK CLUB, CHAPTER III
 **Lori Anthony, president**  
@@ -411,7 +409,7 @@ Interested book readers can attend up to three times before deciding if they wan
 
 We meet the third Wednesday of each month at 1 p.m. in the Hidden Cypress, New River/Coosaw Room.
 
----
+
 
 #### BOOK CLUB, CHAPTER IV
 **Phyllis Bloch, president**  
@@ -429,12 +427,12 @@ Contact Phyllis Bloch to join.
 
 We meet the first Thursday of the month at 2 p.m. in the Hidden Cypress, New River/Coosaw River Rooms. We have no meetings in July or August. We review both fiction and nonfiction, led by a facilitator. Guests are always welcome to come and meet the group for possible membership.
 
----
+
 
 #### BOOK CLUB, CHAPTER V
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2731)
 
----
+
 
 ### CERAMICS CLUB
 **Carie Bovill, president**  
@@ -452,7 +450,7 @@ Checks made payable to Sun City Coin Club should be given to the club treasurer.
 
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2538)
 
----
+
 
 ### COIN CLUB OF SUN CITY
 **Sharon McFetridge, president**  
@@ -472,7 +470,7 @@ Contact our treasurer for more information. All residents are always welcome.
 
 The club celebrates its 20th anniversary this year. We have 91 members. Meetings are at 7 p.m., usually on the third Thursday of every month in the Hidden Cypress, Savannah River Room. Every meeting has an educational component and a "Show & Tell." We email a monthly newsletter, hold a coin show in September, have two closed auctions, and host a December holiday party.
 
----
+
 
 ### COMPUTER CLUB
 **Sherry Conrad, president**  
@@ -490,7 +488,7 @@ Pay by activity card only through the electronic application at [www.suncitycc.o
 
 Our website is where you will find information about our club. An important item is finding help for your smartphone, tablet, or laptop—click/tap on the Help tab and then the Walk-in Help sub-tab. We have five SIGs: Apple, Computer Club Hour, Genealogy, Microsoft, and Sky Watchers. You can review when the club facility is open for help, classes, printing, and/or just to use a computer under our Calendar tab, then Open Room. In addition, we have conversion equipment for VHS to DVD, 8 mm film to a flash drive, and more. Come check us out!
 
----
+
 
 ### GLASSCRAFTERS CLUB
 **Nancy Rast, president**  
@@ -508,12 +506,12 @@ Payable by check only at the studio. New members must sign up for three required
 
 We teach the art of stained glass for beginners as well as seasoned artists. We offer three required classes designed to teach basic skills and improve skills and techniques necessary to create stained glass pieces. There are many patterns and samples in our studio, giving members a variety of ideas and a great time in doing this craft. We look forward to having you join us or stop in and look at all the beautiful work our members have made that is available for sale.
 
----
+
 
 ### KARAOKE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2542)
 
----
+
 
 ### OKATIE FARMERS CLUB
 **Glen Carnrick, president**  
@@ -529,7 +527,7 @@ We teach the art of stained glass for beginners as well as seasoned artists. We 
 
 Okatie Farmers Club is dedicated to the cultivation of vegetables, herbs, and maybe a few flowers too. We have more than 300 garden plots, and with a growing season of 12 months, our members are able to "farm" all year round. The club supports all members with resources, advice, and mentoring regardless of their previous experience, including new "farmers" as well as "farmers" who are not familiar with growing practices here in the Lowcountry.
 
----
+
 
 ### PHOTOGRAPHY CLUB
 **Stanley Holz, president**  
@@ -548,7 +546,7 @@ Join or renew online through our webpage, billed through activity card.
 
 The Photography Club is a club of over 400 photography enthusiasts who seek to improve their skills while sharing their experiences with other hobbyists. Equipment doesn’t really matter, and more than half of our members use a smartphone as their primary camera. We offer a huge variety of classes, covering everything from the basics of photography to advanced editing and composition techniques. Our state-of-the-art studio features professional quality photo printers, as well as matting and backing equipment. Our club's motto is “friends helping friends,” and we pride ourselves on making new members feel welcome.
 
----
+
 
 ### SEW WHAT STITCHES & CRAFTS CLUB
 **Brenda Struk, president**  
@@ -563,17 +561,17 @@ The Photography Club is a club of over 400 photography enthusiasts who seek to i
 
 Our club has several SIGs. Our newest is the Cricut SIG! Others include Beading, Knitting, Spinning/Weaving, Crocheting, Quilting/Basic Sewing, Hand Stitching, Machine Embroidery, Greeting Cards, Scrapbooking, Basketweaving, and Diamond Painting. Also, four groups donate items to local charities. Members may sell items at the boutique held the first Saturday of each month. Each group offers something different and is great fun! You learn something new every time you attend an activity. Also, make new friends! Go to one, go to all, it is up to you! We meet in the Yemassee Crafts Center, Sewing and Crafts rooms throughout the week.
 
----
+
 
 ### STAMP COLLECTORS CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2793)
 
----
+
 
 ### SUN CITY BIRD CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2535)
 
----
+
 
 ### WOODWORKERS & MODELMAKERS GUILD
 **Bob Bass, president**  
@@ -619,7 +617,7 @@ These groups study, in-depth, the books of both the Old and New Testaments. Curr
 
 We welcome visitors and invite you to join us for fellowship and the study of God's Word.
 
----
+
 
 ### BOAT & RV CLUB
 **Fred Horan, president**  
@@ -639,7 +637,7 @@ Use the membership form on the club webpage.
 
 Our club brings together boaters and RVers of all experience levels, meeting monthly from September through May. Our focus is to enjoy, help, and share knowledge and experiences amongst our membership for the benefit of all. Come meet others with similar lifestyle interests, share information, get advice, swap stories, and stay informed on yard issues that could affect your unit. Get access to a private online network and Facebook page for sharing information, trips, and tips, along with local vendors and service provider suggestions. We also assist Association management of the Yard by providing input on utilization, improvements, and maintenance.
 
----
+
 
 ### CAR CLUB
 **Dale Lucht, president**  
@@ -659,7 +657,7 @@ Dues payable by activity card or check to Sun City Car Club. Deliver to Gene Gar
 
 All residents are invited to join one of the most active clubs in Sun City. Our members are car lovers who've owned classics, now own a classic, or just enjoy reminiscing about cars. Members own classics, muscle cars, and modern performance cars, but you don’t have to own a car! We appeal to those who appreciate all things automotive and the camaraderie of fellow car lovers. Activities include monthly meetings as well as weekly driving activities for you to enjoy. The year culminates with our annual car show in October featuring interesting cars from club members.
 
----
+
 
 ### DOG AND PET LOVERS CLUB
 **Robin Bloom, president**  
@@ -679,7 +677,7 @@ Use the membership form at the club's webpage.
 
 Our charter is to promote responsible pet ownership, good pet behavior, and dog park etiquette; to share resources regarding pet health and safety; to promote the benefits of the dog park; to coordinate with Community Association maintenance personnel about dog park maintenance; and to promote local shelters and support nonprofit rescue organizations and charities.
 
----
+
 
 ### EAT SMART, LIVE LONGER
 **Maria Stevens, president**  
@@ -699,12 +697,12 @@ Visit the club webpage.
 
 The Eat Smart, Live Longer (ESLL) club is the largest whole food plant-based club in the South. We eat for our health, which means lots of fruits and vegetables. We follow nationally recognized doctors who often come and speak to our members about preventing or reversing heart disease, diabetes, and many autoimmune diseases. If you want to improve your health and feel good about yourself, feel free to visit one of our Thursday monthly meetings. Please check us out in *SunSations* Chartered Club News section for location each month.
 
----
+
 
 ### LUNCHEON CLUB I
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2555)
 
----
+
 
 ### LUNCHEON CLUB III
 **Kathi Blakey, president**  
@@ -722,7 +720,7 @@ Email the club president to ask questions or sign up.
 
 Luncheon Club III meets the second Wednesday of the months September through June at various restaurants. We pick numbers for seating so you have the opportunity to meet members. Hostesses volunteer and choose the restaurant and obtain a fixed price menu including tax and tip.
 
----
+
 
 ### MONEY TALKS CLUB
 **Greg Blackburn, president**  
@@ -742,7 +740,7 @@ Contact the membership chair to apply.
 
 The purpose of Money Talks Club (MTC) shall be to provide a non-partisan, fact-based, educational forum to inform, educate, and sometimes amuse—concerning economic, financial, and business topics affecting growth and prosperity in our globalized world, and appropriate for residents of this community. MTC is not an investment club. MTC does feature business, academic, financial, and legal speakers who are experts in a wide range of topics—local, regional, national, international—providing context and understanding for personal finance and investment. MTC holds in-person meetings in Pinckney Hall.
 
----
+
 
 ### THE QI CLUB
 **Cathy Smith, president**  
@@ -765,7 +763,7 @@ The Qi Club practices the internal healing arts of Qigong, Tai Chi, breath work,
 
 Sessions at Lake Somerset move to 10 a.m. on November 1.
 
----
+
 
 ### ROADRUNNERS MOTORCYCLE CLUB
 **Joe Albert, president**  
@@ -785,7 +783,7 @@ A club application can be obtained at the monthly club meeting or at any of our 
 
 The Roadrunners meet on the second Monday of each month at 5:30 p.m. at Riverbend Lodge. All who have an interest in motorcycles are welcome. In addition to our monthly meeting, we have two planned rides each week on Wednesdays and Saturdays. These rides depart from the Lake Somerset parking lot for a 60–90+ minute ride along our backroads to either breakfast or lunch (depending on the season). We also have two or more overnight trips during the year. Our rides are listed on the club's webpage. Please call or email for additional information about our club or upcoming rides.
 
----
+
 
 ### SHALOM CLUB OF SUN CITY
 **Mitch Sacks, president**  
@@ -808,7 +806,7 @@ We invite you to come to one of our programs to see what we are all about.
 
 **Meetings:** Second Wednesday of the month at 7 p.m., usually in Pinckney Hall.
 
----
+
 
 ### SOLOS OF SUN CITY
 **Michele Murphy, president**  
@@ -829,7 +827,7 @@ For annual membership renewal, visit:
 
 Solos is a Sun City social club for Singles. Our goal is to bring singles together for events and camaraderie. We meet for meals and special events like meet-and-greets, games, tours, picnics, socials, house parties, and Sun City community events. If you are single, this is the club to join to enjoy camaraderie and meeting other singles.
 
----
+
 
 ### SUN CITY BOOK EXCHANGE
 **Sandy Holz, president**  
@@ -853,7 +851,7 @@ The Sun City Book Exchange is located in Palmetto Commons. It’s available to a
 
 It has hundreds of books, audiobooks, videos, and puzzles available to and donated by Sun City residents. In addition to our primary location, we have satellite sites at the Lakehouse and Riverbend for the convenience of our residents. Stop by to see the latest arrivals or discover something new to read. This club is run by devoted and friendly volunteers who are happy to assist you and answer any questions you may have about the Book Exchange.
 
----
+
 
 ### SUN CITY ENVIRONMENTAL CLUB
 **Bob Donelson, president**  
@@ -868,7 +866,7 @@ It has hundreds of books, audiobooks, videos, and puzzles available to and donat
 
 The club’s mission is to research, educate, and promote actions that individuals can take to create a more sustainable environment. At four regular meetings each year, we schedule informative programs on environmentally related topics, for example on installing solar panels on your roof or on protecting Sun City’s lagoons. Throughout the year, we also arrange field trips to locations as varied as St. Phillips Island and the Beaufort-Jasper Water & Sewer Authority facilities. We are also the principal organizer of Sun City’s annual Earth Day event.
 
----
+
 
 ### SUN CITY VETERANS ASSOCIATION
 **Dale Dietz, commander**  
@@ -888,7 +886,7 @@ Application is available at the club webpage.
 
 We are an organization of veterans and patriots offering social, philanthropic activities, and patriotic events. Funds raised by selling advertising in Memorial Day and Veterans Day programs support local organizations assisting veterans. Sun City Veterans Association (SCVA) supports the local high school Junior ROTC programs, volunteers for highway cleanup, and many other committees. Monthly meetings feature speakers for military-focused topics and information about veterans' services. Finally, we promote gatherings such as annual dinners/dances, picnics, and monthly happy hours or breakfasts. Periodically, we organize trips of military interest. SCVA relies on volunteers and invites new members to share their talents in any committee or activity.
 
----
+
 
 ### TOWN SQUARE UPBEATS
 **Debi Boccanfuso, president**  
@@ -911,7 +909,7 @@ Meet your neighbors, have fun, and support a great cause! Town Square Upbeats me
 
 Weekly goodwill offerings and proceeds from fundraising activities held throughout the year support the Upbeats’ mission of sponsoring the US Marines Toys for Tots program. Toys collected throughout Sun City in November and funds raised from club activities during the year are given to the Marines at a beautiful dinner/dance in December.
 
----
+
 
 ### TRAVEL CLUB OF SUN CITY HILTON HEAD
 **Dianne Brooks, president**  
@@ -935,12 +933,12 @@ Join the Travel Club and unlock a world of exploration! Monthly general meetings
 ### BALLROOM DANCE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2565)
 
----
+
 
 ### LINE DANCE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2566)
 
----
+
 
 ### MUSIC GUILD
 **Ruben Ariola, president**  
@@ -968,7 +966,7 @@ The Sun City Music Guild is comprised of nine performance-oriented Music Interes
 
 MIGs perform at Sun City and local events, as well as in local senior and nursing facilities and churches. Rehearsal schedules and locations vary. Skill levels within MIGs vary significantly, from beginner to advanced. See the listings in *SunSations* for more information about each MIG, including contacts.
 
----
+
 
 ### SUN CITY SQUARES
 **Ken Kiurski, president**  
@@ -994,7 +992,7 @@ For details:
 - **Irish Folk Dance Group:** Meets from 9–10 a.m. in the Pinckney Hall Ballroom.  
 - **Rosemary Edge:** 705-1972 or [rosemaryedge@gmail.com](mailto:rosemaryedge@gmail.com).
 
----
+
 
 ### SUN CITY THEATRE
 **Jim Clelland, president**  
@@ -1012,7 +1010,7 @@ Visit [Sun City Theatre Membership](https://suncitytheatre.org/membership/).
 
 Sun City Theatre (SCT) has been entertaining residents of the community and surrounding area for 25 years, performing a broad mix of musicals, comedies, and drama. Some of our members have decades of experience on the stage and behind the scenes, while many others made theatre their passion after retiring in Sun City. No prior experience is required to be involved in all the activities of bringing our productions to the stage. The common goal of SCT is our devotion to providing our audiences with the finest entertainment and developing the deep friendships we establish by working closely together.
 
----
+
 
 ### SUNDANCERS
 **Laurie Rotondo, president**  
@@ -1032,7 +1030,7 @@ Sun City Theatre (SCT) has been entertaining residents of the community and surr
 
 The Sundancer club offers performing and non-performing classes in jazz, musical theater, lyrical, contemporary, tap, and ballet. Members dance in a supportive and friendly atmosphere taught by instructors from Bluffton School of Dance, Coastal Dance Academy, and local Sun City teachers. Club members have an opportunity to perform in an annual dance show with four other dance clubs.
 
----
+
 
 ### SYNCHRONETTES CLUB
 **Alane Peragallo, president**  
@@ -1062,12 +1060,12 @@ Location: Purrysburg Fitness Center indoor pool. The Synchronettes perform a sho
 ### BICYCLE CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2572)
 
----
+
 
 ### BILLIARD CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2573)
 
----
+
 
 ### BOCCE CLUB
 **Roy Powers, president**  
@@ -1089,7 +1087,7 @@ The Bocce Club has almost 2,100 members who play in 64 neighborhoods and open le
 
 Community bocce equipment for residents is kept in an unlocked storage tote located near the picnic table at the courts. All courts are available to Sun City residents. Residents must register at the Logo Building to reserve courts through the Chelsea system.
 
----
+
 
 ### COUPLES GOLF
 **Trish Brown, president**  
@@ -1109,7 +1107,7 @@ Join Couples Golf on our webpage.
 
 Couples Golf is a great way to meet couples who enjoy the game. We get together and play 9-hole and 18-hole events for fun and social interaction mixed in with golf competition. Play is on all the Sun City courses, and we play year-round. The 9-hole events are scheduled for twice a month, and 18-hole events are once a month. You can check out the 2025 schedule of events on the Couples Golf webpage. We look forward to having you play with us at our next 9-hole or 18-hole Couples Golf event.
 
----
+
 
 ### CROQUET CLUB
 **Judy Murray, president**  
@@ -1127,7 +1125,7 @@ The 2025 Online Membership Form is available on the club webpage. Complete the f
 
 The croquet lawns are located at Town Square and are open every day except Monday. Scheduled play is posted on the club bulletin board at the lawns. Visitors are always welcome, but especially every Sunday from 1–3 p.m. Our game combines strategy, tactics, and shot-making ability. The sport of croquet is gender-neutral; women and men compete equally. Come down to the lawns at Town Square for camaraderie and friendly competition.
 
----
+
 
 ### FISHING & HUNTING CLUB
 **Joe Albert, president**  
@@ -1147,7 +1145,7 @@ Visit the club webpage.
 
 Looking for fun in fishing? Monthly meetings are usually the first Monday of the month at the Lakehouse. If you are new to fishing in Sun City lagoons, we will teach you through our Fishing with a Friend Program. We have quarterly and semi-annual freshwater and saltwater fishing tournaments and outings, some with cash prizes. Food events are held several times throughout the year. Door prizes are given at our monthly meetings.
 
----
+
 
 ### HORSESHOE CLUB
 **Bill Wilkey, president**  
@@ -1161,12 +1159,12 @@ Looking for fun in fishing? Monthly meetings are usually the first Monday of the
 
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2578)
 
----
+
 
 ### KAYAK CLUB OF SUN CITY
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134~2579)
 
----
+
 
 ### MEN'S NINE HOLE GOLF CLUB
 **Jim Chapman, president**  
@@ -1182,7 +1180,7 @@ For dues and membership information, please visit our webpage and follow the ins
 
 Our club offers an opportunity for men who enjoy playing nine holes of golf to play with guaranteed tee times each Monday morning, alternating between Okatie Creek, Hidden Cypress, and Argent Lakes golf courses. Each Monday, every golfer may opt for competition (a $3 fee applies) or non-competition golf. The format for each Monday’s competition varies from week to week. Information is available on our webpage and via email each week.
 
----
+
 
 ### MEN'S 18 HOLE GOLF ASSOCIATION
 **Andrew Rotunno, membership director**  
@@ -1200,7 +1198,7 @@ Join by either emailing the membership director, who will provide an online memb
 
 The MGA is a men’s 18-hole golf group that provides golf opportunities for Sun City Hilton Head residents. Our organization has tournaments scheduled almost every Wednesday. There is a $5 fee to play in the tournament, with all fees collected returned to the winning participants as pro shop credits. Tournaments are rotated on all three of our courses with several tee box options to accommodate players of different skill levels, with a variety of games played from week to week. We also conduct three major tournaments and two special tournaments each year, as well as an annual membership banquet.
 
----
+
 
 ### PICKLEBALL CLUB
 **Rick Wright, president**  
@@ -1219,7 +1217,7 @@ Visit our webpage and complete and submit a Membership Form. There, you will fin
 
 All courts are available to Sun City residents from 7 a.m.–10 p.m. Residents must register at the Logo Building and then reserve courts through the Chelsea system.
 
----
+
 
 ### SCHH GOLF CLUB
 **Steve Courcy, president**  
@@ -1232,7 +1230,7 @@ Visit our website, [SCHH Golf Club](https://www.schhgolfclub.com), to join, or e
 
 SCHH Golf Club’s mission is to promote the enjoyment of golf in Sun City and to communicate efficiently and effectively with all golfers and golf associations. A GHIN membership with the USGA is included with membership in the club. If you are a casual golfer and do not want a handicap, we encourage you to join as a social member to receive our newsletter and participate in our events such as the St. Patrick's and St. Valentines Day tournaments. The club board meets on the second Tuesday of odd-numbered months. Volunteer opportunities are available on the handicap, rules, and events committees.
 
----
+
 
 ### SILVER STRIDERS
 **Phil Perine, vice president (walkers)**  
@@ -1252,22 +1250,22 @@ Membership application and instructions are on the webpage.
 
 The purpose of Silver Striders club is to improve health, meet new people, and be part of an active community. The club offers three weekly opportunities for running and walking in groups onsite. We also offer off-site beach walks and special walks to interesting locations for our members. After these walks/runs, we often socialize. Some members participate in charitable or competitive walks/runs held offsite, and the club updates members on local events. We hold quarterly meetings where we often provide speakers who share interesting information on relevant topics. We welcome new members and look forward to welcoming you.
 
----
+
 
 ### SOFTBALL CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2585)
 
----
+
 
 ### SUN CITY SWIM CLUB
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2586)
 
----
+
 
 ### SUN CITY TENNIS ASSOCIATION
 **Webpage:** [Link](https://suncityhiltonhead.org/GroupPage/46134-2588)
 
----
+
 
 ### TABLE TENNIS CLUB
 **Dan Constanza, president**  
@@ -1287,7 +1285,7 @@ Membership applications and instructions are on the webpage and in the Table Ten
 
 The Table Tennis Club offers a friendly atmosphere for fun and/or competitive games of “ping pong.” All skill levels from beginner to advanced are welcome. Stop in and say hi and check out our great table tennis room. Room schedules can be found on the website or picked up in the table tennis room.
 
----
+
 
 ### VOLLEYBALL CLUB
 **Brian Delaurentis, president**  
@@ -1312,7 +1310,7 @@ Join by emailing [schhvolleyballclub@gmail.com](mailto:schhvolleyballclub@gmail.
 
 New players and guests are always welcome!
 
----
+
 
 ### WOMEN’S 9 HOLE GOLF CLUB
 **Bebe Blount, president**  
@@ -1334,7 +1332,7 @@ We enjoy playing nine holes of golf every Monday morning, rotating between the t
 
 While we welcome all levels of skill, members are required to have an active GHIN# and an established handicap index.
 
----
+
 
 ### WOMEN’S GOLF ASSOCIATION
 **Stephanie Abbott, president**  
@@ -1354,3 +1352,4 @@ We are a group of Sun City women who enjoy 18 holes of semi-competitive (but fun
 There is a $4 fee payable on the days you play, plus green fees. Before joining our group, every member must have a GHIN handicap established through the Sun City Golf Club. All handicaps are welcome, but a maximum handicap of 36 is used for weekly games.  
 
 Please see our webpage on [Sun City Hilton Head](https://www.suncityhiltonhead.org) under Clubs and Groups, Sports, to join.
+

@@ -1,10 +1,10 @@
----
+# Sun City Hilton Head Emergency Guidelines for Residential Emergency Permits and Inspections
+
+<!--
 title: Sun City Hilton Head Emergency Guidelines for Residential Emergency Permits and Inspections
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/emergencyguidelines2024?doc_id=2545138&print=1&view=1
 date_retrieved: 2025-08-15
----
-
-# Sun City Hilton Head Emergency Guidelines for Residential Emergency Permits and Inspections
+-->
 
 **Please be advised, the responsibility for obtaining permits and re-build of residential property is that of the homeowner.**
 
@@ -169,3 +169,4 @@ Sun City Hilton Head — Single Use License vi Nov 1, 2010
 Name: ________________________________
 
 Title: ________________________________
+

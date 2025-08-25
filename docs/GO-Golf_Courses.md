@@ -4,7 +4,7 @@ source:
 date_retrieved: 2025-08-15
 ---
 
-## Sun City Hilton Head Golf Courses
+# Sun City Hilton Head Golf Courses
 
 Sun City Hilton Head features one of the best golf experiences in the Hilton Head area. Sun City’s courses are three of the most well-maintained courses in the Lowcountry. Each of Sun City’s three courses feature picturesque marshland and innovative greens design.
 
@@ -12,7 +12,7 @@ Located inside Sun City Hilton Head, the Sun City Golf experience is a short 20 
 
 The three Sun City Hilton Head courses are as diverse as South Carolina itself, each woven into the Lowcountry terrain with a unique vision and infused with the impeccable quality that is Troon Golf hallmark.
 
-## Argent Lakes
+## Argent Lakes Golf Course
 
 Sun City Hilton Head is home to the only premier executive course in the Lowcountry. Built for your pleasure, Argent Lakes Golf Course features the fun and length of an executive course maintained in the style of a championship course.
 
@@ -87,7 +87,7 @@ The tables below represent the scorecard for the Argent Lakes course, providing 
 | Par          |   4 |   3 |   3 |   5 |   3 |   3 |   3 |   3 |   4 |   31 |    61 |
 
 
-## Okatie Creek
+## Okatie Creek Golf Course
 
 Described as classic and traditional by its designer, PGA Tour professional Mark McCumber, the Okatie Creek Golf Club uses of the natural contours of the land as it winds through abundant Southern pines and marshes. Five sets of tees along with some of the best greens in the Lowcountry allow players of all abilities to enjoy their round, and the choice of “attack or relax” for their style of play.
 
@@ -165,7 +165,7 @@ The tables below represent the scorecard for the Okatie Creek course, providing 
 | Par          |   4 |   4 |   3 |   5 |   4 |   5 |   4 |   3 |   4 |   36 |    72 |
 
 
-## Hidden Cyprus
+## Hidden Cyprus Golf Course
 
 The Hidden Cypress course at the Sun City features 6,946 yards of a unique golf challenge. Golfers love the beauty of the course, but also face a unique challenge of menacing greens and undulating greens.
 
@@ -240,3 +240,4 @@ The tables below represent the scorecard for the Hidden Cypress course, providin
 | Men's Hdcp.  |   8 |   6 |  16 |   4 |   2 |  18 |  15 |  12 |  10 |      |       |
 | Ladies Hdcp. |  12 |   6 |  18 |   4 |   2 |  14 |  10 |  16 |   8 |      |       |
 | Par          |   4 |   4 |   3 |   5 |   4 |   5 |   4 |   3 |   4 |   36 |    72 |
+

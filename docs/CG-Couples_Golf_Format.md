@@ -1,10 +1,10 @@
----
+# Couples Golf Format Descriptions
+
+<!--
 title: Couples Golf Format Descriptions
 source: 
 date_retrieved: 2025-08-15
----
-
-# Couples Golf Format Descriptions
+-->
 
 > ALL SCORES ARE POSTED TO GHIN BY GOLF GENIUS UNLESS OTHERWISE NOTED 
 ALWAYS RECORD GROSS SCORES - GOLF GENIUS CALCULATES NET SCORES 
@@ -109,3 +109,4 @@ On the next hole, start the process again with both teeing off and then alternat
 Both players tee off, then switch and play each other’s tee shot. Continue to play that ball throughout the hole. The team score is the best  net score of the couple. You must play the ball hit from the tee box, no switching balls. 
 If a player hits a tee shot that results in a penalty stroke, the partner who plays the ball in takes that penalty. This event is flighted and handicapped 100% 
 Scores are not posted.
+

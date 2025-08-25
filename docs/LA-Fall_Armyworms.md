@@ -1,10 +1,10 @@
----
+# Fall Armyworms: Overview and Control in Sun City Hilton Head
+
+<!--
 title: Fall Armyworms: Overview and Control in Sun City Hilton Head
 source: ChatGPT
 date_retrieved: 2025-08-15
----
-
-# Fall Armyworms: Overview and Control in Sun City Hilton Head
+-->
 
 Fall armyworms (*Spodoptera frugiperda*) are destructive caterpillars that can devastate lawns in a very short time – turning a green yard into a brown, chewed-up wasteland seemingly overnight. Sun City Hilton Head (SCHH) and surrounding Lowcountry areas are currently seeing widespread infestations of these pests, as many residents have noticed sudden lawn damage. Below is a detailed overview of the fall armyworm and practical information on how homeowners in the SCHH area can identify, manage, and treat infestations in their lawns.
 
@@ -100,8 +100,6 @@ If armyworms are a recurrent issue in your community, homeowners might consider 
 
 Additionally, simple measures like **reducing outdoor lighting at night** during midsummer may help a bit – adult moths are attracted to bright lights, so limiting unnecessary lights could theoretically reduce egg-laying in your area. Removing weedy grasses or keeping lawns trimmed might also make yards slightly less attractive for egg-laying. However, no preventive measure is foolproof short of chemical barriers. Vigilance and early detection each year are the best defense.
 
----
-
 **In summary,** fall armyworms are a serious turf pest in the SCHH area, but armed with the knowledge above, homeowners can identify them quickly and take action. If your lawn is under attack, confirm the culprit, then promptly treat with an appropriate insecticide to halt the feeding frenzy. While community-wide professional treatments are planned, you have tools at your disposal to save your lawn in the meantime. With quick intervention and proper lawn care after the fact, your grass should recover from even a heavy armyworm outbreak. Stay alert each summer, and you can keep these “armies” from marching across your yard in the future.
 
 **Sources:**
@@ -113,3 +111,4 @@ Additionally, simple measures like **reducing outdoor lighting at night** during
 * NC State Extension – *Fall Armyworm in Turf*.
 * UGA Cooperative Extension – *Fall Armyworm in Georgia: Biology and Management in Turfgrass*.
 * **(Images)** Fall armyworms feeding on turf, causing brown “scalped” patches; Clemson HGIC (B. McCarty).
+

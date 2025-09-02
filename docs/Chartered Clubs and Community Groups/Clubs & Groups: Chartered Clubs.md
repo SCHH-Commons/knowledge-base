@@ -1,10 +1,8 @@
-# CHARTERED CLUBS
+source: [https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025)
 
-<!--
-title: Chartered Clubs
-source: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
-date_retrieved: 2025-08-15
--->
+---
+
+# CHARTERED CLUBS
 
 Chartered Clubs are organizations that are sponsored by the Sun City Hilton Head Community Association Inc. to foster and promote opportunities for all Community Association members (residents) to pursue common interests in hobby, recreational, and cultural endeavors.
 

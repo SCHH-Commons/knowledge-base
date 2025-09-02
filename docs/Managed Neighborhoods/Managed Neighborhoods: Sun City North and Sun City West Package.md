@@ -1,10 +1,8 @@
-# Managed Neighborhoods Sun City North & Sun City West Package
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/suncitynorthandsuncitywestpackage2025?doc_id=2880902&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/suncitynorthandsuncitywestpackage2025?doc_id=2880902&print=1&view=1)
 
-<!--
-title: Managed Neighborhoods Sun City North & Sun City West Package
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/suncitynorthandsuncitywestpackage2025?doc_id=2880902&print=1&view=1
-date_retrieved: 2025-08-15
--->
+---
+
+# Managed Neighborhoods Sun City North & Sun City West Package
 
 Several aspects of your landscape maintenance are provided to you by the Sun City Hilton Head Community Association through your benefit assessment fees. The Managed Neighborhoods Office manages and works in partnership with BrightView to assure delivery of these services as outlined in the landscape maintenance scope of work.
 

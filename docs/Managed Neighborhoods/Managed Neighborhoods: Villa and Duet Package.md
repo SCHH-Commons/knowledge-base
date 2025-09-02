@@ -1,10 +1,8 @@
-# Managed Neighborhood Villa and Duet Package
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/villaandduetpackage2024?doc_id=2637228&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/villaandduetpackage2024?doc_id=2637228&print=1&view=1)
 
-<!--
-title: Managed Neighborhood Villa and Duet Package
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/villaandduetpackage2024?doc_id=2637228&print=1&view=1
-date_retrieved: 2025-08-15
--->
+---
+
+# Managed Neighborhood Villa and Duet Package
 
 Villa and Duet ownership includes benefits which are provided to you by the Sun City Hilton Head Community Association as a result of the assessment fees that you pay. The Managed Neighborhoods Office manages and works in partnership with several vendors to assure delivery of these services as outlined in this package.
 

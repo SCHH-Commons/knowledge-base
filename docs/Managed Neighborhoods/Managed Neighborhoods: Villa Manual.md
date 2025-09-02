@@ -1,10 +1,8 @@
-# Sun City Hilton Head Villa Owner’s Manual
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1)
 
-<!--
-title: Villa Owner’s Manual
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1
-date_retrieved: 2025-08-15
--->
+---
+
+# Sun City Hilton Head Villa Owner’s Manual
 
 **Developed jointly by Management and Villa Neighborhood Representatives**
 

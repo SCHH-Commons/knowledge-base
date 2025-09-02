@@ -1,10 +1,8 @@
-# Chartered Clubs and Registered Community Groups
+source: [https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025)
 
-<!--
-title: Chartered Clubs and Registered Community Groups
-source: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
-date_retrieved: 2025-08-15
--->
+---
+
+# Chartered Clubs and Registered Community Groups
 
 Living in Sun City Hilton Head is all about embracing the lifestyle this community offers, which includes a lively, robust and exciting social scene constantly buzzing with activity. Sun City’s Chartered Clubs and Registered Community Groups provide residents with endless ways to meet friends, play sports, get creative, give back to the greater community and so much more.
 

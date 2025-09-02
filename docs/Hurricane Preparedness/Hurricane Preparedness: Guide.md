@@ -1,10 +1,8 @@
-# Sun City Hilton Head Hurricane Preparedness Guide
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1)
 
-<!--
-title: Hurricane Preparedness Guide
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1
-date_retrieved: 2025-08-15
--->
+---
+
+# Sun City Hilton Head Hurricane Preparedness Guide
 
 In October 2016, Sun City Hilton Head experienced its first hurricane in its 21-year history when the Lowcountry was struck by Hurricane Matthew. Aside from some flooding, downed trees and extensive damage at the Nature Trail, Sun City was mostly spared the devastation seen in most of Beaufort and Jasper counties. However, it was a stark reminder of the serious threat hurricanes pose to this slice of paradise.
 

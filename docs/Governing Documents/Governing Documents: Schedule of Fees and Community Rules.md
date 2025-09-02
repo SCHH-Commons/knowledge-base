@@ -1,10 +1,8 @@
-# Schedule of Fees & Community Rules 
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopywithaddendum?doc_id=2994591&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopywithaddendum?doc_id=2994591&print=1&view=1)
 
-<!--
-title: Schedule of Fees & Community Rules
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopywithaddendum?doc_id=2994591&print=1&view=1
-date_retrieved: 2025-08-15
--->
+---
+
+# Schedule of Fees & Community Rules 
 
 ## Budget Summary 2025
 

@@ -1,10 +1,8 @@
-# Sun City Hilton Head Design Guidelines
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1)
 
-<!--
-title: Sun City Hilton Head Design Guidelines
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1
-date_retrieved: 2025-08-15
--->
+---
+
+# Sun City Hilton Head Design Guidelines
 
 ## 1.1 Welcome to Sun City Hilton Head
 

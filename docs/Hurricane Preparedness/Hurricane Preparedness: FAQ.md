@@ -1,8 +1,6 @@
-<!--
-title: Hurricane Frequently Asked Questions
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1
-date_retrieved: 2025-08-15
--->
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1)
+
+---
 
 # Hurricane Frequently Asked Questions
 

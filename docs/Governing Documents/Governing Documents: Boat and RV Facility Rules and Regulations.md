@@ -1,10 +1,8 @@
-# Boat/RV Facility Rules and Regulations
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/boatandrvrulesandregulationsrev_dec2024final?doc_id=2907916&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/boatandrvrulesandregulationsrev_dec2024final?doc_id=2907916&print=1&view=1)
 
-<!--
-title: Boat/RV Facility Rules and Regulations
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/boatandrvrulesandregulationsrev_dec2024final?doc_id=2907916&print=1&view=1
-date_retrieved: 2025-08-15
--->
+---
+
+# Boat/RV Facility Rules and Regulations
 
 The Sun City Hilton Head Boat/RV Facility is a Community Association-owned amenity provided to eligible community residents. This amenity is intended to be utilized as a parking area, not to be used as a storage facility.
 

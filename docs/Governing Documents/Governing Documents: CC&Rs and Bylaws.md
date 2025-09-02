@@ -1,10 +1,8 @@
-# Covenants, Conditions and Restrictions (CC&Rs)
+source: [https://suncityhiltonhead.org/HOA/assn46134/images/CCR_Bylaws_searchable.pdf](https://suncityhiltonhead.org/HOA/assn46134/images/CCR_Bylaws_searchable.pdf)
 
-<!--
-title: Covenants, Conditions and Restrictions (CC&Rs)
-source: https://suncityhiltonhead.org/HOA/assn46134/images/CCR_Bylaws_searchable.pdf
-date_retrieved: 2025-08-15
--->
+---
+
+# Covenants, Conditions and Restrictions (CC&Rs)
 
 **THIS DECLARATION CONTAINS AN ARBITRATION AGREEMENT SUBJECT TO THE SOUTH CAROLINA ARBITRATION ACT, SECTION 15-48-10, et seq. CODE OF LAWS OF SOUTH CAROLINA, 1976**
 

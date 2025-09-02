@@ -1,10 +1,8 @@
-# Custom Home Design Guidelines for Riverbend Neighborhood
+source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesriverbendredline?doc_id=3307733&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesriverbendredline?doc_id=3307733&print=1&view=1)
 
-<!--
-title: Custom Home Design Guidelines for Riverbend Neighborhood
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesriverbendredline?doc_id=3307733&print=1&view=1
-date_retrieved: 2025-08-15
--->
+---
+
+# Custom Home Design Guidelines for Riverbend Neighborhood
 
 ## 1.0 VISION AND ARCHITECTURAL REVIEW
 

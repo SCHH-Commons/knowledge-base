@@ -1,7 +1,5 @@
----
-title: News Sources
-source: https://suncityhiltonhead.org/Page/46134~1003945/News-Sources
-date_retrieved: 2025-08-15
+source: [https://suncityhiltonhead.org/Page/46134~1003945/News-Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources)
+
 ---
 
 # News Sources

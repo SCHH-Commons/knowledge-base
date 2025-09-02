@@ -1,10 +1,10 @@
-# Fall Armyworms: Overview and Control in Sun City Hilton Head
-
-<!--
+---
 title: Fall Armyworms: Overview and Control in Sun City Hilton Head
 source: ChatGPT
 date_retrieved: 2025-08-15
--->
+---
+
+# Fall Armyworms: Overview and Control in Sun City Hilton Head
 
 Fall armyworms (*Spodoptera frugiperda*) are destructive caterpillars that can devastate lawns in a very short time – turning a green yard into a brown, chewed-up wasteland seemingly overnight. Sun City Hilton Head (SCHH) and surrounding Lowcountry areas are currently seeing widespread infestations of these pests, as many residents have noticed sudden lawn damage. Below is a detailed overview of the fall armyworm and practical information on how homeowners in the SCHH area can identify, manage, and treat infestations in their lawns.
 

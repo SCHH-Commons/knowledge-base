@@ -1,5 +1,5 @@
-source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1)
-
+---
+source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1
 ---
 
 # Hurricane Frequently Asked Questions

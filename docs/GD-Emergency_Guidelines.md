@@ -1,5 +1,5 @@
-source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/emergencyguidelines2024?doc_id=2545138&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/emergencyguidelines2024?doc_id=2545138&print=1&view=1)
-
+---
+source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/emergencyguidelines2024?doc_id=2545138&print=1&view=1
 ---
 
 # Sun City Hilton Head Emergency Guidelines for Residential Emergency Permits and Inspections

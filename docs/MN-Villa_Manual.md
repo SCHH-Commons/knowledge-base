@@ -1,5 +1,5 @@
-source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1)
-
+---
+source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1
 ---
 
 # Sun City Hilton Head Villa Owner’s Manual

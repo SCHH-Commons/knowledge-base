@@ -1,10 +1,10 @@
-# Couples Golf Format Descriptions
-
-<!--
+---
 title: Couples Golf Format Descriptions
 source: 
 date_retrieved: 2025-08-15
--->
+---
+
+# Couples Golf Format Descriptions
 
 > ALL SCORES ARE POSTED TO GHIN BY GOLF GENIUS UNLESS OTHERWISE NOTED 
 ALWAYS RECORD GROSS SCORES - GOLF GENIUS CALCULATES NET SCORES 

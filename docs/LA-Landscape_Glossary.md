@@ -1,10 +1,10 @@
-# SCHH Landscape Glossary & Explanations
-
-<!--
+---
 title: Landscape Glossary & Explanations
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/weedchart2024?doc_id=2877878&print=1&view=1
 date_retrieved: 2025-08-15
--->
+---
+
+# SCHH Landscape Glossary & Explanations
 
 ## Landscape Services
 

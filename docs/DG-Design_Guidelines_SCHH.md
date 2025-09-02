@@ -1,5 +1,5 @@
-source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1)
-
+---
+source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1
 ---
 
 # Sun City Hilton Head Design Guidelines

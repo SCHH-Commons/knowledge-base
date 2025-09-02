@@ -1,5 +1,5 @@
-source: [https://suncityhiltonhead.org/HOA/assn46134/images/CCR_Bylaws_searchable.pdf](https://suncityhiltonhead.org/HOA/assn46134/images/CCR_Bylaws_searchable.pdf)
-
+---
+source: https://suncityhiltonhead.org/HOA/assn46134/images/CCR_Bylaws_searchable.pdf
 ---
 
 # Covenants, Conditions and Restrictions (CC&Rs)

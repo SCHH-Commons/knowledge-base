@@ -1,10 +1,10 @@
-# Turf Grass: What to Expect
-
-<!--
+---
 title: Turf Grass: What to Expect
 source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/turfgrasswhattoexpectargentii?doc_id=3080779&print=1&view=1
 date_retrieved: 2025-08-15
--->
+---
+
+# Turf Grass: What to Expect
 
 Sun City Hilton Head homes are built on pre-graded and stabilized pads, as environmentally mandated. These pads and the surrounding property must be stabilized to avoid eroding into natural areas. Stabilization is achieved by hydroseeding, which includes a mixture of aggressively growing turf types and weed seeds. Weeds from hydroseed continuously emerge over the first 12-18 months on newly installed lawns.
 

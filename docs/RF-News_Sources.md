@@ -1,5 +1,5 @@
-source: [https://suncityhiltonhead.org/Page/46134~1003945/News-Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources)
-
+---
+source: https://suncityhiltonhead.org/Page/46134~1003945/News-Sources
 ---
 
 # News Sources

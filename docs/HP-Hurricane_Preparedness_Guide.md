@@ -1,5 +1,5 @@
-source: [https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1](https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1)
-
+---
+source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1
 ---
 
 # Sun City Hilton Head Hurricane Preparedness Guide

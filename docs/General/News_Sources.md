@@ -1,3 +1,7 @@
+---
+source: https://suncityhiltonhead.org/Page/46134~1003945/News-Sources
+---
+
 # News Sources
 
 ## Local and National Election Information
@@ -48,7 +52,4 @@ Text your zip code to 888777 to sign up for Nixle. Local officials use this text
 
 [Beaufort-Jasper Water & Sewer Authority](http://www.bjwsa.org/)  
 [Dominion Energy](http://www.sceg.com/)  
-[Palmetto Electric](http://www.palmetto.coop/)#
-
----
-
+[Palmetto Electric](http://www.palmetto.coop/)# 

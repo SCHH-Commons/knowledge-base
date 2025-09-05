@@ -1,3 +1,8 @@
+---
+title: Sun City Hilton Head Golf Courses
+source: https://schh-commons.github.io/knowledge-base/docs/GO-Golf_Courses
+---
+
 # Sun City Hilton Head Golf Courses
 
 Sun City Hilton Head features one of the best golf experiences in the Hilton Head area. Sun City’s courses are three of the most well-maintained courses in the Lowcountry. Each of Sun City’s three courses feature picturesque marshland and innovative greens design.

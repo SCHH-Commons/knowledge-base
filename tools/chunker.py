@@ -460,11 +460,13 @@ def load_one(path: str,
     default_url = meta_src.get("url")
     if not default_url and meta_src.get("docid"):
         default_url = f"https://suncityhiltonhead.org/ResourceCenter/Download/46134/{name.lower()}?doc_id={meta_src['docid']}&print=1&view=1"
-    gh_url = f"https://github.com/SCHH-Commons/knowledge-base/blob/main/{path}"
+    # gh_url = f"https://github.com/SCHH-Commons/knowledge-base/blob/main/{path}"
+    gh_url = f"https://SCHH-Commons.github.io/knowledge-base/{path.replace('.md','')}"
 
     for d in docs:
         d.metadata.setdefault("title", default_title)
-        d.metadata.setdefault("source", default_url or gh_url)
+        if "source" not in d.metadata:
+            d.metadata.setdefault("source", default_url or gh_url)
         
     # 3) (Optional but recommended) append to corpus JSONL (for BM25 fitting)
     append_to_corpus_jsonl(docs)

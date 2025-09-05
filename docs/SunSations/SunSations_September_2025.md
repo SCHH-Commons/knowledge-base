@@ -1,3 +1,7 @@
+---
+source: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/september-2025-sunsations/page/1
+---
+
 # IN THIS ISSUE
 
 The approach of fall always brings with it a sense of excitement in Sun City Hilton Head as we welcome many residents back to the community after summertime getaways. This is a great time to take pause and check out the lineup of great upcoming Association and Chartered Club events or explore new hobbies in this issue of *SunSations*.  
@@ -826,4 +830,5 @@ The Lowcountry’s largest fireworks display lit up the night sky to end a memor
 - 👕 Everyone showed off their best America-themed attire.  
 - 🥏 Event-goers played bocce throughout the day.  
 - 🍹 Residents relaxed with a cold drink.  
-- 🤝 Friends couldn’t resist the music and posed for group photos.
+- 🤝 Friends couldn’t resist the music and posed for group photos.  
+

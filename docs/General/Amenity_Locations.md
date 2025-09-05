@@ -1,12 +1,5 @@
 # Amenity Locations
 
-<!--
-title: Amenity Locations
-source: 
-date_retrieved: 2025-08-15
-
--->
-
 From https://suncityhiltonhead.org/Page/46134~1059443/Building-Addresses
 
 Below are the physical addresses for Community Association buildings and amenities: 

@@ -1,0 +1,964 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SCHH md2cal//EN
+BEGIN:VEVENT
+UID:schh-3879340d654aadaaf7b7195c4b9c47d9@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250903T160000
+DTEND;TZID=America/New_York:20250903T180000
+SUMMARY:Soundwaves Wednesday
+DESCRIPTION:Enjoy live music and fresh air by the pool Seating and shade ar
+ e limited. Bring your own beverages\; no bars services will be available
+ . Hidden Cypress will feature Mike Sweat. Lakehouse will feature Carolin
+ a Girls & Friends. Free event.
+LOCATION:Hidden Cypress and Lakehouse Outdoor Pools
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-bf2cc289261ba42b2fe23028d97d2635@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250905
+SUMMARY:Club Fair Table Rentals
+DESCRIPTION:Tables for the Club Fair on October 4 go on sale at Lifestyle S
+ ervices. Tables are $20 with a maximum of two tables per club. Palmetto 
+ Commons\, 8 a.m.
+LOCATION:Palmetto Commons
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-9c38bf01cb1a63eb40c15cfb23d8f472@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250904T180000
+DTEND;TZID=America/New_York:20250904T200000
+SUMMARY:Trivia Night
+DESCRIPTION:Grab your friends and join the fun at Trivia Night\, testing yo
+ ur knowledge of movies\, books\, quotes and so much more. Tickets are $7
+ \, available online or at Lifestyle Services. Cash bar services availabl
+ e. Capacity is 100. Pinckney Hall\, 6 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-28d260a0ecc7002396251a769cdff0fe@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250908T160000
+DTEND;TZID=America/New_York:20250908T180000
+SUMMARY:Live by the Lake
+DESCRIPTION:Join us for live music by the DD Band at Lake Somerset. Seating
+ \, shade and parking are limited. Bring your own chair and beverages\; n
+ o bar services available. Free event. Lake Somerset\, 4–6 p.m.
+LOCATION:Lake Somerset
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-528afddffcdab86d7e746b1619240fbd@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250908T170000
+DTEND;TZID=America/New_York:20250908T190000
+SUMMARY:Courtyard Cocktails
+DESCRIPTION:Live music by Rider Duo. Bring your own chair. Shade is limited
+ . Cash bar services available. Free event. Town Square Courtyard\, 5–7
+  p.m.
+LOCATION:Town Square Courtyard
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-1403fbff38d2827ee745f6b9841c017f@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250908T190000
+DTEND;TZID=America/New_York:20250908T220000
+SUMMARY:Crumblin’ Down: The John Mellencamp Tribute
+DESCRIPTION:No food or beverages permitted inside Magnolia Hall. Tickets ar
+ e $35\, available online and at Lifestyle Services. Limit of four ticket
+ s per household. Doors open at 6 p.m. Capacity is 548. Magnolia Hall\, 7
+  p.m.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-3a85878c9d1903ccda83d88ab775cee2@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250910T170000
+DTEND;TZID=America/New_York:20250910T190000
+SUMMARY:Courtyard Cocktails
+DESCRIPTION:Live music by Rider Duo. Bring your own chair. Shade is limited
+ . Cash bar services available. Free event. Town Square Courtyard\, 5–7
+  p.m.
+LOCATION:Town Square Courtyard
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-b2e77e2e50467d98e4113a738668c422@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250910T190000
+DTEND;TZID=America/New_York:20250910T220000
+SUMMARY:Crumblin’ Down: The John Mellencamp Tribute
+DESCRIPTION:No food or beverages permitted inside Magnolia Hall. Tickets ar
+ e $35\, available online and at Lifestyle Services. Limit of four ticket
+ s per household. Doors open at 6 p.m. Capacity is 548. Magnolia Hall\, 7
+  p.m.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-485cba1cf2f8f3f38a552614a405324a@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250910T200000
+DTEND;TZID=America/New_York:20250910T220000
+SUMMARY:Life Under the Sun Ticket Sales
+DESCRIPTION:All ticketed events as a part of the Life Under the Sun celebra
+ tion go on sale online and at Lifestyle Services. Residents only. Activi
+ ty card required for entry to all ticketed events for each person. See t
+ he August issue of SunSations for a preview of events and a link to the 
+ full event lineup. Palmetto Commons\, 8 a.m.
+LOCATION:Palmetto Commons
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-654ee6878d7cf30799d1faa4cba71dcb@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250912T160000
+DTEND;TZID=America/New_York:20250912T180000
+SUMMARY:Mixology
+DESCRIPTION:Learn to craft delicious cocktails with Master Mixologist Brend
+ an Marc\\! You will learn about spirits\, how they’re made and how to 
+ mix them in your own home. There will be cocktails\, light refreshments\
+ , a lot of laughs and tons of fun. Tickets are $40\, available online an
+ d at Lifestyle Services. Limit of four tickets per household. Capacity i
+ s 20. Pinckney Hall\, 4 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-7766caacc2cbd5cd584473a2e7c5f9f7@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250913T180000
+DTEND;TZID=America/New_York:20250913T200000
+SUMMARY:Music in the Square True Carolina
+DESCRIPTION:Shade is limited and bring your own chair. Tickets are $12\, av
+ ailable online and at Lifestyle Services with a limit of four per househ
+ old. Gates and cash bar services open at 6 p.m. Capacity is 600. Pavilio
+ n\, 7 p.m.
+LOCATION:Pavilion
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-e7995028f42db88737a17ea28b18e998@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250915T160000
+DTEND;TZID=America/New_York:20250915T180000
+SUMMARY:Live by the Lake
+DESCRIPTION:Join us for live music by Okatie River Band at Lake Somerset. S
+ eating\, shade and parking are limited. Bring your own chair and beverag
+ es\; no bar services available. Free event. Lake Somerset\, 4–6 p.m.
+LOCATION:Lake Somerset
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-3c93a1e81e217b8b79e2070b0732803f@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250915T190000
+DTEND;TZID=America/New_York:20250915T210000
+SUMMARY:Movie Night A Complete Unknown
+DESCRIPTION:In 1961\, an unknown 19\\-year\\-old Bob Dylan arrives in New Y
+ ork City with his guitar and forges relationships with musical icons on 
+ his meteoric rise\, culminating in a groundbreaking performance that rev
+ erberates around the world. Rated R. 2 hours\, 21 minutes. Biography\, d
+ rama\, music. Starring Timothee Chalamet\, Edward Norton and Elle Fannin
+ g. Free event based on first come\, first served. Capacity is 548. Magno
+ lia Hall\, 7 p.m.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-4584cf73aca0eaca1bdd5e54494a9449@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250916T140000
+DTEND;TZID=America/New_York:20250916T160000
+SUMMARY:Matinee Movie A Complete Unknown
+DESCRIPTION:Free event based on first come\, first served. Closed caption f
+ or the hearing impaired. Capacity is 548. Magnolia Hall\, 2 p.m.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-9cb7cc668844e96c14361069b1cb63dc@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250917T160000
+DTEND;TZID=America/New_York:20250917T180000
+SUMMARY:Soundwaves Wednesday
+DESCRIPTION:Enjoy live music and fresh air by the pool. Seating and shade a
+ re limited. Bring your own beverages\; no bar services will be available
+ . Hidden Cypress will feature Armand DeMille. Lakehouse will feature Swe
+ et Magnolias. Free event. Hidden Cypress and Lakehouse Outdoor Pools\, 4
+ –6 p.m.
+LOCATION:Hidden Cypress and Lakehouse Outdoor Pools
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-07644696fdc706ce8621ecd044303617@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250917T173000
+DTEND;TZID=America/New_York:20250917T193000
+SUMMARY:Funny Business Rob Little
+DESCRIPTION:Tickets are $15\, available online and at Lifestyle Services. D
+ oors and cash bar services open an hour before the event. Capacity is 32
+ 0. Pinckney Hall\, 5:30 and 8 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-eb6f64eae5bb76f577c09e21c41695e5@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250918T170000
+DTEND;TZID=America/New_York:20250918T190000
+SUMMARY:Courtyard Cocktails
+DESCRIPTION:Live music by Ryan Wilson. Bring your own chair. Shade is limit
+ ed. Cash bar services available. Free event. Town Square Courtyard\, 5
+ 7 p.m.
+LOCATION:Town Square Courtyard
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-c714a69d648891bf61ecd8be50b3ebd0@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250918T180000
+DTEND;TZID=America/New_York:20250918T200000
+SUMMARY:Trivia Night
+DESCRIPTION:Grab your friends and join the fun at Trivia Night\, testing yo
+ ur knowledge of movies\, books\, quotes and so much more. Tickets are $7
+ \, available online or at Lifestyle Services. Cash bar services availabl
+ e. Capacity is 88. Pinckney Hall\, 6 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-83d01a366ccec8fa2be72332cdf0cc41@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250918T200000
+DTEND;TZID=America/New_York:20250918T220000
+SUMMARY:Funny Business Rob Little
+DESCRIPTION:Tickets are $15\, available online and at Lifestyle Services. D
+ oors and cash bar services open an hour before the event. Capacity is 32
+ 0. Pinckney Hall\, 5:30 and 8 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-fbfa0f904365d507f46c3e8cdbe24ec0@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250922T160000
+DTEND;TZID=America/New_York:20250922T180000
+SUMMARY:Live by the Lake
+DESCRIPTION:Join us for live music by Tom Isabella & Ric Yancey at Lake Som
+ erset. Seating\, shade and parking are limited. Bring your own chair and
+  beverages\; no bar services available. Free event. Lake Somerset\, 4–
+ 6 p.m.
+LOCATION:Lake Somerset
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-d086f4a25b9d8c4ca56e24998c72bd8d@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250922T173000
+DTEND;TZID=America/New_York:20250922T193000
+SUMMARY:Murder Mystery Dinner A Dance with Death
+DESCRIPTION:A 1950s sock hop gone sour. This night is shootin’ to be swel
+ l despite the disaster. Ladies\, bows and pins in your hair will go nice
+ ly with your puffy sleeved prom gowns. Gents\, you will look sharp in wh
+ ite and black suits or tuxes. Get ready to put on your thinking caps\; y
+ ou’ll need your wits about you to solve this crime. Join the mystery a
+ nd crack the case with a dinner you will die for. BBQ buffet dinner by D
+ owntown Catering included in ticket price of $52\, available online and 
+ at Lifestyle Services with a limit of four per household. Full menu avai
+ lable at Lifestyle Services. Capacity is 60. Riverbend\, 5:30 p.m.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-14ec4255d89c7a43d6acef64f3cd0fe4@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250923T130000
+DTEND;TZID=America/New_York:20250923T150000
+SUMMARY:Make it & Take it Resin Jewelry
+DESCRIPTION:Jeanine Mallory returns for another special UV resin jewelry cl
+ ass. Choose from two open bezel pendants with one chain and one lanyard.
+  Learn how to layer dried flowers\, abalone and foils into clear resin t
+ o create a beautiful one\\-of\\-a\\-kind creation. Stop by Lifestyle Ser
+ vices to see the jewelry on display. All supplies are included in the ti
+ cket price of $52. Tickets are available online or at Lifestyle Services
+  with a limit of four per household. Capacity is 14 each class. Pinckney
+  Hall\, 1 p.m. and 4 p.m
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-54b005bd4563871b4ff642517822b0e6@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250923T160000
+DTEND;TZID=America/New_York:20250923T180000
+SUMMARY:Lowcountry Libations
+DESCRIPTION:Join us for a happy hour featuring live music by Reid Richmond 
+ and hors d’oeuvres by Downtown Catering. Cash bar services available. 
+ No outside food and beverage permitted. Tickets are $15\, available onli
+ ne and at Lifestyle Services with a limit of four per household. Doors a
+ nd cash bar services open at 3:30 p.m. Capacity is 100. Riverbend\, 4 p.
+ m.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-92a4f9a29dbe4502d0f6a71963b31f90@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250924T150000
+DTEND;TZID=America/New_York:20250924T170000
+SUMMARY:Make it & Take it Resin Jewelry
+DESCRIPTION:Jeanine Mallory returns for another special UV resin jewelry cl
+ ass. Choose from two open bezel pendants with one chain and one lanyard.
+  Learn how to layer dried flowers\, abalone and foils into clear resin t
+ o create a beautiful one\\-of\\-a\\-kind creation. Stop by Lifestyle Ser
+ vices to see the jewelry on display. All supplies are included in the ti
+ cket price of $52. Tickets are available online or at Lifestyle Services
+  with a limit of four per household. Capacity is 14 each class. Pinckney
+  Hall\, 1 p.m. and 4 p.m
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-83c94410939d2dec24426044e6e8305f@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250924T160000
+DTEND;TZID=America/New_York:20250924T180000
+SUMMARY:Soundwaves Wednesday
+DESCRIPTION:Enjoy live music and fresh air by the pool. Seating and shade a
+ re limited. Bring your own beverages\; no bar services will be available
+ . Hidden Cypress will feature Tom Isabella & Ric Yancey. Lakehouse will 
+ feature Gina Pinkepank. Free event. Hidden Cypress and Lakehouse Outdoor
+  Pools\, 4–6 p.m.
+LOCATION:Hidden Cypress and Lakehouse Outdoor Pools
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-12ae50600c9838b2569f63755eae81b7@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250924T180000
+DTEND;TZID=America/New_York:20250924T200000
+SUMMARY:Meet the Author Denis Joseph Stemmle
+DESCRIPTION:Denis Joseph Stemmle\, Sun City resident\, is the author of The
+  Cynical Prophet. Don Steiner never knew if what was happening to him wa
+ s real. He tried his best to live his faith\, but a part of him wondered
+  if he ever actually had any faith. Now approaching his 80th birthday\, 
+ he obsesses over unanswered questions. Was his life a sham or just an im
+ age he wanted to project? On a pilgrimage across England and Ireland\, D
+ on winds up at Stonehenge\, contemplating his past and future. He faces 
+ the ultimate test of his faith and questions his own sanity. Cash bar se
+ rvices available. Free event. Pinckney Hall\, 6 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-4c04fddd1ab2dc3ff525ca86ba18b076@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250925T190000
+DTEND;TZID=America/New_York:20250925T210000
+SUMMARY:Boots & Brews Rider Band
+DESCRIPTION:Tickets are $18\, available online and at Lifestyle Services. D
+ oors and cash bar services open at 6 p.m. Capacity is 256. Pinckney Hall
+ \, 7 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-3b6781c03f7d7f003e8ba5f77c8ac54a@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250929T160000
+DTEND;TZID=America/New_York:20250929T180000
+SUMMARY:Live by the Lake
+DESCRIPTION:Join us for live music by Mike Sweat at Lake Somerset. Seating\
+ , shade and parking are limited. Bring your own chair and beverages\; no
+  bar services available. Free event. Lake Somerset\, 4–6 p.m.
+LOCATION:Lake Somerset
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-0b661fab8b4180763c9e651a9880a740@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250929T173000
+DTEND;TZID=America/New_York:20250929T193000
+SUMMARY:Funny Business Uncensored Kris Covi
+DESCRIPTION:Looking for more raw stand\\-up comedy? Join Kris for this spec
+ ial\, uncensored night of Funny Business. Full disclaimer\, he does not 
+ shy away from uncomfortable material\, so leave the kids at home. The on
+ ly thing Kris will shy away from at this show is profanity. Tickets are 
+ $15\, available online and at Lifestyle Services. Doors and cash bar ser
+ vices open an hour before the event. Capacity is 320. Pinckney Hall\, 5:
+ 30 p.m. and 8 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-be7b20aec7f951451989830dde38a414@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20250930T200000
+DTEND;TZID=America/New_York:20250930T220000
+SUMMARY:Funny Business Uncensored Kris Covi
+DESCRIPTION:Looking for more raw stand\\-up comedy? Join Kris for this spec
+ ial\, uncensored night of Funny Business. Full disclaimer\, he does not 
+ shy away from uncomfortable material\, so leave the kids at home. The on
+ ly thing Kris will shy away from at this show is profanity. Tickets are 
+ $15\, available online and at Lifestyle Services. Doors and cash bar ser
+ vices open an hour before the event. Capacity is 320. Pinckney Hall\, 5:
+ 30 p.m. and 8 p.m.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-b4b1949ccf20b0657fcea49bb4ab5d8e@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251001T160000
+DTEND;TZID=America/New_York:20251001T180000
+SUMMARY:Soundwaves Wednesday
+DESCRIPTION:Enjoy live music and fresh air by the pool. Seating and shade l
+ imited. Bring your own beverages\; no bar services. Hidden Cypress: Dr. 
+ Paul & Susan. Lakehouse: Blithe & Fred. Free event.
+LOCATION:Hidden Cypress and Lakehouse Outdoor Pools
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-28d2a9bfe148a5a7f09d45e695503e7d@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251002T080000
+DTEND;TZID=America/New_York:20251002T090000
+SUMMARY:Holiday Craft Bazaar Table Rentals
+DESCRIPTION:Tables $30 for annual Holiday Craft Bazaar (Nov 15). Artisans a
+ nd Crafters License required unless selling as part of a club. Club pres
+ ident must sign registration. More info: http://www.sctax.org/.
+LOCATION:Palmetto Commons
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-42b0780c39da86781762eeb10e143d29@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251002T180000
+DTEND;TZID=America/New_York:20251002T190000
+SUMMARY:Trivia Night
+DESCRIPTION:Test your knowledge of movies\, books\, quotes\, and more. Tick
+ ets $7. Cash bar available. Capacity 100. Available at Lifestyle Service
+ s.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-1aca02938a654fde6a62b8db09c0d620@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251004T100000
+DTEND;TZID=America/New_York:20251004T130000
+SUMMARY:Chartered Club Fair
+DESCRIPTION:Meet and explore over 90 Chartered Clubs and Registered Communi
+ ty Groups. Food and beverages available for purchase. Free event.
+LOCATION:Pinckney Hall\, Courtyard and Pavilion
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-5a0a89372fbde7e982b3f6d96bf1ea48@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251004T160000
+DTEND;TZID=America/New_York:20251004T180000
+SUMMARY:Kick-Off Concert – Deas Guyz
+DESCRIPTION:Live entertainment by Deas Guyz. Bring your own chair. Parking/
+ shade limited. No early setup before 3 p.m. No food/beverage sales. Free
+  event.
+LOCATION:Okatie Creek Golf Course Driving Range
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-09014f674ed47192db8c40f8642ef27d@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251005T160000
+DTEND;TZID=America/New_York:20251005T170000
+SUMMARY:Lowcountry Libations
+DESCRIPTION:Happy hour with live music by Brad Swanson and hors d’oeuvres
+  by Signature Catering. No outside food/beverages. Doors/cash bar open 3
+ :30 p.m. Tickets $15. Capacity 84. Residents only. Activity card require
+ d. Limit 4 tickets per household.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-24d5bbc2a86d49f563d3e38811095769@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251005T180000
+DTEND;TZID=America/New_York:20251005T190000
+SUMMARY:Swingin’ Medallions Concert
+DESCRIPTION:Food available. Shade limited. Bring your own chair. Gates/cash
+  bar open 5 p.m. Tickets $18. Capacity 900. Residents only. Activity car
+ d required. Limit 4 tickets per household.
+LOCATION:Pavilion Grounds
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-e6a22859cd6fd22648b2ff138269a3db@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251006T073000
+DTEND;TZID=America/New_York:20251006T083000
+SUMMARY:Sunrise Yoga (Hosted by Health & Wellness Department)
+DESCRIPTION:Bring your own yoga mat. Free event. Register online or at fitn
+ ess center by 2025-09-26.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-50c84e722ceb3f4259c6ba3618d922f5@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251006T160000
+DTEND;TZID=America/New_York:20251006T170000
+SUMMARY:Golf Exhibition with Peter Jacobsen
+DESCRIPTION:Hosted by Golf Operations. Exhibition with professional golfer 
+ Peter Jacobsen. Shade limited. Bring your own chairs. Cash bar available
+ . Free event.
+LOCATION:Driving Range at Hidden Cypress
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-a05c780eb88b18a12619bdbb248e8050@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251006T170000
+DTEND;TZID=America/New_York:20251006T190000
+SUMMARY:Courtyard Cocktails
+DESCRIPTION:Live music by Mike Bagenstose. Bring your own chair. Shade limi
+ ted. Cash bar available. Free event.
+LOCATION:Town Square Courtyard
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-4b76c60ec58e4b249b37e1b875cf77ab@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251006T190000
+DTEND;TZID=America/New_York:20251006T200000
+SUMMARY:Hotel California: A Salute to the Eagles
+DESCRIPTION:Tribute band faithfully recreating Eagles classics. Tickets $35
+ . Capacity 548. Residents only. Activity card required. Limit 4 tickets 
+ per household.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-44557857079877d5b1d555b36676f3ef@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251006T190000
+DTEND;TZID=America/New_York:20251006T200000
+SUMMARY:Felix and Fingers Dueling Pianos
+DESCRIPTION:Interactive dueling piano show. Tickets $25. Capacity 320. Resi
+ dents only. Activity card required. Limit 4 tickets per household.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-e226c4fc71b536f3384b47e8dbf42d56@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251007T170000
+DTEND;TZID=America/New_York:20251007T190000
+SUMMARY:Courtyard Cocktails
+DESCRIPTION:Live music by Lyn Avenue Duo. Bring your own chair. Shade limit
+ ed. Cash bar available. Free event.
+LOCATION:Town Square Courtyard
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-5577bd84b05474e9b653e00077f8d631@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251007T190000
+DTEND;TZID=America/New_York:20251007T200000
+SUMMARY:Hotel California: A Salute to the Eagles
+DESCRIPTION:Same as October 6 performance.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-80efd19badd8f3e8ef06dcffd9371951@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251007T190000
+DTEND;TZID=America/New_York:20251007T200000
+SUMMARY:Felix and Fingers Dueling Pianos
+DESCRIPTION:Same as October 6 performance.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-21f7f994807bcde8a599704c8349ee2a@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251008T080000
+DTEND;TZID=America/New_York:20251008T090000
+SUMMARY:Fitness Walk on the Golf Course
+DESCRIPTION:Hosted by Health and Wellness Department. Refreshments availabl
+ e. Free event. Register by 2025-09-26.
+LOCATION:Argent Lakes Golf Course
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-4564f36fb58d279976124281f4069f8a@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251008T160000
+DTEND;TZID=America/New_York:20251008T180000
+SUMMARY:Soundwaves Wednesday
+DESCRIPTION:Hidden Cypress: Ryan Wilson. Lakehouse: DD Band. Free event.
+LOCATION:Hidden Cypress and Lakehouse Outdoor Pools
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-4fa44c595e20f1d649ce46e99be2a62b@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251008T160000
+DTEND;TZID=America/New_York:20251008T170000
+SUMMARY:Lowcountry Libations
+DESCRIPTION:Live music by Reid Richmond\, hors d’oeuvres by Downtown Cate
+ ring. Tickets $15. Doors/cash bar open 3:30 p.m. Residents only. Activit
+ y card required. Capacity 84. Limit 4 tickets per household.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-918a15e920f77d15989a7cd483f2a6f0@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251008T170000
+DTEND;TZID=America/New_York:20251008T190000
+SUMMARY:Live Entertainment by Brad Swanson
+DESCRIPTION:Reservations highly encouraged.
+LOCATION:Jameson’s Charhouse
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-a34cf823fd6549cc7effc71f3a1e1fd7@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251008T180000
+DTEND;TZID=America/New_York:20251008T190000
+SUMMARY:Trivia Night
+DESCRIPTION:Test your knowledge of movies\, books\, quotes\, and more. Tick
+ ets $7. Cash bar available. Capacity 88. Residents only. Activity card r
+ equired.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-b1ac6733a7e8199be8b678c23ba45ded@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251009T130000
+DTEND;TZID=America/New_York:20251009T160000
+SUMMARY:Chair Massages (Hosted by Health & Wellness Department)
+DESCRIPTION:Free 5-minute chair massages. First come\, first served.
+LOCATION:Lakehouse
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-0ad32d68c05faaae4811459e5ba2b74e@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251009T160000
+DTEND;TZID=America/New_York:20251009T170000
+SUMMARY:Mixology
+DESCRIPTION:Learn cocktails with Master Mixologist Brendan Macr! Tickets $4
+ 0. Residents only. Activity card required. Limit 4 tickets per household
+ . Capacity 20.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-0b95dbabdd8e7bced08bc61811e83ea1@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251009T170000
+DTEND;TZID=America/New_York:20251009T190000
+SUMMARY:Live Entertainment by Mike Bagenstose
+DESCRIPTION:Free event. No reservations required.
+LOCATION:AL’s Pub
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-d1a5098db3b4c13bd98c24c155276c14@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251009T170000
+DTEND;TZID=America/New_York:20251009T190000
+SUMMARY:Courtyard Cocktails
+DESCRIPTION:Live music by Jonathan David King. Bring your own chair. Shade 
+ limited. Cash bar available. Free event.
+LOCATION:Pavilion
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-d8da5e1dddb3ae121874f71d85925741@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251009T173000
+DTEND;TZID=America/New_York:20251009T183000
+SUMMARY:Funny Business – Bob Zany
+DESCRIPTION:Comedy show. Tickets $15. Capacity 320. Residents only. Activit
+ y card required.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-42a70471ac98ab58c6831be4c5431cd1@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251009T200000
+DTEND;TZID=America/New_York:20251009T210000
+SUMMARY:Funny Business – Bob Zany
+DESCRIPTION:Comedy show. Tickets $15. Capacity 320. Residents only. Activit
+ y card required.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-7203ee4450a71562b4a5a711ff5010bf@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251009T190000
+DTEND;TZID=America/New_York:20251009T200000
+SUMMARY:Queen Nation: A Tribute to the Music of Queen
+DESCRIPTION:Tribute performance recreating Queen’s sound. Tickets $35. Ca
+ pacity 548. Residents only. Activity card required. Limit 4 tickets per 
+ household.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-850965717f1421467aaa30333ee80b9d@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251010T090000
+DTEND;TZID=America/New_York:20251010T110000
+SUMMARY:Group Fitness Expo
+DESCRIPTION:Sample Sun City’s group exercise classes. Free event. Registe
+ r online by 2025-09-26. Capacity 300.
+LOCATION:Pavilion
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-2522c10fb9620891ad73830ba4ac634a@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251010T160000
+DTEND;TZID=America/New_York:20251010T170000
+SUMMARY:Wine Tasting
+DESCRIPTION:Winebow joins for a tasting with light refreshments. Tickets $4
+ 0. Capacity 60. Residents only. Activity card required. Limit 4 tickets 
+ per household.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-c934f370869e756eb026ca52a65593e4@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251010T170000
+DTEND;TZID=America/New_York:20251010T190000
+SUMMARY:Live Entertainment by Jonathan David King
+DESCRIPTION:Reservations required for dine-in only. Patio seating first com
+ e\, first served.
+LOCATION:The Clubhouse at Okatie Creek
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-8fb64c91ba167b662bc96fae5dae8104@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251010T170000
+DTEND;TZID=America/New_York:20251010T190000
+SUMMARY:Courtyard Cocktails
+DESCRIPTION:Live music by Charles Maring. Bring your own chair. Shade limit
+ ed. Cash bar available. Free event.
+LOCATION:Pavilion
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-eb500ce3f6e2a072b5d8904079e8cf2d@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251010T173000
+DTEND;TZID=America/New_York:20251010T183000
+SUMMARY:Funny Business Uncensored – Rodney Laney
+DESCRIPTION:Stand-up comedy show (uncensored). Tickets $15. Residents only.
+  Activity card required. Capacity 320.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-fdd1b0c386036d06143d61149f5b15a7@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251010T200000
+DTEND;TZID=America/New_York:20251010T210000
+SUMMARY:Funny Business Uncensored – Rodney Laney
+DESCRIPTION:Stand-up comedy show (uncensored). Tickets $15. Residents only.
+  Activity card required. Capacity 320.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-e046ae8dc54fa49726fd20d033e582c5@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251010T190000
+DTEND;TZID=America/New_York:20251010T200000
+SUMMARY:Queen Nation: A Tribute to the Music of Queen
+DESCRIPTION:Same as Oct 9 performance.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-e622238bc0eebe1cdcc2fc7ad5a40aed@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251013T160000
+DTEND;TZID=America/New_York:20251013T180000
+SUMMARY:Live by the Lake
+DESCRIPTION:Live music by Sound Therapy. Seating\, shade\, and parking limi
+ ted. Bring your own chair/beverages\; no bar services. Free event.
+LOCATION:Lake Somerset
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-4d6550c74489ddefe966b6399f190d89@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251014T140000
+DTEND;TZID=America/New_York:20251014T150000
+SUMMARY:Paint & Pinot – Lighthouse
+DESCRIPTION:Paint a 11x14 lighthouse canvas while sipping wine. Tickets $40
+ . Limit 4 tickets per household. Capacity 20.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-b27efe731daf2f238f2713f5fd333edb@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251014T170000
+DTEND;TZID=America/New_York:20251014T190000
+SUMMARY:Courtyard Cocktails
+DESCRIPTION:Live music by Ryan Wilson. Bring your own chair. Shade limited.
+  Cash bar available. Free event.
+LOCATION:Town Square Courtyard
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-23aa5cff87eec40f0f9875597d2e41b2@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251015T160000
+DTEND;TZID=America/New_York:20251015T180000
+SUMMARY:Soundwaves Wednesday
+DESCRIPTION:Hidden Cypress: Keepin It Real. Lakehouse: Dr. Paul & Susan. Fr
+ ee event.
+LOCATION:Hidden Cypress and Lakehouse Outdoor Pools
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-c2fb9e17fb064a6fd9f07948e93b384e@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251015T173000
+DTEND;TZID=America/New_York:20251015T183000
+SUMMARY:Funny Business – Will O’Donnell
+DESCRIPTION:Comedy show. Tickets $15. Capacity 320. Residents only. Activit
+ y card required.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-13cb754314e6f83747af19d49f2538c0@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251015T200000
+DTEND;TZID=America/New_York:20251015T210000
+SUMMARY:Funny Business – Will O’Donnell
+DESCRIPTION:Comedy show. Tickets $15. Capacity 320. Residents only. Activit
+ y card required.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-e7ba4fba2cef3355dfc2b5279d03749f@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251016T180000
+DTEND;TZID=America/New_York:20251016T190000
+SUMMARY:Trivia Night
+DESCRIPTION:Trivia game with books\, movies\, and more. Tickets $7. Cash ba
+ r available. Capacity 88. Residents only. Activity card required.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-6c22e81dfe0278da4e309fa92f844185@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251017T113000
+DTEND;TZID=America/New_York:20251017T123000
+SUMMARY:Lunch & Learn
+DESCRIPTION:Tickets $7\, includes lunch. Limit 4 tickets per household. Cap
+ acity 60.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-e0ce7d82423d3eb9293c91e1a961a7da@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251020T160000
+DTEND;TZID=America/New_York:20251020T180000
+SUMMARY:Live by the Lake
+DESCRIPTION:Live music by Armand DeMille. Seating\, shade\, and parking lim
+ ited. Bring your own chair/beverages\; no bar services. Free event.
+LOCATION:Lake Somerset
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-2a69518414deb4af280044be26ac5c73@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251020T190000
+DTEND;TZID=America/New_York:20251020T200000
+SUMMARY:Movie Night – Beetlejuice Beetlejuice (2024)
+DESCRIPTION:Comedy/horror starring Michael Keaton\, Winona Ryder\, Catherin
+ e O’Hara. Rated PG-13. Free event. Capacity 548.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-654ddb32a3ad8a6456da8d460541d792@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251021T140000
+DTEND;TZID=America/New_York:20251021T150000
+SUMMARY:Matinee Movie – Beetlejuice Beetlejuice (2024)
+DESCRIPTION:Same as Oct 20\, closed captioned. Free event. Capacity 548.
+LOCATION:Magnolia Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-7f3bbcd5057a24d0e25eabf473308bec@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251021T173000
+DTEND;TZID=America/New_York:20251021T183000
+SUMMARY:Glow Par-Tee
+DESCRIPTION:Glow mini golf with 18 holes. Equipment provided or bring putte
+ r. Tickets $15. Cash bar available. Capacity 216.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-bfb259f71667cad68921d01d2cb14c18@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251021T184500
+DTEND;TZID=America/New_York:20251021T194500
+SUMMARY:Glow Par-Tee
+DESCRIPTION:Glow mini golf with 18 holes. Equipment provided or bring putte
+ r. Tickets $15. Cash bar available. Capacity 216.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-bbde83eaaafe90ede6323876ec3c66d9@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251021T200000
+DTEND;TZID=America/New_York:20251021T210000
+SUMMARY:Glow Par-Tee
+DESCRIPTION:Glow mini golf with 18 holes. Equipment provided or bring putte
+ r. Tickets $15. Cash bar available. Capacity 216.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-5f5a7937a7d0f95536699d6710aa9c81@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251022T140000
+DTEND;TZID=America/New_York:20251022T150000
+SUMMARY:Make & Take It – Tissue Dying Silk Scarf
+DESCRIPTION:Class by Ellen Scott. Tickets $38\, includes scarf and supplies
+ . Limit 4 tickets per household. Capacity 24.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-d4a7b688ff30c2892db8f241bbaaf0b6@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251022T160000
+DTEND;TZID=America/New_York:20251022T180000
+SUMMARY:Soundwaves Wednesday
+DESCRIPTION:Hidden Cypress: The Piano Guy. Lakehouse: Austin Williams. Free
+  event.
+LOCATION:Hidden Cypress and Lakehouse Outdoor Pools
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-efeb3d019fc49a29ef360f9020c711a1@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251022T173000
+DTEND;TZID=America/New_York:20251022T183000
+SUMMARY:Wine Dinner – Soirée du Vin
+DESCRIPTION:Four-course dinner by Executive Chef Andy Borgmeier with guest 
+ speaker from Winebow. Tickets $120. Limit 4 tickets per household. Resid
+ ents only. Activity card required. Capacity 60.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-0074ae9649422a4464c51329501e537a@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251022T180000
+DTEND;TZID=America/New_York:20251022T190000
+SUMMARY:Meet the Author – MG John F. Hussey
+DESCRIPTION:Author of *Inside the Wire*. Discussion on military detention o
+ perations. Free event. Cash bar available.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-be8e3cd4419f9d8bb76e751fef3db0c9@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251027T160000
+DTEND;TZID=America/New_York:20251027T180000
+SUMMARY:Live by the Lake
+DESCRIPTION:Live music by Island Harmony. Seating\, shade\, and parking lim
+ ited. Bring your own chair/beverages\; no bar services. Free event.
+LOCATION:Lake Somerset
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-39a020da99ec65464a3e6a904031fc41@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251027T160000
+DTEND;TZID=America/New_York:20251027T170000
+SUMMARY:Lowcountry Libations
+DESCRIPTION:Live music by Charles Maring\, hors d’oeuvres by DownTown Cat
+ ering. Tickets $15. Doors/cash bar open 3:30 p.m. Residents only. Activi
+ ty card required. Capacity 100.
+LOCATION:Riverbend
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-84eb47c6b8d485d49b2b94d669353c67@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251029T160000
+DTEND;TZID=America/New_York:20251029T180000
+SUMMARY:Soundwaves Wednesday
+DESCRIPTION:Hidden Cypress: Todd Kimmell. Lakehouse: Carolina Girls & Frien
+ ds. Free event.
+LOCATION:Hidden Cypress and Lakehouse Outdoor Pools
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-591144fc43e26217c2121dcb77f082fa@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251030T190000
+DTEND;TZID=America/New_York:20251030T200000
+SUMMARY:Halloween Dance – Twisted Fables & Wicked Tales
+DESCRIPTION:Live entertainment by Cloud 9. Costumes encouraged. Tickets $27
+ . Gates/cash bar open 6 p.m. Capacity 256.
+LOCATION:Pinckney Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:schh-f7850bb99ba27bed5fbb8cd6d472d3db@md2cal
+DTSTAMP:20250906T125620Z
+DTSTART;TZID=America/New_York:20251030T190000
+DTEND;TZID=America/New_York:20251030T200000
+SUMMARY:Halloween Dance – Pumpkin Bash
+DESCRIPTION:Entertainment by Soul Fish. Costumes encouraged. Tickets $23. G
+ ates/cash bar open 6 p.m. Capacity 250.
+LOCATION:Pavilion
+END:VEVENT
+END:VCALENDAR

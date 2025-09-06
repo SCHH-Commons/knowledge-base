@@ -2,6 +2,25 @@
 
 > Times are shown in local timezone. “All Day” means no specific start/end time.
 
+## Weather Caution
+⚠️ All outdoor events may be relocated, rescheduled, or canceled, subject to weather conditions.  
+
+## Ticket Sales Information
+- Tickets for all Lifestyle Services events are available online at: **[www.SunCityHiltonHead.org](http://www.SunCityHiltonHead.org)**  
+- **Limits:**  
+  - General admission & Magnolia Hall shows: 4 tickets per household  
+  - Pinckney Hall seated events: 8 tickets per household (unless otherwise stated)  
+- **Payments:**  
+  - Online: credit/debit cards only  
+  - Palmetto Commons: CAM card charges accepted  
+- **Ticket Access:**  
+  - No computer? Buy tickets at Lifestyle Services using your activity card  
+  - Print tickets at home or at Lifestyle Services before the event  
+- **Policies:**  
+  - Online ticketing closes 1 hour before each event  
+  - Walk-ins permitted if space allows (cash or activity card accepted)  
+  - **No refunds** for purchased tickets  
+
 ## Lifestyle Services
 
 ### Soundwaves Wednesday
@@ -153,3 +172,263 @@
   - When: 2025-09-30, 8:00 PM → 10:00 PM
   - Where: Pinckney Hall
   - Details: Looking for more raw stand\-up comedy? Join Kris for this special, uncensored night of Funny Business. Full disclaimer, he does not shy away from uncomfortable material, so leave the kids at home. The only thing Kris will shy away from at this show is profanity. Tickets are $15, available online and at Lifestyle Services. Doors and cash bar services open an hour before the event. Capacity is 320. Pinckney Hall, 5:30 p.m. and 8 p.m.
+
+### Soundwaves Wednesday
+- When: 2025-10-01, 4:00 PM → 6:00 PM
+- Where: Hidden Cypress and Lakehouse Outdoor Pools
+- Details: Enjoy live music and fresh air by the pool. Seating and shade limited. Bring your own beverages; no bar services. Hidden Cypress: Dr. Paul & Susan. Lakehouse: Blithe & Fred. Free event.
+
+### Holiday Craft Bazaar Table Rentals
+- When: 2025-10-02, 8:00 AM
+- Where: Palmetto Commons
+- Details: Tables $30 for annual Holiday Craft Bazaar (Nov 15). Artisans and Crafters License required unless selling as part of a club. Club president must sign registration. More info: http://www.sctax.org/.
+
+### Trivia Night
+- When: 2025-10-02, 6:00 PM
+- Where: Pinckney Hall
+- Details: Test your knowledge of movies, books, quotes, and more. Tickets $7. Cash bar available. Capacity 100. Available at Lifestyle Services.
+
+### Chartered Club Fair
+- When: 2025-10-04, 10:00 AM → 1:00 PM
+- Where: Pinckney Hall, Courtyard and Pavilion
+- Details: Meet and explore over 90 Chartered Clubs and Registered Community Groups. Food and beverages available for purchase. Free event.
+
+### Kick-Off Concert – Deas Guyz
+- When: 2025-10-04, 4:00 PM → 6:00 PM
+- Where: Okatie Creek Golf Course Driving Range
+- Details: Live entertainment by Deas Guyz. Bring your own chair. Parking/shade limited. No early setup before 3 p.m. No food/beverage sales. Free event.
+
+### Lowcountry Libations
+- When: 2025-10-05, 4:00 PM
+- Where: Riverbend
+- Details: Happy hour with live music by Brad Swanson and hors d’oeuvres by Signature Catering. No outside food/beverages. Doors/cash bar open 3:30 p.m. Tickets $15. Capacity 84. Residents only. Activity card required. Limit 4 tickets per household.
+
+### Swingin’ Medallions Concert
+- When: 2025-10-05, 6:00 PM
+- Where: Pavilion Grounds
+- Details: Food available. Shade limited. Bring your own chair. Gates/cash bar open 5 p.m. Tickets $18. Capacity 900. Residents only. Activity card required. Limit 4 tickets per household.
+
+### Sunrise Yoga (Hosted by Health & Wellness Department)
+- When: 2025-10-06, 7:30 AM
+- Where: Riverbend
+- Details: Bring your own yoga mat. Free event. Register online or at fitness center by 2025-09-26.
+
+### Golf Exhibition with Peter Jacobsen
+- When: 2025-10-06, 4:00 PM
+- Where: Driving Range at Hidden Cypress
+- Details: Hosted by Golf Operations. Exhibition with professional golfer Peter Jacobsen. Shade limited. Bring your own chairs. Cash bar available. Free event.
+
+### Courtyard Cocktails
+- When: 2025-10-06, 5:00 PM → 7:00 PM
+- Where: Town Square Courtyard
+- Details: Live music by Mike Bagenstose. Bring your own chair. Shade limited. Cash bar available. Free event.
+
+### Hotel California: A Salute to the Eagles
+- When: 2025-10-06, 7:00 PM
+- Where: Magnolia Hall
+- Details: Tribute band faithfully recreating Eagles classics. Tickets $35. Capacity 548. Residents only. Activity card required. Limit 4 tickets per household.
+
+### Felix and Fingers Dueling Pianos
+- When: 2025-10-06, 7:00 PM
+- Where: Pinckney Hall
+- Details: Interactive dueling piano show. Tickets $25. Capacity 320. Residents only. Activity card required. Limit 4 tickets per household.
+
+### Courtyard Cocktails
+- When: 2025-10-07, 5:00 PM → 7:00 PM
+- Where: Town Square Courtyard
+- Details: Live music by Lyn Avenue Duo. Bring your own chair. Shade limited. Cash bar available. Free event.
+
+### Hotel California: A Salute to the Eagles
+- When: 2025-10-07, 7:00 PM
+- Where: Magnolia Hall
+- Details: Same as October 6 performance.
+
+### Felix and Fingers Dueling Pianos
+- When: 2025-10-07, 7:00 PM
+- Where: Pinckney Hall
+- Details: Same as October 6 performance.
+
+### Fitness Walk on the Golf Course
+- When: 2025-10-08, 8:00 AM
+- Where: Argent Lakes Golf Course
+- Details: Hosted by Health and Wellness Department. Refreshments available. Free event. Register by 2025-09-26.
+
+### Soundwaves Wednesday
+- When: 2025-10-08, 4:00 PM → 6:00 PM
+- Where: Hidden Cypress and Lakehouse Outdoor Pools
+- Details: Hidden Cypress: Ryan Wilson. Lakehouse: DD Band. Free event.
+
+### Lowcountry Libations
+- When: 2025-10-08, 4:00 PM
+- Where: Riverbend
+- Details: Live music by Reid Richmond, hors d’oeuvres by Downtown Catering. Tickets $15. Doors/cash bar open 3:30 p.m. Residents only. Activity card required. Capacity 84. Limit 4 tickets per household.
+
+### Live Entertainment by Brad Swanson
+- When: 2025-10-08, 5:00 PM → 7:00 PM
+- Where: Jameson’s Charhouse
+- Details: Reservations highly encouraged.
+
+### Trivia Night
+- When: 2025-10-08, 6:00 PM
+- Where: Pinckney Hall
+- Details: Test your knowledge of movies, books, quotes, and more. Tickets $7. Cash bar available. Capacity 88. Residents only. Activity card required.
+
+### Chair Massages (Hosted by Health & Wellness Department)
+- When: 2025-10-09, 1:00 PM → 4:00 PM
+- Where: Lakehouse
+- Details: Free 5-minute chair massages. First come, first served.
+
+### Mixology
+- When: 2025-10-09, 4:00 PM
+- Where: Pinckney Hall
+- Details: Learn cocktails with Master Mixologist Brendan Macr! Tickets $40. Residents only. Activity card required. Limit 4 tickets per household. Capacity 20.
+
+### Live Entertainment by Mike Bagenstose
+- When: 2025-10-09, 5:00 PM → 7:00 PM
+- Where: AL’s Pub
+- Details: Free event. No reservations required.
+
+### Courtyard Cocktails
+- When: 2025-10-09, 5:00 PM → 7:00 PM
+- Where: Pavilion
+- Details: Live music by Jonathan David King. Bring your own chair. Shade limited. Cash bar available. Free event.
+
+### Funny Business – Bob Zany
+- When: 2025-10-09, 5:30 PM and 8:00 PM
+- Where: Pinckney Hall
+- Details: Comedy show. Tickets $15. Capacity 320. Residents only. Activity card required.
+
+### Queen Nation: A Tribute to the Music of Queen
+- When: 2025-10-09, 7:00 PM
+- Where: Magnolia Hall
+- Details: Tribute performance recreating Queen’s sound. Tickets $35. Capacity 548. Residents only. Activity card required. Limit 4 tickets per household.
+
+### Group Fitness Expo
+- When: 2025-10-10, 9:00 AM → 11:00 AM
+- Where: Pavilion
+- Details: Sample Sun City’s group exercise classes. Free event. Register online by 2025-09-26. Capacity 300.
+
+### Wine Tasting
+- When: 2025-10-10, 4:00 PM
+- Where: Riverbend
+- Details: Winebow joins for a tasting with light refreshments. Tickets $40. Capacity 60. Residents only. Activity card required. Limit 4 tickets per household.
+
+### Live Entertainment by Jonathan David King
+- When: 2025-10-10, 5:00 PM → 7:00 PM
+- Where: The Clubhouse at Okatie Creek
+- Details: Reservations required for dine-in only. Patio seating first come, first served.
+
+### Courtyard Cocktails
+- When: 2025-10-10, 5:00 PM → 7:00 PM
+- Where: Pavilion
+- Details: Live music by Charles Maring. Bring your own chair. Shade limited. Cash bar available. Free event.
+
+### Funny Business Uncensored – Rodney Laney
+- When: 2025-10-10, 5:30 PM and 8:00 PM
+- Where: Pinckney Hall
+- Details: Stand-up comedy show (uncensored). Tickets $15. Residents only. Activity card required. Capacity 320.
+
+### Queen Nation: A Tribute to the Music of Queen
+- When: 2025-10-10, 7:00 PM
+- Where: Magnolia Hall
+- Details: Same as Oct 9 performance.
+
+### Live by the Lake
+- When: 2025-10-13, 4:00 PM → 6:00 PM
+- Where: Lake Somerset
+- Details: Live music by Sound Therapy. Seating, shade, and parking limited. Bring your own chair/beverages; no bar services. Free event.
+
+### Paint & Pinot – Lighthouse
+- When: 2025-10-14, 2:00 PM
+- Where: Pinckney Hall
+- Details: Paint a 11x14 lighthouse canvas while sipping wine. Tickets $40. Limit 4 tickets per household. Capacity 20.
+
+### Courtyard Cocktails
+- When: 2025-10-14, 5:00 PM → 7:00 PM
+- Where: Town Square Courtyard
+- Details: Live music by Ryan Wilson. Bring your own chair. Shade limited. Cash bar available. Free event.
+
+### Soundwaves Wednesday
+- When: 2025-10-15, 4:00 PM → 6:00 PM
+- Where: Hidden Cypress and Lakehouse Outdoor Pools
+- Details: Hidden Cypress: Keepin It Real. Lakehouse: Dr. Paul & Susan. Free event.
+
+### Funny Business – Will O’Donnell
+- When: 2025-10-15, 5:30 PM and 8:00 PM
+- Where: Pinckney Hall
+- Details: Comedy show. Tickets $15. Capacity 320. Residents only. Activity card required.
+
+### Trivia Night
+- When: 2025-10-16, 6:00 PM
+- Where: Pinckney Hall
+- Details: Trivia game with books, movies, and more. Tickets $7. Cash bar available. Capacity 88. Residents only. Activity card required.
+
+### Lunch & Learn
+- When: 2025-10-17, 11:30 AM
+- Where: Pinckney Hall
+- Details: Tickets $7, includes lunch. Limit 4 tickets per household. Capacity 60.
+
+### Live by the Lake
+- When: 2025-10-20, 4:00 PM → 6:00 PM
+- Where: Lake Somerset
+- Details: Live music by Armand DeMille. Seating, shade, and parking limited. Bring your own chair/beverages; no bar services. Free event.
+
+### Movie Night – Beetlejuice Beetlejuice (2024)
+- When: 2025-10-20, 7:00 PM
+- Where: Magnolia Hall
+- Details: Comedy/horror starring Michael Keaton, Winona Ryder, Catherine O’Hara. Rated PG-13. Free event. Capacity 548.
+
+### Matinee Movie – Beetlejuice Beetlejuice (2024)
+- When: 2025-10-21, 2:00 PM
+- Where: Magnolia Hall
+- Details: Same as Oct 20, closed captioned. Free event. Capacity 548.
+
+### Glow Par-Tee
+- When: 2025-10-21, 5:30 PM, 6:45 PM, 8:00 PM
+- Where: Pinckney Hall
+- Details: Glow mini golf with 18 holes. Equipment provided or bring putter. Tickets $15. Cash bar available. Capacity 216.
+
+### Make & Take It – Tissue Dying Silk Scarf
+- When: 2025-10-22, 2:00 PM
+- Where: Pinckney Hall
+- Details: Class by Ellen Scott. Tickets $38, includes scarf and supplies. Limit 4 tickets per household. Capacity 24.
+
+### Soundwaves Wednesday
+- When: 2025-10-22, 4:00 PM → 6:00 PM
+- Where: Hidden Cypress and Lakehouse Outdoor Pools
+- Details: Hidden Cypress: The Piano Guy. Lakehouse: Austin Williams. Free event.
+
+### Wine Dinner – Soirée du Vin
+- When: 2025-10-22, 5:30 PM
+- Where: Riverbend
+- Details: Four-course dinner by Executive Chef Andy Borgmeier with guest speaker from Winebow. Tickets $120. Limit 4 tickets per household. Residents only. Activity card required. Capacity 60.
+
+### Meet the Author – MG John F. Hussey
+- When: 2025-10-22, 6:00 PM
+- Where: Riverbend
+- Details: Author of *Inside the Wire*. Discussion on military detention operations. Free event. Cash bar available.
+
+### Live by the Lake
+- When: 2025-10-27, 4:00 PM → 6:00 PM
+- Where: Lake Somerset
+- Details: Live music by Island Harmony. Seating, shade, and parking limited. Bring your own chair/beverages; no bar services. Free event.
+
+### Lowcountry Libations
+- When: 2025-10-27, 4:00 PM
+- Where: Riverbend
+- Details: Live music by Charles Maring, hors d’oeuvres by DownTown Catering. Tickets $15. Doors/cash bar open 3:30 p.m. Residents only. Activity card required. Capacity 100.
+
+### Soundwaves Wednesday
+- When: 2025-10-29, 4:00 PM → 6:00 PM
+- Where: Hidden Cypress and Lakehouse Outdoor Pools
+- Details: Hidden Cypress: Todd Kimmell. Lakehouse: Carolina Girls & Friends. Free event.
+
+### Halloween Dance – Twisted Fables & Wicked Tales
+- When: 2025-10-30, 7:00 PM
+- Where: Pinckney Hall
+- Details: Live entertainment by Cloud 9. Costumes encouraged. Tickets $27. Gates/cash bar open 6 p.m. Capacity 256.
+
+### Halloween Dance – Pumpkin Bash
+- When: 2025-10-30, 7:00 PM
+- Where: Pavilion
+- Details: Entertainment by Soul Fish. Costumes encouraged. Tickets $23. Gates/cash bar open 6 p.m. Capacity 250.

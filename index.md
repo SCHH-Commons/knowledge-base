@@ -7,9 +7,11 @@
 - [Events](/assets/merged/Events.md)
 - [General](/assets/merged/General.md)
 - [Golf](/assets/merged/Golf.md)
-- [Governing Docs](/assets/merged/Governing_Docs.md)
+- [Governing Documents](/assets/merged/Governing_Documents.md)
 - [Hurricane Preparedness](/assets/merged/Hurricane_Preparedness.md)
 - [Managed Neighborhoods](/assets/merged/Managed_Neighborhoods.md)
 - [Restaurants](/assets/merged/Restaurants.md)
 - [SunSations](/assets/merged/SunSations.md)
 - [Vendors](/assets/merged/Vendors.md)
+
+<a href="/assets/merged/Vendors.md">Vendors</a>

@@ -458,7 +458,8 @@
         "name": "Riverbend Outdoor Pool",
         "address": "39 Tidewatch Drive, Okatie, SC 29909",
         "category": "Pool",
-        "marker-symbol": "person-swimming"
+        "marker-symbol": "person-swimming",
+        "marker-color": "blue"
       },
       "geometry": {
         "coordinates": [-80.92971269313692, 32.30760136097624],

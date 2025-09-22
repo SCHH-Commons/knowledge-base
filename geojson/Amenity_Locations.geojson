@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Argent Lakes Pub & Pizzeria (AL's Pub)",
+        "description": "",
         "address": "1291 Sergeant William Jasper Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Dining",
         "marker-symbol": "utensils",
         "marker-color": "#E53935"
@@ -20,7 +22,9 @@
       "type": "Feature",
       "properties": {
         "name": "Argent Lakes Dog Park",
+        "description": "",
         "address": "1021 Sgt. William Jasper Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Dog Park",
         "marker-symbol": "dog",
         "marker-color": "#F57C00"
@@ -35,7 +39,9 @@
       "type": "Feature",
       "properties": {
         "name": "Argent Lakes Golf Clubhouse",
+        "description": "",
         "address": "1251 Sgt. William Jasper Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Golf Clubhouse",
         "marker-symbol": "flag",
         "marker-color": "#2E7D32"
@@ -50,7 +56,9 @@
       "type": "Feature",
       "properties": {
         "name": "Barataria Outdoor Pool",
+        "description": "",
         "address": "122 Del Webb Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Pool",
         "marker-symbol": "person-swimming",
         "marker-color": "#0288D1"
@@ -65,7 +73,9 @@
       "type": "Feature",
       "properties": {
         "name": "Boat and RV Park/Campsite",
+        "description": "",
         "address": "25 Okatie Maintenance Yard Road, Okatie, SC 29909",
+        "phone": "",
         "category": "Recreation",
         "marker-symbol": "person-hiking",
         "marker-color": "#1E88E5"
@@ -80,7 +90,9 @@
       "type": "Feature",
       "properties": {
         "name": "Hidden Cypress",
+        "description": "",
         "address": "673 Cypress Hills Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Amenity Center",
         "marker-symbol": "building",
         "marker-color": "#8E24AA"
@@ -95,7 +107,9 @@
       "type": "Feature",
       "properties": {
         "name": "Hidden Cypress Golf Clubhouse",
+        "description": "",
         "address": "672 Cypress Hills Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Golf Clubhouse",
         "marker-symbol": "flag",
         "marker-color": "#2E7D32"
@@ -110,7 +124,9 @@
       "type": "Feature",
       "properties": {
         "name": "Hidden Cypress Outdoor Pool",
+        "description": "",
         "address": "672 Cypress Hills Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Pool",
         "marker-symbol": "person-swimming",
         "marker-color": "#0288D1"
@@ -125,7 +141,9 @@
       "type": "Feature",
       "properties": {
         "name": "Jameson’s Charhouse",
+        "description": "",
         "address": "672 Cypress Hills Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Dining",
         "marker-symbol": "utensils",
         "marker-color": "#E53935"
@@ -140,7 +158,9 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Somerset",
+        "description": "",
         "address": "2 Del Webb Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Gate",
         "marker-symbol": "door-closed",
         "marker-color": "#6D4C41"
@@ -155,7 +175,9 @@
       "type": "Feature",
       "properties": {
         "name": "Lakehouse",
+        "description": "",
         "address": "1251 Sgt. William Jasper Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Amenity Center",
         "marker-symbol": "building",
         "marker-color": "#8E24AA"
@@ -170,7 +192,9 @@
       "type": "Feature",
       "properties": {
         "name": "Lakehouse Outdoor Pool",
+        "description": "",
         "address": "1251 Sgt. William Jasper Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Pool",
         "marker-symbol": "person-swimming",
         "marker-color": "#0288D1"
@@ -185,7 +209,9 @@
       "type": "Feature",
       "properties": {
         "name": "Logo Building",
+        "description": "",
         "address": "124 Del Webb Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Tennis",
         "marker-symbol": "table-tennis-paddle-ball",
         "marker-color": "#43A047"
@@ -200,7 +226,9 @@
       "type": "Feature",
       "properties": {
         "name": "Magnolia Hall",
+        "description": "",
         "address": "118 Sun City Lane, Okatie, SC 29909",
+        "phone": "",
         "category": "Recreation",
         "marker-symbol": "person-hiking",
         "marker-color": "#1E88E5"
@@ -215,7 +243,9 @@
       "type": "Feature",
       "properties": {
         "name": "South Gate",
+        "description": "",
         "address": "1 Sun City Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Gate",
         "marker-symbol": "door-closed",
         "marker-color": "#6D4C41"
@@ -230,7 +260,9 @@
       "type": "Feature",
       "properties": {
         "name": "Mulching Center",
+        "description": "",
         "address": "851 Red Dam Road, Okatie, SC 29909",
+        "phone": "",
         "category": "Ecocenter",
         "marker-symbol": "leaf",
         "marker-color": "#388E3C"
@@ -245,7 +277,9 @@
       "type": "Feature",
       "properties": {
         "name": "Nature Trail",
+        "description": "",
         "address": "Between Col. T. Heyward Rd. and Sun  City Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Recreation",
         "marker-symbol": "person-hiking",
         "marker-color": "#1E88E5"
@@ -260,7 +294,9 @@
       "type": "Feature",
       "properties": {
         "name": "New River Sports Park",
+        "description": "",
         "address": "831 Red Dam Road , Okatie, SC 29909",
+        "phone": "",
         "category": "Recreation",
         "marker-symbol": "person-hiking",
         "marker-color": "#1E88E5"
@@ -275,7 +311,9 @@
       "type": "Feature",
       "properties": {
         "name": "North Gate",
+        "description": "",
         "address": "401 West Fording Island Road, Okatie, SC 29909",
+        "phone": "",
         "category": "Gate",
         "marker-symbol": "door-closed",
         "marker-color": "#6D4C41"
@@ -290,7 +328,9 @@
       "type": "Feature",
       "properties": {
         "name": "Okatie Creek Clubhouse",
+        "description": "",
         "address": "60 Sun City Club Lane, Okatie, SC 29909",
+        "phone": "",
         "category": "Dining",
         "marker-symbol": "utensils",
         "marker-color": "#E53935"
@@ -305,7 +345,9 @@
       "type": "Feature",
       "properties": {
         "name": "Okatie Farms Andover",
+        "description": "",
         "address": "51 Andover Place, Okatie, SC 29909",
+        "phone": "",
         "category": "Ecocenter",
         "marker-symbol": "leaf",
         "marker-color": "#388E3C"
@@ -320,7 +362,9 @@
       "type": "Feature",
       "properties": {
         "name": "Okatie Farms East",
+        "description": "",
         "address": "301 Sun City Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Ecocenter",
         "marker-symbol": "leaf",
         "marker-color": "#388E3C"
@@ -335,7 +379,9 @@
       "type": "Feature",
       "properties": {
         "name": "Okatie Farms West",
+        "description": "",
         "address": "300 Sun City Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Ecocenter",
         "marker-symbol": "leaf",
         "marker-color": "#388E3C"
@@ -350,7 +396,9 @@
       "type": "Feature",
       "properties": {
         "name": "Palmetto Commons",
+        "description": "",
         "address": "127 Sun City Lane, Okatie, SC 29909",
+        "phone": "",
         "category": "Administration",
         "marker-symbol": "briefcase",
         "marker-color": "#546E7A"
@@ -365,7 +413,9 @@
       "type": "Feature",
       "properties": {
         "name": "Pavilion",
+        "description": "",
         "address": "114B Sun City Lane, Okatie, SC 29909",
+        "phone": "",
         "category": "Recreation",
         "marker-symbol": "person-hiking",
         "marker-color": "#1E88E5"
@@ -380,7 +430,9 @@
       "type": "Feature",
       "properties": {
         "name": "Lakehouse Pickleball Courts",
+        "description": "",
         "address": "1251 Sgt. William Jasper Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Pickleball",
         "marker-symbol": "table-tennis-paddle-ball",
         "marker-color": "#FFB300"
@@ -395,7 +447,9 @@
       "type": "Feature",
       "properties": {
         "name": "New River Sports Park Pickleball Courts",
+        "description": "",
         "address": "831 Red Dam Road, Okatie, SC 29909",
+        "phone": "",
         "category": "Pickleball",
         "marker-symbol": "table-tennis-paddle-ball",
         "marker-color": "#FFB300"
@@ -410,7 +464,9 @@
       "type": "Feature",
       "properties": {
         "name": "Pinckney Hall",
+        "description": "",
         "address": "114 Sun City Lane, Okatie, SC 29909",
+        "phone": "",
         "category": "Recreation",
         "marker-symbol": "person-hiking",
         "marker-color": "#1E88E5"
@@ -425,7 +481,9 @@
       "type": "Feature",
       "properties": {
         "name": "Purrysburg Fitness Center",
+        "description": "",
         "address": "122 Del Webb Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Amenity Center",
         "marker-symbol": "building",
         "marker-color": "#8E24AA"
@@ -440,7 +498,9 @@
       "type": "Feature",
       "properties": {
         "name": "Red Dam Dog Park",
+        "description": "",
         "address": "839 Red Dam Road, Okatie, SC 29909",
+        "phone": "",
         "category": "Dog Park",
         "marker-symbol": "dog",
         "marker-color": "#F57C00"
@@ -455,7 +515,9 @@
       "type": "Feature",
       "properties": {
         "name": "Riverbend Gate",
+        "description": "",
         "address": "1 Tidewatch Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Gate",
         "marker-symbol": "door-closed",
         "marker-color": "#6D4C41"
@@ -470,7 +532,9 @@
       "type": "Feature",
       "properties": {
         "name": "Riverbend Lodge",
+        "description": "",
         "address": "39 Tidewatch Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Amenity Center",
         "marker-symbol": "building",
         "marker-color": "#8E24AA"
@@ -485,7 +549,9 @@
       "type": "Feature",
       "properties": {
         "name": "Riverbend Outdoor Pool",
+        "description": "",
         "address": "39 Tidewatch Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Pool",
         "marker-symbol": "person-swimming",
         "marker-color": "#0288D1"
@@ -500,7 +566,9 @@
       "type": "Feature",
       "properties": {
         "name": "Sun City West Dog Park",
+        "description": "",
         "address": "Sundance Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Dog Park",
         "marker-symbol": "dog",
         "marker-color": "#F57C00"
@@ -515,7 +583,9 @@
       "type": "Feature",
       "properties": {
         "name": "Sun City West Gate",
+        "description": "",
         "address": "434 Sundance Drive, Okatie, SC 29909",
+        "phone": "",
         "category": "Gate",
         "marker-symbol": "door-closed",
         "marker-color": "#6D4C41"
@@ -530,7 +600,9 @@
       "type": "Feature",
       "properties": {
         "name": "Lakehouse Tennis Courts",
+        "description": "",
         "address": "1251 Sgt. William Jasper Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Tennis",
         "marker-symbol": "table-tennis-paddle-ball",
         "marker-color": "#43A047"
@@ -545,7 +617,9 @@
       "type": "Feature",
       "properties": {
         "name": "Town Square Tennis Courts",
+        "description": "",
         "address": "124 Del Webb Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Tennis",
         "marker-symbol": "table-tennis-paddle-ball",
         "marker-color": "#43A047"
@@ -560,7 +634,9 @@
       "type": "Feature",
       "properties": {
         "name": "Veterans Memorial Field",
+        "description": "",
         "address": "831 Red Dam Roa, Okatie, SC 29909",
+        "phone": "",
         "category": "Softball",
         "marker-symbol": "baseball-ball",
         "marker-color": "#FDD835"
@@ -575,7 +651,9 @@
       "type": "Feature",
       "properties": {
         "name": "Volleyball Courts",
+        "description": "",
         "address": "831 Red Dam Road, Okatie, SC 29909",
+        "phone": "",
         "category": "Volleyball",
         "marker-symbol": "volleyball-ball",
         "marker-color": "#039BE5"
@@ -590,7 +668,9 @@
       "type": "Feature",
       "properties": {
         "name": "Woodworkers' Shop",
+        "description": "",
         "address": "841 Red Dam Road, Okatie, SC 29909",
+        "phone": "",
         "category": "Woodworking",
         "marker-symbol": "hammer",
         "marker-color": "#795548 "
@@ -605,7 +685,9 @@
       "type": "Feature",
       "properties": {
         "name": "Yemassee Crafts Center",
+        "description": "",
         "address": "132 Del Webb Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Crafts",
         "marker-symbol": "palette",
         "marker-color": "#D81B60"
@@ -620,7 +702,9 @@
       "type": "Feature",
       "properties": {
         "name": "Okatie Creek Golf Clubhouse",
+        "description": "",
         "address": "60 Sun City Club Ln, Okatie, SC 29909",
+        "phone": "",
         "category": "Golf Clubhouse",
         "marker-symbol": "flag",
         "marker-color": "#2E7D32"
@@ -635,7 +719,9 @@
       "type": "Feature",
       "properties": {
         "name": "The Clubhouse at Okatie Creek",
+        "description": "",
         "address": "60 Sun City Club Ln, Okatie, SC 29909",
+        "phone": "",
         "category": "Dining",
         "marker-symbol": "utensils",
         "marker-color": "#E53935"
@@ -650,7 +736,9 @@
       "type": "Feature",
       "properties": {
         "name": "Town Square Bocce Ball Courts",
+        "description": "",
         "address": "60 Sun City Club Ln, Okatie, SC 29909",
+        "phone": "",
         "category": "Bocce",
         "marker-symbol": "circle-dot ",
         "marker-color": "#B71C1C"
@@ -665,7 +753,9 @@
       "type": "Feature",
       "properties": {
         "name": "Computer Club",
+        "description": "",
         "address": "128 Del Webb Blvd, Okatie, SC 29909",
+        "phone": "",
         "category": "Computer",
         "marker-symbol": "computer",
         "marker-color": "#3F51B5"

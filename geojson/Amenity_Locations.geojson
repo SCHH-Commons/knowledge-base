@@ -4,14 +4,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Argent Lakes Pub & Pizzeria (AL's Pub",
+        "name": "Argent Lakes Pub & Pizzeria (AL's Pub)",
         "address": "1291 Sergeant William Jasper Blvd, Okatie, SC 29909",
         "category": "Dining",
         "marker-symbol": "utensils",
         "marker-color": "#E53935"
       },
       "geometry": {
-        "coordinates": [-80.95343360688712, 32.31598952185362],
+        "coordinates": [-80.9546639783161, 32.30913432724512],
         "type": "Point"
       },
       "id": 0
@@ -26,7 +26,7 @@
         "marker-color": "#F57C00"
       },
       "geometry": {
-        "coordinates": [-80.95668036128046, 32.3097885082],
+        "coordinates": [-80.9566940357343, 32.309755000295134],
         "type": "Point"
       },
       "id": 1
@@ -34,14 +34,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Argent Lakes Golf Course",
+        "name": "Argent Lakes Golf Clubhouse",
         "address": "1251 Sgt. William Jasper Blvd, Okatie, SC 29909",
-        "category": "Golf Course",
+        "category": "Golf Clubhouse",
         "marker-symbol": "flag",
         "marker-color": "#2E7D32"
       },
       "geometry": {
-        "coordinates": [-80.95467321664132, 32.30967720617668],
+        "coordinates": [-80.95463975739277, 32.30900186500873],
         "type": "Point"
       },
       "id": 2
@@ -94,14 +94,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hidden Cypress Golf Course",
+        "name": "Hidden Cypress Golf Clubhouse",
         "address": "672 Cypress Hills Drive, Okatie, SC 29909",
-        "category": "Golf Course",
+        "category": "Golf Clubhouse",
         "marker-symbol": "flag",
         "marker-color": "#2E7D32"
       },
       "geometry": {
-        "coordinates": [-80.97951764100245, 32.279034642723104],
+        "coordinates": [-80.97925156233778, 32.277831061455515],
         "type": "Point"
       },
       "id": 6
@@ -116,7 +116,7 @@
         "marker-color": "#0288D1"
       },
       "geometry": {
-        "coordinates": [-80.97951764100245, 32.279034642723104],
+        "coordinates": [-80.97817380844737, 32.27788627969718],
         "type": "Point"
       },
       "id": 7
@@ -214,14 +214,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Main Gate",
+        "name": "South Gate",
         "address": "1 Sun City Blvd, Okatie, SC 29909",
         "category": "Gate",
         "marker-symbol": "door-closed",
         "marker-color": "#6D4C41"
       },
       "geometry": {
-        "coordinates": [-80.95584199450167, 32.30199269180524],
+        "coordinates": [-80.95606003256361, 32.29971140969949],
         "type": "Point"
       },
       "id": 14
@@ -281,7 +281,7 @@
         "marker-color": "#6D4C41"
       },
       "geometry": {
-        "coordinates": [-80.95577287353184, 32.30222863768867],
+        "coordinates": [-80.95583586618888, 32.30221014136519],
         "type": "Point"
       },
       "id": 18
@@ -461,7 +461,7 @@
         "marker-color": "#6D4C41"
       },
       "geometry": {
-        "coordinates": [-80.9331004555226, 32.311383157003554],
+        "coordinates": [-80.9343930415489, 32.311540816840015],
         "type": "Point"
       },
       "id": 30
@@ -566,7 +566,7 @@
         "marker-color": "#FDD835"
       },
       "geometry": {
-        "coordinates": [-80.97194546003838, 32.27726309305376],
+        "coordinates": [-80.97189634469004, 32.27708037742499],
         "type": "Point"
       },
       "id": 37
@@ -596,7 +596,7 @@
         "marker-color": "#795548 "
       },
       "geometry": {
-        "coordinates": [-80.96904021714127, 32.27663455013968],
+        "coordinates": [-80.96919847043243, 32.276748318279346],
         "type": "Point"
       },
       "id": 39
@@ -615,6 +615,36 @@
         "type": "Point"
       },
       "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okatie Creek Golf Clubhouse",
+        "address": "60 Sun City Club Ln, Okatie, SC 29909",
+        "category": "Golf Clubhouse",
+        "marker-symbol": "flag",
+        "marker-color": "#2E7D32"
+      },
+      "geometry": {
+        "coordinates": [-80.9519110396051, 32.289453460356285],
+        "type": "Point"
+      },
+      "id": 41
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Clubhouse at Okatie Creek",
+        "address": "60 Sun City Club Ln, Okatie, SC 29909",
+        "category": "Dining",
+        "marker-symbol": "utensils",
+        "marker-color": "#E53935"
+      },
+      "geometry": {
+        "coordinates": [-80.95197354807156, 32.289434772269395],
+        "type": "Point"
+      },
+      "id": 42
     }
   ]
 }

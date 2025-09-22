@@ -206,7 +206,7 @@
         "marker-color": "#1E88E5"
       },
       "geometry": {
-        "coordinates": [-80.95249595355436, 32.293020784005186],
+        "coordinates": [-80.95261837041492, 32.29296618407857],
         "type": "Point"
       },
       "id": 13
@@ -371,7 +371,7 @@
         "marker-color": "#1E88E5"
       },
       "geometry": {
-        "coordinates": [-80.95174171770876, 32.293416484941254],
+        "coordinates": [-80.95255750489238, 32.29362004197021],
         "type": "Point"
       },
       "id": 24
@@ -386,7 +386,7 @@
         "marker-color": "#FFB300"
       },
       "geometry": {
-        "coordinates": [-80.95443904431762, 32.309503822425356],
+        "coordinates": [-80.95404300028856, 32.30931800042232],
         "type": "Point"
       },
       "id": 25
@@ -416,7 +416,7 @@
         "marker-color": "#1E88E5"
       },
       "geometry": {
-        "coordinates": [-80.95169249523458, 32.29325230455321],
+        "coordinates": [-80.95168256300602, 32.293227727801124],
         "type": "Point"
       },
       "id": 27
@@ -431,7 +431,7 @@
         "marker-color": "#8E24AA"
       },
       "geometry": {
-        "coordinates": [-80.95277738887329, 32.29457446613001],
+        "coordinates": [-80.95275024571373, 32.29441752783469],
         "type": "Point"
       },
       "id": 28
@@ -536,7 +536,7 @@
         "marker-color": "#43A047"
       },
       "geometry": {
-        "coordinates": [-80.95437028787832, 32.309540406664794],
+        "coordinates": [-80.954191849268, 32.30969001837694],
         "type": "Point"
       },
       "id": 35
@@ -551,7 +551,7 @@
         "marker-color": "#43A047"
       },
       "geometry": {
-        "coordinates": [-80.9536028062322, 32.29423469997841],
+        "coordinates": [-80.95366953812885, 32.29380760543188],
         "type": "Point"
       },
       "id": 36
@@ -611,7 +611,7 @@
         "marker-color": "#D81B60"
       },
       "geometry": {
-        "coordinates": [-80.95216221060497, 32.29395273471076],
+        "coordinates": [-80.9518584707094, 32.293939738194894],
         "type": "Point"
       },
       "id": 40
@@ -645,6 +645,36 @@
         "type": "Point"
       },
       "id": 42
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Town Square Bocce Ball Courts",
+        "address": "60 Sun City Club Ln, Okatie, SC 29909",
+        "category": "Bocce",
+        "marker-symbol": "circle-dot ",
+        "marker-color": "#B71C1C"
+      },
+      "geometry": {
+        "coordinates": [-80.95280702736781, 32.29397874907641],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Computer Club",
+        "address": "128 Del Webb Blvd, Okatie, SC 29909",
+        "category": "Computer",
+        "marker-symbol": "computer",
+        "marker-color": "#3F51B5"
+      },
+      "geometry": {
+        "coordinates": [-80.95176599663787, 32.294169680605805],
+        "type": "Point"
+      },
+      "id": 44
+    },
   ]
 }

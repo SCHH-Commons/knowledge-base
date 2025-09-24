@@ -1,455 +1,427 @@
 # Association Update
-
 ## 2025-09-23
 
+---
+
 ### Okatie Creek Golf Course Ribbon Cutting
+**Type:** Event / Ceremony  
+**Date:** 2025-09-30 (Tuesday)  
+**Time:** 1:30 p.m. (ribbon-cutting); tours 2:00–5:00 p.m.  
+**Location:** Okatie Creek Golf Course  
+**Details:**  
+- Ribbon-cutting ceremony at 1:30 p.m. with remarks and ceremonial first tee-off.  
+- Golf cart tours of the renovated course from 2:00–5:00 p.m.  
+  - Tours depart every 10 minutes.  
+  - Groups limited to 10 carts.  
+  - For residents only; golf carts not provided.  
+- **Registration required:** [Sign-up Form](https://docs.google.com/forms/d/e/1FAIpQLSdaAPNH9lYD3nMHMK_BCcdLwvYd6kr3qbsFXEm_ncnwMh3z_Q/viewform).  
+- **Registration deadline:** 2025-09-29 (Monday), 10:00 a.m.  
+- Free hot dogs and refreshments available to the first 700 participants.  
+- Hosted by: Board of Directors, Golf Staff, and Golf Advisory Committee.  
 
-Tuesday, September 30 at 1:30 p.m. at Okatie Creek Golf Course
+---
 
-Join the Board of Directors, Golf staff and the Golf Advisory Committee for a ribbon-cutting ceremony to celebrate the reopening of Okatie Creek Golf Course. The ribbon-cutting begins at 1:30 p.m. with remarks from staff and the Board of Directors about the renovations, along with the ceremonial first tee-off. 
+## Structured Summary
 
-Starting at 2 p.m., enjoy a 45-minute golf cart tour of the course. Members of the Golf Advisory Committee will lead each group of ten carts on the tour and provide information along the way about improvements made to the course. 
-
-Tours will start every 10 minutes from 2-5 p.m. Reservations are required. Space is limited to 10 golf carts per time slot and is for residents only. Golf carts will not be provided. 
-
-To register for a time slot go to https://docs.google.com/forms/d/e/1FAIpQLSdaAPNH9lYD3nMHMK_BCcdLwvYd6kr3qbsFXEm_ncnwMh3z_Q/viewform. Registration ends Monday, September 29 at 10 a.m. 
-
-Free hot dogs and refreshments will be available to the first 700 participants at the end of the tour.
+| Title | Type | Date | Time | Location | Notes |
+|-------|------|------|------|----------|-------|
+| Okatie Creek Golf Course Ribbon Cutting | Event / Ceremony | 2025-09-30 | 1:30 p.m. (ceremony); 2:00–5:00 p.m. (tours) | Okatie Creek Golf Course | Ribbon-cutting, course tours, free refreshments; registration required by 2025-09-29 10 a.m. |
 
 ---
 
 # SCHHCA Clubs and Groups eNewsletter
-
 ## 2025-09-24
 
-### Join Duplicate Bridge Special Section
+---
 
-Join Duplicate Bridge Club Okatie Creek for a special section for players with 499 or fewer mast points on Saturdays at 9 a.m. in the Yemassee Crafts Center. Grab a partner and click here click here to sign up. Click on To Register for a Game and select the game of Limited. For help registering, contact Muriel Murphy at (206) 355-7442 or Georgia Ringo at (859) 299-2379.
- 
-Beginning in October, supervised play will immediately follow the game. Using some hands played in the morning as examples, a seasoned bridge player will help you analyze the best way to play the hands. Supervised play will be free if you play in the morning, otherwise the cost is $4.
+### Join Duplicate Bridge Special Section
+**Type:** Club Event / Game Play  
+**Date:** Saturdays (starting October 2025)  
+**Time:** 9:00 a.m.  
+**Location:** Yemassee Crafts Center  
+**Notes:**  
+- Special section for players with 499 or fewer master points.  
+- Registration: Click "To Register for a Game" → select "Limited."  
+- Contact: Muriel Murphy (206-355-7442) or Georgia Ringo (859-299-2379).  
+- Beginning in October: Supervised play follows the morning session. Free with morning play; $4 otherwise.  
+
+---
 
 ### The Qi Club Hosts Open House and Qi Day Celebration
+**Type:** Club Event / Open House  
+**Date:** 2025-10-11 (Saturday)  
+**Time:** 9:00 a.m.–12:00 p.m.  
+**Location:** Lakehouse Ballroom  
+**Notes:**  
+- Features Qigong, tai chi, yoga, meditation, circle drumming.  
+- Admission is free.  
+- No experience necessary; wear comfortable clothes.  
+- Club leaders available for Q&A.  
 
-Join The Qi Club for an Open House and Qi Day Celebration on Saturday, October 11 from 9 a.m.–noon at the Lakehouse Ballroom. The club will lead participants in basic routines for several of the club’s practices. The Qi Club focuses on the internal arts of Qigong, tai chi, yoga, meditation and circle drumming to create energy (qi) within the mind, body and spirit. Practice sessions promote relaxation, improve body coordination and increase flexibility. Admission is free. No experience necessary; dress in comfortable clothes. Qi Club leaders and members will be available to answer questions. 
-
+---
 
 ### Ballroom Dance Club Open House
+**Type:** Club Event / Open House  
+**Date:** 2025-10-17 (Friday)  
+**Time:** 7:00–9:45 p.m.  
+**Location:** Pinckney Hall  
+**Notes:**  
+- 7:00–8:00 p.m.: Special session for newcomers.  
+- Showcase dances: East Coast Swing, Rumba.  
+- Learn basic steps, mingle with members afterward.  
+- Refreshments provided. Dressy casual attire.  
 
-The Ballroom Dance Club invites residents to the club’s open house on Friday, October 17 from 7–9:45 p.m. at Pinckney Hall. The first hour of the event is especially for newcomers who have joined or are thinking about joining the club to see what it’s all about. Learn about club activities and events, watch showcase dancers perform an East Coast Swing and Rumba, learn basic steps and stay to mingle and meet members from 8–9:45 p.m. Refreshments provided and attire is dressy casual.
+---
 
 ### Croquet Club Tournament
+**Type:** Club Event / Tournament  
+**Date Range:** 2025-10-15 (Wednesday) – 2025-10-18 (Saturday)  
+**Location:** Sun City Croquet Club  
+**Notes:** Annual tournament. For info: Judy Murray (561-339-4147, judy.murray0707@gmail.com).  
 
-The Sun City Croquet Club will hold its annual Croquet Tournament from Wednesday, October 15 through Saturday, October 18. For more information, please contact Judy Murray at (561) 339-4147 or judy.murray0707@gmail.com.
+---
 
 ### Club Chatter
 
 #### Display Case Requests for 2026
-
-Requests to reserve the display case in Pinckney Hall for 2026 can be submitted beginning Wednesday, October 1 at 8 a.m. by emailing Elysa Koch at elysa.koch@schhca.com or by dropping off the Chartered Club Display Case Request form to Lifestyle Services in Palmetto Commons. Each club or group may use the case for one month to showcase and promote the club or group. Sign-up is available on a first come, first served basis.
+**Type:** Announcement / Registration  
+**Open Date:** 2025-10-01 (Wednesday)  
+**Time:** Opens 8:00 a.m.  
+**Location:** Pinckney Hall display case (requests submitted via email or Lifestyle Services in Palmetto Commons)  
+**Notes:**  
+- Each club/group may reserve for one month.  
+- First come, first served.  
+- Contact: Elysa Koch (elysa.koch@schhca.com).  
 
 #### Chartered Club Fair
-
-All residents are invited to the 26th annual Chartered Club Fair Saturday, October 4 from 10 a.m.–1 p.m. at Pinckney Hall, the Pavilion and Town Square. Kick off Sun City's 30th anniversary and Life Under the Sun Festivities at this popular event as you make new friends and explore new interests. Food and beverages will be available for purchase.
+**Type:** Community Event / Fair  
+**Date:** 2025-10-04 (Saturday)  
+**Time:** 10:00 a.m.–1:00 p.m.  
+**Location:** Pinckney Hall, Pavilion, Town Square  
+**Notes:**  
+- 26th annual Chartered Club Fair.  
+- Part of Sun City’s 30th anniversary and Life Under the Sun festivities.  
+- Food and beverages available for purchase.  
 
 ---
 
-# SCHH Computer Club
-
-SCHHCC: This Week in Your Computer Club Sept 21, 2025 – Sept 27, 2025
-
-This week’s events are in BLUE in the last column.
-
-Please do not respond to this “islc” email.
-
-Contact: suncityhhccpresident@gmail.com or SIG leader listed below
-
-Group
-
-Meeting Date & Place
-
-Current Topic
-
-A close-up of a sign
-
-AI-generated content may be incorrect.
-
-General Membership
-
-Meets the 3rd Thursday of the 
-
-month at Pinckney Hall 
-
-2:15-2:30-Mini SIG Fair
-
-2:30-3:30-Meeting
-
-For questions regarding membership and email address changes, contact SCHHCCMembership@gmail.com
-
-Next Meeting:
-
-Nov 16
-
- 
-
-The presentation will be in Pinckney Hall
-
-“Cybersecurity and Scams”
-
- by Ted Steinhauser.
-
- 
-
- 
-
-A colorful apple logo with a bite taken out
-
-AI-generated content may be incorrect.
-
-The Apple SIG
-
-We offer
-
-Weekly blog
-Information
-Classes
-Walk-in Help
- 
-For Questions Contact:
-
-Noah Rosenstein 
-
- nbrosenstein@gmail.com
-
-Toni Valenstein
-
- tovaknits1@me.com
-
-Leslie Foster
-
-lesliefstr@gmail.com
-
- 
-
-image.png
-
-
-A tree with leaves and a text
-
-AI-generated content may be incorrect.
-
-Genealogy
-
-Monthly Meetings are held on the first Thursday of each month at Hidden Cypress.
-
- 
-
-BLOG/Notes Link
-
- 
-
-Questions? Contact: Jim Bowden
-
-JBowden432@msn.com 
-
-Susan Dobbs, sdobbs2000@gmail.com
-
-Next meeting: Oct. 2, 2025 ,7 PM
-
-Sue Mueller will speak on "Immigration Records for Genealogy" at the Hidden Cypress CH,
-
-Santee Room.
-
- 
-
-Help Sessions will continue on the 2nd and 4th Wednesdays from
-
-6:30 - 8:30 pm at the CC.
-
- 
-
-Please register online after announcement is sent out.
-
-A logo with a sun and clock
-
-AI-generated content may be incorrect.
-
-The Computer Club Hour (CCH) is open to ALL Computer Club members.
-
-The Computer Club Hour meets most 2nd & 4th Fridays of the month in the Pinckney Hall Ballroom (sometimes in Magnolia Hall) at 10:00 AM. 
-
- 
-
-BLOG/Notes Link  Questions? Contact Bill Altman schh.cch@gmail.com
-
-The CCH is off for the summer
-
- and will return on October 24.
-
-Have a safe summer!
-
-A logo of a microsoft company
-
-AI-generated content may be incorrect.
-
- 
-
- 
-
-Microsoft Windows SIG
-
-Meets the 2nd Wed of the month Hidden Cypress
-
-3:00 PM 
-
-(Doors open at 2:30pm)
-
- 
-
-MS SIG Webpage:
-
- 
-
-Questions?
-
-Contact Dennis Shea
-
-SCHHCC.WinSIG@outlook.com
-
-**NO OCTOBER 2025 MEETING**
-
- 
-
-Next Meeting: 11/12/2025
-
-Time: 3:00 PM (Doors open at  2:30)    
-
-Place:  Hidden Cypress -
-
-       Okatie & Santee River Rooms
-
-Topic: Cyber Security,
-
-               by Ted Steinhauser
-
-Cartoon person looking at a telescope
-
-AI-generated content may be incorrect.
-
-Skywatchers SIG
-
-Location: Lakehouse
-
-Time: Doors open at 6:30 PM, Meeting starts promptly at 7 PM.
-
- 
-
-BLOG/Notes Link 
-
-Questions? 
-
-Contact Jerry Jeffrey
-
-jrj451@gmail.com  
-
-Skywatchers next mtg: 14 Oct Lakehouse Ballroom
-
- 
-
-7PM -  doors open at 6:30 PM
-
- 
-
- 
-
-Stay Safe and Keep Looking Up!!!
-
-A white square with black text
-
-AI-generated content may be incorrect.
-
-Education Announcements
-
- 
-
-The Fall Semester of Classes will begin
-
-on or after Oct. 8.
-
- "Education Weekly” is sent each Thursday listing future classes being offered. These classes will be listed by Date & Time.
-
-The registration fee per class is $5.
-
-Classes are listed on our Club’s website, SunCityCC.org. Click on the ”Classroom” Tab and select the Sub-tab “How to Register.” A “Calendar “will appear on the left and “Itemized Directions” on the right side of this page.
-
-Follow the listed directions to find the classes being offered at this time.
-
-Click on a title you find interesting and it will expand, showing the
-
-“Description” & “Registration Link.”
-
- 
-
-A keyboard with a red key
-
-AI-generated content may be incorrect.
-
-Help Sessions
-
-Help Sessions are scheduled regularly throughout the year. 
-
-Be sure to bring your relevant User IDs & Passwords to Classes And/Or Help Sessions!
-
-Check to see the Schedule and a list of Volunteers & his/her area of assistance.
-
-Click Here and scroll down for the latest information:
-
-https://schhccwalkinhelp.blogspot.com/p/welcome-walkin-help_1.html
-
- A blue and white globe with a lock
-
-AI-generated content may be incorrect.
-
-Our NEW Cyber Security blog will be updated frequently, keeping our members up to date on current cybersecurity topics.
-
-This will include computers, internet, identity theft protection, scam identification, social networking safety, and how to respond and recover if someone becomes a victim of cyber-crime.
-
- 
-
-A close-up of a message
-
-AI-generated content may be incorrect.
-
-Link:
-
-https://schhcc-cybersecurity.blogspot.com/p/welcome-security.html
+## Structured Summary
+
+| Title | Type | Date(s) | Time | Location | Notes |
+|-------|------|---------|------|----------|-------|
+| Duplicate Bridge Special Section | Club Event | Saturdays (from Oct 2025) | 9:00 a.m. | Yemassee Crafts Center | Special section for ≤499 master points; supervised play added |
+| Qi Club Open House & Qi Day | Club Event | 2025-10-11 | 9:00 a.m.–12:00 p.m. | Lakehouse Ballroom | Free, open to all, Qigong/tai chi/yoga/meditation |
+| Ballroom Dance Club Open House | Club Event | 2025-10-17 | 7:00–9:45 p.m. | Pinckney Hall | For newcomers, showcase dances, refreshments |
+| Croquet Club Tournament | Club Event | 2025-10-15 – 2025-10-18 | — | Croquet Club | Annual tournament |
+| Display Case Requests 2026 | Announcement | Opens 2025-10-01 | 8:00 a.m. | Pinckney Hall / Lifestyle Services | One-month slots, first come, first served |
+| Chartered Club Fair | Community Event | 2025-10-04 | 10:00 a.m.–1:00 p.m. | Pinckney Hall, Pavilion, Town Square | 26th annual, part of 30th anniversary celebrations |
+
+---
+
+# SCHH Computer Club: This Week
+## 2025-09-21 – 2025-09-27
+
+---
+
+### General Membership Meeting
+**Type:** Club Meeting  
+**Date:** 2025-11-16 (Sunday)  
+**Time:** 2:15–2:30 p.m. (Mini SIG Fair); 2:30–3:30 p.m. (Meeting)  
+**Location:** Pinckney Hall  
+**Topic:** “Cybersecurity and Scams” by Ted Steinhauser  
+**Notes:** Monthly meeting, 3rd Thursday of the month.  
+
+---
+
+### Apple SIG
+**Type:** SIG / Ongoing Activities  
+**Offerings:** Weekly blog, information, classes, walk-in help  
+**Contacts:** Noah Rosenstein (nbrosenstein@gmail.com), Toni Valenstein (tovaknits1@me.com), Leslie Foster (lesliefstr@gmail.com)  
+
+---
+
+### Genealogy SIG
+**Type:** SIG Meeting  
+**Next Meeting:** 2025-10-02 (Thursday), 7:00 p.m.  
+**Location:** Hidden Cypress, Santee Room  
+**Topic:** “Immigration Records for Genealogy” by Sue Mueller  
+**Notes:**  
+- Monthly meeting, 1st Thursday.  
+- Help Sessions: 2nd & 4th Wednesdays, 6:30–8:30 p.m. at the Computer Club (registration required).  
+**Contacts:** Jim Bowden (JBowden432@msn.com), Susan Dobbs (sdobbs2000@gmail.com)  
+
+---
+
+### Computer Club Hour (CCH)
+**Type:** Club Program  
+**Status:** Off for summer, resumes 2025-10-24  
+**Location:** Pinckney Hall Ballroom (sometimes Magnolia Hall)  
+**Time:** 10:00 a.m.  
+**Notes:** Meets most 2nd & 4th Fridays. Open to all club members.  
+**Contact:** Bill Altman (schh.cch@gmail.com)  
+
+---
+
+### Microsoft Windows SIG
+**Type:** SIG Meeting  
+**Next Meeting:** 2025-11-12 (Wednesday)  
+**Time:** 3:00 p.m. (doors open 2:30 p.m.)  
+**Location:** Hidden Cypress – Okatie & Santee River Rooms  
+**Topic:** Cyber Security by Ted Steinhauser  
+**Notes:** **No October 2025 meeting**.  
+**Contact:** Dennis Shea (SCHHCC.WinSIG@outlook.com)  
+
+---
+
+### Skywatchers SIG
+**Type:** SIG Meeting  
+**Next Meeting:** 2025-10-14 (Tuesday)  
+**Time:** 7:00 p.m. (doors open 6:30 p.m.)  
+**Location:** Lakehouse Ballroom  
+**Notes:** Astronomy-related programs and discussions.  
+**Contact:** Jerry Jeffrey (jrj451@gmail.com)  
+
+---
+
+### Education Announcements
+**Type:** Education / Classes  
+**Start Date:** On or after 2025-10-08  
+**Details:**  
+- Fall semester begins Oct 8.  
+- “Education Weekly” email sent each Thursday lists upcoming classes.  
+- Registration fee: $5 per class.  
+- Classes listed at [SunCityCC.org](http://SunCityCC.org) → Classroom tab.  
+
+---
+
+### Help Sessions
+**Type:** Assistance  
+**Schedule:** Ongoing throughout the year  
+**Details:**  
+- Bring relevant user IDs & passwords.  
+- Volunteer support available by specialty.  
+- [Walk-in Help Information](https://schhccwalkinhelp.blogspot.com/p/welcome-walkin-help_1.html)  
+
+---
+
+### Cybersecurity Blog
+**Type:** Resource / Blog  
+**Details:**  
+- Updated frequently with topics on internet safety, identity theft, scams, and recovery.  
+- Covers computers, social networking, and online safety.  
+- [Cybersecurity Blog](https://schhcc-cybersecurity.blogspot.com/p/welcome-security.html)  
+
+---
+
+## Structured Summary
+
+| Title | Type | Date(s) | Time | Location | Notes |
+|-------|------|---------|------|----------|-------|
+| General Membership Meeting | Club Meeting | 2025-11-16 | 2:15–3:30 p.m. | Pinckney Hall | “Cybersecurity and Scams” by Ted Steinhauser |
+| Apple SIG | SIG / Ongoing | — | — | — | Blog, classes, walk-in help |
+| Genealogy SIG | SIG Meeting | 2025-10-02 | 7:00 p.m. | Hidden Cypress, Santee Room | “Immigration Records” by Sue Mueller |
+| Genealogy Help Sessions | Help Session | 2nd & 4th Wed | 6:30–8:30 p.m. | Computer Club | Registration required |
+| Computer Club Hour (CCH) | Club Program | 2025-10-24 (resumes) | 10:00 a.m. | Pinckney Hall / Magnolia Hall | Meets most 2nd & 4th Fridays |
+| Windows SIG | SIG Meeting | 2025-11-12 | 3:00 p.m. | Hidden Cypress, Okatie & Santee Rooms | Cyber Security by Ted Steinhauser; no October meeting |
+| Skywatchers SIG | SIG Meeting | 2025-10-14 | 7:00 p.m. | Lakehouse Ballroom | Astronomy club meeting |
+| Education Classes | Education | Begin 2025-10-08 | — | Online / Club website | $5 per class, listed weekly |
+| Help Sessions | Assistance | Ongoing | — | Various | Bring IDs and passwords |
+| Cybersecurity Blog | Resource | Ongoing | — | Online | Safety, scams, identity theft updates |
 
 ---
 
 # SCHH eNews Weekly
-
 ## 2025-09-18
 
-### Third Quarter Board Meeting- Date Change
+---
 
-Wednesday, October 1 at 2 p.m. at Pinckney Hall
-The Board of Directors welcomes residents to attend the third quarter Board meeting to stay informed about the community. Click here for the meeting agenda. 
+### Third Quarter Board Meeting – Date Change
+**Type:** Event  
+**Date:** 2025-10-01 (Wednesday)  
+**Time:** 2:00 p.m.  
+**Location:** Pinckney Hall  
+**Notes:** Board of Directors welcomes residents to attend the third quarter Board meeting to stay informed about the community.  
+[Meeting Agenda](#)
+
+---
 
 ### Life Under the Sun Ticket Sales and Fitness Event Registration
+**Type:** Event / Registration  
+**Date Range:** Ongoing (ticket sales); Pre-registration deadline 2025-09-26 (Friday)  
+**Location:** Tickets available online and at Lifestyle Services in Palmetto Commons; pre-registration at any fitness center  
+**Notes:**  
+- Tickets for Life Under the Sun events are on sale.  
+- Residents can pre-register for free Health & Wellness events until 2025-09-26.  
+[Full Event Lineup](#)
 
-Tickets for Life Under the Sun events are on sale online and at Lifestyle Services in Palmetto Commons. Residents can pre-register for the free Health and Wellness events online or at any fitness center through Friday, September 26. Click here for the full event lineup. 
+---
 
 ### Veterans Memorial Field Closure
+**Type:** Closure / Maintenance  
+**Date Range:** Through 2025-09-19 (Friday)  
+**Location:** Veterans Memorial Field concession and picnic areas  
+**Notes:** Closed for paver work.  
 
-The Veterans Memorial Field concession and picnic areas will be closed through Friday, September 19 for paver work.
+---
 
 ### Common Area Treatment to Turf
+**Type:** Maintenance / Advisory  
+**Date Range:** September 2025  
+**Location:** SCHH common areas  
+**Notes:** Fungicide and insecticide will be applied. Residents and pets should remain off treated areas for 48 hours after signage is posted.  
 
-Fungicide and insecticide will be applied to turf in common areas in September. Residents and pets should remain off treated areas for 48 hours. Signs will be posted in treated areas.
+---
 
 ### Lakehouse Maintenance Entrance and Lobby Closure
+**Type:** Closure / Renovation  
+**Date Range:** Ongoing (September 2025)  
+**Location:** Lakehouse  
+**Notes:**  
+- Lobby and main entrance remain closed for renovations.  
+- Access is available through the outdoor pool gate (indoor pool, gym, locker rooms) or entry doors near the tennis courts (meeting rooms).  
+- **Accessibility:** Alternate entrances do not have push-to-open handicap access.  
 
-The Lakehouse lobby and main entrance remain closed for renovations. 
+---
 
-Access to the building is limited. Residents may enter through the Lakehouse outdoor pool gate for access to the indoor pool, gym and locker rooms or the entry doors closest to the tennis courts for access to the meeting rooms. Please note, these entrances do not have push-to-open access for those who need a handicap accessible entrance.
+## Structured Summary
+
+| Title | Type | Date(s) | Time | Location | Notes |
+|-------|------|---------|------|----------|-------|
+| Third Quarter Board Meeting – Date Change | Event | 2025-10-01 | 2:00 p.m. | Pinckney Hall | Board of Directors meeting, open to residents |
+| Life Under the Sun Ticket Sales & Fitness Event Registration | Event / Registration | Ongoing; Deadline 2025-09-26 | — | Palmetto Commons, Fitness Centers, Online | Ticket sales; Health & Wellness registration deadline |
+| Veterans Memorial Field Closure | Closure / Maintenance | Through 2025-09-19 | — | Veterans Memorial Field | Closed for paver work |
+| Common Area Turf Treatment | Maintenance / Advisory | September 2025 | — | SCHH common areas | Residents/pets off treated turf for 48 hrs after signage |
+| Lakehouse Lobby & Entrance Closure | Closure / Renovation | Ongoing (Sept 2025) | — | Lakehouse | Alternative entrances open; accessibility limited |
 
 ---
 
 # The Week Ahead
-
 ## 2025-09-22
 
-### Common Area Treatment to Turf
+---
 
-Fungicide and insecticide will be applied to turf in common areas in September. Residents and pets should remain off treated areas for 48 hours. Signs will be posted in treated areas.
+### Common Area Treatment to Turf
+**Type:** Maintenance / Advisory  
+**Date Range:** September 2025  
+**Location:** SCHH common areas  
+**Notes:**  
+- Fungicide and insecticide will be applied to turf in common areas.  
+- Residents and pets should stay off treated areas for 48 hours after signage is posted.  
+
+---
 
 ### Life Under the Sun Fitness Event Registration
+**Type:** Event / Registration Deadline  
+**Deadline:** 2025-09-26 (Friday)  
+**Location:** Online or at any SCHH fitness center  
+**Notes:**  
+- Free Health and Wellness events.  
+- Pre-registration required by the deadline.  
 
-Registration for the free Life Under the Sun Health and Wellness events ends Friday, September 26. Residents can pre-register online or at any fitness center. 
+---
 
-### October SunSations Goes Online September 25
+### October SunSations Goes Online
+**Type:** Announcement / Publication  
+**Date:** 2025-09-25 (Thursday)  
+**Notes:**  
+- October issue of *SunSations* available online starting Sept 25.  
+- Hard copy to be mailed to residents shortly after.  
+- Features include:  
+  - Board of Directors Special Election candidates.  
+  - Free Life Under the Sun events.  
+  - Story on Sun City’s first 100 residents.  
 
-The October issue of SunSations will be available to read online on Thursday, September 25. Look for a hard copy of the magazine coming soon to your mailbox. Learn more about the Board of Directors candidates in the Special Election Section. Then, plan what free events you’ll attend during Life Under the Sun and read more about Sun City’s first 100 residents. We hope you enjoy this issue of SunSations!
+---
 
 ### Lakehouse Main Entrance and Lobby Closure
+**Type:** Closure / Renovation  
+**Date Range:** Ongoing (September 2025)  
+**Location:** Lakehouse  
+**Notes:**  
+- Lobby and main entrance closed for renovations.  
+- Alternate entrances:  
+  - Outdoor pool gate → indoor pool, gym, locker rooms.  
+  - Doors near tennis courts → meeting rooms.  
+- Accessibility: Alternate entrances do **not** have push-to-open access.  
 
-The Lakehouse lobby and main entrance remain closed for renovations. 
+---
 
-Access to the building is limited. Residents may enter through the Lakehouse outdoor pool gate for access to the indoor pool, gym and locker rooms or the entry doors closest to the tennis courts for access to the meeting rooms. Please note, these entrances do not have push-to-open access for those who need a handicap accessible entrance.
+## Structured Summary
+
+| Title | Type | Date(s) | Time | Location | Notes |
+|-------|------|---------|------|----------|-------|
+| Common Area Turf Treatment | Maintenance / Advisory | September 2025 | — | Common areas | Residents/pets avoid treated turf for 48 hrs |
+| Life Under the Sun Fitness Registration | Event / Registration Deadline | Deadline: 2025-09-26 | — | Fitness centers / Online | Free Health & Wellness events |
+| October SunSations Online | Announcement / Publication | 2025-09-25 | — | Online / Mail | Includes election info, Life Under the Sun, 100 residents story |
+| Lakehouse Entrance & Lobby Closure | Closure / Renovation | Ongoing (Sept 2025) | — | Lakehouse | Alternate entrances open, limited accessibility |
 
 ---
 
 # SCTA Eblast
-
 ## 2025-09-23
 
-The SCTA Board Election 
+---
 
-Your Board has reviewed our Bylaws, and we consulted the CA, in order to move forward with the 2026 board election.  The schedule below has been approved by the Board and the CA. 
+### SCTA Board Election
+**Type:** Election / Announcement  
+**Key Dates:**  
+- **2025-10-01:** Write-in period ends for initial slate of candidates.  
+- **2025-09-21 – 2025-10-06:** Application window for President and Treasurer positions.  
+- **2025-10-07 – 2025-10-21:** Write-in period for President and Treasurer.  
+- **2025-10-23 – 2025-10-25:** 2026 Board Election (electronic voting).  
+**Notes:**  
+- Schedule reviewed and approved by Board and CA.  
+- No additional candidates accepted after Oct 1 for initial slate.  
 
-1)  The initial slate of candidates is already inside the 15 day window of write in candidates.  That will end on October 1.  No further candidates will then be accepted for that slate. 
+---
 
-2)  The additional two open positions, President and Treasurer, were announced on September 21, and those two positions will remain open to applicants for 15 days total through and including October 6.  
+### SCTA Club Championship – Men’s and Women’s Doubles
+**Type:** Tournament / Competition  
+**Date Range:** 2025-10-12 – 2025-11-13 (play); finals playoff 2025-11-14 – 2025-11-16  
+**Location:** Sun City Tennis courts  
+**Details:**  
+- Round Robin format.  
+- Levels: Rookie (<2.5), 2.5, 3.0, 3.5, 4.0.  
+- 1–2 rounds per week depending on flight size.  
 
-3)  Then a fifteen day write in period will begin for only those two positions, through and including October 21.  The application period for any and all open board positions is then closed. 
+---
 
-4)  The 2026 Board Election, done electronically, will begin the morning of October 23, with voting closing the evening of October 25. 
+### SCTA Club Championship – Mixed Fast4 Tournament
+**Type:** Tournament / Competition  
+**Date Range:** 2025-11-13 – 2025-11-16  
+**Location:** Sun City Tennis courts  
+**Details:**  
+- Levels: Rookie, 5.0, 6.0, 7.0, 8.0.  
+- Teams: Ratings must add up to division total; no more than 1.0 difference between partners.  
+- Format: Single elimination, Fast4 scoring (first to 4 games, tie-break at 3-3, no-advantage scoring, 3rd set tiebreak).  
+- Signup: [Registration Form](https://forms.gle/ovm9NgKa71z8TtGz6).  
+- **Deadline to Enter:** 2025-10-06.  
+- Partner matching available for individuals.  
 
-The Club Championship 
+---
 
-ARE YOU THE NEXT SCTA CLUB CHAMPION?
+### SCTA Board Meeting
+**Type:** Meeting  
+**Date:** 2025-10-01 (Wednesday)  
+**Time:** 6:00 p.m.  
+**Location:** Lakehouse – Bayside Room  
+**Agenda Highlights:**  
+- Call to Order (President Tyler Tollstrup)  
+- Treasurer’s Report (John Bell)  
+- Director/Liaison Reports: Membership, Ambassador, WTA, Ombudsman, Intra-club, USTA, At Large  
+- Updates: Tennis socials, election updates  
+- New Business: Board positions, Club Championship  
+- Open Discussion  
+**Next Membership Meeting:** 2025-11-05 (Wednesday), 6:00 p.m. at Pinckney Hall – Edisto River Room  
 
-The Club Championship will take the form of a Round Robin Men and Women’s Doubles tournament, ending with a final playoff weekend. All levels, from Rookies to 4.0 are eligible to enter.
+---
 
-The Mixed Club Championships will be a Fast4 elimination event, as played at the 2025 US Open.
+## Structured Summary
 
-Men’s and Women’s Doubles
-
-Date: October 12th – Nov 16th
-
-The women’s and men’s doubles tournament will take place over 5 weeks.  There will be 5 levels: Rookie (below 2.5), 2.5, 3.0, 3.5 and 4.0. 
-
-There may be multiple flights at each level and teams can expect to play one or two rounds per week, depending on the size of the flight, from Oct 12th – Nov 13th.
-
-Finals playoff weekend will be Fri Nov 14th – Sun 16th.
-
-Mixed Fast4 Tournament 
-
-Date: Thurs Nov 13 – Sun 16th
-
-Fast4 is open to Rookies, 5.0, 6.0, 7.0 and 8.0. The combination of player ratings must add up to the level and not exceed 1 level between players, so as an example, a 3.0 may pair with a 4.0 in the 7.0 division. 
-
-Teams will play a single elimination Fast4 Tournament, which uses a simplified scoring format. The winners win the best of 3 sets. The first to four games wins the set, there's a tiebreak at 3-3 and no advantage scoring. The third set is played as a tiebreak.
-
-If you do not have a partner for either tournament, sign up and we will pair you up with someone!
-
-TO SIGN UP CLICK ON THE LINK BELOW
-
-https://forms.gle/ovm9NgKa71z8TtGz6
-
-DEADLINE TO ENTER: OCTOBER 6TH
-
-The Next SCTA Board Meeting 
-
-The next board meeting is Wednesday, October 1, at the Lakehouse in the Bayside Room at 6:00 pm.  Please see the attached agenda below.
-
-Call to Order Tyler Tollstrup, President
-Establish Board Quorum Laurie Williams, Secretary
-Minutes 9/03/2025 meeting
-Treasurer’s Report - 9/2025 John Bell
-Director/Liaison Reports:
-● Membership Michael Sacks
-● Ambassador Fiona Harwood
-● Women’s Tennis Organization Angela M. Bossu Wolfe
-● Ombudsman Michael Ryan
-● Intra-club Rich White
-● USTA Mike McCombs
-● At Large Rich Koncicki
-Updates
-● Tennis Socials Fiona & Tyler
-● Election updates Tyler
-New
-● Board position updates Tyler
-● Club Championship Fiona
-
-OPEN DISCUSSION
-Next SCTA Membership Meeting November 5, 2025, 6:00 pm Pinckney Hall Edisto River Room
+| Title | Type | Date(s) | Time | Location | Notes |
+|-------|------|---------|------|----------|-------|
+| SCTA Board Election | Election / Announcement | 2025-09-21 – 2025-10-21 (applications & write-ins); 2025-10-23 – 2025-10-25 (election) | — | Online | Election schedule approved; President & Treasurer open until Oct 6 |
+| Club Championship – Men’s & Women’s Doubles | Tournament | 2025-10-12 – 2025-11-16 | — | Tennis courts | Round Robin; finals Nov 14–16 |
+| Club Championship – Mixed Fast4 | Tournament | 2025-11-13 – 2025-11-16 | — | Tennis courts | Fast4 format; entry deadline Oct 6; partner matching available |
+| SCTA Board Meeting | Meeting | 2025-10-01 | 6:00 p.m. | Lakehouse, Bayside Room | Agenda includes reports, elections, championship |
+| SCTA Membership Meeting | Meeting | 2025-11-05 | 6:00 p.m. | Pinckney Hall, Edisto River Room | Membership-wide meeting |

@@ -1,21 +1,59 @@
 # The Week Ahead
-
 ## 2025-09-22
 
-### Common Area Treatment to Turf
+---
 
-Fungicide and insecticide will be applied to turf in common areas in September. Residents and pets should remain off treated areas for 48 hours. Signs will be posted in treated areas.
+### Common Area Treatment to Turf
+**Type:** Maintenance / Advisory  
+**Date Range:** September 2025  
+**Location:** SCHH common areas  
+**Notes:**  
+- Fungicide and insecticide will be applied to turf in common areas.  
+- Residents and pets should stay off treated areas for 48 hours after signage is posted.  
+
+---
 
 ### Life Under the Sun Fitness Event Registration
+**Type:** Event / Registration Deadline  
+**Deadline:** 2025-09-26 (Friday)  
+**Location:** Online or at any SCHH fitness center  
+**Notes:**  
+- Free Health and Wellness events.  
+- Pre-registration required by the deadline.  
 
-Registration for the free Life Under the Sun Health and Wellness events ends Friday, September 26. Residents can pre-register online or at any fitness center. 
+---
 
-### October SunSations Goes Online September 25
+### October SunSations Goes Online
+**Type:** Announcement / Publication  
+**Date:** 2025-09-25 (Thursday)  
+**Notes:**  
+- October issue of *SunSations* available online starting Sept 25.  
+- Hard copy to be mailed to residents shortly after.  
+- Features include:  
+  - Board of Directors Special Election candidates.  
+  - Free Life Under the Sun events.  
+  - Story on Sun City’s first 100 residents.  
 
-The October issue of SunSations will be available to read online on Thursday, September 25. Look for a hard copy of the magazine coming soon to your mailbox. Learn more about the Board of Directors candidates in the Special Election Section. Then, plan what free events you’ll attend during Life Under the Sun and read more about Sun City’s first 100 residents. We hope you enjoy this issue of SunSations!
+---
 
 ### Lakehouse Main Entrance and Lobby Closure
+**Type:** Closure / Renovation  
+**Date Range:** Ongoing (September 2025)  
+**Location:** Lakehouse  
+**Notes:**  
+- Lobby and main entrance closed for renovations.  
+- Alternate entrances:  
+  - Outdoor pool gate → indoor pool, gym, locker rooms.  
+  - Doors near tennis courts → meeting rooms.  
+- Accessibility: Alternate entrances do **not** have push-to-open access.  
 
-The Lakehouse lobby and main entrance remain closed for renovations. 
+---
 
-Access to the building is limited. Residents may enter through the Lakehouse outdoor pool gate for access to the indoor pool, gym and locker rooms or the entry doors closest to the tennis courts for access to the meeting rooms. Please note, these entrances do not have push-to-open access for those who need a handicap accessible entrance.
+## Structured Summary
+
+| Title | Type | Date(s) | Time | Location | Notes |
+|-------|------|---------|------|----------|-------|
+| Common Area Turf Treatment | Maintenance / Advisory | September 2025 | — | Common areas | Residents/pets avoid treated turf for 48 hrs |
+| Life Under the Sun Fitness Registration | Event / Registration Deadline | Deadline: 2025-09-26 | — | Fitness centers / Online | Free Health & Wellness events |
+| October SunSations Online | Announcement / Publication | 2025-09-25 | — | Online / Mail | Includes election info, Life Under the Sun, 100 residents story |
+| Lakehouse Entrance & Lobby Closure | Closure / Renovation | Ongoing (Sept 2025) | — | Lakehouse | Alternate entrances open, limited accessibility |

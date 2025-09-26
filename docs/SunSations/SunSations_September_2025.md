@@ -1,6 +1,10 @@
----
-source: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/september-2025-sunsations/page/1
----
+
+<!--
+title: SunSations, October 2025
+source: Website
+url: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/september-2025-sunsations
+retrieved: 
+-->
 
 # IN THIS ISSUE
 

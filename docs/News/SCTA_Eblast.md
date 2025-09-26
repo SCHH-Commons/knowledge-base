@@ -1,3 +1,10 @@
+
+<!--
+title: SCTA Eblast
+source: EMail
+retrieved: 2025-09-23
+-->
+
 # SCTA Eblast
 ## 2025-09-23
 

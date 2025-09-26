@@ -1,3 +1,10 @@
+
+<!--
+title: Outdoor Living Spaces Vendors
+source: AI-Assisted Research
+retrieved: 2025-09
+-->
+
 # Outdoor Living Spaces
 
 ## Porch Outfitters

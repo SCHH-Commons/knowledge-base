@@ -1,6 +1,10 @@
----
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/suncitynorthandsuncitywestpackage2025?doc_id=2880902&print=1&view=1
----
+
+<!--
+title: Managed Neighborhoods Sun City North & Sun City West Package
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/suncitynorthandsuncitywestpackage2025?doc_id=2880902&print=1&view=1
+retrieved: 
+-->
 
 # Managed Neighborhoods Sun City North & Sun City West Package
 

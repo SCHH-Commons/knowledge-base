@@ -1,6 +1,10 @@
----
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025charteredclubrulesandprocedures?doc_id=2479799&print=1&view=1
----
+
+<!--
+title: Chartered Club Rules and Procedures
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025charteredclubrulesandprocedures?doc_id=2479799&print=1&view=1
+retrieved: 
+-->
 
 # Chartered Club Rules and Procedures
 

@@ -1,3 +1,10 @@
+
+<!--
+title: SCHH Computer Club: This Week
+source: EMail
+retrieved: 2025-09-21
+-->
+
 # SCHH Computer Club: This Week
 ## 2025-09-21 – 2025-09-27
 

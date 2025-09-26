@@ -1,3 +1,10 @@
+
+<!--
+title: Association Update
+source: EMail
+retrieved: 2025-09-23
+-->
+
 # Association Update
 ## 2025-09-23
 

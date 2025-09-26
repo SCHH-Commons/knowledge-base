@@ -1,3 +1,10 @@
+
+<!--
+title: SCHHCA Clubs and Groups eNewsletter
+source: EMail
+retrieved: 2025-09-24
+-->
+
 # SCHHCA Clubs and Groups eNewsletter
 ## 2025-09-24
 

@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Sun City, Hilton Head"
+        "label": "Sun City, Hilton Head",
+        "strokeColor": "#ff0000"
       },
       "geometry": {
         "coordinates": [

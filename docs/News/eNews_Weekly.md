@@ -1,3 +1,10 @@
+
+<!--
+title: SCHH eNews Weekly
+source: EMail
+retrieved: 2025-09-18
+-->
+
 # SCHH eNews Weekly
 ## 2025-09-18
 

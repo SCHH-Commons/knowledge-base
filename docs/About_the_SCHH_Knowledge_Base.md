@@ -1,3 +1,11 @@
+
+<!--
+title: 
+source: 
+url: 
+retrieved: 
+-->
+
 # About the SCHH Knowledge Base
 
 The SCHH Commons Knowledge Base is a growing collection of documents designed to help residents and prospective residents better understand life in Sun City Hilton Head. It brings together information from multiple sources, including official documents, public websites, and resident-generated content, making valuable knowledge easier to find, connect, and use.

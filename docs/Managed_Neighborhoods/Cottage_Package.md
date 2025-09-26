@@ -1,6 +1,10 @@
----
-source: https://suncityhiltonhead.org/ResourceCenter/Download/46134/cottagepackagejune2024?doc_id=2637222&print=1&view=1
----
+
+<!--
+title: Managed Neighborhood Cottage Package
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/cottagepackagejune2024?doc_id=2637222&print=1&view=1
+retrieved: 
+-->
 
 # Managed Neighborhood Cottage Package
 

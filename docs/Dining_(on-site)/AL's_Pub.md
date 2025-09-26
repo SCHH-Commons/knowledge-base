@@ -1,7 +1,10 @@
----
-title: 
-source: https://jamesons-charhouse.com/argent-lakes-pizzeria-and-pub/
----
+
+<!--
+title: Argent Lakes Pub and Pizzeria
+source: Website
+url: https://jamesons-charhouse.com/argent-lakes-pizzeria-and-pub/
+retrieved: 
+-->
 
 # Argent Lakes Pub and Pizzeria
 

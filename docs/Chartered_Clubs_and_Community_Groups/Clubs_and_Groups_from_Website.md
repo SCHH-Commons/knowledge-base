@@ -1,8 +1,10 @@
----
+
+<!--
 title: Chartered Clubs
-source: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
-date_retrieved: 2025-08-15
----
+source: Website
+url: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
+retrieved: 
+-->
 
 # Sun City Hilton Head Chartered Clubs
 

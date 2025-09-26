@@ -1,8 +1,9 @@
----
+
+<!--
 title: Fall Armyworms: Overview and Control in Sun City Hilton Head
-source: ChatGPT
-date_retrieved: 2025-08-15
----
+source: AI-Assisted Research
+retrieved: 2025-08-15
+-->
 
 # Fall Armyworms: Overview and Control in Sun City Hilton Head
 

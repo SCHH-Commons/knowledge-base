@@ -1,3 +1,11 @@
+
+<!--
+title: Computer Club
+source: Website
+url: 
+retrieved: 
+-->
+
 # Computer Club
 
 The mission of the Computer Club is to provide our members the opportunity to enhance their knowledge of the latest computer technology our Club has to offer. Our fully equipped state-of-the-art facility, along with the many classes, lectures, special programs, meetings, equipment and so much more, fulfill this mission. Staying abreast of technological developments through “Learning & Sharing” are continuing goals of the Computer Club!

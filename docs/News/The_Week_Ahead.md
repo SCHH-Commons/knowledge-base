@@ -1,3 +1,10 @@
+
+<!--
+title: The Week Ahead
+source: EMail
+retrieved: 2025-09-22
+-->
+
 # The Week Ahead
 ## 2025-09-22
 

@@ -1,7 +1,10 @@
----
+
+<!--
 title: Sun City Hilton Head Golf Courses
-source: https://schh-commons.github.io/knowledge-base/docs/GO-Golf_Courses
----
+source: Constructed
+url: https://schh-commons.github.io/knowledge-base/docs/GO-Golf_Courses
+retrieved: 
+-->
 
 # Sun City Hilton Head Golf Courses
 

@@ -47,6 +47,8 @@ def merge_by_folder():
                     content = f.read()
                     metadata = getCommentMetadata(content)
                     if metadata:
+                        if 'url' not in metadata:
+                            metadata['url'] = f'https://www.schh-commons.org/knowledge-base/docs/{group.replace(" ", "_")}/{file[:-3]}'
                         groups[group].append(metadata)
                     else:
                         print(f"Warning: No metadata found in {file}")
@@ -68,7 +70,8 @@ def merge_by_folder():
             index.write('|---|---|---|\n')
             for item in sorted(groups[group], key=lambda x: x['title']):
                 title = item.get('title', 'No Title')
-                url = item.get('url', '#')
+                url = item.get('url')
+                print(url)
                 source = item.get('source', '')
                 date_retrieved = item.get('retrieved', '')
                 # index.write(f"- [{title}]({url})\n")

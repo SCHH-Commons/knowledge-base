@@ -1,11 +1,11 @@
+---
+title: "Amenity_Locations (GeoJSON Export)"
+generated_at: 2025-09-27T17:25:25
+feature_count: 46
+schema: v1
+---
 
-<!--
-title: Amenity Locations
-source: Constructed
-retrieved: 
--->
-
-# Amenity Locations
+# Amenity\_Locations (GeoJSON Export)
 
 _This file is auto-generated from a GeoJSON source. Each record begins with a YAML block for reliable parsing, followed by a human-readable section._
 
@@ -60,6 +60,31 @@ source_index: 2
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
+id: 45
+name: "Hidden Cypress Fitness Center"
+category: "Amenity Center"
+address: "672 Cypress Hills Dr, Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.2777897942277
+  lon: -80.97865193154446
+marker:
+  symbol: "building"
+  color: "#8E24AA"
+source_index: 3
+---
+
+## Hidden Cypress Fitness Center
+
+- **Category:** Amenity Center
+- **Address:** 672 Cypress Hills Dr, Okatie, SC 29909
+- **Coordinates:** 32.277790, -80.978652
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277790,-80.978652) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277790&mlon=-80.978652#map=17/32.277790/-80.978652)
+- **Marker:** symbol `building`, color `#8E24AA`
+
+---
 id: 10
 name: "Lakehouse"
 category: "Amenity Center"
@@ -68,20 +93,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.31187222309927
-  lon: -80.95523397191732
+  lat: 32.30970161373224
+  lon: -80.95519442409193
 marker:
   symbol: "building"
   color: "#8E24AA"
-source_index: 3
+source_index: 4
 ---
 
 ## Lakehouse
 
 - **Category:** Amenity Center
 - **Address:** 1251 Sgt. William Jasper Blvd, Okatie, SC 29909
-- **Coordinates:** 32.311872, -80.955234
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.311872,-80.955234) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.311872&mlon=-80.955234#map=17/32.311872/-80.955234)
+- **Coordinates:** 32.309702, -80.955194
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.309702,-80.955194) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.309702&mlon=-80.955194#map=17/32.309702/-80.955194)
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
@@ -93,20 +118,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.29441752783469
-  lon: -80.95275024571373
+  lat: 32.29440869386999
+  lon: -80.95274782369593
 marker:
   symbol: "building"
   color: "#8E24AA"
-source_index: 4
+source_index: 5
 ---
 
 ## Purrysburg Fitness Center
 
 - **Category:** Amenity Center
 - **Address:** 122 Del Webb Blvd, Okatie, SC 29909
-- **Coordinates:** 32.294418, -80.952750
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.294418,-80.952750) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.294418&mlon=-80.952750#map=17/32.294418/-80.952750)
+- **Coordinates:** 32.294409, -80.952748
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.294409,-80.952748) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.294409&mlon=-80.952748#map=17/32.294409/-80.952748)
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
@@ -123,7 +148,7 @@ coordinates:
 marker:
   symbol: "building"
   color: "#8E24AA"
-source_index: 5
+source_index: 6
 ---
 
 ## Riverbend Lodge
@@ -132,6 +157,31 @@ source_index: 5
 - **Address:** 39 Tidewatch Drive, Okatie, SC 29909
 - **Coordinates:** 32.307601, -80.929713
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.307601,-80.929713) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307601&mlon=-80.929713#map=17/32.307601/-80.929713)
+- **Marker:** symbol `building`, color `#8E24AA`
+
+---
+id: 46
+name: "Sun City West Amenity Center"
+category: "Amenity Center"
+address: "Sundance Drive, Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.324223040425615
+  lon: -80.96242384573289
+marker:
+  symbol: "building"
+  color: "#8E24AA"
+source_index: 7
+---
+
+## Sun City West Amenity Center
+
+- **Category:** Amenity Center
+- **Address:** Sundance Drive, Okatie, SC 29909
+- **Coordinates:** 32.324223, -80.962424
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.324223,-80.962424) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.324223&mlon=-80.962424#map=17/32.324223/-80.962424)
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
@@ -148,7 +198,7 @@ coordinates:
 marker:
   symbol: "circle-dot"
   color: "#B71C1C"
-source_index: 6
+source_index: 8
 ---
 
 ## Town Square Bocce Ball Courts
@@ -173,7 +223,7 @@ coordinates:
 marker:
   symbol: "computer"
   color: "#3F51B5"
-source_index: 7
+source_index: 9
 ---
 
 ## Computer Club
@@ -198,7 +248,7 @@ coordinates:
 marker:
   symbol: "palette"
   color: "#D81B60"
-source_index: 8
+source_index: 10
 ---
 
 ## Yemassee Crafts Center
@@ -223,7 +273,7 @@ coordinates:
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 9
+source_index: 11
 ---
 
 ## Argent Lakes Pub & Pizzeria (AL's Pub)
@@ -243,45 +293,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.279034642723104
-  lon: -80.97951764100245
+  lat: 32.277791653185545
+  lon: -80.97889887186147
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 10
+source_index: 12
 ---
 
 ## Jameson’s Charhouse
 
 - **Category:** Dining
 - **Address:** 672 Cypress Hills Drive, Okatie, SC 29909
-- **Coordinates:** 32.279035, -80.979518
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.279035,-80.979518) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.279035&mlon=-80.979518#map=17/32.279035/-80.979518)
-- **Marker:** symbol `utensils`, color `#E53935`
-
----
-id: 19
-name: "Okatie Creek Clubhouse"
-category: "Dining"
-address: "60 Sun City Club Lane, Okatie, SC 29909"
-phone: null
-description: null
-geometry_type: "Point"
-coordinates:
-  lat: 32.28974650477646
-  lon: -80.9520389600381
-marker:
-  symbol: "utensils"
-  color: "#E53935"
-source_index: 11
----
-
-## Okatie Creek Clubhouse
-
-- **Category:** Dining
-- **Address:** 60 Sun City Club Lane, Okatie, SC 29909
-- **Coordinates:** 32.289747, -80.952039
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.289747,-80.952039) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.289747&mlon=-80.952039#map=17/32.289747/-80.952039)
+- **Coordinates:** 32.277792, -80.978899
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277792,-80.978899) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277792&mlon=-80.978899#map=17/32.277792/-80.978899)
 - **Marker:** symbol `utensils`, color `#E53935`
 
 ---
@@ -298,7 +323,7 @@ coordinates:
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 12
+source_index: 13
 ---
 
 ## The Clubhouse at Okatie Creek
@@ -318,20 +343,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.309755000295134
-  lon: -80.9566940357343
+  lat: -80.95669723372279
+  lon: 32.30981736177027
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 13
+source_index: 14
 ---
 
 ## Argent Lakes Dog Park
 
 - **Category:** Dog Park
 - **Address:** 1021 Sgt. William Jasper Blvd, Okatie, SC 29909
-- **Coordinates:** 32.309755, -80.956694
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.309755,-80.956694) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.309755&mlon=-80.956694#map=17/32.309755/-80.956694)
+- **Coordinates:** -80.956697, 32.309817
+- **Map:** [Google Maps](https://www.google.com/maps?q=-80.956697,32.309817) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=-80.956697&mlon=32.309817#map=17/-80.956697/32.309817)
 - **Marker:** symbol `dog`, color `#F57C00`
 
 ---
@@ -343,20 +368,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27719226557305
-  lon: -80.9701712330667
+  lat: 32.27712314413966
+  lon: -80.97017155345621
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 14
+source_index: 15
 ---
 
 ## Red Dam Dog Park
 
 - **Category:** Dog Park
 - **Address:** 839 Red Dam Road, Okatie, SC 29909
-- **Coordinates:** 32.277192, -80.970171
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277192,-80.970171) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277192&mlon=-80.970171#map=17/32.277192/-80.970171)
+- **Coordinates:** 32.277123, -80.970172
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277123,-80.970172) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277123&mlon=-80.970172#map=17/32.277123/-80.970172)
 - **Marker:** symbol `dog`, color `#F57C00`
 
 ---
@@ -368,20 +393,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.32493660787278
-  lon: -80.96873984974086
+  lat: -80.95669723372279
+  lon: 32.30981736177027
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 15
+source_index: 16
 ---
 
 ## Sun City West Dog Park
 
 - **Category:** Dog Park
 - **Address:** Sundance Drive, Okatie, SC 29909
-- **Coordinates:** 32.324937, -80.968740
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.324937,-80.968740) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.324937&mlon=-80.968740#map=17/32.324937/-80.968740)
+- **Coordinates:** -80.956697, 32.309817
+- **Map:** [Google Maps](https://www.google.com/maps?q=-80.956697,32.309817) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=-80.956697&mlon=32.309817#map=17/-80.956697/32.309817)
 - **Marker:** symbol `dog`, color `#F57C00`
 
 ---
@@ -398,7 +423,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 16
+source_index: 17
 ---
 
 ## Mulching Center
@@ -423,7 +448,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 17
+source_index: 18
 ---
 
 ## Okatie Farms Andover
@@ -448,7 +473,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 18
+source_index: 19
 ---
 
 ## Okatie Farms East
@@ -473,7 +498,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 19
+source_index: 20
 ---
 
 ## Okatie Farms West
@@ -498,7 +523,7 @@ coordinates:
 marker:
   symbol: "door-closed"
   color: "#6D4C41"
-source_index: 20
+source_index: 21
 ---
 
 ## Lake Somerset
@@ -523,7 +548,7 @@ coordinates:
 marker:
   symbol: "door-closed"
   color: "#6D4C41"
-source_index: 21
+source_index: 22
 ---
 
 ## North Gate
@@ -548,7 +573,7 @@ coordinates:
 marker:
   symbol: "door-closed"
   color: "#6D4C41"
-source_index: 22
+source_index: 23
 ---
 
 ## Riverbend Gate
@@ -573,7 +598,7 @@ coordinates:
 marker:
   symbol: "door-closed"
   color: "#6D4C41"
-source_index: 23
+source_index: 24
 ---
 
 ## South Gate
@@ -598,7 +623,7 @@ coordinates:
 marker:
   symbol: "door-closed"
   color: "#6D4C41"
-source_index: 24
+source_index: 25
 ---
 
 ## Sun City West Gate
@@ -623,7 +648,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 25
+source_index: 26
 ---
 
 ## Argent Lakes Golf Clubhouse
@@ -643,20 +668,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.277831061455515
-  lon: -80.97925156233778
+  lat: 32.277762307211994
+  lon: -80.97925929552832
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 26
+source_index: 27
 ---
 
 ## Hidden Cypress Golf Clubhouse
 
 - **Category:** Golf Clubhouse
 - **Address:** 672 Cypress Hills Drive, Okatie, SC 29909
-- **Coordinates:** 32.277831, -80.979252
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277831,-80.979252) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277831&mlon=-80.979252#map=17/32.277831/-80.979252)
+- **Coordinates:** 32.277762, -80.979259
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277762,-80.979259) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277762&mlon=-80.979259#map=17/32.277762/-80.979259)
 - **Marker:** symbol `flag`, color `#2E7D32`
 
 ---
@@ -673,7 +698,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 27
+source_index: 28
 ---
 
 ## Okatie Creek Golf Clubhouse
@@ -698,7 +723,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#FFB300"
-source_index: 28
+source_index: 29
 ---
 
 ## Lakehouse Pickleball Courts
@@ -718,20 +743,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27726309305376
-  lon: -80.97194546003838
+  lat: 32.27839839354194
+  lon: -80.97255286060518
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#FFB300"
-source_index: 29
+source_index: 30
 ---
 
 ## New River Sports Park Pickleball Courts
 
 - **Category:** Pickleball
 - **Address:** 831 Red Dam Road, Okatie, SC 29909
-- **Coordinates:** 32.277263, -80.971945
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277263,-80.971945) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277263&mlon=-80.971945#map=17/32.277263/-80.971945)
+- **Coordinates:** 32.278398, -80.972553
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.278398,-80.972553) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.278398&mlon=-80.972553#map=17/32.278398/-80.972553)
 - **Marker:** symbol `table-tennis-paddle-ball`, color `#FFB300`
 
 ---
@@ -748,7 +773,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 30
+source_index: 31
 ---
 
 ## Barataria Outdoor Pool
@@ -768,20 +793,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27788627969718
-  lon: -80.97817380844737
+  lat: 32.27787010839829
+  lon: -80.97818193969826
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 31
+source_index: 32
 ---
 
 ## Hidden Cypress Outdoor Pool
 
 - **Category:** Pool
 - **Address:** 672 Cypress Hills Drive, Okatie, SC 29909
-- **Coordinates:** 32.277886, -80.978174
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277886,-80.978174) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277886&mlon=-80.978174#map=17/32.277886/-80.978174)
+- **Coordinates:** 32.277870, -80.978182
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277870,-80.978182) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277870&mlon=-80.978182#map=17/32.277870/-80.978182)
 - **Marker:** symbol `person-swimming`, color `#0288D1`
 
 ---
@@ -793,20 +818,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.31187222309927
-  lon: -80.95523397191732
+  lat: 32.30968138716038
+  lon: -80.95624085344166
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 32
+source_index: 33
 ---
 
 ## Lakehouse Outdoor Pool
 
 - **Category:** Pool
 - **Address:** 1251 Sgt. William Jasper Blvd, Okatie, SC 29909
-- **Coordinates:** 32.311872, -80.955234
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.311872,-80.955234) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.311872&mlon=-80.955234#map=17/32.311872/-80.955234)
+- **Coordinates:** 32.309681, -80.956241
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.309681,-80.956241) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.309681&mlon=-80.956241#map=17/32.309681/-80.956241)
 - **Marker:** symbol `person-swimming`, color `#0288D1`
 
 ---
@@ -823,7 +848,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 33
+source_index: 34
 ---
 
 ## Riverbend Outdoor Pool
@@ -846,9 +871,9 @@ coordinates:
   lat: 32.27871892796357
   lon: -80.94732272863969
 marker:
-  symbol: "person-hiking"
+  symbol: "caravan"
   color: "#1E88E5"
-source_index: 34
+source_index: 35
 ---
 
 ## Boat and RV Park/Campsite
@@ -857,7 +882,7 @@ source_index: 34
 - **Address:** 25 Okatie Maintenance Yard Road, Okatie, SC 29909
 - **Coordinates:** 32.278719, -80.947323
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.278719,-80.947323) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.278719&mlon=-80.947323#map=17/32.278719/-80.947323)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `caravan`, color `#1E88E5`
 
 ---
 id: 13
@@ -871,9 +896,9 @@ coordinates:
   lat: 32.29296618407857
   lon: -80.95261837041492
 marker:
-  symbol: "person-hiking"
+  symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 35
+source_index: 36
 ---
 
 ## Magnolia Hall
@@ -882,7 +907,7 @@ source_index: 35
 - **Address:** 118 Sun City Lane, Okatie, SC 29909
 - **Coordinates:** 32.292966, -80.952618
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.292966,-80.952618) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.292966&mlon=-80.952618#map=17/32.292966/-80.952618)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `masks-theater`, color `#1E88E5`
 
 ---
 id: 16
@@ -898,7 +923,7 @@ coordinates:
 marker:
   symbol: "person-hiking"
   color: "#1E88E5"
-source_index: 36
+source_index: 37
 ---
 
 ## Nature Trail
@@ -921,9 +946,9 @@ coordinates:
   lat: 32.27726309305376
   lon: -80.97194546003838
 marker:
-  symbol: "person-hiking"
+  symbol: "baseball-bat-ball"
   color: "#1E88E5"
-source_index: 37
+source_index: 38
 ---
 
 ## New River Sports Park
@@ -932,7 +957,7 @@ source_index: 37
 - **Address:** 831 Red Dam Road , Okatie, SC 29909
 - **Coordinates:** 32.277263, -80.971945
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.277263,-80.971945) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277263&mlon=-80.971945#map=17/32.277263/-80.971945)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `baseball-bat-ball`, color `#1E88E5`
 
 ---
 id: 24
@@ -946,9 +971,9 @@ coordinates:
   lat: 32.29362004197021
   lon: -80.95255750489238
 marker:
-  symbol: "person-hiking"
+  symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 38
+source_index: 39
 ---
 
 ## Pavilion
@@ -957,7 +982,7 @@ source_index: 38
 - **Address:** 114B Sun City Lane, Okatie, SC 29909
 - **Coordinates:** 32.293620, -80.952558
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.293620,-80.952558) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.293620&mlon=-80.952558#map=17/32.293620/-80.952558)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `masks-theater`, color `#1E88E5`
 
 ---
 id: 27
@@ -971,9 +996,9 @@ coordinates:
   lat: 32.293227727801124
   lon: -80.95168256300602
 marker:
-  symbol: "person-hiking"
+  symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 39
+source_index: 40
 ---
 
 ## Pinckney Hall
@@ -982,7 +1007,7 @@ source_index: 39
 - **Address:** 114 Sun City Lane, Okatie, SC 29909
 - **Coordinates:** 32.293228, -80.951683
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.293228,-80.951683) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.293228&mlon=-80.951683#map=17/32.293228/-80.951683)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `masks-theater`, color `#1E88E5`
 
 ---
 id: 37
@@ -993,20 +1018,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27708037742499
-  lon: -80.97189634469004
+  lat: 32.27706757705754
+  lon: -80.97190449881887
 marker:
   symbol: "baseball-ball"
   color: "#FDD835"
-source_index: 40
+source_index: 41
 ---
 
 ## Veterans Memorial Field
 
 - **Category:** Softball
 - **Address:** 831 Red Dam Roa, Okatie, SC 29909
-- **Coordinates:** 32.277080, -80.971896
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277080,-80.971896) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277080&mlon=-80.971896#map=17/32.277080/-80.971896)
+- **Coordinates:** 32.277068, -80.971904
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277068,-80.971904) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277068&mlon=-80.971904#map=17/32.277068/-80.971904)
 - **Marker:** symbol `baseball-ball`, color `#FDD835`
 
 ---
@@ -1023,7 +1048,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 41
+source_index: 42
 ---
 
 ## Lakehouse Tennis Courts
@@ -1048,7 +1073,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 42
+source_index: 43
 ---
 
 ## Logo Building
@@ -1073,7 +1098,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 43
+source_index: 44
 ---
 
 ## Town Square Tennis Courts
@@ -1086,27 +1111,27 @@ source_index: 43
 
 ---
 id: 38
-name: "Volleyball Courts"
+name: "Volleyball Court"
 category: "Volleyball"
 address: "831 Red Dam Road, Okatie, SC 29909"
 phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27726309305376
-  lon: -80.97194546003838
+  lat: 32.27815365420165
+  lon: -80.97227893754265
 marker:
   symbol: "volleyball-ball"
   color: "#039BE5"
-source_index: 44
+source_index: 45
 ---
 
-## Volleyball Courts
+## Volleyball Court
 
 - **Category:** Volleyball
 - **Address:** 831 Red Dam Road, Okatie, SC 29909
-- **Coordinates:** 32.277263, -80.971945
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277263,-80.971945) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277263&mlon=-80.971945#map=17/32.277263/-80.971945)
+- **Coordinates:** 32.278154, -80.972279
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.278154,-80.972279) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.278154&mlon=-80.972279#map=17/32.278154/-80.972279)
 - **Marker:** symbol `volleyball-ball`, color `#039BE5`
 
 ---
@@ -1118,19 +1143,19 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.276748318279346
-  lon: -80.96919847043243
+  lat: 32.27673522274396
+  lon: -80.96920118172837
 marker:
   symbol: "hammer"
   color: "#795548"
-source_index: 45
+source_index: 46
 ---
 
 ## Woodworkers' Shop
 
 - **Category:** Woodworking
 - **Address:** 841 Red Dam Road, Okatie, SC 29909
-- **Coordinates:** 32.276748, -80.969198
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.276748,-80.969198) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.276748&mlon=-80.969198#map=17/32.276748/-80.969198)
+- **Coordinates:** 32.276735, -80.969201
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.276735,-80.969201) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.276735&mlon=-80.969201#map=17/32.276735/-80.969201)
 - **Marker:** symbol `hammer`, color `#795548`
 

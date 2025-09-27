@@ -30,7 +30,7 @@
         "marker-color": "#F57C00"
       },
       "geometry": {
-        "coordinates": [-80.9566940357343, 32.309755000295134],
+        "coordinates": [32.30981736177027, -80.95669723372279],
         "type": "Point"
       },
       "id": 1
@@ -77,7 +77,7 @@
         "address": "25 Okatie Maintenance Yard Road, Okatie, SC 29909",
         "phone": "",
         "category": "Recreation",
-        "marker-symbol": "person-hiking",
+        "marker-symbol": "caravan",
         "marker-color": "#1E88E5"
       },
       "geometry": {
@@ -115,11 +115,28 @@
         "marker-color": "#2E7D32"
       },
       "geometry": {
-        "coordinates": [-80.97925156233778, 32.277831061455515],
+        "coordinates": [-80.97925929552832, 32.277762307211994],
         "type": "Point"
       },
       "id": 6
     },    
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidden Cypress Fitness Center",
+        "description": "",
+        "address": "672 Cypress Hills Dr, Okatie, SC 29909",
+        "phone": "",
+        "category": "Amenity Center",
+        "marker-symbol": "building",
+        "marker-color": "#8E24AA"
+      },
+      "geometry": {
+        "coordinates": [-80.97865193154446, 32.2777897942277],
+        "type": "Point"
+      },
+      "id": 45
+    }, 
     {
       "type": "Feature",
       "properties": {
@@ -132,7 +149,7 @@
         "marker-color": "#0288D1"
       },
       "geometry": {
-        "coordinates": [-80.97817380844737, 32.27788627969718],
+        "coordinates": [-80.97818193969826, 32.27787010839829],
         "type": "Point"
       },
       "id": 7
@@ -149,7 +166,7 @@
         "marker-color": "#E53935"
       },
       "geometry": {
-        "coordinates": [-80.97951764100245, 32.279034642723104],
+        "coordinates": [-80.97889887186147, 32.277791653185545],
         "type": "Point"
       },
       "id": 8
@@ -183,7 +200,7 @@
         "marker-color": "#8E24AA"
       },
       "geometry": {
-        "coordinates": [-80.95523397191732, 32.31187222309927],
+        "coordinates": [-80.95519442409193, 32.30970161373224],
         "type": "Point"
       },
       "id": 10
@@ -200,7 +217,7 @@
         "marker-color": "#0288D1"
       },
       "geometry": {
-        "coordinates": [-80.95523397191732, 32.31187222309927],
+        "coordinates": [-80.95624085344166, 32.30968138716038],
         "type": "Point"
       },
       "id": 11
@@ -230,7 +247,7 @@
         "address": "118 Sun City Lane, Okatie, SC 29909",
         "phone": "",
         "category": "Recreation",
-        "marker-symbol": "person-hiking",
+        "marker-symbol": "masks-theater",
         "marker-color": "#1E88E5"
       },
       "geometry": {
@@ -298,7 +315,7 @@
         "address": "831 Red Dam Road , Okatie, SC 29909",
         "phone": "",
         "category": "Recreation",
-        "marker-symbol": "person-hiking",
+        "marker-symbol": "baseball-bat-ball",
         "marker-color": "#1E88E5"
       },
       "geometry": {
@@ -323,23 +340,6 @@
         "type": "Point"
       },
       "id": 18
-    },    
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Okatie Creek Clubhouse",
-        "description": "",
-        "address": "60 Sun City Club Lane, Okatie, SC 29909",
-        "phone": "",
-        "category": "Dining",
-        "marker-symbol": "utensils",
-        "marker-color": "#E53935"
-      },
-      "geometry": {
-        "coordinates": [-80.9520389600381, 32.28974650477646],
-        "type": "Point"
-      },
-      "id": 19
     },    
     {
       "type": "Feature",
@@ -417,7 +417,7 @@
         "address": "114B Sun City Lane, Okatie, SC 29909",
         "phone": "",
         "category": "Recreation",
-        "marker-symbol": "person-hiking",
+        "marker-symbol": "masks-theater",
         "marker-color": "#1E88E5"
       },
       "geometry": {
@@ -455,7 +455,7 @@
         "marker-color": "#FFB300"
       },
       "geometry": {
-        "coordinates": [-80.97194546003838, 32.27726309305376],
+        "coordinates": [-80.97255286060518, 32.27839839354194],
         "type": "Point"
       },
       "id": 26
@@ -468,7 +468,7 @@
         "address": "114 Sun City Lane, Okatie, SC 29909",
         "phone": "",
         "category": "Recreation",
-        "marker-symbol": "person-hiking",
+        "marker-symbol": "masks-theater",
         "marker-color": "#1E88E5"
       },
       "geometry": {
@@ -489,7 +489,7 @@
         "marker-color": "#8E24AA"
       },
       "geometry": {
-        "coordinates": [-80.95275024571373, 32.29441752783469],
+        "coordinates": [-80.95274782369593, 32.29440869386999],
         "type": "Point"
       },
       "id": 28
@@ -506,7 +506,7 @@
         "marker-color": "#F57C00"
       },
       "geometry": {
-        "coordinates": [-80.9701712330667, 32.27719226557305],
+        "coordinates": [-80.97017155345621, 32.27712314413966],
         "type": "Point"
       },
       "id": 29
@@ -574,7 +574,7 @@
         "marker-color": "#F57C00"
       },
       "geometry": {
-        "coordinates": [-80.96873984974086, 32.32493660787278],
+        "coordinates": [32.30981736177027, -80.95669723372279],
         "type": "Point"
       },
       "id": 33
@@ -642,7 +642,7 @@
         "marker-color": "#FDD835"
       },
       "geometry": {
-        "coordinates": [-80.97189634469004, 32.27708037742499],
+        "coordinates": [-80.97190449881887, 32.27706757705754],
         "type": "Point"
       },
       "id": 37
@@ -650,7 +650,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Volleyball Courts",
+        "name": "Volleyball Court",
         "description": "",
         "address": "831 Red Dam Road, Okatie, SC 29909",
         "phone": "",
@@ -659,7 +659,7 @@
         "marker-color": "#039BE5"
       },
       "geometry": {
-        "coordinates": [-80.97194546003838, 32.27726309305376],
+        "coordinates": [-80.97227893754265, 32.27815365420165],
         "type": "Point"
       },
       "id": 38
@@ -676,7 +676,7 @@
         "marker-color": "#795548 "
       },
       "geometry": {
-        "coordinates": [-80.96919847043243, 32.276748318279346],
+        "coordinates": [-80.96920118172837, 32.27673522274396],
         "type": "Point"
       },
       "id": 39
@@ -765,6 +765,23 @@
         "type": "Point"
       },
       "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun City West Amenity Center",
+        "description": "",
+        "address": "Sundance Drive, Okatie, SC 29909",
+        "phone": "",
+        "category": "Amenity Center",
+        "marker-symbol": "building",
+        "marker-color": "#8E24AA"
+      },
+      "geometry": {
+        "coordinates": [-80.96242384573289, 32.324223040425615],
+        "type": "Point"
+      },
+      "id": 46
     }
   ]
 }

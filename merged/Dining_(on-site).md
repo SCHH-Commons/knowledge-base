@@ -1,3 +1,10 @@
+<!--
+title: The Clubhouse at Okatie Creek
+source: Website
+url: https://jamesons-charhouse.com/clubhouse-okatie-creek/
+retrieved: 
+-->
+
 # The Clubhouse at Okatie Creek
 
 A casual dining experience with a view of Okatie Creek Golf Course, located at 60 Sun City Club Lane. Nestled in the heart of Lowcountry, The Clubhouse at Okatie Creek is a full service restaurant that offers lunch, dinner and Sunday brunch. Sitting on the 18th green of Troon’s pristine golf course guests can enjoy the views of the course while enjoying all the comfort foods on the menu. From the inviting fireplace connecting our dining room and bar to the two outdoor patios, you will always find a comfortable spot to enjoy a cold beverage after a round of golf.
@@ -916,6 +923,13 @@ Vodka, ginger ale, grape juice, lime juice
 
 ---
 
+<!--
+title: Argent Lakes Pub and Pizzeria
+source: Website
+url: https://jamesons-charhouse.com/argent-lakes-pizzeria-and-pub/
+retrieved: 
+-->
+
 # Argent Lakes Pub and Pizzeria
 
 a.k.a. "AL's Pub"
@@ -1152,6 +1166,15 @@ vanilla & chocolate gelato, almonds, cherry center, chocolate shell
 ---
 
 ---
+
+<!--
+title: Jameson’s Charhouse
+source: Website
+url: https://jamesons-charhouse.com/bluffton/
+retrieved: 
+-->
+
+# Jameson’s Charhouse
 
 Jameson’s Charhouse located in Bluffton, South Carolina has been the flagship restaurant inside of Sun City Hilton Head Del Webb for the last eight years. We opened the first Jameson’s Charhouse outside of the greater Chicago area in 2013 and share the same vision of food and service that we are known for. Steaks, Chops and Seafood along with the passion of exceeding guest expectations still drives us today, 30 years later. We share some of the most pristine views in the Lowcountry and overlook the Hidden Cypress Golf Course. Along with these amazing views we offer full dining and catering services to 15,000 residents.
 

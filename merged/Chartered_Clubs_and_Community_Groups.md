@@ -1,3 +1,10 @@
+<!--
+title: Chartered Clubs and Registered Community Groups
+source: Community Library
+url: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
+retrieved: 
+-->
+
 # Chartered Clubs and Registered Community Groups
 
 Living in Sun City Hilton Head is all about embracing the lifestyle this community offers, which includes a lively, robust and exciting social scene constantly buzzing with activity. Sun City’s Chartered Clubs and Registered Community Groups provide residents with endless ways to meet friends, play sports, get creative, give back to the greater community and so much more.
@@ -87,7 +94,14 @@ Clubs or groups that are not yet established and looking to secure membership ma
 
 ---
 
-# COMMUNITY GROUPS
+<!--
+title: Community Groups
+source: Community Library
+url: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
+retrieved: 
+-->
+
+# Community Groups
 
 Registered Community Groups are organizations that provide additional opportunities for residents to come together with mutual interests that further enhance their lives and the lifestyle of the community.
 
@@ -778,6 +792,13 @@ If you need help as a result of an unexpected accident or illness, call our Reso
 
 ---
 
+<!--
+title: Computer Club
+source: Website
+url: 
+retrieved: 
+-->
+
 # Computer Club
 
 The mission of the Computer Club is to provide our members the opportunity to enhance their knowledge of the latest computer technology our Club has to offer. Our fully equipped state-of-the-art facility, along with the many classes, lectures, special programs, meetings, equipment and so much more, fulfill this mission. Staying abreast of technological developments through “Learning & Sharing” are continuing goals of the Computer Club!
@@ -897,7 +918,14 @@ From the small beginnings in 1996, a year after Sun City Hilton Head opened, the
 
 ---
 
-# CHARTERED CLUBS
+<!--
+title: Chartered Clubs
+source: Community Library
+url: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
+retrieved: 
+-->
+
+# Chartered Clubs
 
 Chartered Clubs are organizations that are sponsored by the Sun City Hilton Head Community Association Inc. to foster and promote opportunities for all Community Association members (residents) to pursue common interests in hobby, recreational, and cultural endeavors.
 
@@ -2247,6 +2275,13 @@ There is a $4 fee payable on the days you play, plus green fees. Before joining 
 Please see our webpage on [Sun City Hilton Head](https://www.suncityhiltonhead.org) under Clubs and Groups, Sports, to join.
 
 ---
+
+<!--
+title: Chartered Clubs
+source: Website
+url: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
+retrieved: 
+-->
 
 # Sun City Hilton Head Chartered Clubs
 

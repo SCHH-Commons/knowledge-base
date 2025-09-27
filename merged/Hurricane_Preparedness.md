@@ -1,3 +1,10 @@
+<!--
+title: Hurricane Frequently Asked Questions
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1
+retrieved: 
+-->
+
 # Hurricane Frequently Asked Questions
 
 *Last Revised: April 2025*  
@@ -225,6 +232,13 @@ The following repairs require residents to sign and submit a Declaration Form fo
   - Repainting exterior walls or doors and garage doors with a different but pre-approved color. The required form can be found on the community website as “SCHH Emergency Guidelines for Residential Permits and Inspections.” If you have additional questions, please email [modifications@schhca.com.](mailto:modifications@schhca.com)
 
 ---
+
+<!--
+title: Sun City Hilton Head Hurricane Preparedness Guide
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1
+retrieved: 
+-->
 
 # Sun City Hilton Head Hurricane Preparedness Guide
 

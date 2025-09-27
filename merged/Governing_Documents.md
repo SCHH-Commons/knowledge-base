@@ -1,4 +1,11 @@
-What are the Governing Documents?
+<!--
+title: Governing Documents Overview
+source: Website
+url: https://suncityhiltonhead.org/page/46134~1049950/what-are-the-governing-documents
+retrieved: 
+-->
+
+# What are the Governing Documents?
 
 **Courtesy of the Community Associations Institute**  
   
@@ -73,6 +80,13 @@ Rules and Regulations can be adopted by resolution or can be voted on in a Board
 The power of the Board to enact rules and regulations is generally defined in the declaration or the bylaws. Resolutions should be kept in an orderly, indexed record. In some communities, it includes the resolutions adopted by the architectural guidelines committee as approved by the Board.
 
 ---
+
+<!--
+title: Schedule of Fees & Community Rules
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopy?doc_id=2994591&view=1
+retrieved: 2025-08-15
+-->
 
 # 2025 HOA Fees
 
@@ -183,6 +197,13 @@ This section includes defines the neighborhood-specific assessment that are adde
   Monthly: $71
 
 ---
+
+<!--
+title: Covenants, Conditions and Restrictions (CC&Rs)
+source: Community Library
+url: https://suncityhiltonhead.org/HOA/assn46134/images/CCR_Bylaws_searchable.pdf
+retrieved: 
+-->
 
 # Covenants, Conditions and Restrictions (CC&Rs)
 
@@ -1925,6 +1946,13 @@ Unless otherwise provided in these Bylaws, all notices, demands, bills, statemen
 
 ---
 
+<!--
+title: Schedule of Fees & Community Rules 
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopywithaddendum?doc_id=2994591&print=1&view=1
+retrieved: 
+-->
+
 # Schedule of Fees & Community Rules 
 
 ## Budget Summary 2025
@@ -3502,6 +3530,13 @@ Certain S.C. Code traffic offenses, including, but not limited to DUI, reckless 
 
 ---
 
+<!--
+title: Chartered Club Rules and Procedures
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025charteredclubrulesandprocedures?doc_id=2479799&print=1&view=1
+retrieved: 
+-->
+
 # Chartered Club Rules and Procedures
 
 ## Introduction
@@ -4089,6 +4124,13 @@ Parliamentary procedures are a set of guidelines for conducting general membersh
 4. Voting shall be by majority agreement Electronic participation shall be limited to situations that prevent physical attendance at the meeting.
 
 ---
+
+<!--
+title: Boat/RV Facility Rules and Regulations
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/boatandrvrulesandregulationsrev_dec2024final?doc_id=2907916&print=1&view=1
+retrieved: 
+-->
 
 # Boat/RV Facility Rules and Regulations
 

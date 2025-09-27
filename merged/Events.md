@@ -1,3 +1,10 @@
+<!--
+title: SCHH Events Calendar
+source: Website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/eHappenings_SEP_OCT_2025V2.pdf
+retrieved: 
+-->
+
 # SCHH Events
 
 > Times are shown in local timezone. “All Day” means no specific start/end time.

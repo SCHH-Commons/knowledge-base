@@ -1,3 +1,10 @@
+<!--
+title: Sun City Hilton Head Golf Courses
+source: Constructed
+url: https://schh-commons.github.io/knowledge-base/docs/GO-Golf_Courses
+retrieved: 
+-->
+
 # Sun City Hilton Head Golf Courses
 
 Sun City Hilton Head features one of the best golf experiences in the Hilton Head area. Sun City’s courses are three of the most well-maintained courses in the Lowcountry. Each of Sun City’s three courses feature picturesque marshland and innovative greens design.
@@ -236,6 +243,13 @@ The tables below represent the scorecard for the Hidden Cypress course, providin
 | Par          |   4 |   4 |   3 |   5 |   4 |   5 |   4 |   3 |   4 |   36 |    72 |
 
 ---
+
+<!--
+title: Golf Handbook
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/golfhandbook2025final?doc_id=2471475&print=1&view=1
+retrieved: 
+-->
 
 # Golf Handbook
 

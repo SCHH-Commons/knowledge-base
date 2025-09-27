@@ -1,3 +1,10 @@
+<!--
+title: Managed Neighborhoods Sun City North & Sun City West Package
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/suncitynorthandsuncitywestpackage2025?doc_id=2880902&print=1&view=1
+retrieved: 
+-->
+
 # Managed Neighborhoods Sun City North & Sun City West Package
 
 Several aspects of your landscape maintenance are provided to you by the Sun City Hilton Head Community Association through your benefit assessment fees. The Managed Neighborhoods Office manages and works in partnership with BrightView to assure delivery of these services as outlined in the landscape maintenance scope of work.
@@ -220,6 +227,13 @@ For questions or concerns regarding items pertaining to Sun City Hilton Head Com
 
 ---
 
+<!--
+title: Managed Neighborhood Cottage Package
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/cottagepackagejune2024?doc_id=2637222&print=1&view=1
+retrieved: 
+-->
+
 # Managed Neighborhood Cottage Package
 
 Cottage ownership includes benefits which are provided to you by the Sun City Hilton Head Community Association as a result of the assessment fees that you pay. The Managed Neighborhoods Office manages and works in partnership with several vendors to assure delivery of these services as outlined in this package.
@@ -403,6 +417,13 @@ For questions or concerns regarding items pertaining to Sun City Hilton Head Com
 
 ---
 
+<!--
+title: Turf Grass: What to Expect
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/turfgrasswhattoexpectargentii?doc_id=3080779&print=1&view=1
+retrieved: 
+-->
+
 # Turf Grass: What to Expect
 
 Sun City Hilton Head homes are built on pre-graded and stabilized pads, as environmentally mandated. These pads and the surrounding property must be stabilized to avoid eroding into natural areas. Stabilization is achieved by hydroseeding, which includes a mixture of aggressively growing turf types and weed seeds. Weeds from hydroseed continuously emerge over the first 12-18 months on newly installed lawns.
@@ -440,6 +461,13 @@ Applied slow-phased release fertilizer begins feeding turf when soil surface tem
 Granular and spray pre-emergent applications typically occur in October- November and February-March. Depending on conditions, a mid-summer treatment may be applicable. Pre-emergent is not good for root systems, which leaves a short window of opportunity to treat relatively new sod. For instance, lawns typically installed between April and August receive routine pre-emergent applications, whereas lawns installed in early fall and winter may miss both pre-emergent treatments.
 
 ---
+
+<!--
+title: Sun City Hilton Head Villa Owner’s Manual
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1
+retrieved: 
+-->
 
 # Sun City Hilton Head Villa Owner’s Manual
 
@@ -1405,6 +1433,13 @@ Changes to the interior of a house or installation of temporary holiday decorati
 
 ---
 
+<!--
+title: Managed Neighborhood Villa and Duet Package
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/villaandduetpackage2024?doc_id=2637228&print=1&view=1
+retrieved: 
+-->
+
 # Managed Neighborhood Villa and Duet Package
 
 Villa and Duet ownership includes benefits which are provided to you by the Sun City Hilton Head Community Association as a result of the assessment fees that you pay. The Managed Neighborhoods Office manages and works in partnership with several vendors to assure delivery of these services as outlined in this package.
@@ -1619,6 +1654,13 @@ For questions or concerns regarding items pertaining to changes a resident would
 For questions or concerns regarding items pertaining to Sun City Hilton Head Community Association, CC&RS, violations and more, please email or call Resident Services using the above listed contact information.
 
 ---
+
+<!--
+title: SCHH Landscape Glossary & Explanations
+source: Community Library
+url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/weedchart2024?doc_id=2877878&print=1&view=1
+retrieved: 
+-->
 
 # SCHH Landscape Glossary & Explanations
 

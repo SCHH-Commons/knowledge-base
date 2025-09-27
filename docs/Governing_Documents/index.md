@@ -1,4 +1,12 @@
-What are the Governing Documents?
+
+<!--
+title: Governing Documents Overview
+source: Website
+url: https://suncityhiltonhead.org/page/46134~1049950/what-are-the-governing-documents
+retrieved: 
+-->
+
+# What are the Governing Documents?
 
 **Courtesy of the Community Associations Institute**  
   

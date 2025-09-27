@@ -1,3 +1,9 @@
+<!--
+title: Association Update
+source: EMail
+retrieved: 2025-09-23
+-->
+
 # Association Update
 ## 2025-09-23
 
@@ -28,6 +34,12 @@
 | Okatie Creek Golf Course Ribbon Cutting | Event / Ceremony | 2025-09-30 | 1:30 p.m. (ceremony); 2:00–5:00 p.m. (tours) | Okatie Creek Golf Course | Ribbon-cutting, course tours, free refreshments; registration required by 2025-09-29 10 a.m. |
 
 ---
+
+<!--
+title: SCHHCA Clubs and Groups eNewsletter
+source: EMail
+retrieved: 2025-09-24
+-->
 
 # SCHHCA Clubs and Groups eNewsletter
 ## 2025-09-24
@@ -117,6 +129,12 @@
 | Chartered Club Fair | Community Event | 2025-10-04 | 10:00 a.m.–1:00 p.m. | Pinckney Hall, Pavilion, Town Square | 26th annual, part of 30th anniversary celebrations |
 
 ---
+
+<!--
+title: SCHH Computer Club: This Week
+source: EMail
+retrieved: 2025-09-21
+-->
 
 # SCHH Computer Club: This Week
 ## 2025-09-21 – 2025-09-27
@@ -230,6 +248,12 @@
 
 ---
 
+<!--
+title: SCHH eNews Weekly
+source: EMail
+retrieved: 2025-09-18
+-->
+
 # SCHH eNews Weekly
 ## 2025-09-18
 
@@ -295,6 +319,12 @@
 
 ---
 
+<!--
+title: The Week Ahead
+source: EMail
+retrieved: 2025-09-22
+-->
+
 # The Week Ahead
 ## 2025-09-22
 
@@ -356,6 +386,12 @@
 | Lakehouse Entrance & Lobby Closure | Closure / Renovation | Ongoing (Sept 2025) | — | Lakehouse | Alternate entrances open, limited accessibility |
 
 ---
+
+<!--
+title: SCTA Eblast
+source: EMail
+retrieved: 2025-09-23
+-->
 
 # SCTA Eblast
 ## 2025-09-23

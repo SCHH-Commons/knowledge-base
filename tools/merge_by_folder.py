@@ -42,12 +42,11 @@ def merge_by_folder():
             for file in files:
                 if file.endswith('.md'):
                     with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
-                        print(root, file)
                         content = f.read()
                         metadata = getCommentMetadata(content)
                         if metadata:
                             title = metadata.get('title', file)
-                            url = metadata.get('url', f'https://www.SCHH-commons.org/knowledge-base/{os.path.relpath(os.path.join(root, file.replace('.md', '')))}')
+                            url = metadata.get('url', f'https://www.SCHH-commons.org/knowledge-base/{os.path.relpath(os.path.join(root, file.replace(".md", "")))}')
                             index.write(f"- [{title}]({url})\n")
                         else:
                             print(f"Warning: No metadata found in {file}")

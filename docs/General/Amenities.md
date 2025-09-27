@@ -2,7 +2,6 @@
 <!--
 title: Amenity Locations
 source: Constructed
-url: 
 retrieved: 
 -->
 

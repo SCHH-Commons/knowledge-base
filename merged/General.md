@@ -117,7 +117,6 @@ Additionally, simple measures like **reducing outdoor lighting at night** during
 <!--
 title: Amenity Locations
 source: Constructed
-url: 
 retrieved: 
 -->
 

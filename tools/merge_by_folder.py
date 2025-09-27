@@ -60,7 +60,6 @@ def merge_by_folder():
 
     index_path = os.path.join(BASEDIR, 'index.md')
     with open(index_path, 'w', encoding='utf-8') as index:
-        index.write(f"# Knowledge Base\n")
         for group in sorted(groups.keys()):
             if not groups[group]:
                 continue

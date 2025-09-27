@@ -1,4 +1,3 @@
-# Knowledge Base
 
 ## Chartered Clubs and Community Groups
 

@@ -1,11 +1,4 @@
 
-<!--
-title: Chartered Clubs
-source: Website
-url: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
-retrieved: 
--->
-
 # Sun City Hilton Head Chartered Clubs
 
 - [Cards & Games Clubs](#cards--games-clubs)

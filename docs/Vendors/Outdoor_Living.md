@@ -1,6 +1,6 @@
 
 <!--
-title: Outdoor Living Spaces Vendors
+title: Outdoor Living Spaces
 source: AI-Assisted Research
 retrieved: 2025-09
 -->

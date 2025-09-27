@@ -1,6 +1,6 @@
 <!--
 title: Chartered Clubs and Registered Community Groups
-source: Community Library
+source: Association Community Library
 url: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
 retrieved: 
 -->
@@ -93,13 +93,6 @@ Are you interested in starting a new Chartered Club or Registered Community Grou
 Clubs or groups that are not yet established and looking to secure membership may contact Lifestyle Services first. At the direction of Lifestyle Services, the organization may be listed as a club or group in formation in the Club or Group News section of *SunSations*. The word limit for groups in formation is 25 words, and they may be listed in the magazine for up to three consecutive months.
 
 ---
-
-<!--
-title: Community Groups
-source: Community Library
-url: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
-retrieved: 
--->
 
 # Community Groups
 
@@ -917,13 +910,6 @@ The Computer Club annually recognizes a member who has contributed to the club's
 From the small beginnings in 1996, a year after Sun City Hilton Head opened, the Computer Club has grown from 29 members to over 3,000 members and from 8 computers to >25 computers and other devices. The growth has been spurned by the increase in population in Sun City, but also by the dedication and commitment of our volunteers.
 
 ---
-
-<!--
-title: Chartered Clubs
-source: Community Library
-url: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
-retrieved: 
--->
 
 # Chartered Clubs
 
@@ -2275,13 +2261,6 @@ There is a $4 fee payable on the days you play, plus green fees. Before joining 
 Please see our webpage on [Sun City Hilton Head](https://www.suncityhiltonhead.org) under Clubs and Groups, Sports, to join.
 
 ---
-
-<!--
-title: Chartered Clubs
-source: Website
-url: https://suncityhiltonhead.org/Page/46134~967997/Clubs-Groups
-retrieved: 
--->
 
 # Sun City Hilton Head Chartered Clubs
 

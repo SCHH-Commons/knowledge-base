@@ -1,6 +1,6 @@
 <!--
 title: Hurricane Frequently Asked Questions
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1
 retrieved: 
 -->
@@ -235,7 +235,7 @@ The following repairs require residents to sign and submit a Declaration Form fo
 
 <!--
 title: Sun City Hilton Head Hurricane Preparedness Guide
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1
 retrieved: 
 -->

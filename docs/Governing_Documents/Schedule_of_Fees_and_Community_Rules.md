@@ -1,7 +1,7 @@
 
 <!--
 title: Schedule of Fees & Community Rules 
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopywithaddendum?doc_id=2994591&print=1&view=1
 retrieved: 
 -->

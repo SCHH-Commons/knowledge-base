@@ -1,7 +1,7 @@
 
 <!--
-title: Design Guidelines
-source: Community Library
+title: Sun City Hilton Head Design Guidelines
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1
 retrieved: 
 -->

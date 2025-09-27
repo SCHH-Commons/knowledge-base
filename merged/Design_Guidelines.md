@@ -1,6 +1,6 @@
 <!--
-title: Design Guidelines
-source: Community Library
+title: Sun City Hilton Head Design Guidelines
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1
 retrieved: 
 -->
@@ -1741,7 +1741,7 @@ garage                       perpendicular to the
 
 <!--
 title: Sun City Hilton Head Emergency Guidelines for Residential Emergency Permits and Inspections
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/emergencyguidelines2024?doc_id=2545138&print=1&view=1
 retrieved: 
 -->
@@ -1916,7 +1916,7 @@ Title: ________________________________
 
 <!--
 title: Custom Home Design Guidelines for Riverbend Neighborhood
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesriverbendredline?doc_id=3307733&print=1&view=1
 retrieved: 
 -->

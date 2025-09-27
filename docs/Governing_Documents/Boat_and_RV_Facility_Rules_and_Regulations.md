@@ -1,7 +1,7 @@
 
 <!--
 title: Boat/RV Facility Rules and Regulations
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/boatandrvrulesandregulationsrev_dec2024final?doc_id=2907916&print=1&view=1
 retrieved: 
 -->

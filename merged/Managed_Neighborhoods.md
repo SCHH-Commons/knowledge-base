@@ -1,6 +1,6 @@
 <!--
 title: Managed Neighborhoods Sun City North & Sun City West Package
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/suncitynorthandsuncitywestpackage2025?doc_id=2880902&print=1&view=1
 retrieved: 
 -->
@@ -229,7 +229,7 @@ For questions or concerns regarding items pertaining to Sun City Hilton Head Com
 
 <!--
 title: Managed Neighborhood Cottage Package
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/cottagepackagejune2024?doc_id=2637222&print=1&view=1
 retrieved: 
 -->
@@ -419,7 +419,7 @@ For questions or concerns regarding items pertaining to Sun City Hilton Head Com
 
 <!--
 title: Turf Grass: What to Expect
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/turfgrasswhattoexpectargentii?doc_id=3080779&print=1&view=1
 retrieved: 
 -->
@@ -464,7 +464,7 @@ Granular and spray pre-emergent applications typically occur in October- Novembe
 
 <!--
 title: Sun City Hilton Head Villa Owner’s Manual
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1
 retrieved: 
 -->
@@ -1435,7 +1435,7 @@ Changes to the interior of a house or installation of temporary holiday decorati
 
 <!--
 title: Managed Neighborhood Villa and Duet Package
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/villaandduetpackage2024?doc_id=2637228&print=1&view=1
 retrieved: 
 -->
@@ -1657,7 +1657,7 @@ For questions or concerns regarding items pertaining to Sun City Hilton Head Com
 
 <!--
 title: SCHH Landscape Glossary & Explanations
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/weedchart2024?doc_id=2877878&print=1&view=1
 retrieved: 
 -->

@@ -31,32 +31,51 @@ def strip_front_matter(text: str) -> str:
     return FRONT_MATTER_RE.sub("", text, count=1)
 
 def merge_by_folder():
+    groups = {}
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
+    for root, dir, files in os.walk(SOURCE_DIR):
+        group = root.split('/')[-1].replace('_', ' ').replace('-', ' ')
+        if group not in groups:
+            groups[group] = []
+        if root == SOURCE_DIR: continue
+        merged_path = os.path.join(OUTPUT_DIR, root.split(os.sep)[-1] + '.md')
+        merged = []
+        for file in files:
+            if file.endswith('.md'):
+                with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    metadata = getCommentMetadata(content)
+                    if metadata:
+                        groups[group].append(metadata)
+                    else:
+                        print(f"Warning: No metadata found in {file}")
+                    content = strip_front_matter(content)
+                    if (file == 'index.md'):
+                        merged.insert(0, content.strip())
+                    else:
+                        merged.append(content.strip())
+        with open(merged_path, 'w', encoding='utf-8') as out:
+            out.write("\n\n---\n\n".join(merged))
+
     index_path = os.path.join(BASEDIR, 'index.md')
     with open(index_path, 'w', encoding='utf-8') as index:
-        for root, dir, files in os.walk(SOURCE_DIR):
-            if root == SOURCE_DIR: continue
-            merged_path = os.path.join(OUTPUT_DIR, root.split(os.sep)[-1] + '.md')
-            merged = []
-            for file in files:
-                if file.endswith('.md'):
-                    with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
-                        content = f.read()
-                        metadata = getCommentMetadata(content)
-                        if metadata:
-                            title = metadata.get('title', file)
-                            url = metadata.get('url', f'https://www.SCHH-commons.org/knowledge-base/{os.path.relpath(os.path.join(root, file.replace(".md", "")))}')
-                            index.write(f"- [{title}]({url})\n")
-                        else:
-                            print(f"Warning: No metadata found in {file}")
-                        content = strip_front_matter(content)
-                        if (file == 'index.md'):
-                            merged.insert(0, content.strip())
-                        else:
-                            merged.append(content.strip())
-            with open(merged_path, 'w', encoding='utf-8') as out:
-                out.write("\n\n---\n\n".join(merged))
+        index.write(f"# Knowledge Base\n")
+        for group in sorted(groups.keys()):
+            if not groups[group]:
+                continue
+            index.write(f"\n## {group}\n\n")
+            index.write('| Document | Source | Date Retrieved |\n')
+            index.write('|---|---|---|\n')
+            for item in sorted(groups[group], key=lambda x: x['title']):
+                title = item.get('title', 'No Title')
+                url = item.get('url', '#')
+                source = item.get('source', '')
+                date_retrieved = item.get('retrieved', '')
+                # index.write(f"- [{title}]({url})\n")
+                index.write(f'| [{title}]({url}) | {source} | {date_retrieved} |\n')
+
+
         
 if __name__ == "__main__":
     merge_by_folder()

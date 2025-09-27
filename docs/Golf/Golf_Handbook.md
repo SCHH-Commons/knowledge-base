@@ -1,7 +1,7 @@
 
 <!--
 title: Golf Handbook
-source: Community Library
+source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/golfhandbook2025final?doc_id=2471475&print=1&view=1
 retrieved: 
 -->

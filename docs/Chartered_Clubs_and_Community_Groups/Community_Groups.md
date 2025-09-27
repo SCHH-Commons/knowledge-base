@@ -1,11 +1,3 @@
-
-<!--
-title: Community Groups
-source: Community Library
-url: https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025
-retrieved: 
--->
-
 # Community Groups
 
 Registered Community Groups are organizations that provide additional opportunities for residents to come together with mutual interests that further enhance their lives and the lifestyle of the community.

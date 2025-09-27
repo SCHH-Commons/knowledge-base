@@ -47,7 +47,7 @@ def merge_by_folder():
                         metadata = getCommentMetadata(content)
                         if metadata:
                             title = metadata.get('title', file)
-                            url = metadata.get('url', f'https://www.SCHH-commons.org/knowledge-base/{os.path.relpath(os.path.join(root, file))}')
+                            url = metadata.get('url', f'https://www.SCHH-commons.org/knowledge-base/{os.path.relpath(os.path.join(root, file.replace('.md', '')))}')
                             index.write(f"- [{title}]({url})\n")
                         else:
                             print(f"Warning: No metadata found in {file}")

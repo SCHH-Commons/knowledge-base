@@ -1,7 +1,7 @@
 ---
 title: "Amenity_Locations (GeoJSON Export)"
-generated_at: 2025-09-27T17:25:25
-feature_count: 46
+generated_at: 2025-09-27T21:49:16
+feature_count: 55
 schema: v1
 ---
 
@@ -143,8 +143,8 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.30760136097624
-  lon: -80.92971269313692
+  lat: 32.30754122373293
+  lon: -80.92971654824946
 marker:
   symbol: "building"
   color: "#8E24AA"
@@ -155,8 +155,8 @@ source_index: 6
 
 - **Category:** Amenity Center
 - **Address:** 39 Tidewatch Drive, Okatie, SC 29909
-- **Coordinates:** 32.307601, -80.929713
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.307601,-80.929713) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307601&mlon=-80.929713#map=17/32.307601/-80.929713)
+- **Coordinates:** 32.307541, -80.929717
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.307541,-80.929717) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307541&mlon=-80.929717#map=17/32.307541/-80.929717)
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
@@ -343,8 +343,8 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: -80.95669723372279
-  lon: 32.30981736177027
+  lat: 32.30986907711325
+  lon: -80.95670026457908
 marker:
   symbol: "dog"
   color: "#F57C00"
@@ -355,8 +355,8 @@ source_index: 14
 
 - **Category:** Dog Park
 - **Address:** 1021 Sgt. William Jasper Blvd, Okatie, SC 29909
-- **Coordinates:** -80.956697, 32.309817
-- **Map:** [Google Maps](https://www.google.com/maps?q=-80.956697,32.309817) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=-80.956697&mlon=32.309817#map=17/-80.956697/32.309817)
+- **Coordinates:** 32.309869, -80.956700
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.309869,-80.956700) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.309869&mlon=-80.956700#map=17/32.309869/-80.956700)
 - **Marker:** symbol `dog`, color `#F57C00`
 
 ---
@@ -393,8 +393,8 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: -80.95669723372279
-  lon: 32.30981736177027
+  lat: 32.324546607398375
+  lon: -80.96874315060231
 marker:
   symbol: "dog"
   color: "#F57C00"
@@ -405,8 +405,8 @@ source_index: 16
 
 - **Category:** Dog Park
 - **Address:** Sundance Drive, Okatie, SC 29909
-- **Coordinates:** -80.956697, 32.309817
-- **Map:** [Google Maps](https://www.google.com/maps?q=-80.956697,32.309817) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=-80.956697&mlon=32.309817#map=17/-80.956697/32.309817)
+- **Coordinates:** 32.324547, -80.968743
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.324547,-80.968743) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.324547&mlon=-80.968743#map=17/32.324547/-80.968743)
 - **Marker:** symbol `dog`, color `#F57C00`
 
 ---
@@ -510,29 +510,154 @@ source_index: 20
 - **Marker:** symbol `leaf`, color `#388E3C`
 
 ---
+id: 54
+name: "Argent Blvd Bridge"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.316209920982
+  lon: -80.95842447799986
+marker:
+  symbol: "road"
+  color: "#666666"
+source_index: 21
+---
+
+## Argent Blvd Bridge
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.316210, -80.958424
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.316210,-80.958424) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.316210&mlon=-80.958424#map=17/32.316210/-80.958424)
+- **Marker:** symbol `road`, color `#666666`
+
+---
+id: 51
+name: "Dreamscape Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.31998678802132
+  lon: -80.95264029045335
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 22
+---
+
+## Dreamscape Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.319987, -80.952640
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.319987,-80.952640) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.319987&mlon=-80.952640#map=17/32.319987/-80.952640)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 49
+name: "Kings Creek Drive Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.300795862084456
+  lon: -80.94654533566415
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 23
+---
+
+## Kings Creek Drive Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.300796, -80.946545
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.300796,-80.946545) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.300796&mlon=-80.946545#map=17/32.300796/-80.946545)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
 id: 9
-name: "Lake Somerset"
+name: "Lake Somerset Gate"
 category: "Gate"
 address: "2 Del Webb Blvd, Okatie, SC 29909"
 phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.286730634804314
-  lon: -80.94286245269029
+  lat: 32.28663740933073
+  lon: -80.94315305079247
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 21
+source_index: 24
 ---
 
-## Lake Somerset
+## Lake Somerset Gate
 
 - **Category:** Gate
 - **Address:** 2 Del Webb Blvd, Okatie, SC 29909
-- **Coordinates:** 32.286731, -80.942862
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.286731,-80.942862) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.286731&mlon=-80.942862#map=17/32.286731/-80.942862)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Coordinates:** 32.286637, -80.943153
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.286637,-80.943153) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.286637&mlon=-80.943153#map=17/32.286637/-80.943153)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 14
+name: "Main Gate"
+category: "Gate"
+address: "1 Sun City Blvd, Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.29971140969949
+  lon: -80.95606003256361
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 25
+---
+
+## Main Gate
+
+- **Category:** Gate
+- **Address:** 1 Sun City Blvd, Okatie, SC 29909
+- **Coordinates:** 32.299711, -80.956060
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.299711,-80.956060) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299711&mlon=-80.956060#map=17/32.299711/-80.956060)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 53
+name: "Millennium Bridge"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.29967238186035
+  lon: -80.95033678947077
+marker:
+  symbol: "road"
+  color: "#666666"
+source_index: 26
+---
+
+## Millennium Bridge
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.299672, -80.950337
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.299672,-80.950337) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299672&mlon=-80.950337#map=17/32.299672/-80.950337)
+- **Marker:** symbol `road`, color `#666666`
 
 ---
 id: 18
@@ -546,9 +671,9 @@ coordinates:
   lat: 32.30221014136519
   lon: -80.95583586618888
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 22
+source_index: 27
 ---
 
 ## North Gate
@@ -557,7 +682,7 @@ source_index: 22
 - **Address:** 401 West Fording Island Road, Okatie, SC 29909
 - **Coordinates:** 32.302210, -80.955836
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.302210,-80.955836) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.302210&mlon=-80.955836#map=17/32.302210/-80.955836)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
 id: 30
@@ -571,9 +696,9 @@ coordinates:
   lat: 32.311540816840015
   lon: -80.9343930415489
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 23
+source_index: 28
 ---
 
 ## Riverbend Gate
@@ -582,32 +707,32 @@ source_index: 23
 - **Address:** 1 Tidewatch Drive, Okatie, SC 29909
 - **Coordinates:** 32.311541, -80.934393
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.311541,-80.934393) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.311541&mlon=-80.934393#map=17/32.311541/-80.934393)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
-id: 14
-name: "South Gate"
+id: 50
+name: "Sgt. WilliamJasper Gate"
 category: "Gate"
-address: "1 Sun City Blvd, Okatie, SC 29909"
+address: ", Okatie, SC 29909"
 phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.29971140969949
-  lon: -80.95606003256361
+  lat: 32.31530743070061
+  lon: -80.95819046352271
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 24
+source_index: 29
 ---
 
-## South Gate
+## Sgt. WilliamJasper Gate
 
 - **Category:** Gate
-- **Address:** 1 Sun City Blvd, Okatie, SC 29909
-- **Coordinates:** 32.299711, -80.956060
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.299711,-80.956060) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299711&mlon=-80.956060#map=17/32.299711/-80.956060)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.315307, -80.958190
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.315307,-80.958190) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.315307&mlon=-80.958190#map=17/32.315307/-80.958190)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
 id: 34
@@ -621,9 +746,9 @@ coordinates:
   lat: 32.31749587366806
   lon: -80.95978232462046
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 25
+source_index: 30
 ---
 
 ## Sun City West Gate
@@ -632,7 +757,82 @@ source_index: 25
 - **Address:** 434 Sundance Drive, Okatie, SC 29909
 - **Coordinates:** 32.317496, -80.959782
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.317496,-80.959782) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.317496&mlon=-80.959782#map=17/32.317496/-80.959782)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 52
+name: "Sundance Drive Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.32200164026148
+  lon: -80.97096984256551
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 31
+---
+
+## Sundance Drive Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.322002, -80.970970
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.322002,-80.970970) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.322002&mlon=-80.970970#map=17/32.322002/-80.970970)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 47
+name: "Tidewatch Drive Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.31094822957407
+  lon: -80.9425470454178
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 32
+---
+
+## Tidewatch Drive Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.310948, -80.942547
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.310948,-80.942547) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.310948&mlon=-80.942547#map=17/32.310948/-80.942547)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 48
+name: "William Pope Drive Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.29741557585442
+  lon: -80.95068158170965
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 33
+---
+
+## William Pope Drive Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.297416, -80.950682
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.297416,-80.950682) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.297416&mlon=-80.950682#map=17/32.297416/-80.950682)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
 id: 2
@@ -648,7 +848,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 26
+source_index: 34
 ---
 
 ## Argent Lakes Golf Clubhouse
@@ -673,7 +873,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 27
+source_index: 35
 ---
 
 ## Hidden Cypress Golf Clubhouse
@@ -698,7 +898,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 28
+source_index: 36
 ---
 
 ## Okatie Creek Golf Clubhouse
@@ -708,6 +908,31 @@ source_index: 28
 - **Coordinates:** 32.289453, -80.951911
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.289453,-80.951911) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.289453&mlon=-80.951911#map=17/32.289453/-80.951911)
 - **Marker:** symbol `flag`, color `#2E7D32`
+
+---
+id: 9
+name: "Lake Somerset"
+category: "Lake"
+address: "2 Del Webb Blvd, Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.2886826009621
+  lon: -80.94411993103132
+marker:
+  symbol: "water"
+  color: "#0288D1"
+source_index: 37
+---
+
+## Lake Somerset
+
+- **Category:** Lake
+- **Address:** 2 Del Webb Blvd, Okatie, SC 29909
+- **Coordinates:** 32.288683, -80.944120
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.288683,-80.944120) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.288683&mlon=-80.944120#map=17/32.288683/-80.944120)
+- **Marker:** symbol `water`, color `#0288D1`
 
 ---
 id: 25
@@ -723,7 +948,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#FFB300"
-source_index: 29
+source_index: 38
 ---
 
 ## Lakehouse Pickleball Courts
@@ -748,7 +973,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#FFB300"
-source_index: 30
+source_index: 39
 ---
 
 ## New River Sports Park Pickleball Courts
@@ -773,7 +998,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 31
+source_index: 40
 ---
 
 ## Barataria Outdoor Pool
@@ -798,7 +1023,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 32
+source_index: 41
 ---
 
 ## Hidden Cypress Outdoor Pool
@@ -823,7 +1048,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 33
+source_index: 42
 ---
 
 ## Lakehouse Outdoor Pool
@@ -843,20 +1068,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.30760136097624
-  lon: -80.92971269313692
+  lat: 32.30778415879295
+  lon: -80.92969414486002
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 34
+source_index: 43
 ---
 
 ## Riverbend Outdoor Pool
 
 - **Category:** Pool
 - **Address:** 39 Tidewatch Drive, Okatie, SC 29909
-- **Coordinates:** 32.307601, -80.929713
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.307601,-80.929713) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307601&mlon=-80.929713#map=17/32.307601/-80.929713)
+- **Coordinates:** 32.307784, -80.929694
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.307784,-80.929694) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307784&mlon=-80.929694#map=17/32.307784/-80.929694)
 - **Marker:** symbol `person-swimming`, color `#0288D1`
 
 ---
@@ -873,7 +1098,7 @@ coordinates:
 marker:
   symbol: "caravan"
   color: "#1E88E5"
-source_index: 35
+source_index: 44
 ---
 
 ## Boat and RV Park/Campsite
@@ -898,7 +1123,7 @@ coordinates:
 marker:
   symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 36
+source_index: 45
 ---
 
 ## Magnolia Hall
@@ -923,7 +1148,7 @@ coordinates:
 marker:
   symbol: "person-hiking"
   color: "#1E88E5"
-source_index: 37
+source_index: 46
 ---
 
 ## Nature Trail
@@ -948,7 +1173,7 @@ coordinates:
 marker:
   symbol: "baseball-bat-ball"
   color: "#1E88E5"
-source_index: 38
+source_index: 47
 ---
 
 ## New River Sports Park
@@ -973,7 +1198,7 @@ coordinates:
 marker:
   symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 39
+source_index: 48
 ---
 
 ## Pavilion
@@ -998,7 +1223,7 @@ coordinates:
 marker:
   symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 40
+source_index: 49
 ---
 
 ## Pinckney Hall
@@ -1023,7 +1248,7 @@ coordinates:
 marker:
   symbol: "baseball-ball"
   color: "#FDD835"
-source_index: 41
+source_index: 50
 ---
 
 ## Veterans Memorial Field
@@ -1048,7 +1273,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 42
+source_index: 51
 ---
 
 ## Lakehouse Tennis Courts
@@ -1073,7 +1298,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 43
+source_index: 52
 ---
 
 ## Logo Building
@@ -1098,7 +1323,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 44
+source_index: 53
 ---
 
 ## Town Square Tennis Courts
@@ -1123,7 +1348,7 @@ coordinates:
 marker:
   symbol: "volleyball-ball"
   color: "#039BE5"
-source_index: 45
+source_index: 54
 ---
 
 ## Volleyball Court
@@ -1148,7 +1373,7 @@ coordinates:
 marker:
   symbol: "hammer"
   color: "#795548"
-source_index: 46
+source_index: 55
 ---
 
 ## Woodworkers' Shop

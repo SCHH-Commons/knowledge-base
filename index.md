@@ -6,6 +6,14 @@
 | [Chartered Clubs and Registered Community Groups](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025) | Association Community Library |  |
 | [Computer Club](https://suncitycc.org/) | Website |  |
 
+## Deep Dives
+
+| Document | Source | Date Retrieved |
+|---|---|---|
+| [Fall Armyworms: Overview and Control in Sun City Hilton Head](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Fall_Armyworms) | AI-Assisted Research | 2025-08-15 |
+| [Where Exactly *Is* Sun City Hilton Head?](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Location_Naming) | AI-Assisted Research | 2025-09-27 |
+| [Why Savannah and Bluffton Are Seen as a Hurricane “Dead‑Zone”](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Hurricane-Dead-Zone) | AI-Assisted Research | 2025-09-28 |
+
 ## Design Guidelines
 
 | Document | Source | Date Retrieved |
@@ -32,8 +40,7 @@
 
 | Document | Source | Date Retrieved |
 |---|---|---|
-| [Amenity Locations](https://www.schh-commons.org/knowledge-base/docs/General/Amenities) | Constructed |  |
-| [Fall Armyworms: Overview and Control in Sun City Hilton Head](https://www.schh-commons.org/knowledge-base/docs/General/Fall_Armyworms) | AI-Assisted Research | 2025-08-15 |
+| [30 Years of History](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/30-years-of-history/page/1) | Website | 2025-09-28 |
 | [News Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources) | Website |  |
 
 ## Golf

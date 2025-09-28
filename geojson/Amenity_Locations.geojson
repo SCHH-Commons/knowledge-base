@@ -64,7 +64,7 @@
         "marker-color": "#0288D1"
       },
       "geometry": {
-        "coordinates": [-80.95276666003797, 32.294520050803904],
+        "coordinates": [-80.95327911313763, 32.29434649350744],
         "type": "Point"
       },
       "id": 3
@@ -85,24 +85,7 @@
         "type": "Point"
       },
       "id": 4
-    },    
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hidden Cypress",
-        "description": "",
-        "address": "673 Cypress Hills Drive, Okatie, SC 29909",
-        "phone": "",
-        "category": "Amenity Center",
-        "marker-symbol": "building",
-        "marker-color": "#8E24AA"
-      },
-      "geometry": {
-        "coordinates": [-80.97892086003841, 32.27795337898009],
-        "type": "Point"
-      },
-      "id": 5
-    },    
+    },  
     {
       "type": "Feature",
       "properties": {

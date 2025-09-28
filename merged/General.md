@@ -1,126 +1,4 @@
-<!--
-title: Fall Armyworms: Overview and Control in Sun City Hilton Head
-source: AI-Assisted Research
-retrieved: 2025-08-15
--->
-
-# Fall Armyworms: Overview and Control in Sun City Hilton Head
-
-Fall armyworms (*Spodoptera frugiperda*) are destructive caterpillars that can devastate lawns in a very short time – turning a green yard into a brown, chewed-up wasteland seemingly overnight. Sun City Hilton Head (SCHH) and surrounding Lowcountry areas are currently seeing widespread infestations of these pests, as many residents have noticed sudden lawn damage. Below is a detailed overview of the fall armyworm and practical information on how homeowners in the SCHH area can identify, manage, and treat infestations in their lawns.
-
-## What Are Fall Armyworms?
-
-Fall armyworms are not true worms but the larval (caterpillar) stage of a tropical moth. The adult moths are grayish with white markings and have a wingspan of about 1.5 inches. Each moth can **lay hundreds of eggs (even up to \~1,000 in a single night) on grasses or nearby structures**. The eggs are often deposited on blades of grass or objects like fence posts, siding, mailboxes, and flag poles near turf – essentially anywhere convenient to give the hatching larvae immediate access to food. The egg masses look fuzzy or moldy white, turning darker before hatching.
-
-When the eggs hatch (in just 2–10 days), the tiny green larvae drop into the grass and **begin feeding immediately**. They develop through about six larval stages (instars) over 2–3 weeks, growing up to 1 to 1½ inches long. Early-stage larvae are small and greenish with black heads, causing only light damage at first. However, *after the 4th instar*, their appetite explodes – **over 90% of the foliage consumption happens in the last few stages** of the larval development. That is why lawns often seem to go from healthy to heavily damaged in just a day or two once larger “armyworms” are present.
-
-These caterpillars vary in color (green, brown, or almost black) but have distinctive markings. **Key identifying features** include a pale, upside-down *“Y” shape on the front of their head capsule* and a series of four black spots arranged in a square on the upper side of each abdominal segment. They also typically have a dark stripe down each side of the body. If you can safely inspect a caterpillar up close, look for the inverted “Y” on the head – this confirms it is a fall armyworm.
-
-## Life Cycle and Seasonality in South Carolina
-
-Fall armyworms cannot survive freezing winters in most of the U.S. Instead, they overwinter in warm regions (South Florida, Gulf Coast, Texas, etc.) and **migrate north each year** on weather fronts and storm systems. In South Carolina, they tend to arrive in summer (often from late June into July) as moths are blown in and lay eggs. The *peak season* for armyworm activity in SC is mid/late summer through early fall. The entire life cycle from egg to moth can be completed in about one month, and **several generations (three or more) can occur in a single season** if conditions are favorable. This means populations can build up by late summer, leading to large outbreaks.
-
-Weather plays a big role. Years with warm winters or frequent summer storms can bring higher moth influx and survival. (For example, **2021 saw an unusually severe armyworm outbreak across many Southeastern states due to a warm winter and active storm patterns**.) In the Lowcountry, ample rain and mild temperatures can actually encourage armyworm survival and activity. Conversely, the first hard frost of fall will wipe out any remaining caterpillars in our area – but by then the damage may already be done. So the critical window for vigilance in SCHH lawns is the summer through early fall months.
-
-## Lawn Damage and Signs of Infestation
-
-In turfgrass, **armyworm damage is distinctive** once you recognize it. Early on, a patch of grass may just look drought-stressed or a bit wilted, as if it’s not getting enough water. You might notice irregular brown or dry-looking patches that appear almost overnight. As the larvae keep feeding, the damage quickly worsens – the turf can look *scorched or “scalped”*, with **only brown stubble or grass stems left behind**. In a heavy infestation, you may even see a clear line between an area of chewed-down grass and still-green grass, as if the lawn was eaten by an “advancing army” (hence their name).
-
-Some **indicators to watch for in your yard**:
-
-* **Rapid brown patches:** A healthy green lawn developing dry, brown, irregular patches in a matter of days (not consistent with gradual drought) could be a sign. The patches often expand outward from where eggs hatched (near structures like lamp posts, utility boxes, etc.).
-* **Visible caterpillars:** Check your lawn in the early morning or late afternoon/evening. Fall armyworm larvae tend to feed most actively during these cooler parts of the day and may be seen on the grass blades or crawling on driveways and sidewalks. The caterpillars are about 1–1.5 inches long when mature, green to brown with dark stripes and the inverted “Y” on the head.
-* **Bird and insect activity:** An uptick in birds (like flocks of blackbirds or robins) pecking at your lawn can be a red flag. Birds *love* to eat armyworms and often congregate on infested lawns to feed. Similarly, wasps or predatory insects hovering low over the grass could indicate they’re hunting larvae.
-* **Soap flush test:** If you suspect armyworms but don’t see them easily, you can do a soapy water flush. Mix 1–2 tablespoons of dish soap (preferably lemon-scented) into 1–2 gallons of water, stirring to create suds. Slowly pour this solution over a **1 square yard area at the edge of a damaged patch** (onto the healthy-looking grass adjacent to damage). Within about 5–10 minutes, any armyworm larvae present should come to the surface, wriggling out of the soil/thatch to escape the irritation. This can confirm their presence (and bring them into view for easier removal or treatment).
-
-Keep in mind that fall armyworms prefer turf grasses and lawn weeds, but they can also nibble on other plants if hungry. In our region, they commonly attack **warm-season grasses** like Bermuda, zoysia, and St. Augustine, as well as cool-season fescue or rye (in overseeded lawns). Newly sodded lawns or freshly seeded grass can be especially vulnerable (the tender new grass is an inviting buffet). Prompt action is important at the first sign of infestation, because these caterpillars can **devour a lawn’s foliage in days if unchecked**.
-
-## Armyworm Outbreak in the SCHH Area
-
-In Sun City Hilton Head and the greater Bluffton/Hilton Head area, fall armyworms are a **known recurring pest** in late summer. Many residents this season have reported sudden lawn damage consistent with armyworm activity, and neighborhood lawn care contractors (like BrightView, the HOA’s landscaping service) have identified widespread infestations. In fact, fall armyworms have been reported **across South Carolina lawns and pastures** in recent summers, and the Lowcountry is no exception. Local conditions – warm humid weather and periodic rain – create a favorable environment for these pests to thrive once they arrive in our area.
-
-If your neighborhood has *managed lawn care*, the HOA’s contractor will likely treat for armyworms community-wide. However, because of the outbreak’s scale, contractors may be backlogged and unable to treat every lawn immediately. **Homeowners can and should take interim steps on their own** to mitigate damage while awaiting any scheduled professional treatment. This will help protect your individual lawn from irreparable harm and also potentially slow the spread to neighboring yards.
-
-Below we outline practical, homeowner-scale solutions for detecting and treating fall armyworms in lawns. These steps will empower residents to address the problem quickly, even before the landscapers make their rounds.
-
-## How to Control and Treat Fall Armyworms
-
-When dealing with armyworms, timing is everything. The goal is to **catch and treat infestations as early as possible** – targeting the younger, smaller caterpillars – to prevent widespread damage. Here are effective treatment and management strategies, focusing on what homeowners can do:
-
-### 1. Scout and Confirm the Problem
-
-* **Inspect your lawn regularly:** During peak season (July–September), frequently check your grass for the signs noted above (brown patches, chew marks on grass blades, presence of caterpillars). Pay extra attention after periods of rain or cooler weather, which can spur armyworm activity.
-* **Use the soap flush test** (described earlier) in suspicious areas to verify if armyworms are present. This is especially useful if you see damage but no caterpillars; they might be hiding during the day in thatch or at soil level.
-* **Act quickly** if you find any armyworms – even a small number. Don’t wait for a large “army” to form. Early intervention can limit how much of your lawn is consumed.
-
-### 2. Immediate Lawn Treatment with Insecticides
-
-Once you’ve identified armyworms, the most effective solution is to **apply a lawn insecticide** that is labeled for caterpillar or armyworm control. Homeowners have several options available at garden centers and stores. Look for products containing **fast-acting “contact” insecticide ingredients** such as:
-
-* **Bifenthrin** – e.g. **Ortho® BugClear™ Insect Killer for Lawns**, Talstar, etc.. Bifenthrin is a pyrethroid that provides quick knockdown of caterpillars on contact.
-* **Gamma-Cyhalothrin** – e.g. **Spectracide® Triazicide™ Insect Killer for Lawns** (a popular granular or hose-end spray). This is another pyrethroid effective against armyworms.
-* **Carbaryl** – e.g. **Sevin® Insect Killer** (note: some Sevin products for lawns now use *zeta-cypermethrin*, a pyrethroid, but either will work). Carbaryl (a carbamate insecticide) is effective but slightly more toxic; use with care and according to label.
-* **Spinosad** – e.g. **Conserve® (Spinosad) concentrate** or **Monterey Garden Insect Spray**. Spinosad is derived from natural soil bacteria; it’s effective especially on smaller larvae and is relatively low-toxicity to humans/pets. It works by ingestion, so thorough coverage is important.
-* **Combination products** – some lawn treatments combine a fast-acting ingredient with a longer-residual one. For example, **BioAdvanced Complete Insect Killer** has cyfluthrin (a pyrethroid) plus imidacloprid, and **Scotts®/Roundup® Bug Destroyer** granules contain bifenthrin plus chlorantraniliprole (a long-lasting caterpillar killer). These can provide initial kill and some residual protection.
-
-**Application tips:**
-
-* **Read and follow the label** of whatever product you choose. Ensure it is safe for your type of grass and follow all instructions for application rate and method.
-* **Mow and lightly water *before* treating:** It’s recommended to mow the lawn fairly low and bag the clippings prior to treatment. This removes excess foliage and thatch, so the insecticide can penetrate to where larvae are hiding. Raking up clippings also physically removes some caterpillars and eggs. After mowing, a light sprinkling of water can encourage any hiding armyworms to come up to the grass surface, making them more exposed to the insecticide.
-* **Apply insecticides in early morning or late afternoon/early evening**, when the caterpillars are most actively feeding near the surface. This timing increases the chances that the armyworms will contact or ingest the toxin. Avoid treating in the heat of mid-day when they may be deeper in the thatch hiding from sun.
-* **Granules vs. liquid:** Granular lawn insecticides are easy to spread and generally need to be **watered in lightly after application** (per the product instructions) to activate the ingredient. Sprays or liquid concentrates should be applied with sufficient water to get down into the grass (the Iowa Extension suggests at least 1 gallon of water per 1,000 sq ft for good coverage). After spraying, **do *not* irrigate or mow for at least 24 hours** – this gives the contact insecticide time to work on the caterpillars.
-* **Treat the affected area and a buffer:** Don’t just spray the visibly damaged spots. Treat slightly beyond the edges of damage into the green lawn, because some larvae will be moving outward. It’s often wise to do the whole front/back yard if one area is infested, since armyworms can crawl to adjacent sections.
-* **Monitor effectiveness:** You should see caterpillars dying within a day if the treatment worked. If you *don’t* see a quick reduction in activity, there is a chance of insecticide resistance or an incomplete application. In such cases, you may need to try a different active ingredient (for example, if a pyrethroid spray failed, you might switch to spinosad or carbaryl), or call a professional who can apply stronger **chemistries like chlorantraniliprole** (Acelepryn) or **indoxacarb** which are very effective but usually applied by licensed applicators.
-
-### 3. Organic and Non-Chemical Approaches (Limited Efficacy)
-
-For those who prefer to avoid synthetic chemicals, options are a bit limited – especially once an armyworm outbreak is in full swing. **Natural predators** (birds, beneficial insects, etc.) do eat some armyworms, but usually not enough to control a large infestation. However, you can encourage predators by allowing birds to feed on the lawn and avoiding broad-spectrum insecticides when not necessary (so as not to harm beneficial insects).
-
-Some organic-compatible insecticides can help, primarily on small larvae:
-
-* **Neem oil (azadirachtin):** Neem-based bio-insecticides can provide some control on *young* caterpillars. They work as growth regulators and anti-feedants. These are slower-acting and may not stop heavy damage, but could be used at the very first sign of a problem or as a preventive.
-* **Bacillus thuringiensis (B.t.):** This is a bacteria-derived product that specifically kills caterpillars that ingest it. B.t. (sold as products like *Thuricide®* or *Dipel*) is very effective on *small* armyworms, but **must be applied when larvae are tiny** (early instars) to work. By the time lawns are visibly damaged, B.t. alone likely won’t suffice (large larvae won’t die from it).
-* **Spinosad:** As mentioned above, spinosad is naturally derived and is considered organic in many formulations. It can be a good compromise, as it does kill caterpillars effectively without the persistence of synthetic chemicals. It’s most potent if caterpillars ingest it, so thorough coverage is needed.
-* **Manual removal:** If by chance you only find a few armyworms (perhaps caught very early or in container plants), you can hand-pick and destroy them (drop into soapy water). For most SCHH lawn scenarios, though, the numbers will be too high for hand-picking to be practical.
-
-### 4. Lawn Recovery After an Armyworm Attack
-
-After you have **eliminated the active infestation**, you’ll want to help your lawn recover. The good news is that fall armyworms typically eat the grass blades and leaves but often *do not kill the grass roots or crowns* unless the infestation was extremely severe. This means lawns can regrow, especially warm-season grasses that spread from stolons/rhizomes, but they need care to bounce back.
-
-Here are some recovery tips for your turf:
-
-* **Water and nurture the grass:** Keep the lawn irrigated regularly (but not overwatered) to alleviate drought stress on the bare or brown areas. The caterpillars may have chewed the blades off, exposing crowns to sun/heat. Ensuring the soil stays moist (not bone-dry) will help the grass crowns stay alive and push out new growth.
-* **Light fertilization:** A modest feeding can encourage regrowth. About 0.5–1.0 lb of nitrogen per 1,000 sq ft of a slow-release fertilizer is generally recommended to give the grass a boost. Don’t overdo it (excess fertilizer in heat can burn the lawn), but some nutrients will speed recovery.
-* **Reseeding or sodding patches if needed:** If you have cool-season turf (tall fescue, for example) or mixed lawns, **fall is the ideal time to reseed** any truly bare patches the armyworms left. Rake out the dead material and overseed with the appropriate grass seed, then keep it watered. In warm-season lawns, large completely dead areas might be patched with sod plugs or allowed to fill in next growing season. Often, slightly thinned areas will fill in on their own by next spring if the grass is creeping-type (like Bermuda or zoysia) and you maintain good care.
-* **Monitor for reinfestation:** Armyworms can have multiple generations, so continue to keep an eye on the lawn for another wave. It’s possible to have a second outbreak in early fall. If your grass is greening up and new armyworms arrive, be prepared to treat again **later in the season**. (On the flip side, a late-season infestation in October might do cosmetic damage but the grass will go dormant soon; still, treating helps prevent a mess going into winter.)
-
-### 5. Preventive Measures for the Future
-
-If armyworms are a recurrent issue in your community, homeowners might consider **preventive treatments** in the future. For high-value or particularly pest-prone lawns, professional lawn care companies sometimes apply **season-long insecticides in late spring** to head off fall armyworms. One example is **chlorantraniliprole (Acelepryn)**, a modern lawn insecticide that, when applied in April/May, can provide **season-long control** of caterpillars and grubs. There are granular versions (like Acelepryn G or some “Grub preventer” mixes) that a homeowner could apply early in the year; these are very low-toxicity to humans but target pests as they hatch. This kind of preventive step may be something to discuss with your HOA or lawn service for next year if this year’s infestation was severe.
-
-Additionally, simple measures like **reducing outdoor lighting at night** during midsummer may help a bit – adult moths are attracted to bright lights, so limiting unnecessary lights could theoretically reduce egg-laying in your area. Removing weedy grasses or keeping lawns trimmed might also make yards slightly less attractive for egg-laying. However, no preventive measure is foolproof short of chemical barriers. Vigilance and early detection each year are the best defense.
-
-**In summary,** fall armyworms are a serious turf pest in the SCHH area, but armed with the knowledge above, homeowners can identify them quickly and take action. If your lawn is under attack, confirm the culprit, then promptly treat with an appropriate insecticide to halt the feeding frenzy. While community-wide professional treatments are planned, you have tools at your disposal to save your lawn in the meantime. With quick intervention and proper lawn care after the fact, your grass should recover from even a heavy armyworm outbreak. Stay alert each summer, and you can keep these “armies” from marching across your yard in the future.
-
-**Sources:**
-
-* Clemson University Cooperative Extension – *Armyworms: Identification, Damage, & Control in Turfgrass* (South Carolina-specific guidance).
-* WIS/FOX Carolina News – *Fall armyworms reported in South Carolina*.
-* WBTV Charlotte – *Fall armyworms killing yards across the Carolinas*.
-* Iowa State University Extension – *Fall Armyworm Control in Home Lawns*.
-* NC State Extension – *Fall Armyworm in Turf*.
-* UGA Cooperative Extension – *Fall Armyworm in Georgia: Biology and Management in Turfgrass*.
-* **(Images)** Fall armyworms feeding on turf, causing brown “scalped” patches; Clemson HGIC (B. McCarty).
-
----
-
-<!--
-title: Amenity Locations
-source: Constructed
-retrieved: 
--->
-
-# Amenity Locations
+# Amenity\_Locations (GeoJSON Export)
 
 _This file is auto-generated from a GeoJSON source. Each record begins with a YAML block for reliable parsing, followed by a human-readable section._
 
@@ -175,6 +53,31 @@ source_index: 2
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
+id: 45
+name: "Hidden Cypress Fitness Center"
+category: "Amenity Center"
+address: "672 Cypress Hills Dr, Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.2777897942277
+  lon: -80.97865193154446
+marker:
+  symbol: "building"
+  color: "#8E24AA"
+source_index: 3
+---
+
+## Hidden Cypress Fitness Center
+
+- **Category:** Amenity Center
+- **Address:** 672 Cypress Hills Dr, Okatie, SC 29909
+- **Coordinates:** 32.277790, -80.978652
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277790,-80.978652) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277790&mlon=-80.978652#map=17/32.277790/-80.978652)
+- **Marker:** symbol `building`, color `#8E24AA`
+
+---
 id: 10
 name: "Lakehouse"
 category: "Amenity Center"
@@ -183,20 +86,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.31187222309927
-  lon: -80.95523397191732
+  lat: 32.30970161373224
+  lon: -80.95519442409193
 marker:
   symbol: "building"
   color: "#8E24AA"
-source_index: 3
+source_index: 4
 ---
 
 ## Lakehouse
 
 - **Category:** Amenity Center
 - **Address:** 1251 Sgt. William Jasper Blvd, Okatie, SC 29909
-- **Coordinates:** 32.311872, -80.955234
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.311872,-80.955234) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.311872&mlon=-80.955234#map=17/32.311872/-80.955234)
+- **Coordinates:** 32.309702, -80.955194
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.309702,-80.955194) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.309702&mlon=-80.955194#map=17/32.309702/-80.955194)
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
@@ -208,20 +111,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.29441752783469
-  lon: -80.95275024571373
+  lat: 32.29440869386999
+  lon: -80.95274782369593
 marker:
   symbol: "building"
   color: "#8E24AA"
-source_index: 4
+source_index: 5
 ---
 
 ## Purrysburg Fitness Center
 
 - **Category:** Amenity Center
 - **Address:** 122 Del Webb Blvd, Okatie, SC 29909
-- **Coordinates:** 32.294418, -80.952750
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.294418,-80.952750) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.294418&mlon=-80.952750#map=17/32.294418/-80.952750)
+- **Coordinates:** 32.294409, -80.952748
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.294409,-80.952748) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.294409&mlon=-80.952748#map=17/32.294409/-80.952748)
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
@@ -233,20 +136,45 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.30760136097624
-  lon: -80.92971269313692
+  lat: 32.30754122373293
+  lon: -80.92971654824946
 marker:
   symbol: "building"
   color: "#8E24AA"
-source_index: 5
+source_index: 6
 ---
 
 ## Riverbend Lodge
 
 - **Category:** Amenity Center
 - **Address:** 39 Tidewatch Drive, Okatie, SC 29909
-- **Coordinates:** 32.307601, -80.929713
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.307601,-80.929713) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307601&mlon=-80.929713#map=17/32.307601/-80.929713)
+- **Coordinates:** 32.307541, -80.929717
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.307541,-80.929717) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307541&mlon=-80.929717#map=17/32.307541/-80.929717)
+- **Marker:** symbol `building`, color `#8E24AA`
+
+---
+id: 46
+name: "Sun City West Amenity Center"
+category: "Amenity Center"
+address: "Sundance Drive, Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.324223040425615
+  lon: -80.96242384573289
+marker:
+  symbol: "building"
+  color: "#8E24AA"
+source_index: 7
+---
+
+## Sun City West Amenity Center
+
+- **Category:** Amenity Center
+- **Address:** Sundance Drive, Okatie, SC 29909
+- **Coordinates:** 32.324223, -80.962424
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.324223,-80.962424) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.324223&mlon=-80.962424#map=17/32.324223/-80.962424)
 - **Marker:** symbol `building`, color `#8E24AA`
 
 ---
@@ -263,7 +191,7 @@ coordinates:
 marker:
   symbol: "circle-dot"
   color: "#B71C1C"
-source_index: 6
+source_index: 8
 ---
 
 ## Town Square Bocce Ball Courts
@@ -288,7 +216,7 @@ coordinates:
 marker:
   symbol: "computer"
   color: "#3F51B5"
-source_index: 7
+source_index: 9
 ---
 
 ## Computer Club
@@ -313,7 +241,7 @@ coordinates:
 marker:
   symbol: "palette"
   color: "#D81B60"
-source_index: 8
+source_index: 10
 ---
 
 ## Yemassee Crafts Center
@@ -338,7 +266,7 @@ coordinates:
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 9
+source_index: 11
 ---
 
 ## Argent Lakes Pub & Pizzeria (AL's Pub)
@@ -358,45 +286,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.279034642723104
-  lon: -80.97951764100245
+  lat: 32.277791653185545
+  lon: -80.97889887186147
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 10
+source_index: 12
 ---
 
 ## Jameson’s Charhouse
 
 - **Category:** Dining
 - **Address:** 672 Cypress Hills Drive, Okatie, SC 29909
-- **Coordinates:** 32.279035, -80.979518
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.279035,-80.979518) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.279035&mlon=-80.979518#map=17/32.279035/-80.979518)
-- **Marker:** symbol `utensils`, color `#E53935`
-
----
-id: 19
-name: "Okatie Creek Clubhouse"
-category: "Dining"
-address: "60 Sun City Club Lane, Okatie, SC 29909"
-phone: null
-description: null
-geometry_type: "Point"
-coordinates:
-  lat: 32.28974650477646
-  lon: -80.9520389600381
-marker:
-  symbol: "utensils"
-  color: "#E53935"
-source_index: 11
----
-
-## Okatie Creek Clubhouse
-
-- **Category:** Dining
-- **Address:** 60 Sun City Club Lane, Okatie, SC 29909
-- **Coordinates:** 32.289747, -80.952039
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.289747,-80.952039) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.289747&mlon=-80.952039#map=17/32.289747/-80.952039)
+- **Coordinates:** 32.277792, -80.978899
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277792,-80.978899) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277792&mlon=-80.978899#map=17/32.277792/-80.978899)
 - **Marker:** symbol `utensils`, color `#E53935`
 
 ---
@@ -413,7 +316,7 @@ coordinates:
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 12
+source_index: 13
 ---
 
 ## The Clubhouse at Okatie Creek
@@ -433,20 +336,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.309755000295134
-  lon: -80.9566940357343
+  lat: 32.30986907711325
+  lon: -80.95670026457908
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 13
+source_index: 14
 ---
 
 ## Argent Lakes Dog Park
 
 - **Category:** Dog Park
 - **Address:** 1021 Sgt. William Jasper Blvd, Okatie, SC 29909
-- **Coordinates:** 32.309755, -80.956694
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.309755,-80.956694) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.309755&mlon=-80.956694#map=17/32.309755/-80.956694)
+- **Coordinates:** 32.309869, -80.956700
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.309869,-80.956700) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.309869&mlon=-80.956700#map=17/32.309869/-80.956700)
 - **Marker:** symbol `dog`, color `#F57C00`
 
 ---
@@ -458,20 +361,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27719226557305
-  lon: -80.9701712330667
+  lat: 32.27712314413966
+  lon: -80.97017155345621
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 14
+source_index: 15
 ---
 
 ## Red Dam Dog Park
 
 - **Category:** Dog Park
 - **Address:** 839 Red Dam Road, Okatie, SC 29909
-- **Coordinates:** 32.277192, -80.970171
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277192,-80.970171) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277192&mlon=-80.970171#map=17/32.277192/-80.970171)
+- **Coordinates:** 32.277123, -80.970172
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277123,-80.970172) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277123&mlon=-80.970172#map=17/32.277123/-80.970172)
 - **Marker:** symbol `dog`, color `#F57C00`
 
 ---
@@ -483,20 +386,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.32493660787278
-  lon: -80.96873984974086
+  lat: 32.324546607398375
+  lon: -80.96874315060231
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 15
+source_index: 16
 ---
 
 ## Sun City West Dog Park
 
 - **Category:** Dog Park
 - **Address:** Sundance Drive, Okatie, SC 29909
-- **Coordinates:** 32.324937, -80.968740
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.324937,-80.968740) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.324937&mlon=-80.968740#map=17/32.324937/-80.968740)
+- **Coordinates:** 32.324547, -80.968743
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.324547,-80.968743) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.324547&mlon=-80.968743#map=17/32.324547/-80.968743)
 - **Marker:** symbol `dog`, color `#F57C00`
 
 ---
@@ -513,7 +416,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 16
+source_index: 17
 ---
 
 ## Mulching Center
@@ -538,7 +441,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 17
+source_index: 18
 ---
 
 ## Okatie Farms Andover
@@ -563,7 +466,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 18
+source_index: 19
 ---
 
 ## Okatie Farms East
@@ -588,7 +491,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 19
+source_index: 20
 ---
 
 ## Okatie Farms West
@@ -600,29 +503,154 @@ source_index: 19
 - **Marker:** symbol `leaf`, color `#388E3C`
 
 ---
+id: 54
+name: "Argent Blvd Bridge"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.316209920982
+  lon: -80.95842447799986
+marker:
+  symbol: "road"
+  color: "#666666"
+source_index: 21
+---
+
+## Argent Blvd Bridge
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.316210, -80.958424
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.316210,-80.958424) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.316210&mlon=-80.958424#map=17/32.316210/-80.958424)
+- **Marker:** symbol `road`, color `#666666`
+
+---
+id: 51
+name: "Dreamscape Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.31998678802132
+  lon: -80.95264029045335
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 22
+---
+
+## Dreamscape Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.319987, -80.952640
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.319987,-80.952640) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.319987&mlon=-80.952640#map=17/32.319987/-80.952640)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 49
+name: "Kings Creek Drive Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.300795862084456
+  lon: -80.94654533566415
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 23
+---
+
+## Kings Creek Drive Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.300796, -80.946545
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.300796,-80.946545) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.300796&mlon=-80.946545#map=17/32.300796/-80.946545)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
 id: 9
-name: "Lake Somerset"
+name: "Lake Somerset Gate"
 category: "Gate"
 address: "2 Del Webb Blvd, Okatie, SC 29909"
 phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.286730634804314
-  lon: -80.94286245269029
+  lat: 32.28663740933073
+  lon: -80.94315305079247
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 20
+source_index: 24
 ---
 
-## Lake Somerset
+## Lake Somerset Gate
 
 - **Category:** Gate
 - **Address:** 2 Del Webb Blvd, Okatie, SC 29909
-- **Coordinates:** 32.286731, -80.942862
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.286731,-80.942862) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.286731&mlon=-80.942862#map=17/32.286731/-80.942862)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Coordinates:** 32.286637, -80.943153
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.286637,-80.943153) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.286637&mlon=-80.943153#map=17/32.286637/-80.943153)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 14
+name: "Main Gate"
+category: "Gate"
+address: "1 Sun City Blvd, Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.29971140969949
+  lon: -80.95606003256361
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 25
+---
+
+## Main Gate
+
+- **Category:** Gate
+- **Address:** 1 Sun City Blvd, Okatie, SC 29909
+- **Coordinates:** 32.299711, -80.956060
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.299711,-80.956060) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299711&mlon=-80.956060#map=17/32.299711/-80.956060)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 53
+name: "Millennium Bridge"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.29967238186035
+  lon: -80.95033678947077
+marker:
+  symbol: "road"
+  color: "#666666"
+source_index: 26
+---
+
+## Millennium Bridge
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.299672, -80.950337
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.299672,-80.950337) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299672&mlon=-80.950337#map=17/32.299672/-80.950337)
+- **Marker:** symbol `road`, color `#666666`
 
 ---
 id: 18
@@ -636,9 +664,9 @@ coordinates:
   lat: 32.30221014136519
   lon: -80.95583586618888
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 21
+source_index: 27
 ---
 
 ## North Gate
@@ -647,7 +675,7 @@ source_index: 21
 - **Address:** 401 West Fording Island Road, Okatie, SC 29909
 - **Coordinates:** 32.302210, -80.955836
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.302210,-80.955836) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.302210&mlon=-80.955836#map=17/32.302210/-80.955836)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
 id: 30
@@ -661,9 +689,9 @@ coordinates:
   lat: 32.311540816840015
   lon: -80.9343930415489
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 22
+source_index: 28
 ---
 
 ## Riverbend Gate
@@ -672,32 +700,32 @@ source_index: 22
 - **Address:** 1 Tidewatch Drive, Okatie, SC 29909
 - **Coordinates:** 32.311541, -80.934393
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.311541,-80.934393) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.311541&mlon=-80.934393#map=17/32.311541/-80.934393)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
-id: 14
-name: "South Gate"
+id: 50
+name: "Sgt. WilliamJasper Gate"
 category: "Gate"
-address: "1 Sun City Blvd, Okatie, SC 29909"
+address: ", Okatie, SC 29909"
 phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.29971140969949
-  lon: -80.95606003256361
+  lat: 32.31530743070061
+  lon: -80.95819046352271
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 23
+source_index: 29
 ---
 
-## South Gate
+## Sgt. WilliamJasper Gate
 
 - **Category:** Gate
-- **Address:** 1 Sun City Blvd, Okatie, SC 29909
-- **Coordinates:** 32.299711, -80.956060
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.299711,-80.956060) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299711&mlon=-80.956060#map=17/32.299711/-80.956060)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.315307, -80.958190
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.315307,-80.958190) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.315307&mlon=-80.958190#map=17/32.315307/-80.958190)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
 id: 34
@@ -711,9 +739,9 @@ coordinates:
   lat: 32.31749587366806
   lon: -80.95978232462046
 marker:
-  symbol: "door-closed"
+  symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 24
+source_index: 30
 ---
 
 ## Sun City West Gate
@@ -722,7 +750,82 @@ source_index: 24
 - **Address:** 434 Sundance Drive, Okatie, SC 29909
 - **Coordinates:** 32.317496, -80.959782
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.317496,-80.959782) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.317496&mlon=-80.959782#map=17/32.317496/-80.959782)
-- **Marker:** symbol `door-closed`, color `#6D4C41`
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 52
+name: "Sundance Drive Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.32200164026148
+  lon: -80.97096984256551
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 31
+---
+
+## Sundance Drive Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.322002, -80.970970
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.322002,-80.970970) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.322002&mlon=-80.970970#map=17/32.322002/-80.970970)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 47
+name: "Tidewatch Drive Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.31094822957407
+  lon: -80.9425470454178
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 32
+---
+
+## Tidewatch Drive Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.310948, -80.942547
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.310948,-80.942547) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.310948&mlon=-80.942547#map=17/32.310948/-80.942547)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
+
+---
+id: 48
+name: "William Pope Drive Gate"
+category: "Gate"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.29741557585442
+  lon: -80.95068158170965
+marker:
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 33
+---
+
+## William Pope Drive Gate
+
+- **Category:** Gate
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.297416, -80.950682
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.297416,-80.950682) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.297416&mlon=-80.950682#map=17/32.297416/-80.950682)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
 id: 2
@@ -738,7 +841,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 25
+source_index: 34
 ---
 
 ## Argent Lakes Golf Clubhouse
@@ -758,20 +861,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.277831061455515
-  lon: -80.97925156233778
+  lat: 32.277762307211994
+  lon: -80.97925929552832
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 26
+source_index: 35
 ---
 
 ## Hidden Cypress Golf Clubhouse
 
 - **Category:** Golf Clubhouse
 - **Address:** 672 Cypress Hills Drive, Okatie, SC 29909
-- **Coordinates:** 32.277831, -80.979252
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277831,-80.979252) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277831&mlon=-80.979252#map=17/32.277831/-80.979252)
+- **Coordinates:** 32.277762, -80.979259
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277762,-80.979259) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277762&mlon=-80.979259#map=17/32.277762/-80.979259)
 - **Marker:** symbol `flag`, color `#2E7D32`
 
 ---
@@ -788,7 +891,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 27
+source_index: 36
 ---
 
 ## Okatie Creek Golf Clubhouse
@@ -798,6 +901,31 @@ source_index: 27
 - **Coordinates:** 32.289453, -80.951911
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.289453,-80.951911) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.289453&mlon=-80.951911#map=17/32.289453/-80.951911)
 - **Marker:** symbol `flag`, color `#2E7D32`
+
+---
+id: 9
+name: "Lake Somerset"
+category: "Lake"
+address: "2 Del Webb Blvd, Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.2886826009621
+  lon: -80.94411993103132
+marker:
+  symbol: "water"
+  color: "#0288D1"
+source_index: 37
+---
+
+## Lake Somerset
+
+- **Category:** Lake
+- **Address:** 2 Del Webb Blvd, Okatie, SC 29909
+- **Coordinates:** 32.288683, -80.944120
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.288683,-80.944120) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.288683&mlon=-80.944120#map=17/32.288683/-80.944120)
+- **Marker:** symbol `water`, color `#0288D1`
 
 ---
 id: 25
@@ -813,7 +941,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#FFB300"
-source_index: 28
+source_index: 38
 ---
 
 ## Lakehouse Pickleball Courts
@@ -833,20 +961,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27726309305376
-  lon: -80.97194546003838
+  lat: 32.27839839354194
+  lon: -80.97255286060518
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#FFB300"
-source_index: 29
+source_index: 39
 ---
 
 ## New River Sports Park Pickleball Courts
 
 - **Category:** Pickleball
 - **Address:** 831 Red Dam Road, Okatie, SC 29909
-- **Coordinates:** 32.277263, -80.971945
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277263,-80.971945) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277263&mlon=-80.971945#map=17/32.277263/-80.971945)
+- **Coordinates:** 32.278398, -80.972553
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.278398,-80.972553) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.278398&mlon=-80.972553#map=17/32.278398/-80.972553)
 - **Marker:** symbol `table-tennis-paddle-ball`, color `#FFB300`
 
 ---
@@ -863,7 +991,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 30
+source_index: 40
 ---
 
 ## Barataria Outdoor Pool
@@ -883,20 +1011,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27788627969718
-  lon: -80.97817380844737
+  lat: 32.27787010839829
+  lon: -80.97818193969826
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 31
+source_index: 41
 ---
 
 ## Hidden Cypress Outdoor Pool
 
 - **Category:** Pool
 - **Address:** 672 Cypress Hills Drive, Okatie, SC 29909
-- **Coordinates:** 32.277886, -80.978174
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277886,-80.978174) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277886&mlon=-80.978174#map=17/32.277886/-80.978174)
+- **Coordinates:** 32.277870, -80.978182
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277870,-80.978182) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277870&mlon=-80.978182#map=17/32.277870/-80.978182)
 - **Marker:** symbol `person-swimming`, color `#0288D1`
 
 ---
@@ -908,20 +1036,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.31187222309927
-  lon: -80.95523397191732
+  lat: 32.30968138716038
+  lon: -80.95624085344166
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 32
+source_index: 42
 ---
 
 ## Lakehouse Outdoor Pool
 
 - **Category:** Pool
 - **Address:** 1251 Sgt. William Jasper Blvd, Okatie, SC 29909
-- **Coordinates:** 32.311872, -80.955234
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.311872,-80.955234) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.311872&mlon=-80.955234#map=17/32.311872/-80.955234)
+- **Coordinates:** 32.309681, -80.956241
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.309681,-80.956241) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.309681&mlon=-80.956241#map=17/32.309681/-80.956241)
 - **Marker:** symbol `person-swimming`, color `#0288D1`
 
 ---
@@ -933,20 +1061,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.30760136097624
-  lon: -80.92971269313692
+  lat: 32.30778415879295
+  lon: -80.92969414486002
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 33
+source_index: 43
 ---
 
 ## Riverbend Outdoor Pool
 
 - **Category:** Pool
 - **Address:** 39 Tidewatch Drive, Okatie, SC 29909
-- **Coordinates:** 32.307601, -80.929713
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.307601,-80.929713) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307601&mlon=-80.929713#map=17/32.307601/-80.929713)
+- **Coordinates:** 32.307784, -80.929694
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.307784,-80.929694) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.307784&mlon=-80.929694#map=17/32.307784/-80.929694)
 - **Marker:** symbol `person-swimming`, color `#0288D1`
 
 ---
@@ -961,9 +1089,9 @@ coordinates:
   lat: 32.27871892796357
   lon: -80.94732272863969
 marker:
-  symbol: "person-hiking"
+  symbol: "caravan"
   color: "#1E88E5"
-source_index: 34
+source_index: 44
 ---
 
 ## Boat and RV Park/Campsite
@@ -972,7 +1100,7 @@ source_index: 34
 - **Address:** 25 Okatie Maintenance Yard Road, Okatie, SC 29909
 - **Coordinates:** 32.278719, -80.947323
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.278719,-80.947323) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.278719&mlon=-80.947323#map=17/32.278719/-80.947323)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `caravan`, color `#1E88E5`
 
 ---
 id: 13
@@ -986,9 +1114,9 @@ coordinates:
   lat: 32.29296618407857
   lon: -80.95261837041492
 marker:
-  symbol: "person-hiking"
+  symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 35
+source_index: 45
 ---
 
 ## Magnolia Hall
@@ -997,7 +1125,7 @@ source_index: 35
 - **Address:** 118 Sun City Lane, Okatie, SC 29909
 - **Coordinates:** 32.292966, -80.952618
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.292966,-80.952618) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.292966&mlon=-80.952618#map=17/32.292966/-80.952618)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `masks-theater`, color `#1E88E5`
 
 ---
 id: 16
@@ -1013,7 +1141,7 @@ coordinates:
 marker:
   symbol: "person-hiking"
   color: "#1E88E5"
-source_index: 36
+source_index: 46
 ---
 
 ## Nature Trail
@@ -1036,9 +1164,9 @@ coordinates:
   lat: 32.27726309305376
   lon: -80.97194546003838
 marker:
-  symbol: "person-hiking"
+  symbol: "baseball-bat-ball"
   color: "#1E88E5"
-source_index: 37
+source_index: 47
 ---
 
 ## New River Sports Park
@@ -1047,7 +1175,7 @@ source_index: 37
 - **Address:** 831 Red Dam Road , Okatie, SC 29909
 - **Coordinates:** 32.277263, -80.971945
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.277263,-80.971945) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277263&mlon=-80.971945#map=17/32.277263/-80.971945)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `baseball-bat-ball`, color `#1E88E5`
 
 ---
 id: 24
@@ -1061,9 +1189,9 @@ coordinates:
   lat: 32.29362004197021
   lon: -80.95255750489238
 marker:
-  symbol: "person-hiking"
+  symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 38
+source_index: 48
 ---
 
 ## Pavilion
@@ -1072,7 +1200,7 @@ source_index: 38
 - **Address:** 114B Sun City Lane, Okatie, SC 29909
 - **Coordinates:** 32.293620, -80.952558
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.293620,-80.952558) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.293620&mlon=-80.952558#map=17/32.293620/-80.952558)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `masks-theater`, color `#1E88E5`
 
 ---
 id: 27
@@ -1086,9 +1214,9 @@ coordinates:
   lat: 32.293227727801124
   lon: -80.95168256300602
 marker:
-  symbol: "person-hiking"
+  symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 39
+source_index: 49
 ---
 
 ## Pinckney Hall
@@ -1097,7 +1225,7 @@ source_index: 39
 - **Address:** 114 Sun City Lane, Okatie, SC 29909
 - **Coordinates:** 32.293228, -80.951683
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.293228,-80.951683) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.293228&mlon=-80.951683#map=17/32.293228/-80.951683)
-- **Marker:** symbol `person-hiking`, color `#1E88E5`
+- **Marker:** symbol `masks-theater`, color `#1E88E5`
 
 ---
 id: 37
@@ -1108,20 +1236,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27708037742499
-  lon: -80.97189634469004
+  lat: 32.27706757705754
+  lon: -80.97190449881887
 marker:
   symbol: "baseball-ball"
   color: "#FDD835"
-source_index: 40
+source_index: 50
 ---
 
 ## Veterans Memorial Field
 
 - **Category:** Softball
 - **Address:** 831 Red Dam Roa, Okatie, SC 29909
-- **Coordinates:** 32.277080, -80.971896
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277080,-80.971896) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277080&mlon=-80.971896#map=17/32.277080/-80.971896)
+- **Coordinates:** 32.277068, -80.971904
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.277068,-80.971904) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277068&mlon=-80.971904#map=17/32.277068/-80.971904)
 - **Marker:** symbol `baseball-ball`, color `#FDD835`
 
 ---
@@ -1138,7 +1266,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 41
+source_index: 51
 ---
 
 ## Lakehouse Tennis Courts
@@ -1163,7 +1291,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 42
+source_index: 52
 ---
 
 ## Logo Building
@@ -1188,7 +1316,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 43
+source_index: 53
 ---
 
 ## Town Square Tennis Courts
@@ -1201,27 +1329,27 @@ source_index: 43
 
 ---
 id: 38
-name: "Volleyball Courts"
+name: "Volleyball Court"
 category: "Volleyball"
 address: "831 Red Dam Road, Okatie, SC 29909"
 phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.27726309305376
-  lon: -80.97194546003838
+  lat: 32.27815365420165
+  lon: -80.97227893754265
 marker:
   symbol: "volleyball-ball"
   color: "#039BE5"
-source_index: 44
+source_index: 54
 ---
 
-## Volleyball Courts
+## Volleyball Court
 
 - **Category:** Volleyball
 - **Address:** 831 Red Dam Road, Okatie, SC 29909
-- **Coordinates:** 32.277263, -80.971945
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.277263,-80.971945) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.277263&mlon=-80.971945#map=17/32.277263/-80.971945)
+- **Coordinates:** 32.278154, -80.972279
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.278154,-80.972279) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.278154&mlon=-80.972279#map=17/32.278154/-80.972279)
 - **Marker:** symbol `volleyball-ball`, color `#039BE5`
 
 ---
@@ -1233,20 +1361,20 @@ phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.276748318279346
-  lon: -80.96919847043243
+  lat: 32.27673522274396
+  lon: -80.96920118172837
 marker:
   symbol: "hammer"
   color: "#795548"
-source_index: 45
+source_index: 55
 ---
 
 ## Woodworkers' Shop
 
 - **Category:** Woodworking
 - **Address:** 841 Red Dam Road, Okatie, SC 29909
-- **Coordinates:** 32.276748, -80.969198
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.276748,-80.969198) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.276748&mlon=-80.969198#map=17/32.276748/-80.969198)
+- **Coordinates:** 32.276735, -80.969201
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.276735,-80.969201) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.276735&mlon=-80.969201#map=17/32.276735/-80.969201)
 - **Marker:** symbol `hammer`, color `#795548`
 
 ---
@@ -1309,3 +1437,184 @@ Text your zip code to 888777 to sign up for Nixle. Local officials use this text
 [Beaufort-Jasper Water & Sewer Authority](http://www.bjwsa.org/)  
 [Dominion Energy](http://www.sceg.com/)  
 [Palmetto Electric](http://www.palmetto.coop/)#
+
+---
+
+<!--
+title: 30 Years of History
+source: Website
+url:  https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/30-years-of-history/page/1
+retrieved: 2025-09-28
+-->
+
+
+# 30 Years of History
+
+## 1994 to 1995
+
+**1994**
+- Del Webb purchases 5,100 acres for $23.5 million  
+- The Community Association obtains a closed circuit broadcasting station  
+
+**1995**
+- First Sun City Hilton Head Model Park opens  
+- First 100 residents move in  
+- Okatie Creek Golf Course opens  
+
+## 1996 to 2001
+
+**1996**
+- Town Square opens  
+- 13 Chartered Clubs are formed  
+
+**1997**
+- First issue of *SunSations* printed and distributed  
+- Sun City awarded National Association of Home Builders’ Best of Seniors Housing  
+
+**1999**
+- Construction starts on Millennium Bridge  
+- First Sun City resident added to Board of Directors  
+- Riverbend neighborhood and Lodge opens  
+
+**2000**
+- Hidden Cypress Golf Course opens  
+
+**2001**
+- PulteGroup and Del Webb Corporation announce merger, creating nation’s largest homebuilder  
+
+## 2002 to 2007
+
+**2003**
+- Dog Park opens  
+
+**2004**
+- Boat and RV Park opens  
+
+**2005**
+- Pulte announces Argent II development  
+- Nature Trail opens  
+- Hidden Cypress Clubhouse and Fitness Center opens  
+
+**2006**
+- New River Sports Park opens  
+- Sun City website launches  
+
+**2007**
+- Palmetto Commons becomes Community Association offices and sales office moves north of Highway 278  
+
+## 2008 to 2011
+
+**2008**
+- Yemassee Crafts Center expands, Croquet lawns, Bocce courts and putting greens added to Town Square  
+
+**2009**
+- Magnolia Hall opens  
+
+**2010**
+- Pulte Homes Inc. changes name to PulteGroup  
+
+**2011**
+- First nine holes open of Argent Lakes Golf Course  
+- Pickleball and tennis courts open near Lakehouse  
+
+## 2012 to 2015
+
+**2012**
+- PulteGroup purchases an additional 150 acres for the construction of new homes  
+- Lakehouse and back nine holes at Argent Lakes Golf Course opens  
+
+**2015**
+- Sun City hosts 20th anniversary celebration  
+- *SunSations* double issue debuts  
+
+## 2016 to 2018
+
+**2016**
+- Online ticketing debuts  
+- Hurricane Matthew strikes the Lowcountry, bringing flooding and downed trees to Sun City  
+
+**2017**
+- Golf Course Nature Tours are introduced  
+
+**2018**
+- Record-breaking snowstorm shuts down Sun City  
+- New cardio equipment is installed at fitness centers  
+- Argent Lakes Golf Course undergoes bunker renovation, and a new chipping green and practice bunker is added  
+- City Day Spa opens  
+
+## 2019
+
+- Completed Purrysburg and Hidden Cypress renovations  
+- New entrance signs are installed at the Main Gate  
+- Town Square Tennis Courts are renovated and new seating is added to Court 1  
+- TRX equipment installed at fitness centers  
+- Renovations begin at New River Sports Park  
+- PulteGroup announces upgrades to Argent II amenities:  
+  - More parking at the Lakehouse  
+  - New Pickleball and tennis courts  
+  - Outdoor pavilion behind the Argent Lakes clubhouse  
+
+## New Tech Blasts Off
+
+**Sun City Hilton Head Community Association**
+
+In 2018, the Community Association began preparing for a large-scale technology conversion.  
+
+In January 2019, the Community Association debuted the new systems:  
+- Community website  
+- Online ticketing & calendaring system  
+- Mobile app (*AAM All Access*)  
+- Accounting software  
+- RFID-based gate access control system  
+
+## 2020–2021
+
+**2020**
+- Communications launches new video program  
+- Completed New River Sports Park Renovation  
+- Argent Lakes Pub & Pizzeria opens  
+- New Dog Park opened for Argent II  
+
+**2021**
+- Pulte announces Argent East expansion, adding another 1,500 lots to the community  
+- Magnolia Hall renovated  
+- Nine miles of community roads paved  
+
+## 2022–2024
+
+**2022**
+- Palmetto Commons turned over from developer to the Community Association  
+- Palmetto Commons and Pinckney Hall renovated  
+- Okatie Creek Clubhouse renovated and new outdoor structure added to patio  
+
+**2023**
+- All three fitness centers renovated; new fitness equipment installed  
+- Riverbend Lodge renovated  
+- Softball field renamed Veterans Memorial Field  
+- SCTV Studio relocated  
+
+**2024**
+- New stop signs installed at several intersections  
+- Purrysburg indoor pool and Barataria pool refurbished  
+- The Community Association launches official Instagram account  
+- Argent East renamed Sun City West  
+- Sun City West neighborhoods officially open  
+- Argent II renamed Sun City North  
+
+## See the Community Now!
+
+### By the Numbers*  
+
+- **5,725** Acres over 2 counties  
+- **1,500** Acres of open land and wetlands  
+- **100+** Miles of roadways  
+- **7.5** Miles of walking trails and paths  
+- **275** Lagoons  
+- **50+** Fountains  
+- **30** Common area buildings at 220,000 sq. ft.  
+- **72** Chartered Clubs  
+- **44** Registered Community Groups  
+- **66** Neighborhoods  
+- **10,645** Total lots *approx.*  
+
+\*As of January 2025

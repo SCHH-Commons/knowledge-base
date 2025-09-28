@@ -178,12 +178,29 @@
         "description": "",
         "address": "2 Del Webb Blvd, Okatie, SC 29909",
         "phone": "",
-        "category": "Gate",
-        "marker-symbol": "door-closed",
-        "marker-color": "#6D4C41"
+        "category": "Lake",
+        "marker-symbol": "water",
+        "marker-color": "#0288D1"
       },
       "geometry": {
         "coordinates": [-80.94286245269029, 32.286730634804314],
+        "type": "Point"
+      },
+      "id": 9
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Somerset Gate",
+        "description": "",
+        "address": "2 Del Webb Blvd, Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road-barrier",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "coordinates": [-80.94315305079247, 32.28663740933073],
         "type": "Point"
       },
       "id": 9
@@ -259,12 +276,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Gate",
+        "name": "Main Gate",
         "description": "",
         "address": "1 Sun City Blvd, Okatie, SC 29909",
         "phone": "",
         "category": "Gate",
-        "marker-symbol": "door-closed",
+        "marker-symbol": "road-barrier",
         "marker-color": "#6D4C41"
       },
       "geometry": {
@@ -332,7 +349,7 @@
         "address": "401 West Fording Island Road, Okatie, SC 29909",
         "phone": "",
         "category": "Gate",
-        "marker-symbol": "door-closed",
+        "marker-symbol": "road-barrier",
         "marker-color": "#6D4C41"
       },
       "geometry": {
@@ -519,7 +536,7 @@
         "address": "1 Tidewatch Drive, Okatie, SC 29909",
         "phone": "",
         "category": "Gate",
-        "marker-symbol": "door-closed",
+        "marker-symbol": "road-barrier",
         "marker-color": "#6D4C41"
       },
       "geometry": {
@@ -587,7 +604,7 @@
         "address": "434 Sundance Drive, Okatie, SC 29909",
         "phone": "",
         "category": "Gate",
-        "marker-symbol": "door-closed",
+        "marker-symbol": "road-barrier",
         "marker-color": "#6D4C41"
       },
       "geometry": {
@@ -782,6 +799,142 @@
         "type": "Point"
       },
       "id": 46
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tidewatch Drive Gate",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road-barrier",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "coordinates": [-80.9425470454178, 32.31094822957407],
+        "type": "Point"
+      },
+      "id": 47
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Pope Drive Gate",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road-barrier",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "coordinates": [-80.95068158170965, 32.29741557585442],
+        "type": "Point"
+      },
+      "id": 48
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kings Creek Drive Gate",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road-barrier",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "coordinates": [-80.94654533566415, 32.300795862084456],
+        "type": "Point"
+      },
+      "id": 49
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sgt. WilliamJasper Gate",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road-barrier",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "coordinates": [-80.95819046352271, 32.31530743070061],
+        "type": "Point"
+      },
+      "id": 50
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dreamscape Gate",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road-barrier",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "coordinates": [-80.95264029045335, 32.31998678802132],
+        "type": "Point"
+      },
+      "id": 51
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundance Drive Gate",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road-barrier",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "coordinates": [-80.97096984256551, 32.32200164026148],
+        "type": "Point"
+      },
+      "id": 52
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millennium Bridge",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road",
+        "marker-color": "#666666"
+      },
+      "geometry": {
+        "coordinates": [-80.95033678947077, 32.29967238186035],
+        "type": "Point"
+      },
+      "id": 53
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argent Blvd Bridge",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road",
+        "marker-color": "#666666"
+      },
+      "geometry": {
+        "coordinates": [-80.95842447799986, 32.316209920982],
+        "type": "Point"
+      },
+      "id": 54
     }
   ]
 }

@@ -6,7 +6,111 @@ retrieved: 2025-09-21
 -->
 
 # SCHH Computer Club: This Week
-## 2025-09-21 – 2025-09-27
+
+### General Membership
+**Type:** Club Meeting  
+**Date:** 2025-10-16 (Thursday)  
+**Time:** 2:15–2:30 p.m. (Mini SIG Fair); 2:30–3:30 p.m. (Meeting)  
+**Location:** Pinckney Hall  
+**Topic:** “Cybersecurity and Scams” by Ted Steinhauser  
+**Notes:** Meets the 3rd Thursday of the month.  
+For membership and email address changes, contact **SCHHCCMembership@gmail.com**  
+
+---
+
+### Apple SIG
+**Type:** Special Interest Group  
+**Date:** 2025-10-20 (Monday)  
+**Time:** 3:45 p.m. Q&A; 4:00 p.m. Program  
+**Location:** Hidden Cypress  
+**Topic:** “Shot with an iPhone” by Bob Kampwirth  
+**Contacts:**  
+- Noah Rosenstein (nbrosenstein@gmail.com)  
+- Toni Valenstein (tovaknits1@me.com)  
+- Leslie Foster (leslieftsr@gmail.com)  
+**Notes:** Weekly blog, information, classes, and walk-in help available.  
+
+---
+
+### Genealogy SIG
+**Type:** Special Interest Group  
+**Date:** 2025-10-02 (Thursday)  
+**Time:** 7:00 p.m.  
+**Location:** Hidden Cypress Clubhouse, Santee Room  
+**Topic:** “Immigration Records for Genealogy” by Sue Mueller  
+**Notes:**  
+- Monthly meetings held the 1st Thursday of each month at Hidden Cypress.  
+- Help Sessions: 2nd & 4th Wednesdays, 6:30–8:30 p.m. at the CC.  
+- Please register online after announcement is sent.  
+**Contacts:**  
+- Jim Bowden (JBowden432@msn.com)  
+- Susan Dobbs (sdobbs2000@gmail.com)  
+
+---
+
+### Computer Club Hour (CCH)
+**Type:** Club Session  
+**Date:** Resumes 2025-10-24 (Friday)  
+**Time:** 10:00 a.m.  
+**Location:** Pinckney Hall Ballroom (sometimes Magnolia Hall)  
+**Notes:**  
+- Open to all Computer Club members.  
+- Meets most 2nd & 4th Fridays of the month.  
+- Off for the summer; returns October 24.  
+**Contact:** Bill Altman (schh.cch@gmail.com)  
+
+---
+
+### Microsoft Windows SIG
+**Type:** Special Interest Group  
+**Date:** 2025-11-12 (Wednesday)  
+**Time:** 3:00 p.m. (Doors open 2:30 p.m.)  
+**Location:** Hidden Cypress – Okatie & Santee River Rooms  
+**Topic:** “Cyber Security” by Ted Steinhauser  
+**Notes:** **No October 2025 meeting.** Meets 2nd Wednesday monthly.  
+**Contact:** Dennis Shea (SCHHCC.WinSIG@outlook.com)  
+
+---
+
+### Skywatchers SIG
+**Type:** Special Interest Group  
+**Date:** 2025-10-14 (Tuesday)  
+**Time:** 7:00 p.m. (Doors open 6:30 p.m.)  
+**Location:** Lakehouse Ballroom  
+**Notes:** Meets at Lakehouse; doors open at 6:30 p.m., meeting starts at 7 p.m.  
+**Contact:** Jerry Jeffrey (jrj451@gmail.com)  
+
+---
+
+### Education Announcements
+**Type:** Education Program  
+**Start Date:** On or after 2025-10-08  
+**Notes:**  
+- Fall Semester classes begin on/after October 8.  
+- “Education Weekly” email sent Thursdays with listings.  
+- Registration fee: $5 per class.  
+- Classes listed on [SunCityCC.org](https://suncitycc.org) under Classroom tab > “How to Register.”  
+
+---
+
+### Help Sessions
+**Type:** Support Sessions  
+**Date:** Ongoing  
+**Notes:**  
+- Scheduled regularly throughout the year.  
+- Bring User IDs & passwords to classes and/or help sessions.  
+- Volunteer schedules and assistance areas listed online.  
+- Info and updates: [Walk-in Help Blog](https://schhccwalkinhelp.blogspot.com/p/welcome-walkin-help_1.html)  
+
+---
+
+### Cyber Security Blog
+**Type:** Online Resource  
+**Date:** Ongoing  
+**Notes:**  
+- Updated frequently with cybersecurity topics.  
+- Topics include: computer/internet safety, ID theft protection, scam ID, social networking safety, response/recovery after cybercrime.  
+- Follow updates: [Cybersecurity Blog](https://schhcc-cybersecurity.blogspot.com/p/welcome-security.html)  
 
 ---
 

@@ -137,7 +137,111 @@ retrieved: 2025-09-21
 -->
 
 # SCHH Computer Club: This Week
-## 2025-09-21 – 2025-09-27
+
+### General Membership
+**Type:** Club Meeting  
+**Date:** 2025-10-16 (Thursday)  
+**Time:** 2:15–2:30 p.m. (Mini SIG Fair); 2:30–3:30 p.m. (Meeting)  
+**Location:** Pinckney Hall  
+**Topic:** “Cybersecurity and Scams” by Ted Steinhauser  
+**Notes:** Meets the 3rd Thursday of the month.  
+For membership and email address changes, contact **SCHHCCMembership@gmail.com**  
+
+---
+
+### Apple SIG
+**Type:** Special Interest Group  
+**Date:** 2025-10-20 (Monday)  
+**Time:** 3:45 p.m. Q&A; 4:00 p.m. Program  
+**Location:** Hidden Cypress  
+**Topic:** “Shot with an iPhone” by Bob Kampwirth  
+**Contacts:**  
+- Noah Rosenstein (nbrosenstein@gmail.com)  
+- Toni Valenstein (tovaknits1@me.com)  
+- Leslie Foster (leslieftsr@gmail.com)  
+**Notes:** Weekly blog, information, classes, and walk-in help available.  
+
+---
+
+### Genealogy SIG
+**Type:** Special Interest Group  
+**Date:** 2025-10-02 (Thursday)  
+**Time:** 7:00 p.m.  
+**Location:** Hidden Cypress Clubhouse, Santee Room  
+**Topic:** “Immigration Records for Genealogy” by Sue Mueller  
+**Notes:**  
+- Monthly meetings held the 1st Thursday of each month at Hidden Cypress.  
+- Help Sessions: 2nd & 4th Wednesdays, 6:30–8:30 p.m. at the CC.  
+- Please register online after announcement is sent.  
+**Contacts:**  
+- Jim Bowden (JBowden432@msn.com)  
+- Susan Dobbs (sdobbs2000@gmail.com)  
+
+---
+
+### Computer Club Hour (CCH)
+**Type:** Club Session  
+**Date:** Resumes 2025-10-24 (Friday)  
+**Time:** 10:00 a.m.  
+**Location:** Pinckney Hall Ballroom (sometimes Magnolia Hall)  
+**Notes:**  
+- Open to all Computer Club members.  
+- Meets most 2nd & 4th Fridays of the month.  
+- Off for the summer; returns October 24.  
+**Contact:** Bill Altman (schh.cch@gmail.com)  
+
+---
+
+### Microsoft Windows SIG
+**Type:** Special Interest Group  
+**Date:** 2025-11-12 (Wednesday)  
+**Time:** 3:00 p.m. (Doors open 2:30 p.m.)  
+**Location:** Hidden Cypress – Okatie & Santee River Rooms  
+**Topic:** “Cyber Security” by Ted Steinhauser  
+**Notes:** **No October 2025 meeting.** Meets 2nd Wednesday monthly.  
+**Contact:** Dennis Shea (SCHHCC.WinSIG@outlook.com)  
+
+---
+
+### Skywatchers SIG
+**Type:** Special Interest Group  
+**Date:** 2025-10-14 (Tuesday)  
+**Time:** 7:00 p.m. (Doors open 6:30 p.m.)  
+**Location:** Lakehouse Ballroom  
+**Notes:** Meets at Lakehouse; doors open at 6:30 p.m., meeting starts at 7 p.m.  
+**Contact:** Jerry Jeffrey (jrj451@gmail.com)  
+
+---
+
+### Education Announcements
+**Type:** Education Program  
+**Start Date:** On or after 2025-10-08  
+**Notes:**  
+- Fall Semester classes begin on/after October 8.  
+- “Education Weekly” email sent Thursdays with listings.  
+- Registration fee: $5 per class.  
+- Classes listed on [SunCityCC.org](https://suncitycc.org) under Classroom tab > “How to Register.”  
+
+---
+
+### Help Sessions
+**Type:** Support Sessions  
+**Date:** Ongoing  
+**Notes:**  
+- Scheduled regularly throughout the year.  
+- Bring User IDs & passwords to classes and/or help sessions.  
+- Volunteer schedules and assistance areas listed online.  
+- Info and updates: [Walk-in Help Blog](https://schhccwalkinhelp.blogspot.com/p/welcome-walkin-help_1.html)  
+
+---
+
+### Cyber Security Blog
+**Type:** Online Resource  
+**Date:** Ongoing  
+**Notes:**  
+- Updated frequently with cybersecurity topics.  
+- Topics include: computer/internet safety, ID theft protection, scam ID, social networking safety, response/recovery after cybercrime.  
+- Follow updates: [Cybersecurity Blog](https://schhcc-cybersecurity.blogspot.com/p/welcome-security.html)  
 
 ---
 
@@ -326,7 +430,88 @@ retrieved: 2025-09-22
 -->
 
 # The Week Ahead
-## 2025-09-22
+
+### Community Association Continues to Monitor Tropical Storm Imelda
+**Type:** Community Notice  
+**Date:** 2025-09-29 to 2025-11-30  
+**Notes:**  
+The Community Association continues to monitor Tropical Storm Imelda, and residents are encouraged to review their personal hurricane plans. Hurricane season runs through November 30. For more information on preparedness, including links to state and county official news sources, visit the Hurricane Awareness page of the community website.  
+
+---
+
+### Okatie Creek Golf Course Ribbon Cutting
+**Type:** Special Event  
+**Date:** 2025-09-30 (Tuesday)  
+**Time:** 1:30 p.m.  
+**Location:** Okatie Creek Golf Course  
+**Notes:**  
+Join the Board of Directors, Golf staff, and the Golf Advisory Committee for a ribbon-cutting ceremony to celebrate the reopening of Okatie Creek Golf Course. Includes remarks from staff and the Board of Directors about renovations and the ceremonial first tee-off.  
+- Registration for golf cart tours is closed due to overwhelming demand.  
+- Residents are encouraged to schedule a tee time to enjoy the improvements.  
+
+---
+
+### Third Quarter Board Meeting
+**Type:** Board Meeting  
+**Date:** 2025-10-01 (Wednesday)  
+**Time:** 2:00 p.m.  
+**Location:** Pinckney Hall  
+**Notes:**  
+The Board of Directors welcomes residents to attend the third quarter Board meeting to stay informed about the community. Meeting agenda available online.  
+
+---
+
+### Life Under the Sun Begins This Week
+**Type:** Community Event Series  
+**Date:** Begins 2025-10-04 (Saturday)  
+**Location:** Chartered Club Fair (opening event)  
+**Notes:**  
+- Life Under the Sun begins with the 26th annual Chartered Club Fair.  
+- Tickets are still available for select events.  
+- Tickets can be purchased online or at Lifestyle Services in Palmetto Commons.  
+- Full event lineup available online.  
+
+---
+
+### Swingin’ Medallions Concert Event Badges
+**Type:** Concert / Ticket Pickup  
+**Pickup Deadline:** 2025-10-02 (Thursday)  
+**Pickup Location:** Lifestyle Services desk, Palmetto Commons  
+**Concert Date:** 2025-10-05 (Sunday)  
+**Notes:**  
+Event badges for Swingin’ Medallions concert ticket holders must be picked up before October 2.  
+
+---
+
+### Pickleball Court Closures
+**Type:** Facility Notice  
+**Date:** Begins 2025-09-29 (Monday)  
+**Duration:** Approx. 4 weeks (weather permitting)  
+**Notes:**  
+Pickleball courts will undergo resurfacing. Residents should check posted court schedules upon arrival, as closures are subject to change.  
+
+---
+
+### Lakehouse Outdoor Pool Closure
+**Type:** Facility Closure  
+**Date:** 2025-10-01 to 2025-10-02 (Wednesday–Thursday)  
+**Location:** Lakehouse outdoor pool  
+**Notes:**  
+Closed for pool deck repairs.  
+
+---
+
+### Lakehouse Main Entrance and Lobby Closure
+**Type:** Facility Closure  
+**Date:** Ongoing  
+**Location:** Lakehouse main entrance and lobby  
+**Notes:**  
+- Renovations continue; main entrance and lobby remain closed.  
+- Alternate entry:  
+  - Outdoor pool gate (indoor pool, gym, locker rooms).  
+  - Entry doors closest to tennis courts (meeting rooms).  
+- Entrances do not have push-to-open handicap access.  
+- Thank you for your patience during renovations.  
 
 ---
 
@@ -372,18 +557,7 @@ retrieved: 2025-09-22
 - Alternate entrances:  
   - Outdoor pool gate → indoor pool, gym, locker rooms.  
   - Doors near tennis courts → meeting rooms.  
-- Accessibility: Alternate entrances do **not** have push-to-open access.  
-
----
-
-## Structured Summary
-
-| Title | Type | Date(s) | Time | Location | Notes |
-|-------|------|---------|------|----------|-------|
-| Common Area Turf Treatment | Maintenance / Advisory | September 2025 | — | Common areas | Residents/pets avoid treated turf for 48 hrs |
-| Life Under the Sun Fitness Registration | Event / Registration Deadline | Deadline: 2025-09-26 | — | Fitness centers / Online | Free Health & Wellness events |
-| October SunSations Online | Announcement / Publication | 2025-09-25 | — | Online / Mail | Includes election info, Life Under the Sun, 100 residents story |
-| Lakehouse Entrance & Lobby Closure | Closure / Renovation | Ongoing (Sept 2025) | — | Lakehouse | Alternate entrances open, limited accessibility |
+- Accessibility: Alternate entrances do **not** have push-to-open access.
 
 ---
 

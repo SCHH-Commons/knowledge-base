@@ -118,6 +118,7 @@
 | Document | Source | Date Retrieved |
 |---|---|---|
 | []() | website | 2025-09-29 |
+| [About Sun City Hilton Head](https://suncityhiltonhead.org/page/46134~969098/About-Sun-City-Hilton-Head) | website | 2025-09-29 |
 | [Around the Lowcountry](https://suncityhiltonhead.org/page/46134~969049/Around-the-Lowcountry) | website | 2025-09-29 |
 | [Contact Us](https://suncityhiltonhead.org/page/46134~1059443/contact-us) | website | 2025-09-29 |
 | [Fitness Centers & Personal Training](https://suncityhiltonhead.org/Page/46134~991562/Fitness-Centers-Personal-Training) | website | 2025-09-29 |

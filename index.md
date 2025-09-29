@@ -10,6 +10,7 @@
 
 | Document | Source | Date Retrieved |
 |---|---|---|
+| [Costco Rumor](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Costco_Rumor) | AI-Assisted Research | 2025-09-26 |
 | [Fall Armyworms: Overview and Control in Sun City Hilton Head](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Fall_Armyworms) | AI-Assisted Research | 2025-08-15 |
 | [Where Exactly *Is* Sun City Hilton Head?](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Location_Naming) | AI-Assisted Research | 2025-09-27 |
 | [Why Savannah and Bluffton Are Seen as a Hurricane “Dead‑Zone”](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Hurricane-Dead-Zone) | AI-Assisted Research | 2025-09-28 |
@@ -19,8 +20,18 @@
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [Custom Home Design Guidelines for Riverbend Neighborhood](https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesriverbendredline?doc_id=3307733&print=1&view=1) | Association Community Library |  |
+| [Driveways FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/Driveways.pdf) | website | 2025-09-29 |
+| [Exterior Home Decor FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/HomeExteriorDecor.pdf) | website | 2025-09-29 |
+| [Exterior Paint FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/ExteriorPaint.pdf) | website | 2025-09-29 |
+| [Garage Doors and Screens FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/GarageDoors.pdf) | website | 2025-09-29 |
+| [Landscaping Tips FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/LandscapingTips.pdf) | website | 2025-09-29 |
+| [Modification Application FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/FAQs.pdf) | website | 2025-09-29 |
+| [Roofs FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/Roofs.pdf) | website | 2025-09-29 |
+| [Storm Doors FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/StormDoors.pdf) | website | 2025-09-29 |
 | [Sun City Hilton Head Design Guidelines](https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1) | Association Community Library |  |
 | [Sun City Hilton Head Emergency Guidelines for Residential Emergency Permits and Inspections](https://suncityhiltonhead.org/ResourceCenter/Download/46134/emergencyguidelines2024?doc_id=2545138&print=1&view=1) | Association Community Library |  |
+| [Trees FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/Trees.pdf) | website | 2025-09-29 |
+| [Windows and Shutters FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/Windows.pdf) | website | 2025-09-29 |
 
 ## Dining (on site)
 
@@ -101,3 +112,16 @@
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [Outdoor Living Spaces](https://www.schh-commons.org/knowledge-base/docs/Vendors/Outdoor_Living) | AI-Assisted Research | 2025-09 |
+
+## Website
+
+| Document | Source | Date Retrieved |
+|---|---|---|
+| []() | website | 2025-09-29 |
+| [Around the Lowcountry](https://suncityhiltonhead.org/page/46134~969049/Around-the-Lowcountry) | website | 2025-09-29 |
+| [Contact Us](https://suncityhiltonhead.org/page/46134~1059443/contact-us) | website | 2025-09-29 |
+| [Fitness Centers & Personal Training](https://suncityhiltonhead.org/Page/46134~991562/Fitness-Centers-Personal-Training) | website | 2025-09-29 |
+| [News Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources) | website | 2025-09-29 |
+| [Pools](https://suncityhiltonhead.org/Page/46134~1088035/Pools) | website | 2025-09-29 |
+| [Town Square](https://suncityhiltonhead.org/page/46134~969048/Town-Center) | website | 2025-09-29 |
+| [What are the Governing Documents?](https://suncityhiltonhead.org/page/46134~1049950/what-are-the-governing-documents) | website | 2025-09-29 |

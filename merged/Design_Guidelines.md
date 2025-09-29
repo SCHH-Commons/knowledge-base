@@ -1,4 +1,158 @@
 <!--
+title: Landscaping Tips FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/LandscapingTips.pdf
+retrieved: 2025-09-29
+-->
+
+# LANDSCAPING TIPS
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q. My property backs up to a lagoon. Is there a specific kind of pesticide and fertilizer I should use on my lawn?**  
+A. You cannot use pesticides or fertilizers within 15 feet of a lagoon.
+
+**Q. Do you recommend recycled plastic mulch for landscaping beds?**  
+A. We do not make recommendations on the type of mulch you should use in landscaping beds.  
+
+Per the Design Guidelines, only one kind of ground cover per side of the home is permissible. For instance, you may not have mulch in one area of your front yard and rock on the other side of your front lawn, but you may have the rock in the front yard and mulch in the rear of your home.
+
+**Q. Do you have a list of recommended nurseries/builders/landscapers/painters/vendors?**  
+A. We do not maintain a list of recommended vendors. However, you may want to check with your neighbors or your Neighborhood Representative. You can also look at the various advertisers in *SunSations* magazine or do a Google search for local vendors.
+
+**Q. Our front yard lawn was recently marked up with paint and flags. Can you explain what this means?**  
+A. The paint and the flags are likely markers for your underground utilities.  
+
+- Blue: potable or drinkable water  
+- Green: sewers and drain lines  
+- Pink: temporary survey markings  
+- Orange: communications  
+- Purple: reclaimed water and irrigation  
+- Red: electric  
+- Yellow: gas, oil or steam  
+
+**Q. Do I need an application or approval to install, repair, or redo an irrigation system or an underground electric fence?**  
+A. You do not need an application or approval to do any underground work as long as the entire work is on your property.
+
+**Q. Who maintains the bushes and plants in the flower beds in the Argent II neighborhoods?**  
+A. A contracted landscaping company maintains the common areas. They mow and weed lawns in the Argent II portion of Sun City (north of Hwy 278).  
+
+However, residential plants and trees are the responsibility of the homeowners.
+
+**Q. Does a change in a plant bed border require approval?**  
+A. If you change the material of your plant bed border, you do need approval. For example, if you want to change from a steel border to a paver-type border, you need approval.
+
+---
+
+**Q. We’re new to the area. What plants on the approved list can you recommend for this area?**  
+A. Below is a list of pros and cons for some common plants on the approved list. For a more comprehensive list of approved plants, please see Appendix D of the Design Guidelines.
+
+---
+
+## PLANT PROS AND CONS
+
+For a full list of approved plants, please see Appendix D of the Design Guidelines. Please note, there are a variety of factors to consider when deciding on what to plant in your yard. This list is here to help get you started. If you have questions about what plants are best for your yard, please reach out to your local nursery or landscaper.
+
+---
+
+### TREES
+| Tree              | Pros                                  | Cons                                    |
+|-------------------|---------------------------------------|-----------------------------------------|
+| Live Oak          | Has a long life                       |                                         |
+| Nuttall Oak       | Fast growing/great foliage            |                                         |
+| Red Buds          | Fast growing/great foliage            | Insect issues                           |
+| Sabal Palm        | Moderate growth                       |                                         |
+| Washingtonia Palm | Nice foliage and bark color           | Grows very tall                         |
+| Crepe Myrtle      | Beautiful flowers                     |                                         |
+| River Birch       | Fast growing                          | Can be messy, root issues               |
+| Leyland Cypress   | Fast growing                          | Has a short life                        |
+| Maple Tree        | Fast growing                          | Insect and disease issues               |
+| Magnolia Tree     | Beautiful, common around community    | Insect issues                           |
+
+---
+
+### SHRUBS
+| Shrub             | Pros                                  | Cons                                    |
+|-------------------|---------------------------------------|-----------------------------------------|
+| Sweet Viburnums   | Tough plant                           | Grows very fast                         |
+| Wax Leaf Ligustrum| Very sturdy                           |                                         |
+| Jack Frost Ligustrum | Excellent foliage                  |                                         |
+| Podocarpus        | Easy to shape                         |                                         |
+| Roses             | Beautiful                             | Not deer resistant                      |
+| Azaleas           | Flowering shrub                       | Not deer resistant                      |
+| Loropetalum       | Great year-round color                | Not deer resistant                      |
+| Eleganus          | Nice foliage                          | Grows very fast                         |
+| Bottle Brush      | Nice flowers                          | Fast grower, frost sensitive            |
+| Sunshine Ligustrum| Nice foliage                          | Sensitive to frost                      |
+
+---
+
+### GROUND COVER
+| Groundcover       | Pros                                  | Cons                                    |
+|-------------------|---------------------------------------|-----------------------------------------|
+| Asiatic Jasmine   | Good groundcover                      | Not deer resistant                      |
+| Confederate Jasmine | Grows upward                        | Not deer resistant                      |
+| Liriope           | Nice bloom                            | Not deer resistant                      |
+| Dianella          | Tropical foliage                      | Sensitive to frost                      |
+| Aztec Grass       | Nice foliage                          | Not deer resistant                      |
+| Society Garlic    | Nice flowers                          | Sensitive to frost                      |
+| African Iris      | Nice flowers                          | Not deer resistant                      |
+| Agapanthus        | Nice flowers                          |                                         |
+| Mondo Grass       | Nice foliage                          | Not deer resistant                      |
+| Creeping Fig      | Grows well anywhere                   | Can be invasive                         |
+| Muhly Grass       | Great fall color                      |                                         |
+| Lantana           | Nice flowers                          | Sensitive to frost, lace bugs           |
+
+---
+
+*Rev. 3.26.2024*
+
+---
+
+<!--
+title: Exterior Home Decor FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/HomeExteriorDecor.pdf
+retrieved: 2025-09-29
+-->
+
+# HOME EXTERIOR DECOR
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q. What type of décor needs an application?**  
+A. Common décor applications include: wall decorations, awnings, shade devices, window boxes, lighting, antennas, generators and mini splits. If you have a question about whether an application is required, please email [modifications@schhca.com](mailto:modifications@schhca.com).
+
+**Q. Does landscape lighting need approval? Do solar pathway lights along the front walkway need approval?**  
+A. Both landscape lighting and solar pathway lights require approval.
+
+**Q. Are security cameras and spotlights allowed?**  
+A. Yes, you must complete an application if you would like to install a security camera or a spotlight. The online application form is available on the Modifications page of [www.SunCityHiltonHead.org](http://www.SunCityHiltonHead.org).
+
+**Q. Can the style of lights on the garage be changed?**  
+A. The style of lights on the garage may be changed. Please complete and submit an application for Home Exterior Décor. You will need to provide photos of your current home exterior and the new garage lights.
+
+**Q. Do I need approval to install permanent Christmas lighting?**  
+A. Christmas lights may be displayed during the holiday season for a set number of days. See the Community Rules for details on holiday lighting. Permanent Christmas lighting is not permitted.
+
+---
+
+## SUBMITTING AN APPLICATION
+
+The following items are needed to receive approval to install home décor on the exterior of your home or yard:  
+
+1. A completed application with details of work to be completed.  
+   - For example, if you are installing a coach light, please provide all of the specifications including color.  
+
+2. Plot plan with proposed modification clearly labeled.  
+
+3. Color photos of décor and where it will be placed.  
+
+*Please note, an incomplete application is the number one reason for a delayed response.*
+
+---
+
+<!--
 title: Sun City Hilton Head Design Guidelines
 source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025designguidelinesschhredline?doc_id=3307731&print=1&view=1
@@ -1740,6 +1894,188 @@ garage                       perpendicular to the
 ---
 
 <!--
+title: Trees FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/Trees.pdf
+retrieved: 2025-09-29
+-->
+
+# TREES
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q. Where can I find the approved list of shrubs and trees?**  
+A. While we do not have an approved list of shrubs and trees, a list of recommended shrubs and trees is available in Appendix D of the Design Guidelines. The Design Guidelines are available online on the Governing Documents page of [www.SunCityHiltonHead.org](http://www.SunCityHiltonHead.org).
+
+**Q. Can you replace the front tree with any type of tree or palm?**  
+A. If the front tree is a street tree, it can only be replaced with one of the trees listed in section 10.2.17 of the Design Guidelines. Typically, street trees are in the middle of the front yard. They are planted at least 5 feet off the side of the property line and 5 feet behind the curb opposite the garage side of the lot.  
+
+**Approved Street Trees Species**  
+Aeryn® Trident Maple • Nutall Oak • Bald Cypress • Orange Crush • American Hornbeam • Black Gum • Princeton American Elm • Bosque Elm • Shumard Oak • Chinese Elm • Southern Magnolia • Chinese Pistache • Sun Breaker • Swamp White Oak • Ever Clear Elm • Trident Maple • Laurel Oak • Willow Oak • Live Oak • Green Ash • White Ash • American Beech • Tulip Polar • Chestnut Oak • Pin Oak • Red Oak • White Oak • Red Maple • Sugar Maple
+
+**Q. Can we cut down an existing tree and is approval needed to do so?**  
+A. You must receive approval to cut down an existing tree.
+
+**Q. How do we dispose of cut branches? Can they be cut smaller and placed in the Waste Management containers?**  
+A. Tree branches may be disposed of at the Sun City Mulching Center. The Mulching Center is located at 851 Red Dam Road and is open daily from 7 a.m.–7 p.m. A CAM card is required for access. Landscapers are not allowed to use the Mulching Center.
+
+**Q. I have rather tall trees in my backyard. I would like to know how to trim them and do I need an application to do this?**  
+A. If the trees are tall, you may want to consider hiring an arborist to prune the trees safely. However, trees in your yard are the responsibility of the homeowner to maintain.
+
+**Q. Are the tree removal and replacement guidelines the same for the Managed Neighborhoods that are not located in Argent II?**  
+A. The removal of any tree requires a modification application. If approved and you live in Beaufort County, then you do not need to replace it with another tree unless it is a street tree.
+
+---
+
+**Q. I have a crepe myrtle sapling growing wild in my landscape bed. Can I transplant it to another location in the flower bed without submitting an application?**  
+A. If you want to transplant it to another location within the existing flower bed, you do not need an application. However, if you’re going to transplant it to another area of the yard, or a different flower bed, you will need to apply.
+
+**Q. Do trees that are hit by lightning usually live? Does the Association provide an arborist to look at trees that have been hit to determine if they should be removed?**  
+A. The Community Association does not provide an arborist to assess your trees or determine if they need to be removed. We do not recommend any particular arborists, but you can search for a local arborist by inquiring at a local nursery, asking your neighbors or using the tool provided at [www.treesaregood.com](http://www.treesaregood.com).
+
+**Q. I noticed tree roots coming up in my driveway. Before I redo my driveway, I will need to remove a tree. Does that all go onto one application?**  
+A. Please submit separate applications, one for the tree removal and one for the driveway.
+
+**Q. If I have a dead tree on my property, can I cut it down and not replace it with another tree?**  
+A. The removal of any tree requires an application. If approved and you live in:  
+- **Beaufort County**: you do not need to replace it with another tree unless it is a street tree.  
+- **Hardeeville**: you do need to replace it with a like tree.
+
+**Q. Does the Association trim the canopy of the trees along the streets? If so, when?**  
+A. Common area and street tree trimming is done on an as-needed basis.
+
+**Q. Can you recommend a tree with shallow roots that will not kill the grass?**  
+A. Please consider asking a local nursery about the types of trees that have shallow roots.
+
+**Q. Can a large tree be replaced with a small tree (per Sun City list) in Argent II?**  
+A. A Modifications Coordinator will need to look at your plot plan to determine placement. Please call (843) 705-4000 or email [modifications@schhca.com](mailto:modifications@schhca.com) to make an appointment.
+
+**Q. If the Association removes trees, do they mulch them? Can we get the mulch at no cost?**  
+A. No, typically, the trees removed by the Association are diseased, and we do not share this mulch.
+
+**Q. Other than the requirement for 5 feet from all property lines, are there any other limitations on the number of trees that can be planted?**  
+A. In general, there are no limitations on the number of trees that can be planted. A Modifications Coordinator will need to look at your plot plan to determine placement. Tree applications will be evaluated to understand the impact of the number of trees for reasons such as aesthetics, drainage, erosion, etc. Please call (843) 705-4000 or email [modifications@schhca.com](mailto:modifications@schhca.com) to make an appointment with a coordinator.
+
+**Q. How do you know if a tree in front of a villa is a site tree or a street tree?**  
+A. A Modifications Coordinator will need to look at your plot plan to determine this. Please call (843) 705-4000 or email [modifications@schhca.com](mailto:modifications@schhca.com) to speak with a coordinator.
+
+---
+
+**Q. Can you add bushes or trees in the back of your house for more privacy?**  
+A. Yes, you can add bushes or trees in your backyard. However, you must complete and submit an application.
+
+**Q. I would like to replace a street tree because roots are growing into the driveway and water lines. Why must I replace it with another tree in the same location that will result in the same root issues?**  
+A. Not all trees have the same root growth pattern. If you want to replace your street tree in a different location, please complete and submit your application with the supporting data.
+
+**Q. There is a dead tree behind my home. Who is responsible for removing it?**  
+A. Please email [modifications@schhca.com](mailto:modifications@schhca.com) with more information about the tree location so it can be assessed. If the tree is in your yard, you are responsible for the removal. You must submit an application to do so. If it is a safety hazard, please be sure to indicate that on the application and provide color photographs to support the statement.
+
+**Q. Do I need approval to replace a shrub?**  
+A. You do not need approval to replace a shrub as long as you’re replacing the shrub with a shrub of the same type.
+
+**Q. How much time do I have to replace an existing shrub after removal?**  
+A. All approved work must be completed within 120 days.
+
+---
+
+## SUBMITTING AN APPLICATION
+
+The following items are needed to receive approval to remove or plant a tree:  
+
+1. A completed application with details of work to be completed.  
+   - For example, if removing a tree, will it be replaced? If so, what kind and size?  
+   - If planting a bush, what kind and how many?  
+
+2. Plot plan with the proposed modification clearly labeled.  
+
+3. Color photos of entire yard where the tree will be planted or removed.  
+
+4. Arborist report, if removing street tree.  
+
+*Please note, an incomplete application is the number one reason for a delayed response.*
+
+---
+
+<!--
+title: Storm Doors FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/StormDoors.pdf
+retrieved: 2025-09-29
+-->
+
+# STORM DOORS | EXTERIOR DOORS | GLASS INSERTS
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q. Do I need approval to change my front door if the new door is not the same style that I currently have?**  
+A. If you would like to replace your door with a different style door than you currently have, you must complete a modification application.
+
+**Q. May I install glass front door inserts? Do I need to submit an application to have glass inserts in the front door?**  
+A. Glass inserts are allowed. You will need to submit a modification application. Note, if you install a glass insert to your front door the frame of the insert must be painted to match the existing front door color.
+
+**Q. Do I need approval to add a glass screen door to my front door?**  
+A. If you do not currently have a glass screen door, you will need to submit an application and gain approval to add one.
+
+**Q. Do I need to submit a modification application to add a screen/storm door to the front of the house?**  
+A. Yes, you need to complete an application to add a screen or storm door to the front of your home.
+
+**Q. We don’t have a picture of the glass insert that is going to be installed because it is going to be a custom design.**  
+A. For your application to be considered complete, you will need to submit a picture or a sketch of the custom-designed glass. In addition, please work with the company or vendor you are purchasing the glass from to gather the appropriate product information to include with your application. Required documentation includes plot plan, elevations, work plans, photos, material samples, and product information/specification.
+
+---
+
+## SUBMITTING AN APPLICATION
+
+The following items are needed to receive approval for changes to an exterior or storm door:  
+
+1. A completed application.  
+2. A picture of the specific door to be installed and color.  
+3. A picture of your current door or storm door that you are replacing.  
+
+The following items are needed to receive approval for a glass insert:  
+
+1. A completed application.  
+2. A picture of the glass to be installed.  
+3. A picture of the door where the glass will be inserted.  
+
+*Please note, an incomplete application is the number one reason for a delayed response.*
+
+---
+
+*Rev. 3.26.2024*
+
+---
+
+<!--
+title: Roofs FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/Roofs.pdf
+retrieved: 2025-09-29
+-->
+
+# ROOFS
+
+## SUBMITTING A ROOF APPLICATION
+
+The following items are needed to receive approval to make changes to your roof:  
+
+1. A completed application with details of work to be completed.  
+   - For example, if adding a skylight, what is the size, color, etc.  
+
+2. Plot plan with proposed modification clearly labeled.  
+
+3. Color photos of your home with the current roof and paint colors.  
+
+4. Small sample of asphalt to be installed, if applicable.  
+
+5. A builder’s permit, if replacing shingles.  
+   - The builder’s permit must be turned into Palmetto Commons before a Notice to Proceed will be issued.  
+
+*Please note, an incomplete application is the number one reason for a delayed response.*
+
+---
+
+<!--
 title: Sun City Hilton Head Emergency Guidelines for Residential Emergency Permits and Inspections
 source: Association Community Library
 url: https://suncityhiltonhead.org/ResourceCenter/Download/46134/emergencyguidelines2024?doc_id=2545138&print=1&view=1
@@ -1911,6 +2247,107 @@ Sun City Hilton Head — Single Use License vi Nov 1, 2010
 Name: ________________________________
 
 Title: ________________________________
+
+---
+
+<!--
+title: Driveways FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/Driveways.pdf
+retrieved: 2025-09-29
+-->
+
+# DRIVEWAYS
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q. If I want to put pavers on my driveway and sidewalk, do I need to submit two applications?**  
+A. You may use one application as long as the modifications you are applying for are related to the same project.
+
+**Q. Are the guidelines for driveway modifications the same for villas?**  
+A. They are not the same, as the expansion of driveways is not permitted for villas.
+
+**Q. I have a golf cart garage. Can I add a garage door and extend the driveway straight down to the curb?**  
+A. You must submit an application to add a garage door to your golf cart garage. In addition, you must submit a separate application if you want to extend your driveway. The driveway from the golf cart garage cannot extend straight down to the curb.
+
+**Q. Can sidewalks leading up to the house be painted the same color as the driveway? Would that require an application if using an approved color?**  
+A. Yes, the sidewalk may be painted the same color as the driveway. However, if you are changing your driveway or sidewalk color, you will need to talk to a Modifications Coordinator as colors may require approval.
+
+**Q. Curbs into driveways are rough on low cars and especially on motorcycles. Are more gradual concrete curbs allowed?**  
+A. Curbs may not be modified in any way.
+
+---
+
+## SUBMITTING AN APPLICATION
+
+**The documents below are required when applying for a driveway modification.**
+
+1. A complete application with details of work to be completed. For example, the stain color to be applied or extension dimensions.
+2. Plot plan with proposed modification clearly labeled.
+3. Color photos of current view of driveway and the area of the proposed modification. Please be sure to have a photo with of the view of the house.
+4. Plan drawings showing proposed driveway extension, including current and proposed dimensions, if applicable.
+5. Include the type of material you will use.
+
+*Please note, an incomplete application is the number one reason for a delayed response.*
+
+---
+
+<!--
+title: Windows and Shutters FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/Windows.pdf
+retrieved: 2025-09-29
+-->
+
+# WINDOWS AND SHUTTERS
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q. We have a lifetime warranty on our windows that were installed by Pulte when our home was built. We are the original owners of the home. Who can we contact to replace windows with broken seals or defects?**  
+A. Please email [hiltonheadservice@delwebb.com](mailto:hiltonheadservice@delwebb.com) for warranty information.
+
+**Q. My house is very dark, so I would like to remove an interior wall to make my home brighter. Do I need to submit a modification application?**  
+A. The Association does not evaluate renovations to the interior of your home. You may need to obtain a city or county permit for your renovations, but the Association is not involved in interior home modifications.
+
+---
+
+## SUBMITTING AN APPLICATION
+
+The following items are needed to receive approval for new or replacement windows or shutters:  
+
+1. A completed application with details of work to be completed.  
+   - For example, when installing new windows include details such as size, color, etc.  
+
+2. Plot plan with proposed modification clearly labeled.  
+
+3. Color photos of current view of home.  
+
+*Please note, an incomplete application is the number one reason for a delayed response.*
+
+---
+
+<!--
+title: Garage Doors and Screens FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/GarageDoors.pdf
+retrieved: 2025-09-29
+-->
+
+# GARAGE DOORS & GARAGE SCREENS
+
+## SUBMITTING AN APPLICATION
+
+The following items are needed to receive approval to install a new garage door or garage screen:  
+
+1. A completed garage doors and screens application with details of work to be completed.  
+   - For example, if you are installing a garage screen, include specifications and color of screen.  
+   - Applications for a garage screen must include plans to screen all garage doors on the home (i.e., a golf cart garage).  
+
+2. Plot plan with proposed modification clearly labeled.  
+
+3. Color photo of current view of home with garage and driveway.  
+
+*Please note, an incomplete application is the number one reason for a delayed response.*
 
 ---
 
@@ -2848,3 +3285,257 @@ STRUCTURE or IMPROVEMENT: Anything constructed, erected, or installed on a Custo
 TRANSITIONAL AREA: The area between any Private Area and any Natural Area which serves as a means of adapting different landscape character zones.
 
 WORK: Any construction, placement, or installation of a Custom Home, or other Improvement, including staking, clearing, excavation, grading or other site work, exterior alteration, modifications to existing improve­ments, and the installation and removal of landscaping materials.
+
+---
+
+<!--
+title: Exterior Paint FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/ExteriorPaint.pdf
+retrieved: 2025-09-29
+-->
+
+# EXTERIOR PAINT
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q. Are cottages allowed to use any of the developer-approved colors, or are they limited to a specific palate?**  
+A. Cottages are allowed to choose from the developer-approved color schemes.
+
+**Q. As a homeowner, can I select my own brand of paint or am I required to use the same paint brand selected by the developer?**  
+A. As the homeowner, you may select the paint brand of your choice.
+
+**Q. Do you have a list of recommended painters?**  
+A. We do not make recommendations for painters. However, your neighbors and Neighborhood Representative may be good sources for this information. Please also look in *SunSations* as some painters pay to advertise in the magazine.
+
+**Q. Are paint colors available online?**  
+A. No. You can find a list of some of the most popular approved colors for front doors and shutters on the next page. Please email [modifications@schhca.com](mailto:modifications@schhca.com) for more information if you wish to change the color of your home exterior.
+
+**Q. On a covered front porch, the previous owner had stained/painted the cement floor that is now chipping and flaking off. Do I need to complete a modification application to re-do the floor?**  
+A. If you know what the color is and decide to re-stain or paint the cement floor the same color as the existing color, you do not need to submit an application. However, if you opt to change the color, you must submit an application.
+
+**Q. I found plastic shutters in white. Can I use them or how do I know if the paint is the approved white color?**  
+A. Most of the white shutters are a match to Sun City’s approved Extra White SW7006. However, you should check with a Modifications Coordinator to confirm that it is approved. Please email [modifications@schhca.com](mailto:modifications@schhca.com) or call (843) 705-4000 for more information.
+
+**Q. Where do stucco removal and replacement with siding fit into the exterior paint application process?**  
+A. The color scheme for houses with stucco, vinyl and Hardie board siding requires a reasonably close color match between the two different materials. Stucco, vinyl and Hardie board colors may fade at different rates and result in substantially different colors over time. All requests to replace vinyl siding or paint stucco and Hardie board shall consider the current color of each material. The Modifications Department will handle these requests on a case-by-case basis. Staff will verify that all colors result in a reasonably close match and correspond to an original developer color scheme.
+
+**Q. How long does it take to get paint colors approved if they are not on the developer list?**  
+A. The Modifications Committee meets every Tuesday. If you have requested a color that is not an approved developer color, the committee will evaluate your request at its next meeting and respond soon thereafter.
+
+**Q. If I use an approved color for my project, can I submit an application and receive approval on the same day?**  
+A. Modification applications are reviewed in order of receipt. Therefore, the approval date varies depending upon how many applications are in the queue and if your application is considered complete upon review. A complete application includes information in every field and color photographs.
+
+**Q. Can I pick up a color scheme chart at Palmetto Commons when you are open?**  
+A. No, please contact a Modifications Coordinator at (843) 705-4000 or [modifications@schhca.com](mailto:modifications@schhca.com) so they can assist you with selecting an approved color scheme.
+
+**Q. If my next-door neighbor’s house is painted white, can I also paint my house white?**  
+A. Side-by-side houses may not be painted the same color.
+
+**Q. I heard that the color options are different for Riverbend. Where can I view the options?**  
+A. Riverbend homes are custom-built homes and the owners are allowed to pick their colors.
+
+**Q. My house is 17 years old, how can I find out what colors to use to re-paint the louvers above my garage?**  
+A. You will need to work with a Modifications Coordinator. Please provide all relevant information so that they can assist you. You may make an appointment by calling (843) 705-4000.
+
+**Q. Do we get a discount on paint from Sherwin Williams?**  
+A. The Community Association does not have an agreement for resident discounts. You should contact Sherwin Williams to see what discounts or specials they may offer.
+
+---
+
+## SUBMITTING AN APPLICATION
+
+The following items are needed to receive approval to paint your home’s exterior:  
+
+1. A completed paint application.  
+2. Color photos of all four (4) sides of your home.  
+3. Information on new paint colors (for example, where you are painting and the color).  
+
+If you are painting your house the existing colors, an application is not needed. However, please contact a Modifications Coordinator and let them know what your existing paint colors are so they can update your homeowners’ file. Please email [modifications@schhca.com](mailto:modifications@schhca.com) or call (843) 705-4000 for more information.  
+
+*Please note, an incomplete application is the number one reason for a delayed response.*
+
+---
+
+## PAINTING YOUR EXTERIOR
+
+Please email [modifications@schhca.com](mailto:modifications@schhca.com) or call (843) 705-4000 for more information if you wish to change the color of your home exterior.
+
+---
+
+## PAINTING YOUR FRONT DOOR, SHUTTERS AND LOUVERS
+
+If you would like to change your front door, shutter and louver colors, please fill out an application. Colors must be aesthetically pleasing with your home and from the below list of approved colors.  
+
+All colors are Sherwin Williams unless otherwise noted.  
+
+Riverbend house colors conform to separate Riverbend Design Guidelines. These Sun City Hilton Head paint guidelines do not apply to Riverbend houses and Riverbend color schemes are not applicable for Sun City Hilton Head houses.
+
+---
+
+## SUN CITY HILTON HEAD APPROVED PAINT CODES FOR FRONT DOORS, SHUTTERS AND LOUVERS
+
+**Benjamin Moore:**  
+- 1558 Field Stone  
+- 1582 Deep River  
+- AF-715 Dolphin AKA Quaker Gray  
+
+**Sherwin Williams:**  
+- SW2739 Charcoal Blue  
+- SW2801 Rookwood Dark Red  
+- SW2802 Rookwood Red  
+- SW2807 Rookwood Medium Brown  
+- SW2809 Rookwood Shutter Green  
+- SW2824 Renwick Golden Oak  
+- SW2837 Aurora Brown  
+- SW2838 Polished Mahogany  
+- SW2840 Hammered Silver  
+- SW2841 Weathered Shingle  
+- SW2846 Roycroft Bronze Green  
+- SW2854 Caribbean Coral  
+- SW2903 Pomegranate  
+- SW2905 Carmine  
+- SW6006 Black Bean  
+- SW6034 Arresting Auburn AKA Townsend Harbor Brown  
+- SW6041 Otter  
+- SW6060 Moroccan Brown  
+- SW6069 French Roast  
+- SW6075 Garret Gray  
+- SW6081 Down Home  
+- SW6104 Kaffee  
+- SW6135 Ecru  
+- SW6149 Relaxed Khaki  
+- SW6157 Favorite Tan  
+- SW6159 High Tea  
+- SW6160 Best Bronze  
+- SW6173 Cocoon  
+- SW6174 Andiron  
+- SW6201 Thunderous  
+- SW6202 Cast Iron  
+- SW6209 Ripe Olive  
+- SW6216 Jasper  
+- SW6223 Still Water  
+- SW6230 Rainstorm  
+- SW6243 Distance  
+- SW6244 Naval  
+- SW6250 Granite Peak  
+- SW6257 Gibraltar AKA 2125 Wall Street  
+- SW6258 Tricorn Black  
+- SW6272 Plum Brown  
+- SW6279 Black Swan  
+- SW6321 Red Bay  
+- SW6385 Dover White  
+- SW6468 Hunt Club  
+- SW6991 Black Magic  
+- SW6992 Inkwell  
+- SW6993 Black of Night  
+- SW6994 Greenblack  
+- SW7006 Extra White  
+- SW7020 Black Fox  
+- SW7026 Griffin  
+- SW7032 Warm Stone AKA 2033 Foothills  
+- SW7048 Urbane Bronze  
+- SW7055 Enduring Bronze  
+- SW7062 Rock Bottom  
+- SW7065 Argos  
+- SW7067 Cityscape  
+- SW7069 Iron Ore  
+- SW7083 Darkroom  
+- SW7505 Manor House  
+- SW7510 Chateau Brown  
+- SW7520 Plantation Shutters  
+- SW7620 Seaworthy  
+- SW7645 Thunder Gray  
+- SW7669 Summit  
+- SW7668 March Wind  
+- SW9140 Blustery
+
+---
+
+<!--
+title: Modification Application FAQ
+source: website
+url: https://suncityhiltonhead.org/HOA/assn46134/images/FAQs.pdf
+retrieved: 2025-09-29
+-->
+
+# MODIFICATION APPLICATION
+
+## FREQUENTLY ASKED QUESTIONS
+
+**Q. What modifications require an application?**  
+A. All exterior changes being made to a home require an application. The following modifications have applications that can be completed online: driveways, exterior paint and siding, garage doors (including privacy screens), roofs and roof enhancements, storm doors, glass doors and front doors, trees and windows. All other applications must be submitted in person.
+
+**Q. Where can I find a modification application?**  
+A. Applications that can be submitted online can be found on the Modifications page of [www.SunCityHiltonHead.org](http://www.SunCityHiltonHead.org). Hard copy forms can be downloaded on the Forms page located under the Community Library tile of Resident Central. Applications are also available at Palmetto Commons.
+
+**Q. Where can I find guidelines for any changes and fees associated with an application?**  
+A. The Design Guidelines for both Sun City and Riverbend and the Schedule of Fees and Community Rules can be found on the Governing Documents page of [www.SunCityHiltonHead.org](http://www.SunCityHiltonHead.org). Homeowners in a managed neighborhood should also check with Managed Neighborhoods for any further restrictions.
+
+**Q. I have questions about how to fill the application out. How can I reach a Modifications Coordinator?**  
+A. The Modifications team can be reached at (843) 705-4000 or by email at [modifications@schhca.com](mailto:modifications@schhca.com).
+
+**Q. Can my contractor submit an application for me?**  
+A. Applications will not be accepted from contractors without prior written authorization from the homeowner.
+
+**Q. Can I drop off a hard copy application at Palmetto Commons, or do I need to make an appointment?**  
+A. We are happy to accept your hard copy application at Palmetto Commons. Please check the back of *SunSations* magazine for current hours. No appointment is required. If you choose to drop off an application, please do not apply online. Submitting a hard copy and an online application will delay the approval process.
+
+**Q. My color printer is not working properly. How do I submit a color photo to go with my application?**  
+A. Any store with photo printing, such as CVS, Walgreens, Staples, etc., will be able to print color photos for you.
+
+**Q. What is a plot plan and how do I get a plot plan for my home?**  
+A. The plot plan identifies the location of your home and the setback lines on your plot.  
+
+- The majority of plot plans are on file at Palmetto Commons. If you move into a new home, the developer should give you a copy of your plot plan.  
+- To obtain a plot plan for your home, please call the Resident Services Department at (843) 705-4000 and ask to speak with a Modifications Coordinator. You can also email [modifications@schhca.com](mailto:modifications@schhca.com) and request one.  
+- If we do not have a plot plan on file, please email [hiltonheadservice@delwebb.com](mailto:hiltonheadservice@delwebb.com).  
+- If neither the Community Association nor the developer has a record of your plot plan, you need to reach out to Beaufort County or the City of Hardeeville to attempt to secure one.  
+
+Since most projects require a plot plan, residents are encouraged to have their plot plan on file.
+
+**Q. Do all applications require a plot plan?**  
+A. With the exception of roof replacements and exterior paint and siding changes, all applications require a plot plan. The plot plan must have the proposed modification area clearly marked. Plot plans should be no larger than 11” × 17” and drawn to scale.
+
+**Q. What other supporting documents are required with an application?**  
+A. Color photographs of the entire area where work will be performed are required with each application. A full list of additional supporting documents can be found with the application.  
+
+According to the Design Guidelines, only a completed application will be accepted for review. Homeowners shall fill out application forms completely and attach any required documents such as elevations, plans, plot plans, photos, material samples and product information/specification.
+
+**Q. I just submitted my application; what are the next steps?**  
+A. Certain modification applications are able to be approved by staff. Others must be sent to the Modifications Committee. If staff are able to approve your application, they will reach out for additional information. If the Modifications Committee needs to approve your application, it will be reviewed and voted on by the committee at its weekly meeting.
+
+**Q. How long does it take to hear back from my application?**  
+A. Staff aim to review and respond to completed applications within 45 days of receipt. If your application is not complete, it will delay the decision. Incomplete applications will be returned to you for more information.
+
+**Q. How do I follow up on a submitted application?**  
+A. If you submit an online application, you will receive a unique tracking number. When you’re looking for an update on your application, please contact a Modifications Coordinator and have your tracking number available. Modifications Coordinators can be reached at (843) 705-4000 or [modifications@schhca.com](mailto:modifications@schhca.com).  
+
+If you submitted a hard copy of your application, please call (843) 705-4000 to speak to a Modifications Coordinator about the status. Hard copy applications will not receive a tracking number.
+
+**Q. How will I know if my application has been approved or denied?**  
+A. If your application has been approved, you will receive a Notice to Proceed in your lower mailbox or on your doorstep. Please display the Notice to Proceed in a window facing the street for the duration of the project. If your application was denied, a letter will be mailed to you citing the reason for denial.
+
+**Q. My application was denied; will I have to reapply?**  
+A. If your application was denied, you are able to revise the application or appeal the decision. Please contact the Modifications Coordinator listed in your letter for next steps.
+
+**Q. Once my modification gets approved, how long do I have to complete the project?**  
+A. You will be given 120 days to complete your approved project. If your modification is not completed within 120 days from the date of approval, you must request a 30-day extension from the Modifications Department. Any additional extensions are in 15-day increments and shall be approved by the Modifications Department.  
+
+You will be subject to an extension fee. For information about extension fees, please refer to the Schedule of Fees and Community Rules available at [www.SunCityHiltonHead.org](http://www.SunCityHiltonHead.org).
+
+**Q. Why isn’t there an online application available for all modifications?**  
+A. Certain modification applications require a fee and must be received in hard copy. The following modifications require a fee:  
+- Room additions beyond existing roof  
+- Screen enclosures beyond existing roof  
+- Pergolas (attached and detached)  
+- Pools/Jacuzzis/Spas  
+- Courtyards and seating walls  
+- Concrete enhancements  
+- Patios  
+- Outdoor kitchens  
+
+*Please note, this list is not exhaustive. If you have any questions, please email [modifications@schhca.com](mailto:modifications@schhca.com) or call (843) 705-4000.*
+
+**Q. What will happen if a modification is done without a Notice to Proceed?**  
+A. If a project is completed without receiving a Notice to Proceed, the homeowner will be fined and may be required to remove the modification. The costs of a No Permit Fine may be found in the Schedule of Fees and Community Rules. If you are unsure whether or not you need to apply, please reach out to Modifications by email at [modifications@schhca.com](mailto:modifications@schhca.com) or by phone at (843) 705-4000.

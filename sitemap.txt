@@ -10,6 +10,7 @@ https://www.schh-commons.org/knowledge-base/merged/Governing_Documents.md
 https://www.schh-commons.org/knowledge-base/merged/Hurricane_Preparedness.md 
 https://www.schh-commons.org/knowledge-base/merged/Managed_Neighborhoods.md 
 https://www.schh-commons.org/knowledge-base/merged/News.md 
+https://www.schh-commons.org/knowledge-base/merged/SCTV.md 
 https://www.schh-commons.org/knowledge-base/merged/SunSations.md 
 https://www.schh-commons.org/knowledge-base/merged/Vendors.md
 https://www.schh-commons.org/knowledge-base/merged/Website.md

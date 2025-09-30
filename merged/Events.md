@@ -439,3 +439,162 @@ retrieved:
 - When: 2025-10-30, 7:00 PM
 - Where: Pavilion
 - Details: Entertainment by Soul Fish. Costumes encouraged. Tickets $23. Gates/cash bar open 6 p.m. Capacity 250.
+
+### Gin & Jazz: Levon Stevens Quartet
+  - When: 2025-11-04, 7:00 PM
+  - Where: Pinckney Hall
+  - Details: Tickets $18, available online and at Lifestyle Services. Doors and cash bar services open at 6 p.m. Capacity 256.
+
+---
+
+### Ticket Sales
+  - When: 2025-11-05, 8:00 AM
+  - Where: Palmetto Commons
+  - Details: Tickets for all December events go on sale at Lifestyle Services.
+
+---
+
+### Lowcountry Boil
+  - When: 2025-11-05, 5:30 PM
+  - Where: Riverbend
+  - Details: Nothing says fall quite like a Lowcountry boil. Signature Catering by SERG brings fresh, local seafood along with other menu items. Full menu available at Lifestyle Services. Live music by Jonathan David King. Tickets $45, available online and at Lifestyle Services. Limit of four tickets per household. Doors and cash bar open at 5 p.m. Capacity 84.
+
+---
+
+### Trivia Night
+  - When: 2025-11-06, 6:00 PM
+  - Where: Pinckney Hall
+  - Details: Test your knowledge of movies, books, quotes, and more. Tickets $7, available online and at Lifestyle Services. Cash bar available. Capacity 100.
+
+---
+
+### Make it & Take it: Clay Jewelry
+  - When: 2025-11-07, 2:00 PM and 4:15 PM
+  - Where: Pinckney Hall
+  - Details: Learn polymer clay jewelry making with instructor Denise Palmer. Choose between a bracelet or earrings. Supplies included. Tickets $52, available online and at Lifestyle Services. Limit four tickets per household. Capacity 10 per class.
+
+---
+
+### Bourbon Dinner
+  - When: 2025-11-10, 5:30 PM
+  - Where: Riverbend
+  - Details: Four-course dinner paired with bourbon from Willett Distillery. Menu includes hors d’oeuvres, autumn pumpkin soup, poached pear salad, braised short ribs, and apple tart. Tickets $120, available online and at Lifestyle Services. Limit four tickets per household. Capacity 60.
+
+---
+
+### Irish Coffee Night
+  - When: 2025-11-11, 5:00 PM
+  - Where: Pinckney Hall
+  - Details: Live entertainment by Blithe & Fred. Cash bar available.
+
+---
+
+### Irish Coffee Night
+  - When: 2025-11-12, 5:00 PM
+  - Where: Pinckney Hall
+  - Details: Live entertainment by The Sweet Magnolias. Cash bar available.
+
+---
+
+### The JT Experience: A Tribute to James Taylor
+  - When: 2025-11-12, 7:00 PM
+  - Where: Magnolia Hall
+  - Details: James Gedeon performs James Taylor’s classics. Tickets $35, available online and at Lifestyle Services. Limit four per household. Doors open at 6 p.m. Capacity 548. No food or beverages permitted inside.
+
+---
+
+### Irish Coffee Night
+  - When: 2025-11-13, 5:00 PM
+  - Where: Pinckney Hall
+  - Details: Live entertainment by Carolina Girls & Guys. Cash bar available.
+
+---
+
+### The JT Experience: A Tribute to James Taylor
+  - When: 2025-11-13, 7:00 PM
+  - Where: Magnolia Hall
+  - Details: Tickets $35, available online and at Lifestyle Services. Limit four per household. Doors open at 6 p.m. Capacity 548. No food or beverages permitted inside.
+
+---
+
+### Irish Coffee Night
+  - When: 2025-11-14, 5:00 PM
+  - Where: Pinckney Hall
+  - Details: Live entertainment by Remember When Band. Cash bar available.
+
+---
+
+### The JT Experience: A Tribute to James Taylor
+  - When: 2025-11-14, 7:00 PM
+  - Where: Magnolia Hall
+  - Details: Tickets $35, available online and at Lifestyle Services. Limit four per household. Doors open at 6 p.m. Capacity 548. No food or beverages permitted inside.
+
+---
+
+### Holiday Craft Bazaar
+  - When: 2025-11-15, 10:00 AM → 1:00 PM
+  - Where: Pinckney Hall
+  - Details: Browse handmade items from Sun City residents. Tables $30 (sign-up at Lifestyle Services). Free event. Beverages available for purchase. More info at [http://www.sctax.org](http://www.sctax.org).
+
+---
+
+### Wine Tasting
+  - When: 2025-11-17, 4:00 PM
+  - Where: Riverbend
+  - Details: Hosted by Winebow with Downtown Catering refreshments. Tickets $40, available online and at Lifestyle Services. Limit four tickets per household. Capacity 60.
+
+---
+
+### Movie Night: *F1: The Movie*
+  - When: 2025-11-17, 7:00 PM
+  - Where: Magnolia Hall
+  - Details: Action/drama/sport starring Brad Pitt, Damson Idris, Javier Bardem. Rated PG-13. 2h 35m. Free, first come, first served. Capacity 548.
+
+---
+
+### Matinee: *F1: The Movie*
+  - When: 2025-11-18, 2:00 PM
+  - Where: Magnolia Hall
+  - Details: Free screening with closed captioning for hearing impaired. First come, first served. Capacity 548.
+
+---
+
+### Irish Coffee Night
+  - When: 2025-11-18, 5:00 PM
+  - Where: Pinckney Hall
+  - Details: Live entertainment by Mountain Strings. Cash bar available.
+
+---
+
+### Funny Business: Cyrus Steele
+  - When: 2025-11-19, 5:30 PM and 8:00 PM
+  - Where: Pinckney Hall
+  - Details: Comedy performance. Tickets $15, available online and at Lifestyle Services. Doors and cash bar open one hour before. Capacity 320.
+
+---
+
+### Trivia Night: Name That Tune
+  - When: 2025-11-20, 6:00 PM
+  - Where: Pinckney Hall
+  - Details: Test your music knowledge from the ‘50s–‘80s. Tickets $7, available online and at Lifestyle Services. Cash bar available. Capacity 88.
+
+---
+
+### Meet the Author: Brian Thiem
+  - When: 2025-11-21, 6:00 PM
+  - Where: Pinckney Hall
+  - Details: Discussion of *The Mudflats Murder Club*. Free event. Cash bar available.
+
+---
+
+### Funny Business Uncensored: Brian Scolaro
+  - When: 2025-11-24, 5:30 PM and 8:00 PM
+  - Where: Pinckney Hall
+  - Details: Adult stand-up comedy, uncensored. Tickets $15, available online and at Lifestyle Services. Doors and cash bar open one hour before. Capacity 320.
+
+---
+
+### Irish Coffee Night
+  - When: 2025-11-25, 5:00 PM
+  - Where: Pinckney Hall
+  - Details: Live entertainment by Ronny D. Cash bar available.

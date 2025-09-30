@@ -100,6 +100,12 @@
 | [SCTA Eblast](https://www.schh-commons.org/knowledge-base/docs/News/SCTA_Eblast) | EMail | 2025-09-23 |
 | [The Week Ahead](https://www.schh-commons.org/knowledge-base/docs/News/The_Week_Ahead) | EMail | 2025-09-22 |
 
+## SCTV
+
+| Document | Source | Date Retrieved |
+|---|---|---|
+| [SCTV Transcript, September 29, 2025](https://www.youtube.com/watch?v=d0p_2w6S7W0&t=1s) | YouTube | 2025-09-29 |
+
 ## SunSations
 
 | Document | Source | Date Retrieved |

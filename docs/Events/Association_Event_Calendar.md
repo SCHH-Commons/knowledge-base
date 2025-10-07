@@ -2,7 +2,7 @@
 <!--
 title: SCHH Events Calendar
 source: Website
-url: https://suncityhiltonhead.org/HOA/assn46134/images/eHappenings_SEP_OCT_2025V2.pdf
+url: https://suncityhiltonhead.org/HOA/assn46134/images/eHappenings_OCT_NOV_2025.pdf
 retrieved: 
 -->
 

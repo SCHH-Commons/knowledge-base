@@ -45,7 +45,7 @@
 
 | Document | Source | Date Retrieved |
 |---|---|---|
-| [SCHH Events Calendar](https://suncityhiltonhead.org/HOA/assn46134/images/eHappenings_SEP_OCT_2025V2.pdf) | Website |  |
+| [SCHH Events Calendar](https://suncityhiltonhead.org/HOA/assn46134/images/eHappenings_OCT_NOV_2025.pdf) | Website |  |
 
 ## General
 
@@ -59,7 +59,7 @@
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [Golf Handbook](https://suncityhiltonhead.org/ResourceCenter/Download/46134/golfhandbook2025final?doc_id=2471475&print=1&view=1) | Association Community Library |  |
-| [Sun City Hilton Head Golf Courses](https://schh-commons.github.io/knowledge-base/docs/GO-Golf_Courses) | Constructed |  |
+| [Sun City Hilton Head Golf Courses](https://schh-commons.github.io/knowledge-base/docs/Golf_Courses) | Constructed |  |
 
 ## Governing Documents
 
@@ -104,7 +104,12 @@
 
 | Document | Source | Date Retrieved |
 |---|---|---|
-| [SCTV Transcript, September 29, 2025](https://www.youtube.com/watch?v=d0p_2w6S7W0&t=1s) | YouTube | 2025-09-29 |
+| [SCTV Spotlight on Sports Transcript, October, 2025](https://www.youtube.com/watch?v=5IBCgaF8rgM) | YouTube | 2025-09-29 |
+| [SCTV Transcript, October 6, 2025](https://www.youtube.com/watch?v=0sh-yrDIXjg) | YouTube | 2025-09-29 |
+| [SCTV Transcript, September 15, 2025](https://www.youtube.com/watch?v=uM83xB4H6Js) | YouTube | 2025-09-15 |
+| [SCTV Transcript, September 22, 2025](https://www.youtube.com/watch?v=DTBYbcp8ikw) | YouTube | 2025-09-22 |
+| [SCTV Transcript, September 29, 2025](https://www.youtube.com/watch?v=d0p_2w6S7W0&) | YouTube | 2025-09-29 |
+| [SCTV Transcript, September 8, 2025](https://www.youtube.com/watch?v=Qn6orn0BZ74) | YouTube | 2025-09-08 |
 
 ## SunSations
 

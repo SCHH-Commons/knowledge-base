@@ -7,6 +7,61 @@ retrieved: 2025-09-22
 
 # The Week Ahead
 
+### UPDATE: Golf Exhibition with Peter Jacobsen Venue Change
+
+**Type:** Golf Exhibition
+**Date:** 2025-10-06 (Monday)
+**Time:** 4:00 p.m.
+**Location:** Okatie Creek Driving Range
+**Notes:**
+Due to improved weather conditions, the Golf Exhibition with Peter Jacobsen scheduled for Monday, October 6 has been moved to Okatie Creek Driving Range. Bring your own chair. Free event. The organizers apologize for any confusion as they work around weather conditions to provide the best experience.
+
+---
+
+### NR and ANR Application Due This Week
+
+**Type:** Community Election / Application Deadline
+**Date:** 2025-10-08 (Wednesday)
+**Time:** 3:00 p.m.
+**Location:** Palmetto Commons
+**Notes:**
+Residents are encouraged to serve their neighborhood by running for the Neighborhood Representative or Alternate Neighborhood Representative position. Packets and applications are available online on the **Election page** of the community website and can also be picked up at Palmetto Commons. Applications are due to Palmetto Commons by Wednesday, October 8 at 3 p.m.
+
+---
+
+### Stay Prepared During Hurricane Season
+
+**Type:** Safety Reminder
+**Notes:**
+Residents are reminded that it is prime time for hurricane activity. Visit the **Hurricane Awareness page** of the community website to help make hurricane preparedness plans. Residents are encouraged to sign up for Everbridge Nixle alerts from local officials by texting their zip code to 888777 or by downloading the Everbridge app from their phone’s app store.
+
+---
+
+### Life Under the Sun Continues
+
+**Type:** Community Event Series
+**Notes:**
+Life Under the Sun continues this week! Last-minute tickets are still available for select events. Tickets can be purchased online and at Lifestyle Services in Palmetto Commons.
+[Click here](#) for the full event lineup. Don’t miss out on the fun!
+
+---
+
+### Pickleball Court Closures
+
+**Type:** Facility Notice
+**Notes:**
+A resurfacing project is in progress on the pickleball courts. Residents are urged to check the posted court schedule upon arrival to see which courts are closed, as the schedule is subject to change. The project is expected to be completed in approximately four weeks, weather permitting.
+
+---
+
+### Common Area Treatment to Turf
+
+**Type:** Maintenance Notice
+**Date:** October 2025
+**Notes:**
+Pre-emergent and insecticide will be applied to turf in common areas in October, weather permitting. Residents and pets should remain off treated areas for 48 hours. Signs will be posted in treated areas.
+
+
 ### Community Association Continues to Monitor Tropical Storm Imelda
 **Type:** Community Notice  
 **Date:** 2025-09-29 to 2025-11-30  

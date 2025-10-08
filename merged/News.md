@@ -38,11 +38,60 @@ retrieved: 2025-09-23
 <!--
 title: SCHHCA Clubs and Groups eNewsletter
 source: EMail
-retrieved: 2025-09-24
+retrieved: 2025-10-8
 -->
 
 # SCHHCA Clubs and Groups eNewsletter
-## 2025-09-24
+
+### Croquet Club Tournament
+
+**Type:** Tournament
+**Date:** 2025-10-15 (Wednesday) – 2025-10-18 (Saturday)
+**Location:** Sun City Hilton Head
+**Notes:** The Sun City Croquet Club will hold its annual Croquet Tournament. For more information, please contact Judy Murray at (561) 339-4147 or **[judy.murray0707@gmail.com](mailto:judy.murray0707@gmail.com)**.
+
+---
+
+### Ballroom Dance Club Open House
+
+**Type:** Club Open House
+**Date:** 2025-10-17 (Friday)
+**Time:** 7:00–9:45 p.m.
+**Location:** Pinckney Hall
+**Notes:** The first hour of the event is especially for newcomers who have joined or are thinking about joining the club to learn what it’s all about. Learn about club activities and events, watch dancers perform East Coast Swing and Rumba, learn basic steps, and meet members from 8–9:45 p.m. Refreshments provided. Attire is dressy casual. Free to attend.
+
+---
+
+### Friends of Lifelong Learning Presents “Wonders of Lowcountry Wildlife”
+
+**Type:** Educational Presentation
+**Date:** 2025-10-30 (Thursday)
+**Time:** 3:00–4:30 p.m.
+**Location:** Hidden Cypress Ballroom
+**Speaker:** Dr. Al Segars, retired Department of Natural Resources Veterinarian
+**Topic:** “Wonders of Lowcountry Wildlife”
+**Notes:** Explore the incredible wildlife of the Lowcountry — from majestic shorebirds to hidden marsh treasures. Dr. Segars will share stories from decades in the field, reveal the best spots to see these creatures, and discuss how to protect them for future generations. Space is limited; registration required at the provided **link**.
+
+---
+
+### Woodshop Annual Fall Artisan Festival and Sale
+
+**Type:** Artisan Festival & Sale
+**Date:** 2025-11-08 (Saturday)
+**Time:** 9:00 a.m.–2:00 p.m.
+**Location:** Pinckney Hall Ballroom
+**Notes:** Hosted by the Woodworkers & Modelmakers Guild. Shop for unique holiday gifts, handcrafted wood products, Guild stock products, and one-of-a-kind items. Event includes a silent auction, door prizes, and food. **Click here** for more information.
+
+---
+
+### Veterans Day Military Games
+
+**Type:** Veterans Day Event
+**Date:** 2025-11-10 (Monday)
+**Time:** Game times at 9:00 a.m., 10:30 a.m., and 12:30 p.m.; Opening ceremonies at 8:30 a.m.
+**Location:** Veterans Memorial Field
+**Notes:** Celebrate Veterans Day with the Sun City Softball Club’s Veterans Games featuring military veteran players. Opening ceremonies include the Sun City Veterans Association (SCVA) Color Guard and the National Anthem performed by the Sun Tones. The first 500 fans receive a free hot dog off the grill.
+**Charity Drive:** Support the Town Square Upbeats’ annual Toys for Tots toy drive — donation boxes available at the field.
 
 ---
 

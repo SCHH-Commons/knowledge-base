@@ -96,7 +96,7 @@
 | [Association Update](https://www.schh-commons.org/knowledge-base/docs/News/Association_Update) | EMail | 2025-09-23 |
 | [SCHH Computer Club: This Week](https://www.schh-commons.org/knowledge-base/docs/News/SCHH_Computer_Club) | EMail | 2025-09-21 |
 | [SCHH eNews Weekly](https://www.schh-commons.org/knowledge-base/docs/News/eNews_Weekly) | EMail | 2025-09-18 |
-| [SCHHCA Clubs and Groups eNewsletter](https://www.schh-commons.org/knowledge-base/docs/News/Clubs_and_Groups_Newsletter) | EMail | 2025-09-24 |
+| [SCHHCA Clubs and Groups eNewsletter](https://www.schh-commons.org/knowledge-base/docs/News/Clubs_and_Groups_Newsletter) | EMail | 2025-10-8 |
 | [SCTA Eblast](https://www.schh-commons.org/knowledge-base/docs/News/SCTA_Eblast) | EMail | 2025-09-23 |
 | [The Week Ahead](https://www.schh-commons.org/knowledge-base/docs/News/The_Week_Ahead) | EMail | 2025-09-22 |
 

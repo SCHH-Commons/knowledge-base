@@ -11,4 +11,4 @@ The SCHH Commons Knowledge Base is a growing collection of documents designed to
 
 Access to the knowledge base is powered by Google’s Notebook LM, which lets you explore the material in new ways. Instead of simply browsing files, you can ask questions, search across sources, and receive clear, conversational answers drawn from the curated collection. The goal is to make information more approachable and useful for the community, while encouraging contributions that expand and improve the resource over time.
 
-Send all comments, questions and corrections to me at ron@snyderjr.com.
+Send all comments, questions and corrections to me at admin@schh-commons.org.

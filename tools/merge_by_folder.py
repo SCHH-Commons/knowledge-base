@@ -65,7 +65,7 @@ def merge_by_folder():
         for group in sorted(groups.keys()):
             if not groups[group]:
                 continue
-            index.write(f"\n## {group}\n\n")
+            index.write(f"\n### {group}\n\n")
             index.write('| Document | Source | Date Retrieved |\n')
             index.write('|---|---|---|\n')
             for item in sorted(groups[group], key=lambda x: x['title']):

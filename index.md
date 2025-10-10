@@ -1,12 +1,12 @@
 
-## Chartered Clubs and Community Groups
+### Chartered Clubs and Community Groups
 
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [Chartered Clubs and Registered Community Groups](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/club-catalog-2025) | Association Community Library |  |
 | [Computer Club](https://suncitycc.org/) | Website |  |
 
-## Deep Dives
+### Deep Dives
 
 | Document | Source | Date Retrieved |
 |---|---|---|
@@ -15,7 +15,7 @@
 | [Where Exactly *Is* Sun City Hilton Head?](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Location_Naming) | AI-Assisted Research | 2025-09-27 |
 | [Why Savannah and Bluffton Are Seen as a Hurricane “Dead‑Zone”](https://www.schh-commons.org/knowledge-base/docs/Deep_Dives/Hurricane-Dead-Zone) | AI-Assisted Research | 2025-09-28 |
 
-## Design Guidelines
+### Design Guidelines
 
 | Document | Source | Date Retrieved |
 |---|---|---|
@@ -33,7 +33,7 @@
 | [Trees FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/Trees.pdf) | website | 2025-09-29 |
 | [Windows and Shutters FAQ](https://suncityhiltonhead.org/HOA/assn46134/images/Windows.pdf) | website | 2025-09-29 |
 
-## Dining (on site)
+### Dining (on site)
 
 | Document | Source | Date Retrieved |
 |---|---|---|
@@ -41,27 +41,27 @@
 | [Jameson’s Charhouse](https://jamesons-charhouse.com/bluffton/) | Website |  |
 | [The Clubhouse at Okatie Creek](https://jamesons-charhouse.com/clubhouse-okatie-creek/) | Website |  |
 
-## Events
+### Events
 
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [SCHH Events Calendar](https://suncityhiltonhead.org/HOA/assn46134/images/eHappenings_OCT_NOV_2025.pdf) | Website |  |
 
-## General
+### General
 
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [30 Years of History](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/30-years-of-history/page/1) | Website | 2025-09-28 |
 | [News Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources) | Website |  |
 
-## Golf
+### Golf
 
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [Golf Handbook](https://suncityhiltonhead.org/ResourceCenter/Download/46134/golfhandbook2025final?doc_id=2471475&print=1&view=1) | Association Community Library |  |
-| [Sun City Hilton Head Golf Courses](https://schh-commons.github.io/knowledge-base/docs/Golf_Courses) | Constructed |  |
+| [Sun City Hilton Head Golf Courses](https://www.schh-commons.org/knowledge-base/docs/Golf/Golf_Courses) | Constructed |  |
 
-## Governing Documents
+### Governing Documents
 
 | Document | Source | Date Retrieved |
 |---|---|---|
@@ -70,15 +70,16 @@
 | [Covenants, Conditions and Restrictions (CC&Rs)](https://suncityhiltonhead.org/HOA/assn46134/images/CCR_Bylaws_searchable.pdf) | Association Community Library |  |
 | [Governing Documents Overview](https://suncityhiltonhead.org/page/46134~1049950/what-are-the-governing-documents) | Website |  |
 | [Schedule of Fees & Community Rules](https://suncityhiltonhead.org/ResourceCenter/Download/46134/2025scheduleoffeesworkingcopywithaddendum?doc_id=2994591&print=1&view=1) | Association Community Library |  |
+| [What are the Governing Documents?](https://suncityhiltonhead.org/page/46134~1049950/what-are-the-governing-documents) | website | 2025-09-29 |
 
-## Hurricane Preparedness
+### Hurricane Preparedness
 
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [Hurricane Frequently Asked Questions](https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricanefaqs2025final?doc_id=3344565&print=1&view=1) | Association Community Library |  |
 | [Sun City Hilton Head Hurricane Preparedness Guide](https://suncityhiltonhead.org/ResourceCenter/Download/46134/hurricaneguidemay2025?doc_id=2505458&print=1&view=1) | Association Community Library |  |
 
-## Managed Neighborhoods
+### Managed Neighborhoods
 
 | Document | Source | Date Retrieved |
 |---|---|---|
@@ -89,7 +90,7 @@
 | [Sun City Hilton Head Villa Owner’s Manual](https://suncityhiltonhead.org/ResourceCenter/Download/46134/villa%20manual_revapril2019_final?doc_id=2860452&print=1&view=1) | Association Community Library |  |
 | [Turf Grass: What to Expect](https://suncityhiltonhead.org/ResourceCenter/Download/46134/turfgrasswhattoexpectargentii?doc_id=3080779&print=1&view=1) | Association Community Library |  |
 
-## News
+### News
 
 | Document | Source | Date Retrieved |
 |---|---|---|
@@ -100,7 +101,7 @@
 | [SCTA Eblast](https://www.schh-commons.org/knowledge-base/docs/News/SCTA_Eblast) | EMail | 2025-09-23 |
 | [The Week Ahead](https://www.schh-commons.org/knowledge-base/docs/News/The_Week_Ahead) | EMail | 2025-09-22 |
 
-## SCTV
+### SCTV
 
 | Document | Source | Date Retrieved |
 |---|---|---|
@@ -111,20 +112,20 @@
 | [SCTV Transcript, September 29, 2025](https://www.youtube.com/watch?v=d0p_2w6S7W0&) | YouTube | 2025-09-29 |
 | [SCTV Transcript, September 8, 2025](https://www.youtube.com/watch?v=Qn6orn0BZ74) | YouTube | 2025-09-08 |
 
-## SunSations
+### SunSations
 
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [SunSations, October 2025](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/october-2025-sunsations) | Website |  |
 | [SunSations, September 2025](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/september-2025-sunsations) | Website |  |
 
-## Vendors
+### Vendors
 
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [Outdoor Living Spaces](https://www.schh-commons.org/knowledge-base/docs/Vendors/Outdoor_Living) | AI-Assisted Research | 2025-09 |
 
-## Website
+### Website
 
 | Document | Source | Date Retrieved |
 |---|---|---|
@@ -136,4 +137,3 @@
 | [News Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources) | website | 2025-09-29 |
 | [Pools](https://suncityhiltonhead.org/Page/46134~1088035/Pools) | website | 2025-09-29 |
 | [Town Square](https://suncityhiltonhead.org/page/46134~969048/Town-Center) | website | 2025-09-29 |
-| [What are the Governing Documents?](https://suncityhiltonhead.org/page/46134~1049950/what-are-the-governing-documents) | website | 2025-09-29 |

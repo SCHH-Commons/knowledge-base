@@ -1,6 +1,6 @@
 
 <!--
-title: SCTV Spotlight on Sports Transcript, October, 2025
+title: SCTV Spotlight on Sports Broadcast, October, 2025
 source: YouTube
 url: https://www.youtube.com/watch?v=5IBCgaF8rgM
 retrieved: 2025-09-29

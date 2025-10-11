@@ -1,5 +1,5 @@
 <!--
-title: SCTV Transcript, September 15, 2025
+title: SCTV Broadcast, September 15, 2025
 source: YouTube
 url: https://www.youtube.com/watch?v=uM83xB4H6Js
 retrieved: 2025-09-15
@@ -10,7 +10,7 @@ welcome to Sun City News i'm your host Norma Taylor and here are some of the sto
 ---
 
 <!--
-title: SCTV Spotlight on Sports Transcript, October, 2025
+title: SCTV Spotlight on Sports Broadcast, October, 2025
 source: YouTube
 url: https://www.youtube.com/watch?v=5IBCgaF8rgM
 retrieved: 2025-09-29
@@ -21,7 +21,7 @@ this month on Sportlight on Sports we feature the renovation and grand opening o
 ---
 
 <!--
-title: SCTV Transcript, September 29, 2025
+title: SCTV Broadcast, September 29, 2025
 source: YouTube
 url: https://www.youtube.com/watch?v=d0p_2w6S7W0&
 retrieved: 2025-09-29
@@ -32,7 +32,7 @@ welcome to Sun City News i'm your host Norma Taylor and here are a few of the st
 ---
 
 <!--
-title: SCTV Transcript, September 8, 2025
+title: SCTV Broadcast, September 8, 2025
 source: YouTube
 url: https://www.youtube.com/watch?v=Qn6orn0BZ74
 retrieved: 2025-09-08
@@ -43,7 +43,7 @@ welcome to Sun City News i'm your host Georgia Lash here are some of the stories
 ---
 
 <!--
-title: SCTV Transcript, October 6, 2025
+title: SCTV Broadcast, October 6, 2025
 source: YouTube
 url: https://www.youtube.com/watch?v=0sh-yrDIXjg
 retrieved: 2025-09-29
@@ -54,7 +54,7 @@ welcome to Sun City News i'm your host Norma Taylor and here are some of the sto
 ---
 
 <!--
-title: SCTV Transcript, September 22, 2025
+title: SCTV Broadcast, September 22, 2025
 source: YouTube
 url: https://www.youtube.com/watch?v=DTBYbcp8ikw
 retrieved: 2025-09-22

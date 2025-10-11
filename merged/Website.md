@@ -24,15 +24,6 @@ Located in Town Square, the Yemassee Crafts Center provides meeting rooms and sp
 ---
 
 <!--
-title: 
-source: website
-url: 
-retrieved: 2025-09-29
--->
-
----
-
-<!--
 title: Fitness Centers & Personal Training
 source: website
 url: https://suncityhiltonhead.org/Page/46134~991562/Fitness-Centers-Personal-Training

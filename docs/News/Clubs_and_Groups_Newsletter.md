@@ -1,7 +1,7 @@
 
 <!--
 title: SCHHCA Clubs and Groups eNewsletter
-source: EMail
+source: Newsletter
 retrieved: 2025-10-8
 -->
 

@@ -1,7 +1,7 @@
 
 <!--
 title: The Week Ahead
-source: EMail
+source: Newsletter
 retrieved: 2025-09-22
 -->
 
@@ -60,13 +60,6 @@ A resurfacing project is in progress on the pickleball courts. Residents are urg
 **Date:** October 2025
 **Notes:**
 Pre-emergent and insecticide will be applied to turf in common areas in October, weather permitting. Residents and pets should remain off treated areas for 48 hours. Signs will be posted in treated areas.
-
-
-### Community Association Continues to Monitor Tropical Storm Imelda
-**Type:** Community Notice  
-**Date:** 2025-09-29 to 2025-11-30  
-**Notes:**  
-The Community Association continues to monitor Tropical Storm Imelda, and residents are encouraged to review their personal hurricane plans. Hurricane season runs through November 30. For more information on preparedness, including links to state and county official news sources, visit the Hurricane Awareness page of the community website.  
 
 ---
 

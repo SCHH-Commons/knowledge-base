@@ -52,7 +52,12 @@
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [30 Years of History](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/30-years-of-history/page/1) | Website | 2025-09-28 |
+| [Amenity Locations](https://www.schh-commons.org/knowledge-base/docs/General/Amenities) | Constructed | 2025-10-10 |
+| [BJWSA Presentation, April 2024](https://www.schh-commons.org/knowledge-base/docs/General/BJWSA_presentation_April_2024) | SC West TeamReach Library | 2025-10-10 |
+| [Bocce Rules, Sept 2024](https://www.schh-commons.org/knowledge-base/docs/General/BocceRulesSept20242) | SC West TeamReach Library | 2025-10-10 |
+| [Important Contact Information](https://www.schh-commons.org/knowledge-base/docs/General/SCHHCA_Important_Contact_Information) | SC West TeamReach Library | 2025-10-10 |
 | [News Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources) | Website |  |
+| [Who to Call First in an Emergency](https://www.schh-commons.org/knowledge-base/docs/General/Who_to_Call_First_in_an_Emergency) | SC West TeamReach Library | 2025-10-10 |
 
 ### Golf
 
@@ -94,23 +99,23 @@
 
 | Document | Source | Date Retrieved |
 |---|---|---|
-| [Association Update](https://www.schh-commons.org/knowledge-base/docs/News/Association_Update) | EMail | 2025-09-23 |
-| [SCHH Computer Club: This Week](https://www.schh-commons.org/knowledge-base/docs/News/SCHH_Computer_Club) | EMail | 2025-09-21 |
-| [SCHH eNews Weekly](https://www.schh-commons.org/knowledge-base/docs/News/eNews_Weekly) | EMail | 2025-09-18 |
-| [SCHHCA Clubs and Groups eNewsletter](https://www.schh-commons.org/knowledge-base/docs/News/Clubs_and_Groups_Newsletter) | EMail | 2025-10-8 |
-| [SCTA Eblast](https://www.schh-commons.org/knowledge-base/docs/News/SCTA_Eblast) | EMail | 2025-09-23 |
-| [The Week Ahead](https://www.schh-commons.org/knowledge-base/docs/News/The_Week_Ahead) | EMail | 2025-09-22 |
+| [Association Update](https://www.schh-commons.org/knowledge-base/docs/News/Association_Update) | Newsletter | 2025-09-23 |
+| [SCHH Computer Club: This Week](https://www.schh-commons.org/knowledge-base/docs/News/SCHH_Computer_Club) | Newsletter | 2025-09-21 |
+| [SCHH eNews Weekly](https://www.schh-commons.org/knowledge-base/docs/News/eNews_Weekly) | Newsletter | 2025-09-18 |
+| [SCHHCA Clubs and Groups eNewsletter](https://www.schh-commons.org/knowledge-base/docs/News/Clubs_and_Groups_Newsletter) | Newsletter | 2025-10-8 |
+| [SCTA Eblast](https://www.schh-commons.org/knowledge-base/docs/News/SCTA_Eblast) | Newsletter | 2025-09-23 |
+| [The Week Ahead](https://www.schh-commons.org/knowledge-base/docs/News/The_Week_Ahead) | Newsletter | 2025-09-22 |
 
 ### SCTV
 
 | Document | Source | Date Retrieved |
 |---|---|---|
-| [SCTV Spotlight on Sports Transcript, October, 2025](https://www.youtube.com/watch?v=5IBCgaF8rgM) | YouTube | 2025-09-29 |
-| [SCTV Transcript, October 6, 2025](https://www.youtube.com/watch?v=0sh-yrDIXjg) | YouTube | 2025-09-29 |
-| [SCTV Transcript, September 15, 2025](https://www.youtube.com/watch?v=uM83xB4H6Js) | YouTube | 2025-09-15 |
-| [SCTV Transcript, September 22, 2025](https://www.youtube.com/watch?v=DTBYbcp8ikw) | YouTube | 2025-09-22 |
-| [SCTV Transcript, September 29, 2025](https://www.youtube.com/watch?v=d0p_2w6S7W0&) | YouTube | 2025-09-29 |
-| [SCTV Transcript, September 8, 2025](https://www.youtube.com/watch?v=Qn6orn0BZ74) | YouTube | 2025-09-08 |
+| [SCTV Broadcast, October 6, 2025](https://www.youtube.com/watch?v=0sh-yrDIXjg) | YouTube | 2025-09-29 |
+| [SCTV Broadcast, September 15, 2025](https://www.youtube.com/watch?v=uM83xB4H6Js) | YouTube | 2025-09-15 |
+| [SCTV Broadcast, September 22, 2025](https://www.youtube.com/watch?v=DTBYbcp8ikw) | YouTube | 2025-09-22 |
+| [SCTV Broadcast, September 29, 2025](https://www.youtube.com/watch?v=d0p_2w6S7W0&) | YouTube | 2025-09-29 |
+| [SCTV Broadcast, September 8, 2025](https://www.youtube.com/watch?v=Qn6orn0BZ74) | YouTube | 2025-09-08 |
+| [SCTV Spotlight on Sports Broadcast, October, 2025](https://www.youtube.com/watch?v=5IBCgaF8rgM) | YouTube | 2025-09-29 |
 
 ### SunSations
 
@@ -129,7 +134,6 @@
 
 | Document | Source | Date Retrieved |
 |---|---|---|
-| []() | website | 2025-09-29 |
 | [About Sun City Hilton Head](https://suncityhiltonhead.org/page/46134~969098/About-Sun-City-Hilton-Head) | website | 2025-09-29 |
 | [Around the Lowcountry](https://suncityhiltonhead.org/page/46134~969049/Around-the-Lowcountry) | website | 2025-09-29 |
 | [Contact Us](https://suncityhiltonhead.org/page/46134~1059443/contact-us) | website | 2025-09-29 |

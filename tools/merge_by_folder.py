@@ -71,7 +71,6 @@ def merge_by_folder():
             for item in sorted(groups[group], key=lambda x: x['title']):
                 title = item.get('title', 'No Title')
                 url = item.get('url')
-                print(url)
                 source = item.get('source', '')
                 date_retrieved = item.get('retrieved', '')
                 # index.write(f"- [{title}]({url})\n")

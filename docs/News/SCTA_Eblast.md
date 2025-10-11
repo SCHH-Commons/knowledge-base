@@ -1,7 +1,7 @@
 
 <!--
 title: SCTA Eblast
-source: EMail
+source: Newsletter
 retrieved: 2025-09-23
 -->
 

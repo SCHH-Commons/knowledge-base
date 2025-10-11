@@ -1,9 +1,9 @@
----
-title: "Amenity_Locations (GeoJSON Export)"
-generated_at: 2025-09-28T19:29:52
-feature_count: 54
-schema: v1
----
+
+<!--
+title: Amenity Locations
+source: Constructed
+retrieved: 2025-10-10
+-->
 
 # Amenity\_Locations (GeoJSON Export)
 

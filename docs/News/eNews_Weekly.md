@@ -1,7 +1,7 @@
 
 <!--
 title: SCHH eNews Weekly
-source: EMail
+source: Newsletter
 retrieved: 2025-09-18
 -->
 

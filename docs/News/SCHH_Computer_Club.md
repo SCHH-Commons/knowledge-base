@@ -1,7 +1,7 @@
 
 <!--
-title: SCHH Computer Club: This Week
-source: Newsletter
+title: SCHH Computer Club
+source: Newsletters
 retrieved: 2025-09-21
 -->
 

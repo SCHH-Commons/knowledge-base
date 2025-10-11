@@ -100,7 +100,8 @@
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [Association Update](https://www.schh-commons.org/knowledge-base/docs/News/Association_Update) | Newsletter | 2025-09-23 |
-| [SCHH Computer Club: This Week](https://www.schh-commons.org/knowledge-base/docs/News/SCHH_Computer_Club) | Newsletter | 2025-09-21 |
+| [SCHH Computer Club](https://www.schh-commons.org/knowledge-base/docs/News/SCHH_Computer_Club) | Newsletters | 2025-09-21 |
+| [SCHH Pickleball Club](https://www.schh-commons.org/knowledge-base/docs/News/SCHH_Pickleball_Club) | Newsletters | 2025-09-21 |
 | [SCHH eNews Weekly](https://www.schh-commons.org/knowledge-base/docs/News/eNews_Weekly) | Newsletter | 2025-09-18 |
 | [SCHHCA Clubs and Groups eNewsletter](https://www.schh-commons.org/knowledge-base/docs/News/Clubs_and_Groups_Newsletter) | Newsletter | 2025-10-8 |
 | [SCTA Eblast](https://www.schh-commons.org/knowledge-base/docs/News/SCTA_Eblast) | Newsletter | 2025-09-23 |

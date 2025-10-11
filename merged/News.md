@@ -836,20 +836,6 @@ Closed for pool deck repairs.
 
 ---
 
-### Lakehouse Main Entrance and Lobby Closure
-**Type:** Facility Closure  
-**Date:** Ongoing  
-**Location:** Lakehouse main entrance and lobby  
-**Notes:**  
-- Renovations continue; main entrance and lobby remain closed.  
-- Alternate entry:  
-  - Outdoor pool gate (indoor pool, gym, locker rooms).  
-  - Entry doors closest to tennis courts (meeting rooms).  
-- Entrances do not have push-to-open handicap access.  
-- Thank you for your patience during renovations.  
-
----
-
 ### Common Area Treatment to Turf
 **Type:** Maintenance / Advisory  
 **Date Range:** September 2025  
@@ -882,17 +868,6 @@ Closed for pool deck repairs.
   - Story on Sun City’s first 100 residents.  
 
 ---
-
-### Lakehouse Main Entrance and Lobby Closure
-**Type:** Closure / Renovation  
-**Date Range:** Ongoing (September 2025)  
-**Location:** Lakehouse  
-**Notes:**  
-- Lobby and main entrance closed for renovations.  
-- Alternate entrances:  
-  - Outdoor pool gate → indoor pool, gym, locker rooms.  
-  - Doors near tennis courts → meeting rooms.  
-- Accessibility: Alternate entrances do **not** have push-to-open access.
 
 ---
 

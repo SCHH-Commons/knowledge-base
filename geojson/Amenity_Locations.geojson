@@ -918,6 +918,23 @@
         "type": "Point"
       },
       "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bull Hill Gate",
+        "description": "",
+        "address": ", Okatie, SC 29909",
+        "phone": "",
+        "category": "Gate",
+        "marker-symbol": "road-barrier",
+        "marker-color": "#6D4C41"
+      },
+      "geometry": {
+        "coordinates": [-80.95327699877635, 32.271372145262326],
+        "type": "Point"
+      },
+      "id": 55
     }
   ]
 }

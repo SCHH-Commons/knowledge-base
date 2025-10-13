@@ -1,7 +1,7 @@
 <!--
 title: Amenity Locations
 source: Constructed
-retrieved: 2025-10-10
+retrieved: 2025-10-12
 -->
 
 # Amenity\_Locations (GeoJSON Export)
@@ -184,6 +184,56 @@ source_index: 7
 - **Marker:** symbol `circle-dot`, color `#B71C1C`
 
 ---
+id: 54
+name: "Argent Blvd Bridge"
+category: "Bridge"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.316209920982
+  lon: -80.95842447799986
+marker:
+  symbol: "road"
+  color: "#666666"
+source_index: 8
+---
+
+## Argent Blvd Bridge
+
+- **Category:** Bridge
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.316210, -80.958424
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.316210,-80.958424) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.316210&mlon=-80.958424#map=17/32.316210/-80.958424)
+- **Marker:** symbol `road`, color `#666666`
+
+---
+id: 53
+name: "Millennium Bridge"
+category: "Bridge"
+address: ", Okatie, SC 29909"
+phone: null
+description: null
+geometry_type: "Point"
+coordinates:
+  lat: 32.29967238186035
+  lon: -80.95033678947077
+marker:
+  symbol: "road"
+  color: "#666666"
+source_index: 9
+---
+
+## Millennium Bridge
+
+- **Category:** Bridge
+- **Address:** , Okatie, SC 29909
+- **Coordinates:** 32.299672, -80.950337
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.299672,-80.950337) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299672&mlon=-80.950337#map=17/32.299672/-80.950337)
+- **Marker:** symbol `road`, color `#666666`
+
+---
 id: 44
 name: "Computer Club"
 category: "Computer"
@@ -197,7 +247,7 @@ coordinates:
 marker:
   symbol: "computer"
   color: "#3F51B5"
-source_index: 8
+source_index: 10
 ---
 
 ## Computer Club
@@ -222,7 +272,7 @@ coordinates:
 marker:
   symbol: "palette"
   color: "#D81B60"
-source_index: 9
+source_index: 11
 ---
 
 ## Yemassee Crafts Center
@@ -247,7 +297,7 @@ coordinates:
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 10
+source_index: 12
 ---
 
 ## Argent Lakes Pub & Pizzeria (AL's Pub)
@@ -272,7 +322,7 @@ coordinates:
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 11
+source_index: 13
 ---
 
 ## Jameson’s Charhouse
@@ -297,7 +347,7 @@ coordinates:
 marker:
   symbol: "utensils"
   color: "#E53935"
-source_index: 12
+source_index: 14
 ---
 
 ## The Clubhouse at Okatie Creek
@@ -322,7 +372,7 @@ coordinates:
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 13
+source_index: 15
 ---
 
 ## Argent Lakes Dog Park
@@ -347,7 +397,7 @@ coordinates:
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 14
+source_index: 16
 ---
 
 ## Red Dam Dog Park
@@ -372,7 +422,7 @@ coordinates:
 marker:
   symbol: "dog"
   color: "#F57C00"
-source_index: 15
+source_index: 17
 ---
 
 ## Sun City West Dog Park
@@ -397,7 +447,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 16
+source_index: 18
 ---
 
 ## Mulching Center
@@ -422,7 +472,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 17
+source_index: 19
 ---
 
 ## Okatie Farms Andover
@@ -447,7 +497,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 18
+source_index: 20
 ---
 
 ## Okatie Farms East
@@ -472,7 +522,7 @@ coordinates:
 marker:
   symbol: "leaf"
   color: "#388E3C"
-source_index: 19
+source_index: 21
 ---
 
 ## Okatie Farms West
@@ -484,29 +534,29 @@ source_index: 19
 - **Marker:** symbol `leaf`, color `#388E3C`
 
 ---
-id: 54
-name: "Argent Blvd Bridge"
+id: 55
+name: "Bull Hill Gate"
 category: "Gate"
 address: ", Okatie, SC 29909"
 phone: null
 description: null
 geometry_type: "Point"
 coordinates:
-  lat: 32.316209920982
-  lon: -80.95842447799986
+  lat: 32.271372145262326
+  lon: -80.95327699877635
 marker:
-  symbol: "road"
-  color: "#666666"
-source_index: 20
+  symbol: "road-barrier"
+  color: "#6D4C41"
+source_index: 22
 ---
 
-## Argent Blvd Bridge
+## Bull Hill Gate
 
 - **Category:** Gate
 - **Address:** , Okatie, SC 29909
-- **Coordinates:** 32.316210, -80.958424
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.316210,-80.958424) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.316210&mlon=-80.958424#map=17/32.316210/-80.958424)
-- **Marker:** symbol `road`, color `#666666`
+- **Coordinates:** 32.271372, -80.953277
+- **Map:** [Google Maps](https://www.google.com/maps?q=32.271372,-80.953277) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.271372&mlon=-80.953277#map=17/32.271372/-80.953277)
+- **Marker:** symbol `road-barrier`, color `#6D4C41`
 
 ---
 id: 51
@@ -522,7 +572,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 21
+source_index: 23
 ---
 
 ## Dreamscape Gate
@@ -547,7 +597,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 22
+source_index: 24
 ---
 
 ## Kings Creek Drive Gate
@@ -572,7 +622,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 23
+source_index: 25
 ---
 
 ## Lake Somerset Gate
@@ -597,7 +647,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 24
+source_index: 26
 ---
 
 ## Main Gate
@@ -607,31 +657,6 @@ source_index: 24
 - **Coordinates:** 32.299711, -80.956060
 - **Map:** [Google Maps](https://www.google.com/maps?q=32.299711,-80.956060) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299711&mlon=-80.956060#map=17/32.299711/-80.956060)
 - **Marker:** symbol `road-barrier`, color `#6D4C41`
-
----
-id: 53
-name: "Millennium Bridge"
-category: "Gate"
-address: ", Okatie, SC 29909"
-phone: null
-description: null
-geometry_type: "Point"
-coordinates:
-  lat: 32.29967238186035
-  lon: -80.95033678947077
-marker:
-  symbol: "road"
-  color: "#666666"
-source_index: 25
----
-
-## Millennium Bridge
-
-- **Category:** Gate
-- **Address:** , Okatie, SC 29909
-- **Coordinates:** 32.299672, -80.950337
-- **Map:** [Google Maps](https://www.google.com/maps?q=32.299672,-80.950337) · [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.299672&mlon=-80.950337#map=17/32.299672/-80.950337)
-- **Marker:** symbol `road`, color `#666666`
 
 ---
 id: 18
@@ -647,7 +672,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 26
+source_index: 27
 ---
 
 ## North Gate
@@ -672,7 +697,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 27
+source_index: 28
 ---
 
 ## Riverbend Gate
@@ -697,7 +722,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 28
+source_index: 29
 ---
 
 ## Sgt. WilliamJasper Gate
@@ -722,7 +747,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 29
+source_index: 30
 ---
 
 ## Sun City West Gate
@@ -747,7 +772,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 30
+source_index: 31
 ---
 
 ## Sundance Drive Gate
@@ -772,7 +797,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 31
+source_index: 32
 ---
 
 ## Tidewatch Drive Gate
@@ -797,7 +822,7 @@ coordinates:
 marker:
   symbol: "road-barrier"
   color: "#6D4C41"
-source_index: 32
+source_index: 33
 ---
 
 ## William Pope Drive Gate
@@ -822,7 +847,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 33
+source_index: 34
 ---
 
 ## Argent Lakes Golf Clubhouse
@@ -847,7 +872,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 34
+source_index: 35
 ---
 
 ## Hidden Cypress Golf Clubhouse
@@ -872,7 +897,7 @@ coordinates:
 marker:
   symbol: "flag"
   color: "#2E7D32"
-source_index: 35
+source_index: 36
 ---
 
 ## Okatie Creek Golf Clubhouse
@@ -897,7 +922,7 @@ coordinates:
 marker:
   symbol: "water"
   color: "#0288D1"
-source_index: 36
+source_index: 37
 ---
 
 ## Lake Somerset
@@ -922,7 +947,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#FFB300"
-source_index: 37
+source_index: 38
 ---
 
 ## Lakehouse Pickleball Courts
@@ -947,7 +972,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#FFB300"
-source_index: 38
+source_index: 39
 ---
 
 ## New River Sports Park Pickleball Courts
@@ -972,7 +997,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 39
+source_index: 40
 ---
 
 ## Barataria Outdoor Pool
@@ -997,7 +1022,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 40
+source_index: 41
 ---
 
 ## Hidden Cypress Outdoor Pool
@@ -1022,7 +1047,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 41
+source_index: 42
 ---
 
 ## Lakehouse Outdoor Pool
@@ -1047,7 +1072,7 @@ coordinates:
 marker:
   symbol: "person-swimming"
   color: "#0288D1"
-source_index: 42
+source_index: 43
 ---
 
 ## Riverbend Outdoor Pool
@@ -1072,7 +1097,7 @@ coordinates:
 marker:
   symbol: "caravan"
   color: "#1E88E5"
-source_index: 43
+source_index: 44
 ---
 
 ## Boat and RV Park/Campsite
@@ -1097,7 +1122,7 @@ coordinates:
 marker:
   symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 44
+source_index: 45
 ---
 
 ## Magnolia Hall
@@ -1122,7 +1147,7 @@ coordinates:
 marker:
   symbol: "person-hiking"
   color: "#1E88E5"
-source_index: 45
+source_index: 46
 ---
 
 ## Nature Trail
@@ -1147,7 +1172,7 @@ coordinates:
 marker:
   symbol: "baseball-bat-ball"
   color: "#1E88E5"
-source_index: 46
+source_index: 47
 ---
 
 ## New River Sports Park
@@ -1172,7 +1197,7 @@ coordinates:
 marker:
   symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 47
+source_index: 48
 ---
 
 ## Pavilion
@@ -1197,7 +1222,7 @@ coordinates:
 marker:
   symbol: "masks-theater"
   color: "#1E88E5"
-source_index: 48
+source_index: 49
 ---
 
 ## Pinckney Hall
@@ -1222,7 +1247,7 @@ coordinates:
 marker:
   symbol: "baseball-ball"
   color: "#FDD835"
-source_index: 49
+source_index: 50
 ---
 
 ## Veterans Memorial Field
@@ -1247,7 +1272,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 50
+source_index: 51
 ---
 
 ## Lakehouse Tennis Courts
@@ -1272,7 +1297,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 51
+source_index: 52
 ---
 
 ## Logo Building
@@ -1297,7 +1322,7 @@ coordinates:
 marker:
   symbol: "table-tennis-paddle-ball"
   color: "#43A047"
-source_index: 52
+source_index: 53
 ---
 
 ## Town Square Tennis Courts
@@ -1322,7 +1347,7 @@ coordinates:
 marker:
   symbol: "volleyball-ball"
   color: "#039BE5"
-source_index: 53
+source_index: 54
 ---
 
 ## Volleyball Court
@@ -1347,7 +1372,7 @@ coordinates:
 marker:
   symbol: "hammer"
   color: "#795548"
-source_index: 54
+source_index: 55
 ---
 
 ## Woodworkers' Shop

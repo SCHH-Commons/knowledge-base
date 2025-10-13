@@ -54,6 +54,7 @@
 | [30 Years of History](https://view.publitas.com/d9718a7d-1ef1-4cf0-afe8-ec4e78d0bea0/30-years-of-history/page/1) | Website | 2025-09-28 |
 | [Amenity Locations](https://www.schh-commons.org/knowledge-base/docs/General/Amenities) | Constructed | 2025-10-12 |
 | [BJWSA Presentation, April 2024](https://www.schh-commons.org/knowledge-base/docs/General/BJWSA_presentation_April_2024) | SC West TeamReach Library | 2025-10-10 |
+| [BOD Updates](https://suncityhiltonhead.org/page/46134~971052/Board-Board-Appointed-Committees) | Website | 2025-10-13 |
 | [Bocce Rules, Sept 2024](https://www.schh-commons.org/knowledge-base/docs/General/BocceRulesSept20242) | SC West TeamReach Library | 2025-10-10 |
 | [Important Contact Information](https://www.schh-commons.org/knowledge-base/docs/General/SCHHCA_Important_Contact_Information) | SC West TeamReach Library | 2025-10-10 |
 | [News Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources) | Website |  |
@@ -107,6 +108,12 @@
 | [SCHHCA Clubs and Groups eNewsletter](https://www.schh-commons.org/knowledge-base/docs/News/Clubs_and_Groups_Newsletter) | Newsletter | 2025-10-8 |
 | [SCTA Eblast](https://www.schh-commons.org/knowledge-base/docs/News/SCTA_Eblast) | Newsletter | 2025-09-23 |
 | [The Week Ahead](https://www.schh-commons.org/knowledge-base/docs/News/The_Week_Ahead) | Newsletter | 2025-10-13 |
+
+### Resident Contributions
+
+| Document | Source | Date Retrieved |
+|---|---|---|
+| [Resident Contributions](https://www.schh-commons.org/knowledge-base/docs/Resident_Contributions/contributions) | Various |  |
 
 ### SCTV
 

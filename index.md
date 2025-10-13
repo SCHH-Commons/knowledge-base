@@ -46,6 +46,7 @@
 | Document | Source | Date Retrieved |
 |---|---|---|
 | [SCHH Events Calendar](https://suncityhiltonhead.org/HOA/assn46134/images/eHappenings_OCT_NOV_2025.pdf) | Website |  |
+| [SCHH Fitness Schedule](https://suncityhiltonhead.org/HOA/assn46134/images/October2025FitnessSchedule.pdf) | Website |  |
 
 ### General
 

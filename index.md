@@ -57,6 +57,7 @@
 | [BJWSA Presentation, April 2024](https://www.schh-commons.org/knowledge-base/docs/General/BJWSA_presentation_April_2024) | SC West TeamReach Library | 2025-10-10 |
 | [BOD Updates](https://suncityhiltonhead.org/page/46134~971052/Board-Board-Appointed-Committees) | Website | 2025-10-13 |
 | [Bocce Rules, Sept 2024](https://www.schh-commons.org/knowledge-base/docs/General/BocceRulesSept20242) | SC West TeamReach Library | 2025-10-10 |
+| [Golf Course Nature Tours](https://www.schhgolfclub.com/nature-tours) | Website | 2025-10-14 |
 | [Important Contact Information](https://www.schh-commons.org/knowledge-base/docs/General/SCHHCA_Important_Contact_Information) | SC West TeamReach Library | 2025-10-10 |
 | [News Sources](https://suncityhiltonhead.org/Page/46134~1003945/News-Sources) | Website |  |
 | [Sun City West NR FAQ](https://www.schh-commons.org/knowledge-base/docs/General/SCW_NR_FAQ) | Constructed | 2025-10-11 |
